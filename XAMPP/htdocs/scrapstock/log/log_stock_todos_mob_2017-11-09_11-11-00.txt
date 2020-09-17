@@ -1,0 +1,5 @@
+CONSULTA DE STOCK DE TODOS LOS ARTÍCULOS DE MOB:
+Proceso iniciado el 2017-11-09, a las 11:11:00
+***************************************************************************
+
+Ref:  / Inicio: 2017-11-09 - 11:11:00 / Fin: 2017-11-09 - 11:11:00 / OK

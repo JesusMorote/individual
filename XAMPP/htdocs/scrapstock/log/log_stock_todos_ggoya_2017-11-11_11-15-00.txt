@@ -1,0 +1,503 @@
+CONSULTA DE STOCK DE TODOS LOS ARTÍCULOS DE GGOYA:
+Proceso iniciado el 2017-11-11, a las 11:15:00
+***************************************************************************
+
+#### ERROR al procesar la ref.37025 - 37025 (GGOYA)
+Ref: 37025 / Inicio: 2017-11-11 - 11:15:00 / Fin: 2017-11-11 - 11:15:00 / ERROR
+#### ERROR al procesar la ref.37026 - 37026 (GGOYA)
+Ref: 37026 / Inicio: 2017-11-11 - 11:15:00 / Fin: 2017-11-11 - 11:15:00 / ERROR
+#### ERROR al procesar la ref.37027 - 37027 (GGOYA)
+Ref: 37027 / Inicio: 2017-11-11 - 11:15:00 / Fin: 2017-11-11 - 11:15:00 / ERROR
+#### ERROR al procesar la ref.37028 - 37028 (GGOYA)
+Ref: 37028 / Inicio: 2017-11-11 - 11:15:00 / Fin: 2017-11-11 - 11:15:00 / ERROR
+#### ERROR al procesar la ref.37029 - 37029 (GGOYA)
+Ref: 37029 / Inicio: 2017-11-11 - 11:15:00 / Fin: 2017-11-11 - 11:15:00 / ERROR
+#### ERROR al procesar la ref.37030 - 37030 (GGOYA)
+Ref: 37030 / Inicio: 2017-11-11 - 11:15:00 / Fin: 2017-11-11 - 11:15:01 / ERROR
+#### ERROR al procesar la ref.37031 - 37031 (GGOYA)
+Ref: 37031 / Inicio: 2017-11-11 - 11:15:01 / Fin: 2017-11-11 - 11:15:01 / ERROR
+#### ERROR al procesar la ref.37032 - 37032 (GGOYA)
+Ref: 37032 / Inicio: 2017-11-11 - 11:15:01 / Fin: 2017-11-11 - 11:15:01 / ERROR
+#### ERROR al procesar la ref.37033 - 37033 (GGOYA)
+Ref: 37033 / Inicio: 2017-11-11 - 11:15:01 / Fin: 2017-11-11 - 11:15:01 / ERROR
+#### ERROR al procesar la ref.37034 - 37034 (GGOYA)
+Ref: 37034 / Inicio: 2017-11-11 - 11:15:01 / Fin: 2017-11-11 - 11:15:01 / ERROR
+#### ERROR al procesar la ref.37035 - 37035 (GGOYA)
+Ref: 37035 / Inicio: 2017-11-11 - 11:15:01 / Fin: 2017-11-11 - 11:15:01 / ERROR
+#### ERROR al procesar la ref.37036 - 37036 (GGOYA)
+Ref: 37036 / Inicio: 2017-11-11 - 11:15:01 / Fin: 2017-11-11 - 11:15:01 / ERROR
+#### ERROR al procesar la ref.37037 - 37037 (GGOYA)
+Ref: 37037 / Inicio: 2017-11-11 - 11:15:01 / Fin: 2017-11-11 - 11:15:01 / ERROR
+#### ERROR al procesar la ref.37038 - 37038 (GGOYA)
+Ref: 37038 / Inicio: 2017-11-11 - 11:15:01 / Fin: 2017-11-11 - 11:15:01 / ERROR
+#### ERROR al procesar la ref.37039 - 37039 (GGOYA)
+Ref: 37039 / Inicio: 2017-11-11 - 11:15:01 / Fin: 2017-11-11 - 11:15:01 / ERROR
+#### ERROR al procesar la ref.37040 - 37040 (GGOYA)
+Ref: 37040 / Inicio: 2017-11-11 - 11:15:01 / Fin: 2017-11-11 - 11:15:01 / ERROR
+#### ERROR al procesar la ref.37041 - 37041 (GGOYA)
+Ref: 37041 / Inicio: 2017-11-11 - 11:15:01 / Fin: 2017-11-11 - 11:15:01 / ERROR
+#### ERROR al procesar la ref.37042 - 37042 (GGOYA)
+Ref: 37042 / Inicio: 2017-11-11 - 11:15:01 / Fin: 2017-11-11 - 11:15:01 / ERROR
+#### ERROR al procesar la ref.37043 - 37043 (GGOYA)
+Ref: 37043 / Inicio: 2017-11-11 - 11:15:01 / Fin: 2017-11-11 - 11:15:01 / ERROR
+#### ERROR al procesar la ref.37044 - 37044 (GGOYA)
+Ref: 37044 / Inicio: 2017-11-11 - 11:15:01 / Fin: 2017-11-11 - 11:15:01 / ERROR
+#### ERROR al procesar la ref.37045 - 37045 (GGOYA)
+Ref: 37045 / Inicio: 2017-11-11 - 11:15:01 / Fin: 2017-11-11 - 11:15:01 / ERROR
+#### ERROR al procesar la ref.37046 - 37046 (GGOYA)
+Ref: 37046 / Inicio: 2017-11-11 - 11:15:01 / Fin: 2017-11-11 - 11:15:01 / ERROR
+#### ERROR al procesar la ref.37047 - 37047 (GGOYA)
+Ref: 37047 / Inicio: 2017-11-11 - 11:15:01 / Fin: 2017-11-11 - 11:15:01 / ERROR
+#### ERROR al procesar la ref.37048 - 37048 (GGOYA)
+Ref: 37048 / Inicio: 2017-11-11 - 11:15:01 / Fin: 2017-11-11 - 11:15:01 / ERROR
+#### ERROR al procesar la ref.37049 - 37049 (GGOYA)
+Ref: 37049 / Inicio: 2017-11-11 - 11:15:01 / Fin: 2017-11-11 - 11:15:01 / ERROR
+#### ERROR al procesar la ref.37050 - 37050 (GGOYA)
+Ref: 37050 / Inicio: 2017-11-11 - 11:15:01 / Fin: 2017-11-11 - 11:15:01 / ERROR
+#### ERROR al procesar la ref.37051 - 37051 (GGOYA)
+Ref: 37051 / Inicio: 2017-11-11 - 11:15:01 / Fin: 2017-11-11 - 11:15:01 / ERROR
+#### ERROR al procesar la ref.37052 - 37052 (GGOYA)
+Ref: 37052 / Inicio: 2017-11-11 - 11:15:01 / Fin: 2017-11-11 - 11:15:01 / ERROR
+#### ERROR al procesar la ref.37053 - 37053 (GGOYA)
+Ref: 37053 / Inicio: 2017-11-11 - 11:15:01 / Fin: 2017-11-11 - 11:15:01 / ERROR
+#### ERROR al procesar la ref.37054 - 37054 (GGOYA)
+Ref: 37054 / Inicio: 2017-11-11 - 11:15:01 / Fin: 2017-11-11 - 11:15:01 / ERROR
+#### ERROR al procesar la ref.37055 - 37055 (GGOYA)
+Ref: 37055 / Inicio: 2017-11-11 - 11:15:01 / Fin: 2017-11-11 - 11:15:01 / ERROR
+#### ERROR al procesar la ref.37056 - 37056 (GGOYA)
+Ref: 37056 / Inicio: 2017-11-11 - 11:15:01 / Fin: 2017-11-11 - 11:15:01 / ERROR
+#### ERROR al procesar la ref.37057 - 37057 (GGOYA)
+Ref: 37057 / Inicio: 2017-11-11 - 11:15:01 / Fin: 2017-11-11 - 11:15:01 / ERROR
+#### ERROR al procesar la ref.37058 - 37058 (GGOYA)
+Ref: 37058 / Inicio: 2017-11-11 - 11:15:01 / Fin: 2017-11-11 - 11:15:01 / ERROR
+#### ERROR al procesar la ref.37059 - 37059 (GGOYA)
+Ref: 37059 / Inicio: 2017-11-11 - 11:15:01 / Fin: 2017-11-11 - 11:15:01 / ERROR
+#### ERROR al procesar la ref.37060 - 37060 (GGOYA)
+Ref: 37060 / Inicio: 2017-11-11 - 11:15:01 / Fin: 2017-11-11 - 11:15:01 / ERROR
+#### ERROR al procesar la ref.37061 - 37061 (GGOYA)
+Ref: 37061 / Inicio: 2017-11-11 - 11:15:01 / Fin: 2017-11-11 - 11:15:01 / ERROR
+#### ERROR al procesar la ref.37062 - 37062 (GGOYA)
+Ref: 37062 / Inicio: 2017-11-11 - 11:15:01 / Fin: 2017-11-11 - 11:15:02 / ERROR
+#### ERROR al procesar la ref.37063 - 37063 (GGOYA)
+Ref: 37063 / Inicio: 2017-11-11 - 11:15:02 / Fin: 2017-11-11 - 11:15:02 / ERROR
+#### ERROR al procesar la ref.37064 - 37064 (GGOYA)
+Ref: 37064 / Inicio: 2017-11-11 - 11:15:02 / Fin: 2017-11-11 - 11:15:02 / ERROR
+#### ERROR al procesar la ref.37065 - 37065 (GGOYA)
+Ref: 37065 / Inicio: 2017-11-11 - 11:15:02 / Fin: 2017-11-11 - 11:15:02 / ERROR
+#### ERROR al procesar la ref.37066 - 37066 (GGOYA)
+Ref: 37066 / Inicio: 2017-11-11 - 11:15:02 / Fin: 2017-11-11 - 11:15:02 / ERROR
+#### ERROR al procesar la ref.37067 - 37067 (GGOYA)
+Ref: 37067 / Inicio: 2017-11-11 - 11:15:02 / Fin: 2017-11-11 - 11:15:02 / ERROR
+#### ERROR al procesar la ref.37068 - 37068 (GGOYA)
+Ref: 37068 / Inicio: 2017-11-11 - 11:15:02 / Fin: 2017-11-11 - 11:15:02 / ERROR
+#### ERROR al procesar la ref.37069 - 37069 (GGOYA)
+Ref: 37069 / Inicio: 2017-11-11 - 11:15:02 / Fin: 2017-11-11 - 11:15:02 / ERROR
+#### ERROR al procesar la ref.37070 - 37070 (GGOYA)
+Ref: 37070 / Inicio: 2017-11-11 - 11:15:02 / Fin: 2017-11-11 - 11:15:02 / ERROR
+#### ERROR al procesar la ref.37071 - 37071 (GGOYA)
+Ref: 37071 / Inicio: 2017-11-11 - 11:15:02 / Fin: 2017-11-11 - 11:15:02 / ERROR
+#### ERROR al procesar la ref.37072 - 37072 (GGOYA)
+Ref: 37072 / Inicio: 2017-11-11 - 11:15:02 / Fin: 2017-11-11 - 11:15:02 / ERROR
+#### ERROR al procesar la ref.37073 - 37073 (GGOYA)
+Ref: 37073 / Inicio: 2017-11-11 - 11:15:02 / Fin: 2017-11-11 - 11:15:02 / ERROR
+#### ERROR al procesar la ref.37074 - 37074 (GGOYA)
+Ref: 37074 / Inicio: 2017-11-11 - 11:15:02 / Fin: 2017-11-11 - 11:15:02 / ERROR
+#### ERROR al procesar la ref.37075 - 37075 (GGOYA)
+Ref: 37075 / Inicio: 2017-11-11 - 11:15:02 / Fin: 2017-11-11 - 11:15:02 / ERROR
+#### ERROR al procesar la ref.37076 - 37076 (GGOYA)
+Ref: 37076 / Inicio: 2017-11-11 - 11:15:02 / Fin: 2017-11-11 - 11:15:02 / ERROR
+#### ERROR al procesar la ref.37077 - 37077 (GGOYA)
+Ref: 37077 / Inicio: 2017-11-11 - 11:15:02 / Fin: 2017-11-11 - 11:15:02 / ERROR
+#### ERROR al procesar la ref.37078 - 37078 (GGOYA)
+Ref: 37078 / Inicio: 2017-11-11 - 11:15:02 / Fin: 2017-11-11 - 11:15:02 / ERROR
+#### ERROR al procesar la ref.37079 - 37079 (GGOYA)
+Ref: 37079 / Inicio: 2017-11-11 - 11:15:02 / Fin: 2017-11-11 - 11:15:02 / ERROR
+#### ERROR al procesar la ref.37080 - 37080 (GGOYA)
+Ref: 37080 / Inicio: 2017-11-11 - 11:15:02 / Fin: 2017-11-11 - 11:15:02 / ERROR
+#### ERROR al procesar la ref.37081 - 37081 (GGOYA)
+Ref: 37081 / Inicio: 2017-11-11 - 11:15:02 / Fin: 2017-11-11 - 11:15:02 / ERROR
+#### ERROR al procesar la ref.37082 - 37082 (GGOYA)
+Ref: 37082 / Inicio: 2017-11-11 - 11:15:02 / Fin: 2017-11-11 - 11:15:02 / ERROR
+#### ERROR al procesar la ref.37083 - 37083 (GGOYA)
+Ref: 37083 / Inicio: 2017-11-11 - 11:15:02 / Fin: 2017-11-11 - 11:15:02 / ERROR
+#### ERROR al procesar la ref.37084 - 37084 (GGOYA)
+Ref: 37084 / Inicio: 2017-11-11 - 11:15:02 / Fin: 2017-11-11 - 11:15:02 / ERROR
+#### ERROR al procesar la ref.37085 - 37085 (GGOYA)
+Ref: 37085 / Inicio: 2017-11-11 - 11:15:02 / Fin: 2017-11-11 - 11:15:02 / ERROR
+#### ERROR al procesar la ref.37086 - 37086 (GGOYA)
+Ref: 37086 / Inicio: 2017-11-11 - 11:15:02 / Fin: 2017-11-11 - 11:15:02 / ERROR
+#### ERROR al procesar la ref.37087 - 37087 (GGOYA)
+Ref: 37087 / Inicio: 2017-11-11 - 11:15:02 / Fin: 2017-11-11 - 11:15:02 / ERROR
+#### ERROR al procesar la ref.37088 - 37088 (GGOYA)
+Ref: 37088 / Inicio: 2017-11-11 - 11:15:02 / Fin: 2017-11-11 - 11:15:02 / ERROR
+#### ERROR al procesar la ref.37089 - 37089 (GGOYA)
+Ref: 37089 / Inicio: 2017-11-11 - 11:15:02 / Fin: 2017-11-11 - 11:15:02 / ERROR
+#### ERROR al procesar la ref.37090 - 37090 (GGOYA)
+Ref: 37090 / Inicio: 2017-11-11 - 11:15:02 / Fin: 2017-11-11 - 11:15:02 / ERROR
+#### ERROR al procesar la ref.37091 - 37091 (GGOYA)
+Ref: 37091 / Inicio: 2017-11-11 - 11:15:02 / Fin: 2017-11-11 - 11:15:02 / ERROR
+#### ERROR al procesar la ref.37092 - 37092 (GGOYA)
+Ref: 37092 / Inicio: 2017-11-11 - 11:15:02 / Fin: 2017-11-11 - 11:15:02 / ERROR
+#### ERROR al procesar la ref.37500 - 37500 (GGOYA)
+Ref: 37500 / Inicio: 2017-11-11 - 11:15:02 / Fin: 2017-11-11 - 11:15:02 / ERROR
+#### ERROR al procesar la ref.37501 - 37501 (GGOYA)
+Ref: 37501 / Inicio: 2017-11-11 - 11:15:02 / Fin: 2017-11-11 - 11:15:03 / ERROR
+#### ERROR al procesar la ref.37502 - 37502 (GGOYA)
+Ref: 37502 / Inicio: 2017-11-11 - 11:15:03 / Fin: 2017-11-11 - 11:15:03 / ERROR
+#### ERROR al procesar la ref.37503 - 37503 (GGOYA)
+Ref: 37503 / Inicio: 2017-11-11 - 11:15:03 / Fin: 2017-11-11 - 11:15:03 / ERROR
+#### ERROR al procesar la ref.37504 - 37504 (GGOYA)
+Ref: 37504 / Inicio: 2017-11-11 - 11:15:03 / Fin: 2017-11-11 - 11:15:03 / ERROR
+#### ERROR al procesar la ref.37505 - 37505 (GGOYA)
+Ref: 37505 / Inicio: 2017-11-11 - 11:15:03 / Fin: 2017-11-11 - 11:15:03 / ERROR
+#### ERROR al procesar la ref.37506 - 37506 (GGOYA)
+Ref: 37506 / Inicio: 2017-11-11 - 11:15:03 / Fin: 2017-11-11 - 11:15:03 / ERROR
+#### ERROR al procesar la ref.37507 - 37507 (GGOYA)
+Ref: 37507 / Inicio: 2017-11-11 - 11:15:03 / Fin: 2017-11-11 - 11:15:03 / ERROR
+#### ERROR al procesar la ref.37508 - 37508 (GGOYA)
+Ref: 37508 / Inicio: 2017-11-11 - 11:15:03 / Fin: 2017-11-11 - 11:15:03 / ERROR
+#### ERROR al procesar la ref.37509 - 37509 (GGOYA)
+Ref: 37509 / Inicio: 2017-11-11 - 11:15:03 / Fin: 2017-11-11 - 11:15:03 / ERROR
+#### ERROR al procesar la ref.37510 - 37510 (GGOYA)
+Ref: 37510 / Inicio: 2017-11-11 - 11:15:03 / Fin: 2017-11-11 - 11:15:03 / ERROR
+#### ERROR al procesar la ref.37511 - 37511 (GGOYA)
+Ref: 37511 / Inicio: 2017-11-11 - 11:15:03 / Fin: 2017-11-11 - 11:15:03 / ERROR
+#### ERROR al procesar la ref.37512 - 37512 (GGOYA)
+Ref: 37512 / Inicio: 2017-11-11 - 11:15:03 / Fin: 2017-11-11 - 11:15:03 / ERROR
+#### ERROR al procesar la ref.37513 - 37513 (GGOYA)
+Ref: 37513 / Inicio: 2017-11-11 - 11:15:03 / Fin: 2017-11-11 - 11:15:03 / ERROR
+#### ERROR al procesar la ref.37514 - 37514 (GGOYA)
+Ref: 37514 / Inicio: 2017-11-11 - 11:15:03 / Fin: 2017-11-11 - 11:15:03 / ERROR
+#### ERROR al procesar la ref.37515 - 37515 (GGOYA)
+Ref: 37515 / Inicio: 2017-11-11 - 11:15:03 / Fin: 2017-11-11 - 11:15:03 / ERROR
+#### ERROR al procesar la ref.37516 - 37516 (GGOYA)
+Ref: 37516 / Inicio: 2017-11-11 - 11:15:03 / Fin: 2017-11-11 - 11:15:03 / ERROR
+#### ERROR al procesar la ref.37517 - 37517 (GGOYA)
+Ref: 37517 / Inicio: 2017-11-11 - 11:15:03 / Fin: 2017-11-11 - 11:15:03 / ERROR
+#### ERROR al procesar la ref.37518 - 37518 (GGOYA)
+Ref: 37518 / Inicio: 2017-11-11 - 11:15:03 / Fin: 2017-11-11 - 11:15:03 / ERROR
+#### ERROR al procesar la ref.37519 - 37519 (GGOYA)
+Ref: 37519 / Inicio: 2017-11-11 - 11:15:03 / Fin: 2017-11-11 - 11:15:03 / ERROR
+#### ERROR al procesar la ref.37520 - 37520 (GGOYA)
+Ref: 37520 / Inicio: 2017-11-11 - 11:15:03 / Fin: 2017-11-11 - 11:15:03 / ERROR
+#### ERROR al procesar la ref.37521 - 37521 (GGOYA)
+Ref: 37521 / Inicio: 2017-11-11 - 11:15:03 / Fin: 2017-11-11 - 11:15:03 / ERROR
+#### ERROR al procesar la ref.37522 - 37522 (GGOYA)
+Ref: 37522 / Inicio: 2017-11-11 - 11:15:03 / Fin: 2017-11-11 - 11:15:03 / ERROR
+#### ERROR al procesar la ref.37523 - 37523 (GGOYA)
+Ref: 37523 / Inicio: 2017-11-11 - 11:15:03 / Fin: 2017-11-11 - 11:15:03 / ERROR
+#### ERROR al procesar la ref.37524 - 37524 (GGOYA)
+Ref: 37524 / Inicio: 2017-11-11 - 11:15:03 / Fin: 2017-11-11 - 11:15:03 / ERROR
+#### ERROR al procesar la ref.37525 - 37525 (GGOYA)
+Ref: 37525 / Inicio: 2017-11-11 - 11:15:03 / Fin: 2017-11-11 - 11:15:03 / ERROR
+#### ERROR al procesar la ref.37526 - 37526 (GGOYA)
+Ref: 37526 / Inicio: 2017-11-11 - 11:15:03 / Fin: 2017-11-11 - 11:15:03 / ERROR
+#### ERROR al procesar la ref.37527 - 37527 (GGOYA)
+Ref: 37527 / Inicio: 2017-11-11 - 11:15:03 / Fin: 2017-11-11 - 11:15:03 / ERROR
+#### ERROR al procesar la ref.37528 - 37528 (GGOYA)
+Ref: 37528 / Inicio: 2017-11-11 - 11:15:03 / Fin: 2017-11-11 - 11:15:03 / ERROR
+#### ERROR al procesar la ref.37529 - 37529 (GGOYA)
+Ref: 37529 / Inicio: 2017-11-11 - 11:15:03 / Fin: 2017-11-11 - 11:15:03 / ERROR
+#### ERROR al procesar la ref.37530 - 37530 (GGOYA)
+Ref: 37530 / Inicio: 2017-11-11 - 11:15:03 / Fin: 2017-11-11 - 11:15:03 / ERROR
+#### ERROR al procesar la ref.37531 - 37531 (GGOYA)
+Ref: 37531 / Inicio: 2017-11-11 - 11:15:03 / Fin: 2017-11-11 - 11:15:03 / ERROR
+#### ERROR al procesar la ref.37532 - 37532 (GGOYA)
+Ref: 37532 / Inicio: 2017-11-11 - 11:15:03 / Fin: 2017-11-11 - 11:15:03 / ERROR
+#### ERROR al procesar la ref.37533 - 37533 (GGOYA)
+Ref: 37533 / Inicio: 2017-11-11 - 11:15:03 / Fin: 2017-11-11 - 11:15:03 / ERROR
+#### ERROR al procesar la ref.37534 - 37534 (GGOYA)
+Ref: 37534 / Inicio: 2017-11-11 - 11:15:03 / Fin: 2017-11-11 - 11:15:03 / ERROR
+#### ERROR al procesar la ref.37537 - 37537 (GGOYA)
+Ref: 37537 / Inicio: 2017-11-11 - 11:15:03 / Fin: 2017-11-11 - 11:15:04 / ERROR
+#### ERROR al procesar la ref.37538 - 37538 (GGOYA)
+Ref: 37538 / Inicio: 2017-11-11 - 11:15:04 / Fin: 2017-11-11 - 11:15:04 / ERROR
+#### ERROR al procesar la ref.37539 - 37539 (GGOYA)
+Ref: 37539 / Inicio: 2017-11-11 - 11:15:04 / Fin: 2017-11-11 - 11:15:04 / ERROR
+#### ERROR al procesar la ref.37539PH - 37539PH (GGOYA)
+Ref: 37539PH / Inicio: 2017-11-11 - 11:15:04 / Fin: 2017-11-11 - 11:15:04 / ERROR
+#### ERROR al procesar la ref.37540 - 37540 (GGOYA)
+Ref: 37540 / Inicio: 2017-11-11 - 11:15:04 / Fin: 2017-11-11 - 11:15:04 / ERROR
+#### ERROR al procesar la ref.37540PH - 37540PH (GGOYA)
+Ref: 37540PH / Inicio: 2017-11-11 - 11:15:04 / Fin: 2017-11-11 - 11:15:04 / ERROR
+#### ERROR al procesar la ref.37541 - 37541 (GGOYA)
+Ref: 37541 / Inicio: 2017-11-11 - 11:15:04 / Fin: 2017-11-11 - 11:15:04 / ERROR
+#### ERROR al procesar la ref.904 - 904 (GGOYA)
+Ref: 904 / Inicio: 2017-11-11 - 11:15:04 / Fin: 2017-11-11 - 11:15:04 / ERROR
+#### ERROR al procesar la ref.922 - 922 (GGOYA)
+Ref: 922 / Inicio: 2017-11-11 - 11:15:04 / Fin: 2017-11-11 - 11:15:04 / ERROR
+#### ERROR al procesar la ref.97119 - 97119 (GGOYA)
+Ref: 97119 / Inicio: 2017-11-11 - 11:15:04 / Fin: 2017-11-11 - 11:15:04 / ERROR
+#### ERROR al procesar la ref.98006 - 98006 (GGOYA)
+Ref: 98006 / Inicio: 2017-11-11 - 11:15:04 / Fin: 2017-11-11 - 11:15:04 / ERROR
+#### ERROR al procesar la ref.98072 - 98072 (GGOYA)
+Ref: 98072 / Inicio: 2017-11-11 - 11:15:04 / Fin: 2017-11-11 - 11:15:04 / ERROR
+#### ERROR al procesar la ref.99098 - 99098 (GGOYA)
+Ref: 99098 / Inicio: 2017-11-11 - 11:15:04 / Fin: 2017-11-11 - 11:15:04 / ERROR
+#### ERROR al procesar la ref.99143 - 99143 (GGOYA)
+Ref: 99143 / Inicio: 2017-11-11 - 11:15:04 / Fin: 2017-11-11 - 11:15:04 / ERROR
+#### ERROR al procesar la ref.C24130L - C24130L (GGOYA)
+Ref: C24130L / Inicio: 2017-11-11 - 11:15:04 / Fin: 2017-11-11 - 11:15:04 / ERROR
+#### ERROR al procesar la ref.C64 - C64 (GGOYA)
+Ref: C64 / Inicio: 2017-11-11 - 11:15:04 / Fin: 2017-11-11 - 11:15:04 / ERROR
+#### ERROR al procesar la ref.EUROPA - EUROPA (GGOYA)
+Ref: EUROPA / Inicio: 2017-11-11 - 11:15:04 / Fin: 2017-11-11 - 11:15:04 / ERROR
+#### ERROR al procesar la ref.UM4 - UM4 (GGOYA)
+Ref: UM4 / Inicio: 2017-11-11 - 11:15:04 / Fin: 2017-11-11 - 11:15:04 / ERROR
+
+***************************************************************************
+CONSULTA DE STOCK DE TODOS LOS ARTÍCULOS DE GGOYA:
+Proceso finalizado el 2017-11-11, a las 11:15:04
+
+CONSULTA DE STOCK DE TODOS LOS ARTÍCULOS DE GGOYA:
+Referencias de las que no se ha podido obtener stock de competidores por Errores de Proceso
+Resultados del Segundo Intento
+Proceso iniciado el 2017-11-11, a las 11:15:04
+***************************************************************************
+
+#### ERROR al procesar la ref.37025 - 37025 (GGOYA)
+Ref: 37025 / Inicio: 2017-11-11 - 11:15:04 / Fin: 2017-11-11 - 11:15:04 / ERROR
+#### ERROR al procesar la ref.37026 - 37026 (GGOYA)
+Ref: 37026 / Inicio: 2017-11-11 - 11:15:04 / Fin: 2017-11-11 - 11:15:04 / ERROR
+#### ERROR al procesar la ref.37027 - 37027 (GGOYA)
+Ref: 37027 / Inicio: 2017-11-11 - 11:15:04 / Fin: 2017-11-11 - 11:15:04 / ERROR
+#### ERROR al procesar la ref.37028 - 37028 (GGOYA)
+Ref: 37028 / Inicio: 2017-11-11 - 11:15:04 / Fin: 2017-11-11 - 11:15:04 / ERROR
+#### ERROR al procesar la ref.37029 - 37029 (GGOYA)
+Ref: 37029 / Inicio: 2017-11-11 - 11:15:04 / Fin: 2017-11-11 - 11:15:04 / ERROR
+#### ERROR al procesar la ref.37030 - 37030 (GGOYA)
+Ref: 37030 / Inicio: 2017-11-11 - 11:15:04 / Fin: 2017-11-11 - 11:15:04 / ERROR
+#### ERROR al procesar la ref.37031 - 37031 (GGOYA)
+Ref: 37031 / Inicio: 2017-11-11 - 11:15:04 / Fin: 2017-11-11 - 11:15:04 / ERROR
+#### ERROR al procesar la ref.37032 - 37032 (GGOYA)
+Ref: 37032 / Inicio: 2017-11-11 - 11:15:04 / Fin: 2017-11-11 - 11:15:04 / ERROR
+#### ERROR al procesar la ref.37033 - 37033 (GGOYA)
+Ref: 37033 / Inicio: 2017-11-11 - 11:15:04 / Fin: 2017-11-11 - 11:15:04 / ERROR
+#### ERROR al procesar la ref.37034 - 37034 (GGOYA)
+Ref: 37034 / Inicio: 2017-11-11 - 11:15:04 / Fin: 2017-11-11 - 11:15:04 / ERROR
+#### ERROR al procesar la ref.37035 - 37035 (GGOYA)
+Ref: 37035 / Inicio: 2017-11-11 - 11:15:04 / Fin: 2017-11-11 - 11:15:04 / ERROR
+#### ERROR al procesar la ref.37036 - 37036 (GGOYA)
+Ref: 37036 / Inicio: 2017-11-11 - 11:15:04 / Fin: 2017-11-11 - 11:15:04 / ERROR
+#### ERROR al procesar la ref.37037 - 37037 (GGOYA)
+Ref: 37037 / Inicio: 2017-11-11 - 11:15:04 / Fin: 2017-11-11 - 11:15:04 / ERROR
+#### ERROR al procesar la ref.37038 - 37038 (GGOYA)
+Ref: 37038 / Inicio: 2017-11-11 - 11:15:04 / Fin: 2017-11-11 - 11:15:04 / ERROR
+#### ERROR al procesar la ref.37039 - 37039 (GGOYA)
+Ref: 37039 / Inicio: 2017-11-11 - 11:15:04 / Fin: 2017-11-11 - 11:15:04 / ERROR
+#### ERROR al procesar la ref.37040 - 37040 (GGOYA)
+Ref: 37040 / Inicio: 2017-11-11 - 11:15:04 / Fin: 2017-11-11 - 11:15:04 / ERROR
+#### ERROR al procesar la ref.37041 - 37041 (GGOYA)
+Ref: 37041 / Inicio: 2017-11-11 - 11:15:04 / Fin: 2017-11-11 - 11:15:05 / ERROR
+#### ERROR al procesar la ref.37042 - 37042 (GGOYA)
+Ref: 37042 / Inicio: 2017-11-11 - 11:15:05 / Fin: 2017-11-11 - 11:15:05 / ERROR
+#### ERROR al procesar la ref.37043 - 37043 (GGOYA)
+Ref: 37043 / Inicio: 2017-11-11 - 11:15:05 / Fin: 2017-11-11 - 11:15:05 / ERROR
+#### ERROR al procesar la ref.37044 - 37044 (GGOYA)
+Ref: 37044 / Inicio: 2017-11-11 - 11:15:05 / Fin: 2017-11-11 - 11:15:05 / ERROR
+#### ERROR al procesar la ref.37045 - 37045 (GGOYA)
+Ref: 37045 / Inicio: 2017-11-11 - 11:15:05 / Fin: 2017-11-11 - 11:15:05 / ERROR
+#### ERROR al procesar la ref.37046 - 37046 (GGOYA)
+Ref: 37046 / Inicio: 2017-11-11 - 11:15:05 / Fin: 2017-11-11 - 11:15:05 / ERROR
+#### ERROR al procesar la ref.37047 - 37047 (GGOYA)
+Ref: 37047 / Inicio: 2017-11-11 - 11:15:05 / Fin: 2017-11-11 - 11:15:05 / ERROR
+#### ERROR al procesar la ref.37048 - 37048 (GGOYA)
+Ref: 37048 / Inicio: 2017-11-11 - 11:15:05 / Fin: 2017-11-11 - 11:15:05 / ERROR
+#### ERROR al procesar la ref.37049 - 37049 (GGOYA)
+Ref: 37049 / Inicio: 2017-11-11 - 11:15:05 / Fin: 2017-11-11 - 11:15:05 / ERROR
+#### ERROR al procesar la ref.37050 - 37050 (GGOYA)
+Ref: 37050 / Inicio: 2017-11-11 - 11:15:05 / Fin: 2017-11-11 - 11:15:05 / ERROR
+#### ERROR al procesar la ref.37051 - 37051 (GGOYA)
+Ref: 37051 / Inicio: 2017-11-11 - 11:15:05 / Fin: 2017-11-11 - 11:15:05 / ERROR
+#### ERROR al procesar la ref.37052 - 37052 (GGOYA)
+Ref: 37052 / Inicio: 2017-11-11 - 11:15:05 / Fin: 2017-11-11 - 11:15:05 / ERROR
+#### ERROR al procesar la ref.37053 - 37053 (GGOYA)
+Ref: 37053 / Inicio: 2017-11-11 - 11:15:05 / Fin: 2017-11-11 - 11:15:05 / ERROR
+#### ERROR al procesar la ref.37054 - 37054 (GGOYA)
+Ref: 37054 / Inicio: 2017-11-11 - 11:15:05 / Fin: 2017-11-11 - 11:15:05 / ERROR
+#### ERROR al procesar la ref.37055 - 37055 (GGOYA)
+Ref: 37055 / Inicio: 2017-11-11 - 11:15:05 / Fin: 2017-11-11 - 11:15:05 / ERROR
+#### ERROR al procesar la ref.37056 - 37056 (GGOYA)
+Ref: 37056 / Inicio: 2017-11-11 - 11:15:05 / Fin: 2017-11-11 - 11:15:05 / ERROR
+#### ERROR al procesar la ref.37057 - 37057 (GGOYA)
+Ref: 37057 / Inicio: 2017-11-11 - 11:15:05 / Fin: 2017-11-11 - 11:15:05 / ERROR
+#### ERROR al procesar la ref.37058 - 37058 (GGOYA)
+Ref: 37058 / Inicio: 2017-11-11 - 11:15:05 / Fin: 2017-11-11 - 11:15:05 / ERROR
+#### ERROR al procesar la ref.37059 - 37059 (GGOYA)
+Ref: 37059 / Inicio: 2017-11-11 - 11:15:05 / Fin: 2017-11-11 - 11:15:05 / ERROR
+#### ERROR al procesar la ref.37060 - 37060 (GGOYA)
+Ref: 37060 / Inicio: 2017-11-11 - 11:15:05 / Fin: 2017-11-11 - 11:15:05 / ERROR
+#### ERROR al procesar la ref.37061 - 37061 (GGOYA)
+Ref: 37061 / Inicio: 2017-11-11 - 11:15:05 / Fin: 2017-11-11 - 11:15:05 / ERROR
+#### ERROR al procesar la ref.37062 - 37062 (GGOYA)
+Ref: 37062 / Inicio: 2017-11-11 - 11:15:05 / Fin: 2017-11-11 - 11:15:05 / ERROR
+#### ERROR al procesar la ref.37063 - 37063 (GGOYA)
+Ref: 37063 / Inicio: 2017-11-11 - 11:15:05 / Fin: 2017-11-11 - 11:15:05 / ERROR
+#### ERROR al procesar la ref.37064 - 37064 (GGOYA)
+Ref: 37064 / Inicio: 2017-11-11 - 11:15:05 / Fin: 2017-11-11 - 11:15:05 / ERROR
+#### ERROR al procesar la ref.37065 - 37065 (GGOYA)
+Ref: 37065 / Inicio: 2017-11-11 - 11:15:05 / Fin: 2017-11-11 - 11:15:05 / ERROR
+#### ERROR al procesar la ref.37066 - 37066 (GGOYA)
+Ref: 37066 / Inicio: 2017-11-11 - 11:15:05 / Fin: 2017-11-11 - 11:15:05 / ERROR
+#### ERROR al procesar la ref.37067 - 37067 (GGOYA)
+Ref: 37067 / Inicio: 2017-11-11 - 11:15:05 / Fin: 2017-11-11 - 11:15:05 / ERROR
+#### ERROR al procesar la ref.37068 - 37068 (GGOYA)
+Ref: 37068 / Inicio: 2017-11-11 - 11:15:05 / Fin: 2017-11-11 - 11:15:05 / ERROR
+#### ERROR al procesar la ref.37069 - 37069 (GGOYA)
+Ref: 37069 / Inicio: 2017-11-11 - 11:15:05 / Fin: 2017-11-11 - 11:15:05 / ERROR
+#### ERROR al procesar la ref.37070 - 37070 (GGOYA)
+Ref: 37070 / Inicio: 2017-11-11 - 11:15:05 / Fin: 2017-11-11 - 11:15:05 / ERROR
+#### ERROR al procesar la ref.37071 - 37071 (GGOYA)
+Ref: 37071 / Inicio: 2017-11-11 - 11:15:05 / Fin: 2017-11-11 - 11:15:05 / ERROR
+#### ERROR al procesar la ref.37072 - 37072 (GGOYA)
+Ref: 37072 / Inicio: 2017-11-11 - 11:15:05 / Fin: 2017-11-11 - 11:15:05 / ERROR
+#### ERROR al procesar la ref.37073 - 37073 (GGOYA)
+Ref: 37073 / Inicio: 2017-11-11 - 11:15:05 / Fin: 2017-11-11 - 11:15:05 / ERROR
+#### ERROR al procesar la ref.37074 - 37074 (GGOYA)
+Ref: 37074 / Inicio: 2017-11-11 - 11:15:05 / Fin: 2017-11-11 - 11:15:06 / ERROR
+#### ERROR al procesar la ref.37075 - 37075 (GGOYA)
+Ref: 37075 / Inicio: 2017-11-11 - 11:15:06 / Fin: 2017-11-11 - 11:15:06 / ERROR
+#### ERROR al procesar la ref.37076 - 37076 (GGOYA)
+Ref: 37076 / Inicio: 2017-11-11 - 11:15:06 / Fin: 2017-11-11 - 11:15:06 / ERROR
+#### ERROR al procesar la ref.37077 - 37077 (GGOYA)
+Ref: 37077 / Inicio: 2017-11-11 - 11:15:06 / Fin: 2017-11-11 - 11:15:06 / ERROR
+#### ERROR al procesar la ref.37078 - 37078 (GGOYA)
+Ref: 37078 / Inicio: 2017-11-11 - 11:15:06 / Fin: 2017-11-11 - 11:15:06 / ERROR
+#### ERROR al procesar la ref.37079 - 37079 (GGOYA)
+Ref: 37079 / Inicio: 2017-11-11 - 11:15:06 / Fin: 2017-11-11 - 11:15:06 / ERROR
+#### ERROR al procesar la ref.37080 - 37080 (GGOYA)
+Ref: 37080 / Inicio: 2017-11-11 - 11:15:06 / Fin: 2017-11-11 - 11:15:06 / ERROR
+#### ERROR al procesar la ref.37081 - 37081 (GGOYA)
+Ref: 37081 / Inicio: 2017-11-11 - 11:15:06 / Fin: 2017-11-11 - 11:15:06 / ERROR
+#### ERROR al procesar la ref.37082 - 37082 (GGOYA)
+Ref: 37082 / Inicio: 2017-11-11 - 11:15:06 / Fin: 2017-11-11 - 11:15:06 / ERROR
+#### ERROR al procesar la ref.37083 - 37083 (GGOYA)
+Ref: 37083 / Inicio: 2017-11-11 - 11:15:06 / Fin: 2017-11-11 - 11:15:06 / ERROR
+#### ERROR al procesar la ref.37084 - 37084 (GGOYA)
+Ref: 37084 / Inicio: 2017-11-11 - 11:15:06 / Fin: 2017-11-11 - 11:15:06 / ERROR
+#### ERROR al procesar la ref.37085 - 37085 (GGOYA)
+Ref: 37085 / Inicio: 2017-11-11 - 11:15:06 / Fin: 2017-11-11 - 11:15:06 / ERROR
+#### ERROR al procesar la ref.37086 - 37086 (GGOYA)
+Ref: 37086 / Inicio: 2017-11-11 - 11:15:06 / Fin: 2017-11-11 - 11:15:06 / ERROR
+#### ERROR al procesar la ref.37087 - 37087 (GGOYA)
+Ref: 37087 / Inicio: 2017-11-11 - 11:15:06 / Fin: 2017-11-11 - 11:15:06 / ERROR
+#### ERROR al procesar la ref.37088 - 37088 (GGOYA)
+Ref: 37088 / Inicio: 2017-11-11 - 11:15:06 / Fin: 2017-11-11 - 11:15:06 / ERROR
+#### ERROR al procesar la ref.37089 - 37089 (GGOYA)
+Ref: 37089 / Inicio: 2017-11-11 - 11:15:06 / Fin: 2017-11-11 - 11:15:06 / ERROR
+#### ERROR al procesar la ref.37090 - 37090 (GGOYA)
+Ref: 37090 / Inicio: 2017-11-11 - 11:15:06 / Fin: 2017-11-11 - 11:15:06 / ERROR
+#### ERROR al procesar la ref.37091 - 37091 (GGOYA)
+Ref: 37091 / Inicio: 2017-11-11 - 11:15:06 / Fin: 2017-11-11 - 11:15:06 / ERROR
+#### ERROR al procesar la ref.37092 - 37092 (GGOYA)
+Ref: 37092 / Inicio: 2017-11-11 - 11:15:06 / Fin: 2017-11-11 - 11:15:06 / ERROR
+#### ERROR al procesar la ref.37500 - 37500 (GGOYA)
+Ref: 37500 / Inicio: 2017-11-11 - 11:15:06 / Fin: 2017-11-11 - 11:15:06 / ERROR
+#### ERROR al procesar la ref.37501 - 37501 (GGOYA)
+Ref: 37501 / Inicio: 2017-11-11 - 11:15:06 / Fin: 2017-11-11 - 11:15:06 / ERROR
+#### ERROR al procesar la ref.37502 - 37502 (GGOYA)
+Ref: 37502 / Inicio: 2017-11-11 - 11:15:06 / Fin: 2017-11-11 - 11:15:06 / ERROR
+#### ERROR al procesar la ref.37503 - 37503 (GGOYA)
+Ref: 37503 / Inicio: 2017-11-11 - 11:15:06 / Fin: 2017-11-11 - 11:15:06 / ERROR
+#### ERROR al procesar la ref.37504 - 37504 (GGOYA)
+Ref: 37504 / Inicio: 2017-11-11 - 11:15:06 / Fin: 2017-11-11 - 11:15:06 / ERROR
+#### ERROR al procesar la ref.37505 - 37505 (GGOYA)
+Ref: 37505 / Inicio: 2017-11-11 - 11:15:06 / Fin: 2017-11-11 - 11:15:06 / ERROR
+#### ERROR al procesar la ref.37506 - 37506 (GGOYA)
+Ref: 37506 / Inicio: 2017-11-11 - 11:15:06 / Fin: 2017-11-11 - 11:15:06 / ERROR
+#### ERROR al procesar la ref.37507 - 37507 (GGOYA)
+Ref: 37507 / Inicio: 2017-11-11 - 11:15:06 / Fin: 2017-11-11 - 11:15:06 / ERROR
+#### ERROR al procesar la ref.37508 - 37508 (GGOYA)
+Ref: 37508 / Inicio: 2017-11-11 - 11:15:06 / Fin: 2017-11-11 - 11:15:06 / ERROR
+#### ERROR al procesar la ref.37509 - 37509 (GGOYA)
+Ref: 37509 / Inicio: 2017-11-11 - 11:15:06 / Fin: 2017-11-11 - 11:15:06 / ERROR
+#### ERROR al procesar la ref.37510 - 37510 (GGOYA)
+Ref: 37510 / Inicio: 2017-11-11 - 11:15:06 / Fin: 2017-11-11 - 11:15:06 / ERROR
+#### ERROR al procesar la ref.37511 - 37511 (GGOYA)
+Ref: 37511 / Inicio: 2017-11-11 - 11:15:06 / Fin: 2017-11-11 - 11:15:06 / ERROR
+#### ERROR al procesar la ref.37512 - 37512 (GGOYA)
+Ref: 37512 / Inicio: 2017-11-11 - 11:15:06 / Fin: 2017-11-11 - 11:15:06 / ERROR
+#### ERROR al procesar la ref.37513 - 37513 (GGOYA)
+Ref: 37513 / Inicio: 2017-11-11 - 11:15:06 / Fin: 2017-11-11 - 11:15:06 / ERROR
+#### ERROR al procesar la ref.37514 - 37514 (GGOYA)
+Ref: 37514 / Inicio: 2017-11-11 - 11:15:06 / Fin: 2017-11-11 - 11:15:06 / ERROR
+#### ERROR al procesar la ref.37515 - 37515 (GGOYA)
+Ref: 37515 / Inicio: 2017-11-11 - 11:15:06 / Fin: 2017-11-11 - 11:15:07 / ERROR
+#### ERROR al procesar la ref.37516 - 37516 (GGOYA)
+Ref: 37516 / Inicio: 2017-11-11 - 11:15:07 / Fin: 2017-11-11 - 11:15:07 / ERROR
+#### ERROR al procesar la ref.37517 - 37517 (GGOYA)
+Ref: 37517 / Inicio: 2017-11-11 - 11:15:07 / Fin: 2017-11-11 - 11:15:07 / ERROR
+#### ERROR al procesar la ref.37518 - 37518 (GGOYA)
+Ref: 37518 / Inicio: 2017-11-11 - 11:15:07 / Fin: 2017-11-11 - 11:15:07 / ERROR
+#### ERROR al procesar la ref.37519 - 37519 (GGOYA)
+Ref: 37519 / Inicio: 2017-11-11 - 11:15:07 / Fin: 2017-11-11 - 11:15:07 / ERROR
+#### ERROR al procesar la ref.37520 - 37520 (GGOYA)
+Ref: 37520 / Inicio: 2017-11-11 - 11:15:07 / Fin: 2017-11-11 - 11:15:07 / ERROR
+#### ERROR al procesar la ref.37521 - 37521 (GGOYA)
+Ref: 37521 / Inicio: 2017-11-11 - 11:15:07 / Fin: 2017-11-11 - 11:15:07 / ERROR
+#### ERROR al procesar la ref.37522 - 37522 (GGOYA)
+Ref: 37522 / Inicio: 2017-11-11 - 11:15:07 / Fin: 2017-11-11 - 11:15:07 / ERROR
+#### ERROR al procesar la ref.37523 - 37523 (GGOYA)
+Ref: 37523 / Inicio: 2017-11-11 - 11:15:07 / Fin: 2017-11-11 - 11:15:07 / ERROR
+#### ERROR al procesar la ref.37524 - 37524 (GGOYA)
+Ref: 37524 / Inicio: 2017-11-11 - 11:15:07 / Fin: 2017-11-11 - 11:15:07 / ERROR
+#### ERROR al procesar la ref.37525 - 37525 (GGOYA)
+Ref: 37525 / Inicio: 2017-11-11 - 11:15:07 / Fin: 2017-11-11 - 11:15:07 / ERROR
+#### ERROR al procesar la ref.37526 - 37526 (GGOYA)
+Ref: 37526 / Inicio: 2017-11-11 - 11:15:07 / Fin: 2017-11-11 - 11:15:07 / ERROR
+#### ERROR al procesar la ref.37527 - 37527 (GGOYA)
+Ref: 37527 / Inicio: 2017-11-11 - 11:15:07 / Fin: 2017-11-11 - 11:15:07 / ERROR
+#### ERROR al procesar la ref.37528 - 37528 (GGOYA)
+Ref: 37528 / Inicio: 2017-11-11 - 11:15:07 / Fin: 2017-11-11 - 11:15:07 / ERROR
+#### ERROR al procesar la ref.37529 - 37529 (GGOYA)
+Ref: 37529 / Inicio: 2017-11-11 - 11:15:07 / Fin: 2017-11-11 - 11:15:07 / ERROR
+#### ERROR al procesar la ref.37530 - 37530 (GGOYA)
+Ref: 37530 / Inicio: 2017-11-11 - 11:15:07 / Fin: 2017-11-11 - 11:15:07 / ERROR
+#### ERROR al procesar la ref.37531 - 37531 (GGOYA)
+Ref: 37531 / Inicio: 2017-11-11 - 11:15:07 / Fin: 2017-11-11 - 11:15:07 / ERROR
+#### ERROR al procesar la ref.37532 - 37532 (GGOYA)
+Ref: 37532 / Inicio: 2017-11-11 - 11:15:07 / Fin: 2017-11-11 - 11:15:07 / ERROR
+#### ERROR al procesar la ref.37533 - 37533 (GGOYA)
+Ref: 37533 / Inicio: 2017-11-11 - 11:15:07 / Fin: 2017-11-11 - 11:15:07 / ERROR
+#### ERROR al procesar la ref.37534 - 37534 (GGOYA)
+Ref: 37534 / Inicio: 2017-11-11 - 11:15:07 / Fin: 2017-11-11 - 11:15:07 / ERROR
+#### ERROR al procesar la ref.37537 - 37537 (GGOYA)
+Ref: 37537 / Inicio: 2017-11-11 - 11:15:07 / Fin: 2017-11-11 - 11:15:07 / ERROR
+#### ERROR al procesar la ref.37538 - 37538 (GGOYA)
+Ref: 37538 / Inicio: 2017-11-11 - 11:15:07 / Fin: 2017-11-11 - 11:15:07 / ERROR
+#### ERROR al procesar la ref.37539 - 37539 (GGOYA)
+Ref: 37539 / Inicio: 2017-11-11 - 11:15:07 / Fin: 2017-11-11 - 11:15:07 / ERROR
+#### ERROR al procesar la ref.37539PH - 37539PH (GGOYA)
+Ref: 37539PH / Inicio: 2017-11-11 - 11:15:07 / Fin: 2017-11-11 - 11:15:07 / ERROR
+#### ERROR al procesar la ref.37540 - 37540 (GGOYA)
+Ref: 37540 / Inicio: 2017-11-11 - 11:15:07 / Fin: 2017-11-11 - 11:15:07 / ERROR
+#### ERROR al procesar la ref.37540PH - 37540PH (GGOYA)
+Ref: 37540PH / Inicio: 2017-11-11 - 11:15:07 / Fin: 2017-11-11 - 11:15:07 / ERROR
+#### ERROR al procesar la ref.37541 - 37541 (GGOYA)
+Ref: 37541 / Inicio: 2017-11-11 - 11:15:07 / Fin: 2017-11-11 - 11:15:07 / ERROR
+#### ERROR al procesar la ref.904 - 904 (GGOYA)
+Ref: 904 / Inicio: 2017-11-11 - 11:15:07 / Fin: 2017-11-11 - 11:15:07 / ERROR
+#### ERROR al procesar la ref.922 - 922 (GGOYA)
+Ref: 922 / Inicio: 2017-11-11 - 11:15:07 / Fin: 2017-11-11 - 11:15:07 / ERROR
+#### ERROR al procesar la ref.97119 - 97119 (GGOYA)
+Ref: 97119 / Inicio: 2017-11-11 - 11:15:07 / Fin: 2017-11-11 - 11:15:07 / ERROR
+#### ERROR al procesar la ref.98006 - 98006 (GGOYA)
+Ref: 98006 / Inicio: 2017-11-11 - 11:15:07 / Fin: 2017-11-11 - 11:15:07 / ERROR
+#### ERROR al procesar la ref.98072 - 98072 (GGOYA)
+Ref: 98072 / Inicio: 2017-11-11 - 11:15:07 / Fin: 2017-11-11 - 11:15:07 / ERROR
+#### ERROR al procesar la ref.99098 - 99098 (GGOYA)
+Ref: 99098 / Inicio: 2017-11-11 - 11:15:07 / Fin: 2017-11-11 - 11:15:07 / ERROR
+#### ERROR al procesar la ref.99143 - 99143 (GGOYA)
+Ref: 99143 / Inicio: 2017-11-11 - 11:15:07 / Fin: 2017-11-11 - 11:15:07 / ERROR
+#### ERROR al procesar la ref.C24130L - C24130L (GGOYA)
+Ref: C24130L / Inicio: 2017-11-11 - 11:15:07 / Fin: 2017-11-11 - 11:15:07 / ERROR
+#### ERROR al procesar la ref.C64 - C64 (GGOYA)
+Ref: C64 / Inicio: 2017-11-11 - 11:15:07 / Fin: 2017-11-11 - 11:15:08 / ERROR
+#### ERROR al procesar la ref.EUROPA - EUROPA (GGOYA)
+Ref: EUROPA / Inicio: 2017-11-11 - 11:15:08 / Fin: 2017-11-11 - 11:15:08 / ERROR
+#### ERROR al procesar la ref.UM4 - UM4 (GGOYA)
+Ref: UM4 / Inicio: 2017-11-11 - 11:15:08 / Fin: 2017-11-11 - 11:15:08 / ERROR
+
+***************************************************************************
+CONSULTA DE STOCK DE TODOS LOS ARTÍCULOS DE GGOYA:
+Proceso finalizado el 2017-11-11, a las 11:15:08

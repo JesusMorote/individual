@@ -1,0 +1,134 @@
+/* ==========================================================================
+   Custom styles para la página de login
+   ========================================================================== */
+
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    position: relative;
+    /*background: rgba(0, 0, 0, 0) url("../img/ptn.png") repeat scroll 0 0;*/
+}
+
+.main {
+    position: relative;
+}
+
+#principal {
+    background-color: rgba(0, 0, 0, 0.5);
+    position: relative;
+    top: 20px;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 25px white;
+    margin: 10px;
+}
+
+.form-control:focus {
+    border-color: #1b5a7c;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset, 0 0 8px rgba(24, 204, 162, 0.6);
+    outline: 0 none;
+}
+
+.min-height {
+    min-height: 380px;
+    margin-top: 20px;
+}
+
+.login-screen:before {
+    content: "";
+    background: rgba(0,0,0, 0.5);
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+}
+
+.login-center {
+    text-align: left;
+}
+
+.login {
+    width: 320px;
+    color: #fff;
+}
+
+.login .login-form {
+    text-align: left;
+}
+
+.login label {
+    color: #fff;
+}
+
+#card {
+    width: 100%
+}
+
+.nombre2 {
+    width: 100%;
+    color: #fff;
+}
+
+.nombre2 label {
+    color: #fff;
+}
+
+#subtitulo {
+    margin-top: -10px;
+}
+
+.login-form .input-group .form-control {
+    background: none;
+    height: 44px;
+    color: #ddd;
+}
+
+.login-form .input-group .input-group-addon {
+    background: none;
+}
+
+.login-form .input-group .input-group-addon .glyphicon {
+    color: #fff;
+}
+
+.login-form .input-group .form-control::-moz-placeholder {
+    color: #fff;
+    opacity: 0.3;
+}
+
+.login .sign-btn input.btn {
+    background: #1b5a7c;
+    border-color: #1b5a7c;
+    color: #fff;
+    width: 180px;
+}
+
+.login .sign-btn a {
+    text-decoration: none;
+}
+
+.login .checkbox {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.login .forgot {
+    display: inline-block;
+    margin: 20px 0;
+}
+
+#pie_login {
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    background-color: rgba(128, 128, 128, 0.75);
+}
+
+#texto_pie {
+    color: white;
+}

@@ -1,0 +1,19 @@
+CONSULTA DE STOCK DE TODOS LOS ARTÍCULOS DE MOB:
+Proceso iniciado el 2017-11-17, a las 11:48:35
+***************************************************************************
+
+
+***************************************************************************
+CONSULTA DE STOCK DE TODOS LOS ARTÍCULOS DE MOB:
+Proceso finalizado el 2017-11-17, a las 11:48:35
+
+CONSULTA DE STOCK DE TODOS LOS ARTÍCULOS DE MOB:
+Referencias de las que no se ha podido obtener stock de competidores por Errores de Proceso
+Resultados del Segundo Intento
+Proceso iniciado el 2017-11-17, a las 11:48:35
+***************************************************************************
+
+
+***************************************************************************
+CONSULTA DE STOCK DE TODOS LOS ARTÍCULOS DE MOB:
+Proceso finalizado el 2017-11-17, a las 11:48:35

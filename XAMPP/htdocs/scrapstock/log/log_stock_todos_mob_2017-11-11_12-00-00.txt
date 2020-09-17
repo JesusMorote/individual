@@ -1,0 +1,735 @@
+CONSULTA DE STOCK DE TODOS LOS ARTÍCULOS DE MOB:
+Proceso iniciado el 2017-11-11, a las 12:00:00
+***************************************************************************
+
+#### ERROR al procesar la ref.MO8953 - MO8953 (MOB)
+Ref: MO8953 / Inicio: 2017-11-11 - 12:00:00 / Fin: 2017-11-11 - 12:00:00 / ERROR
+#### ERROR al procesar la ref.MO8954 - MO8954 (MOB)
+Ref: MO8954 / Inicio: 2017-11-11 - 12:00:00 / Fin: 2017-11-11 - 12:00:00 / ERROR
+#### ERROR al procesar la ref.MO8957 - MO8957 (MOB)
+Ref: MO8957 / Inicio: 2017-11-11 - 12:00:00 / Fin: 2017-11-11 - 12:00:00 / ERROR
+#### ERROR al procesar la ref.MO8958 - MO8958 (MOB)
+Ref: MO8958 / Inicio: 2017-11-11 - 12:00:00 / Fin: 2017-11-11 - 12:00:00 / ERROR
+#### ERROR al procesar la ref.MO8960 - MO8960 (MOB)
+Ref: MO8960 / Inicio: 2017-11-11 - 12:00:00 / Fin: 2017-11-11 - 12:00:00 / ERROR
+#### ERROR al procesar la ref.MO8961 - MO8961 (MOB)
+Ref: MO8961 / Inicio: 2017-11-11 - 12:00:00 / Fin: 2017-11-11 - 12:00:00 / ERROR
+#### ERROR al procesar la ref.MO8962 - MO8962 (MOB)
+Ref: MO8962 / Inicio: 2017-11-11 - 12:00:00 / Fin: 2017-11-11 - 12:00:00 / ERROR
+#### ERROR al procesar la ref.MO8964 - MO8964 (MOB)
+Ref: MO8964 / Inicio: 2017-11-11 - 12:00:00 / Fin: 2017-11-11 - 12:00:00 / ERROR
+#### ERROR al procesar la ref.MO8965 - MO8965 (MOB)
+Ref: MO8965 / Inicio: 2017-11-11 - 12:00:00 / Fin: 2017-11-11 - 12:00:00 / ERROR
+#### ERROR al procesar la ref.MO8966 - MO8966 (MOB)
+Ref: MO8966 / Inicio: 2017-11-11 - 12:00:00 / Fin: 2017-11-11 - 12:00:01 / ERROR
+#### ERROR al procesar la ref.MO8967 - MO8967 (MOB)
+Ref: MO8967 / Inicio: 2017-11-11 - 12:00:01 / Fin: 2017-11-11 - 12:00:01 / ERROR
+#### ERROR al procesar la ref.MO8968 - MO8968 (MOB)
+Ref: MO8968 / Inicio: 2017-11-11 - 12:00:01 / Fin: 2017-11-11 - 12:00:01 / ERROR
+#### ERROR al procesar la ref.MO8969 - MO8969 (MOB)
+Ref: MO8969 / Inicio: 2017-11-11 - 12:00:01 / Fin: 2017-11-11 - 12:00:01 / ERROR
+#### ERROR al procesar la ref.MO8970 - MO8970 (MOB)
+Ref: MO8970 / Inicio: 2017-11-11 - 12:00:01 / Fin: 2017-11-11 - 12:00:01 / ERROR
+#### ERROR al procesar la ref.MO8972 - MO8972 (MOB)
+Ref: MO8972 / Inicio: 2017-11-11 - 12:00:01 / Fin: 2017-11-11 - 12:00:01 / ERROR
+#### ERROR al procesar la ref.MO8973 - MO8973 (MOB)
+Ref: MO8973 / Inicio: 2017-11-11 - 12:00:01 / Fin: 2017-11-11 - 12:00:01 / ERROR
+#### ERROR al procesar la ref.MO8974 - MO8974 (MOB)
+Ref: MO8974 / Inicio: 2017-11-11 - 12:00:01 / Fin: 2017-11-11 - 12:00:01 / ERROR
+#### ERROR al procesar la ref.MO8975 - MO8975 (MOB)
+Ref: MO8975 / Inicio: 2017-11-11 - 12:00:01 / Fin: 2017-11-11 - 12:00:01 / ERROR
+#### ERROR al procesar la ref.MO8977 - MO8977 (MOB)
+Ref: MO8977 / Inicio: 2017-11-11 - 12:00:01 / Fin: 2017-11-11 - 12:00:01 / ERROR
+#### ERROR al procesar la ref.MO8979 - MO8979 (MOB)
+Ref: MO8979 / Inicio: 2017-11-11 - 12:00:01 / Fin: 2017-11-11 - 12:00:01 / ERROR
+#### ERROR al procesar la ref.MO8980 - MO8980 (MOB)
+Ref: MO8980 / Inicio: 2017-11-11 - 12:00:01 / Fin: 2017-11-11 - 12:00:01 / ERROR
+#### ERROR al procesar la ref.MO8982 - MO8982 (MOB)
+Ref: MO8982 / Inicio: 2017-11-11 - 12:00:01 / Fin: 2017-11-11 - 12:00:01 / ERROR
+#### ERROR al procesar la ref.MO8984 - MO8984 (MOB)
+Ref: MO8984 / Inicio: 2017-11-11 - 12:00:01 / Fin: 2017-11-11 - 12:00:01 / ERROR
+#### ERROR al procesar la ref.MO8986 - MO8986 (MOB)
+Ref: MO8986 / Inicio: 2017-11-11 - 12:00:01 / Fin: 2017-11-11 - 12:00:01 / ERROR
+#### ERROR al procesar la ref.MO8987 - MO8987 (MOB)
+Ref: MO8987 / Inicio: 2017-11-11 - 12:00:01 / Fin: 2017-11-11 - 12:00:01 / ERROR
+#### ERROR al procesar la ref.MO8988 - MO8988 (MOB)
+Ref: MO8988 / Inicio: 2017-11-11 - 12:00:01 / Fin: 2017-11-11 - 12:00:01 / ERROR
+#### ERROR al procesar la ref.MO8991 - MO8991 (MOB)
+Ref: MO8991 / Inicio: 2017-11-11 - 12:00:01 / Fin: 2017-11-11 - 12:00:01 / ERROR
+#### ERROR al procesar la ref.MO8995 - MO8995 (MOB)
+Ref: MO8995 / Inicio: 2017-11-11 - 12:00:01 / Fin: 2017-11-11 - 12:00:01 / ERROR
+#### ERROR al procesar la ref.MO8996 - MO8996 (MOB)
+Ref: MO8996 / Inicio: 2017-11-11 - 12:00:01 / Fin: 2017-11-11 - 12:00:01 / ERROR
+#### ERROR al procesar la ref.MO9000 - MO9000 (MOB)
+Ref: MO9000 / Inicio: 2017-11-11 - 12:00:01 / Fin: 2017-11-11 - 12:00:01 / ERROR
+#### ERROR al procesar la ref.MO9002 - MO9002 (MOB)
+Ref: MO9002 / Inicio: 2017-11-11 - 12:00:01 / Fin: 2017-11-11 - 12:00:01 / ERROR
+#### ERROR al procesar la ref.MO9005 - MO9005 (MOB)
+Ref: MO9005 / Inicio: 2017-11-11 - 12:00:01 / Fin: 2017-11-11 - 12:00:01 / ERROR
+#### ERROR al procesar la ref.MO9008 - MO9008 (MOB)
+Ref: MO9008 / Inicio: 2017-11-11 - 12:00:01 / Fin: 2017-11-11 - 12:00:01 / ERROR
+#### ERROR al procesar la ref.MO9010 - MO9010 (MOB)
+Ref: MO9010 / Inicio: 2017-11-11 - 12:00:01 / Fin: 2017-11-11 - 12:00:01 / ERROR
+#### ERROR al procesar la ref.MO9011 - MO9011 (MOB)
+Ref: MO9011 / Inicio: 2017-11-11 - 12:00:01 / Fin: 2017-11-11 - 12:00:01 / ERROR
+#### ERROR al procesar la ref.MO9012 - MO9012 (MOB)
+Ref: MO9012 / Inicio: 2017-11-11 - 12:00:01 / Fin: 2017-11-11 - 12:00:01 / ERROR
+#### ERROR al procesar la ref.MO9014 - MO9014 (MOB)
+Ref: MO9014 / Inicio: 2017-11-11 - 12:00:01 / Fin: 2017-11-11 - 12:00:01 / ERROR
+#### ERROR al procesar la ref.MO9015 - MO9015 (MOB)
+Ref: MO9015 / Inicio: 2017-11-11 - 12:00:01 / Fin: 2017-11-11 - 12:00:01 / ERROR
+#### ERROR al procesar la ref.MO9017 - MO9017 (MOB)
+Ref: MO9017 / Inicio: 2017-11-11 - 12:00:01 / Fin: 2017-11-11 - 12:00:02 / ERROR
+#### ERROR al procesar la ref.MO9018 - MO9018 (MOB)
+Ref: MO9018 / Inicio: 2017-11-11 - 12:00:02 / Fin: 2017-11-11 - 12:00:02 / ERROR
+#### ERROR al procesar la ref.MO9020 - MO9020 (MOB)
+Ref: MO9020 / Inicio: 2017-11-11 - 12:00:02 / Fin: 2017-11-11 - 12:00:02 / ERROR
+#### ERROR al procesar la ref.MO9021 - MO9021 (MOB)
+Ref: MO9021 / Inicio: 2017-11-11 - 12:00:02 / Fin: 2017-11-11 - 12:00:02 / ERROR
+#### ERROR al procesar la ref.MO9023 - MO9023 (MOB)
+Ref: MO9023 / Inicio: 2017-11-11 - 12:00:02 / Fin: 2017-11-11 - 12:00:02 / ERROR
+#### ERROR al procesar la ref.MO9024 - MO9024 (MOB)
+Ref: MO9024 / Inicio: 2017-11-11 - 12:00:02 / Fin: 2017-11-11 - 12:00:02 / ERROR
+#### ERROR al procesar la ref.MO9025 - MO9025 (MOB)
+Ref: MO9025 / Inicio: 2017-11-11 - 12:00:02 / Fin: 2017-11-11 - 12:00:02 / ERROR
+#### ERROR al procesar la ref.MO9026 - MO9026 (MOB)
+Ref: MO9026 / Inicio: 2017-11-11 - 12:00:02 / Fin: 2017-11-11 - 12:00:02 / ERROR
+#### ERROR al procesar la ref.MO9027 - MO9027 (MOB)
+Ref: MO9027 / Inicio: 2017-11-11 - 12:00:02 / Fin: 2017-11-11 - 12:00:02 / ERROR
+#### ERROR al procesar la ref.MO9028 - MO9028 (MOB)
+Ref: MO9028 / Inicio: 2017-11-11 - 12:00:02 / Fin: 2017-11-11 - 12:00:02 / ERROR
+#### ERROR al procesar la ref.MO9029 - MO9029 (MOB)
+Ref: MO9029 / Inicio: 2017-11-11 - 12:00:02 / Fin: 2017-11-11 - 12:00:02 / ERROR
+#### ERROR al procesar la ref.MO9030 - MO9030 (MOB)
+Ref: MO9030 / Inicio: 2017-11-11 - 12:00:02 / Fin: 2017-11-11 - 12:00:02 / ERROR
+#### ERROR al procesar la ref.MO9031 - MO9031 (MOB)
+Ref: MO9031 / Inicio: 2017-11-11 - 12:00:02 / Fin: 2017-11-11 - 12:00:02 / ERROR
+#### ERROR al procesar la ref.MO9032 - MO9032 (MOB)
+Ref: MO9032 / Inicio: 2017-11-11 - 12:00:02 / Fin: 2017-11-11 - 12:00:02 / ERROR
+#### ERROR al procesar la ref.MO9033 - MO9033 (MOB)
+Ref: MO9033 / Inicio: 2017-11-11 - 12:00:02 / Fin: 2017-11-11 - 12:00:02 / ERROR
+#### ERROR al procesar la ref.MO9035 - MO9035 (MOB)
+Ref: MO9035 / Inicio: 2017-11-11 - 12:00:02 / Fin: 2017-11-11 - 12:00:02 / ERROR
+#### ERROR al procesar la ref.MO9037 - MO9037 (MOB)
+Ref: MO9037 / Inicio: 2017-11-11 - 12:00:02 / Fin: 2017-11-11 - 12:00:02 / ERROR
+#### ERROR al procesar la ref.MO9038 - MO9038 (MOB)
+Ref: MO9038 / Inicio: 2017-11-11 - 12:00:02 / Fin: 2017-11-11 - 12:00:02 / ERROR
+#### ERROR al procesar la ref.MO9039 - MO9039 (MOB)
+Ref: MO9039 / Inicio: 2017-11-11 - 12:00:02 / Fin: 2017-11-11 - 12:00:02 / ERROR
+#### ERROR al procesar la ref.MO9040 - MO9040 (MOB)
+Ref: MO9040 / Inicio: 2017-11-11 - 12:00:02 / Fin: 2017-11-11 - 12:00:02 / ERROR
+#### ERROR al procesar la ref.MO9041 - MO9041 (MOB)
+Ref: MO9041 / Inicio: 2017-11-11 - 12:00:02 / Fin: 2017-11-11 - 12:00:02 / ERROR
+#### ERROR al procesar la ref.MO9042 - MO9042 (MOB)
+Ref: MO9042 / Inicio: 2017-11-11 - 12:00:02 / Fin: 2017-11-11 - 12:00:02 / ERROR
+#### ERROR al procesar la ref.MO9043 - MO9043 (MOB)
+Ref: MO9043 / Inicio: 2017-11-11 - 12:00:02 / Fin: 2017-11-11 - 12:00:02 / ERROR
+#### ERROR al procesar la ref.MO9045 - MO9045 (MOB)
+Ref: MO9045 / Inicio: 2017-11-11 - 12:00:02 / Fin: 2017-11-11 - 12:00:02 / ERROR
+#### ERROR al procesar la ref.MO9046 - MO9046 (MOB)
+Ref: MO9046 / Inicio: 2017-11-11 - 12:00:02 / Fin: 2017-11-11 - 12:00:02 / ERROR
+#### ERROR al procesar la ref.MO9047 - MO9047 (MOB)
+Ref: MO9047 / Inicio: 2017-11-11 - 12:00:02 / Fin: 2017-11-11 - 12:00:02 / ERROR
+#### ERROR al procesar la ref.MO9049 - MO9049 (MOB)
+Ref: MO9049 / Inicio: 2017-11-11 - 12:00:02 / Fin: 2017-11-11 - 12:00:02 / ERROR
+#### ERROR al procesar la ref.MO9050 - MO9050 (MOB)
+Ref: MO9050 / Inicio: 2017-11-11 - 12:00:02 / Fin: 2017-11-11 - 12:00:02 / ERROR
+#### ERROR al procesar la ref.MO9051 - MO9051 (MOB)
+Ref: MO9051 / Inicio: 2017-11-11 - 12:00:02 / Fin: 2017-11-11 - 12:00:02 / ERROR
+#### ERROR al procesar la ref.MO9052 - MO9052 (MOB)
+Ref: MO9052 / Inicio: 2017-11-11 - 12:00:02 / Fin: 2017-11-11 - 12:00:02 / ERROR
+#### ERROR al procesar la ref.MO9053 - MO9053 (MOB)
+Ref: MO9053 / Inicio: 2017-11-11 - 12:00:02 / Fin: 2017-11-11 - 12:00:02 / ERROR
+#### ERROR al procesar la ref.MO9054 - MO9054 (MOB)
+Ref: MO9054 / Inicio: 2017-11-11 - 12:00:02 / Fin: 2017-11-11 - 12:00:02 / ERROR
+#### ERROR al procesar la ref.MO9055 - MO9055 (MOB)
+Ref: MO9055 / Inicio: 2017-11-11 - 12:00:02 / Fin: 2017-11-11 - 12:00:02 / ERROR
+#### ERROR al procesar la ref.MO9057 - MO9057 (MOB)
+Ref: MO9057 / Inicio: 2017-11-11 - 12:00:02 / Fin: 2017-11-11 - 12:00:02 / ERROR
+#### ERROR al procesar la ref.MO9059 - MO9059 (MOB)
+Ref: MO9059 / Inicio: 2017-11-11 - 12:00:02 / Fin: 2017-11-11 - 12:00:03 / ERROR
+#### ERROR al procesar la ref.MO9060 - MO9060 (MOB)
+Ref: MO9060 / Inicio: 2017-11-11 - 12:00:03 / Fin: 2017-11-11 - 12:00:03 / ERROR
+#### ERROR al procesar la ref.MO9061 - MO9061 (MOB)
+Ref: MO9061 / Inicio: 2017-11-11 - 12:00:03 / Fin: 2017-11-11 - 12:00:03 / ERROR
+#### ERROR al procesar la ref.MO9062 - MO9062 (MOB)
+Ref: MO9062 / Inicio: 2017-11-11 - 12:00:03 / Fin: 2017-11-11 - 12:00:03 / ERROR
+#### ERROR al procesar la ref.MO9066 - MO9066 (MOB)
+Ref: MO9066 / Inicio: 2017-11-11 - 12:00:03 / Fin: 2017-11-11 - 12:00:03 / ERROR
+#### ERROR al procesar la ref.MO9067 - MO9067 (MOB)
+Ref: MO9067 / Inicio: 2017-11-11 - 12:00:03 / Fin: 2017-11-11 - 12:00:03 / ERROR
+#### ERROR al procesar la ref.MO9068 - MO9068 (MOB)
+Ref: MO9068 / Inicio: 2017-11-11 - 12:00:03 / Fin: 2017-11-11 - 12:00:03 / ERROR
+#### ERROR al procesar la ref.MO9069 - MO9069 (MOB)
+Ref: MO9069 / Inicio: 2017-11-11 - 12:00:03 / Fin: 2017-11-11 - 12:00:03 / ERROR
+#### ERROR al procesar la ref.MO9070 - MO9070 (MOB)
+Ref: MO9070 / Inicio: 2017-11-11 - 12:00:03 / Fin: 2017-11-11 - 12:00:03 / ERROR
+#### ERROR al procesar la ref.MO9073 - MO9073 (MOB)
+Ref: MO9073 / Inicio: 2017-11-11 - 12:00:03 / Fin: 2017-11-11 - 12:00:03 / ERROR
+#### ERROR al procesar la ref.MO9074 - MO9074 (MOB)
+Ref: MO9074 / Inicio: 2017-11-11 - 12:00:03 / Fin: 2017-11-11 - 12:00:03 / ERROR
+#### ERROR al procesar la ref.MO9075 - MO9075 (MOB)
+Ref: MO9075 / Inicio: 2017-11-11 - 12:00:03 / Fin: 2017-11-11 - 12:00:03 / ERROR
+#### ERROR al procesar la ref.MO9076 - MO9076 (MOB)
+Ref: MO9076 / Inicio: 2017-11-11 - 12:00:03 / Fin: 2017-11-11 - 12:00:03 / ERROR
+#### ERROR al procesar la ref.MO9077 - MO9077 (MOB)
+Ref: MO9077 / Inicio: 2017-11-11 - 12:00:03 / Fin: 2017-11-11 - 12:00:03 / ERROR
+#### ERROR al procesar la ref.MO9078 - MO9078 (MOB)
+Ref: MO9078 / Inicio: 2017-11-11 - 12:00:03 / Fin: 2017-11-11 - 12:00:03 / ERROR
+#### ERROR al procesar la ref.MO9079 - MO9079 (MOB)
+Ref: MO9079 / Inicio: 2017-11-11 - 12:00:03 / Fin: 2017-11-11 - 12:00:03 / ERROR
+#### ERROR al procesar la ref.MO9080 - MO9080 (MOB)
+Ref: MO9080 / Inicio: 2017-11-11 - 12:00:03 / Fin: 2017-11-11 - 12:00:03 / ERROR
+#### ERROR al procesar la ref.MO9081 - MO9081 (MOB)
+Ref: MO9081 / Inicio: 2017-11-11 - 12:00:03 / Fin: 2017-11-11 - 12:00:03 / ERROR
+#### ERROR al procesar la ref.MO9082-04-L - MO9082-04-L (MOB)
+Ref: MO9082-04-L / Inicio: 2017-11-11 - 12:00:03 / Fin: 2017-11-11 - 12:00:03 / ERROR
+#### ERROR al procesar la ref.MO9082-04-M - MO9082-04-M (MOB)
+Ref: MO9082-04-M / Inicio: 2017-11-11 - 12:00:03 / Fin: 2017-11-11 - 12:00:03 / ERROR
+#### ERROR al procesar la ref.MO9083 - MO9083 (MOB)
+Ref: MO9083 / Inicio: 2017-11-11 - 12:00:03 / Fin: 2017-11-11 - 12:00:03 / ERROR
+#### ERROR al procesar la ref.MO9084 - MO9084 (MOB)
+Ref: MO9084 / Inicio: 2017-11-11 - 12:00:03 / Fin: 2017-11-11 - 12:00:03 / ERROR
+#### ERROR al procesar la ref.MO9085 - MO9085 (MOB)
+Ref: MO9085 / Inicio: 2017-11-11 - 12:00:03 / Fin: 2017-11-11 - 12:00:03 / ERROR
+#### ERROR al procesar la ref.MO9086 - MO9086 (MOB)
+Ref: MO9086 / Inicio: 2017-11-11 - 12:00:03 / Fin: 2017-11-11 - 12:00:03 / ERROR
+#### ERROR al procesar la ref.MO9087 - MO9087 (MOB)
+Ref: MO9087 / Inicio: 2017-11-11 - 12:00:03 / Fin: 2017-11-11 - 12:00:03 / ERROR
+#### ERROR al procesar la ref.MO9088 - MO9088 (MOB)
+Ref: MO9088 / Inicio: 2017-11-11 - 12:00:03 / Fin: 2017-11-11 - 12:00:03 / ERROR
+#### ERROR al procesar la ref.MO9089 - MO9089 (MOB)
+Ref: MO9089 / Inicio: 2017-11-11 - 12:00:03 / Fin: 2017-11-11 - 12:00:03 / ERROR
+#### ERROR al procesar la ref.MO9090 - MO9090 (MOB)
+Ref: MO9090 / Inicio: 2017-11-11 - 12:00:03 / Fin: 2017-11-11 - 12:00:03 / ERROR
+#### ERROR al procesar la ref.MO9091 - MO9091 (MOB)
+Ref: MO9091 / Inicio: 2017-11-11 - 12:00:03 / Fin: 2017-11-11 - 12:00:03 / ERROR
+#### ERROR al procesar la ref.MO9092 - MO9092 (MOB)
+Ref: MO9092 / Inicio: 2017-11-11 - 12:00:03 / Fin: 2017-11-11 - 12:00:04 / ERROR
+#### ERROR al procesar la ref.MO9093 - MO9093 (MOB)
+Ref: MO9093 / Inicio: 2017-11-11 - 12:00:04 / Fin: 2017-11-11 - 12:00:04 / ERROR
+#### ERROR al procesar la ref.MO9094 - MO9094 (MOB)
+Ref: MO9094 / Inicio: 2017-11-11 - 12:00:04 / Fin: 2017-11-11 - 12:00:04 / ERROR
+#### ERROR al procesar la ref.MO9095 - MO9095 (MOB)
+Ref: MO9095 / Inicio: 2017-11-11 - 12:00:04 / Fin: 2017-11-11 - 12:00:04 / ERROR
+#### ERROR al procesar la ref.MO9096 - MO9096 (MOB)
+Ref: MO9096 / Inicio: 2017-11-11 - 12:00:04 / Fin: 2017-11-11 - 12:00:04 / ERROR
+#### ERROR al procesar la ref.MO9097 - MO9097 (MOB)
+Ref: MO9097 / Inicio: 2017-11-11 - 12:00:04 / Fin: 2017-11-11 - 12:00:04 / ERROR
+#### ERROR al procesar la ref.MO9098 - MO9098 (MOB)
+Ref: MO9098 / Inicio: 2017-11-11 - 12:00:04 / Fin: 2017-11-11 - 12:00:04 / ERROR
+#### ERROR al procesar la ref.MO9099 - MO9099 (MOB)
+Ref: MO9099 / Inicio: 2017-11-11 - 12:00:04 / Fin: 2017-11-11 - 12:00:04 / ERROR
+#### ERROR al procesar la ref.MO9100 - MO9100 (MOB)
+Ref: MO9100 / Inicio: 2017-11-11 - 12:00:04 / Fin: 2017-11-11 - 12:00:04 / ERROR
+#### ERROR al procesar la ref.MO9101 - MO9101 (MOB)
+Ref: MO9101 / Inicio: 2017-11-11 - 12:00:04 / Fin: 2017-11-11 - 12:00:04 / ERROR
+#### ERROR al procesar la ref.MO9102 - MO9102 (MOB)
+Ref: MO9102 / Inicio: 2017-11-11 - 12:00:04 / Fin: 2017-11-11 - 12:00:04 / ERROR
+#### ERROR al procesar la ref.MO9103 - MO9103 (MOB)
+Ref: MO9103 / Inicio: 2017-11-11 - 12:00:04 / Fin: 2017-11-11 - 12:00:04 / ERROR
+#### ERROR al procesar la ref.MO9104 - MO9104 (MOB)
+Ref: MO9104 / Inicio: 2017-11-11 - 12:00:04 / Fin: 2017-11-11 - 12:00:04 / ERROR
+#### ERROR al procesar la ref.MO9105 - MO9105 (MOB)
+Ref: MO9105 / Inicio: 2017-11-11 - 12:00:04 / Fin: 2017-11-11 - 12:00:04 / ERROR
+#### ERROR al procesar la ref.MO9106 - MO9106 (MOB)
+Ref: MO9106 / Inicio: 2017-11-11 - 12:00:04 / Fin: 2017-11-11 - 12:00:04 / ERROR
+#### ERROR al procesar la ref.MO9107 - MO9107 (MOB)
+Ref: MO9107 / Inicio: 2017-11-11 - 12:00:04 / Fin: 2017-11-11 - 12:00:04 / ERROR
+#### ERROR al procesar la ref.MO9108 - MO9108 (MOB)
+Ref: MO9108 / Inicio: 2017-11-11 - 12:00:04 / Fin: 2017-11-11 - 12:00:04 / ERROR
+#### ERROR al procesar la ref.MO9109 - MO9109 (MOB)
+Ref: MO9109 / Inicio: 2017-11-11 - 12:00:04 / Fin: 2017-11-11 - 12:00:04 / ERROR
+#### ERROR al procesar la ref.MO9110 - MO9110 (MOB)
+Ref: MO9110 / Inicio: 2017-11-11 - 12:00:04 / Fin: 2017-11-11 - 12:00:04 / ERROR
+#### ERROR al procesar la ref.MO9111 - MO9111 (MOB)
+Ref: MO9111 / Inicio: 2017-11-11 - 12:00:04 / Fin: 2017-11-11 - 12:00:04 / ERROR
+#### ERROR al procesar la ref.MO9112 - MO9112 (MOB)
+Ref: MO9112 / Inicio: 2017-11-11 - 12:00:04 / Fin: 2017-11-11 - 12:00:04 / ERROR
+#### ERROR al procesar la ref.MO9113 - MO9113 (MOB)
+Ref: MO9113 / Inicio: 2017-11-11 - 12:00:04 / Fin: 2017-11-11 - 12:00:04 / ERROR
+#### ERROR al procesar la ref.MO9114 - MO9114 (MOB)
+Ref: MO9114 / Inicio: 2017-11-11 - 12:00:04 / Fin: 2017-11-11 - 12:00:04 / ERROR
+#### ERROR al procesar la ref.MO9116 - MO9116 (MOB)
+Ref: MO9116 / Inicio: 2017-11-11 - 12:00:04 / Fin: 2017-11-11 - 12:00:04 / ERROR
+#### ERROR al procesar la ref.MO9117 - MO9117 (MOB)
+Ref: MO9117 / Inicio: 2017-11-11 - 12:00:04 / Fin: 2017-11-11 - 12:00:04 / ERROR
+#### ERROR al procesar la ref.MO9118 - MO9118 (MOB)
+Ref: MO9118 / Inicio: 2017-11-11 - 12:00:04 / Fin: 2017-11-11 - 12:00:04 / ERROR
+#### ERROR al procesar la ref.MO9119 - MO9119 (MOB)
+Ref: MO9119 / Inicio: 2017-11-11 - 12:00:04 / Fin: 2017-11-11 - 12:00:04 / ERROR
+#### ERROR al procesar la ref.MO9120 - MO9120 (MOB)
+Ref: MO9120 / Inicio: 2017-11-11 - 12:00:04 / Fin: 2017-11-11 - 12:00:04 / ERROR
+#### ERROR al procesar la ref.MO9121 - MO9121 (MOB)
+Ref: MO9121 / Inicio: 2017-11-11 - 12:00:04 / Fin: 2017-11-11 - 12:00:05 / ERROR
+#### ERROR al procesar la ref.MO9122 - MO9122 (MOB)
+Ref: MO9122 / Inicio: 2017-11-11 - 12:00:05 / Fin: 2017-11-11 - 12:00:05 / ERROR
+#### ERROR al procesar la ref.MO9123 - MO9123 (MOB)
+Ref: MO9123 / Inicio: 2017-11-11 - 12:00:05 / Fin: 2017-11-11 - 12:00:05 / ERROR
+#### ERROR al procesar la ref.MO9124 - MO9124 (MOB)
+Ref: MO9124 / Inicio: 2017-11-11 - 12:00:05 / Fin: 2017-11-11 - 12:00:05 / ERROR
+#### ERROR al procesar la ref.MO9125 - MO9125 (MOB)
+Ref: MO9125 / Inicio: 2017-11-11 - 12:00:05 / Fin: 2017-11-11 - 12:00:05 / ERROR
+#### ERROR al procesar la ref.MO9126 - MO9126 (MOB)
+Ref: MO9126 / Inicio: 2017-11-11 - 12:00:05 / Fin: 2017-11-11 - 12:00:05 / ERROR
+#### ERROR al procesar la ref.MO9127 - MO9127 (MOB)
+Ref: MO9127 / Inicio: 2017-11-11 - 12:00:05 / Fin: 2017-11-11 - 12:00:05 / ERROR
+#### ERROR al procesar la ref.MO9128 - MO9128 (MOB)
+Ref: MO9128 / Inicio: 2017-11-11 - 12:00:05 / Fin: 2017-11-11 - 12:00:05 / ERROR
+#### ERROR al procesar la ref.MO9129 - MO9129 (MOB)
+Ref: MO9129 / Inicio: 2017-11-11 - 12:00:05 / Fin: 2017-11-11 - 12:00:05 / ERROR
+#### ERROR al procesar la ref.MO9130 - MO9130 (MOB)
+Ref: MO9130 / Inicio: 2017-11-11 - 12:00:05 / Fin: 2017-11-11 - 12:00:05 / ERROR
+#### ERROR al procesar la ref.MO9131 - MO9131 (MOB)
+Ref: MO9131 / Inicio: 2017-11-11 - 12:00:05 / Fin: 2017-11-11 - 12:00:05 / ERROR
+#### ERROR al procesar la ref.MO9132 - MO9132 (MOB)
+Ref: MO9132 / Inicio: 2017-11-11 - 12:00:05 / Fin: 2017-11-11 - 12:00:05 / ERROR
+#### ERROR al procesar la ref.MO9133 - MO9133 (MOB)
+Ref: MO9133 / Inicio: 2017-11-11 - 12:00:05 / Fin: 2017-11-11 - 12:00:05 / ERROR
+#### ERROR al procesar la ref.MO9134 - MO9134 (MOB)
+Ref: MO9134 / Inicio: 2017-11-11 - 12:00:05 / Fin: 2017-11-11 - 12:00:05 / ERROR
+#### ERROR al procesar la ref.MO9135 - MO9135 (MOB)
+Ref: MO9135 / Inicio: 2017-11-11 - 12:00:05 / Fin: 2017-11-11 - 12:00:05 / ERROR
+#### ERROR al procesar la ref.MO9137 - MO9137 (MOB)
+Ref: MO9137 / Inicio: 2017-11-11 - 12:00:05 / Fin: 2017-11-11 - 12:00:05 / ERROR
+#### ERROR al procesar la ref.MO9139 - MO9139 (MOB)
+Ref: MO9139 / Inicio: 2017-11-11 - 12:00:05 / Fin: 2017-11-11 - 12:00:05 / ERROR
+#### ERROR al procesar la ref.MO9140 - MO9140 (MOB)
+Ref: MO9140 / Inicio: 2017-11-11 - 12:00:05 / Fin: 2017-11-11 - 12:00:05 / ERROR
+#### ERROR al procesar la ref.MO9141 - MO9141 (MOB)
+Ref: MO9141 / Inicio: 2017-11-11 - 12:00:05 / Fin: 2017-11-11 - 12:00:05 / ERROR
+#### ERROR al procesar la ref.MO9142 - MO9142 (MOB)
+Ref: MO9142 / Inicio: 2017-11-11 - 12:00:05 / Fin: 2017-11-11 - 12:00:05 / ERROR
+#### ERROR al procesar la ref.MO9143 - MO9143 (MOB)
+Ref: MO9143 / Inicio: 2017-11-11 - 12:00:05 / Fin: 2017-11-11 - 12:00:05 / ERROR
+#### ERROR al procesar la ref.MO9144 - MO9144 (MOB)
+Ref: MO9144 / Inicio: 2017-11-11 - 12:00:05 / Fin: 2017-11-11 - 12:00:05 / ERROR
+#### ERROR al procesar la ref.MO9145 - MO9145 (MOB)
+Ref: MO9145 / Inicio: 2017-11-11 - 12:00:05 / Fin: 2017-11-11 - 12:00:05 / ERROR
+#### ERROR al procesar la ref.MO9146 - MO9146 (MOB)
+Ref: MO9146 / Inicio: 2017-11-11 - 12:00:05 / Fin: 2017-11-11 - 12:00:05 / ERROR
+#### ERROR al procesar la ref.MO9147 - MO9147 (MOB)
+Ref: MO9147 / Inicio: 2017-11-11 - 12:00:05 / Fin: 2017-11-11 - 12:00:05 / ERROR
+#### ERROR al procesar la ref.MO9148 - MO9148 (MOB)
+Ref: MO9148 / Inicio: 2017-11-11 - 12:00:05 / Fin: 2017-11-11 - 12:00:05 / ERROR
+#### ERROR al procesar la ref.MO9149 - MO9149 (MOB)
+Ref: MO9149 / Inicio: 2017-11-11 - 12:00:05 / Fin: 2017-11-11 - 12:00:05 / ERROR
+#### ERROR al procesar la ref.MO9150 - MO9150 (MOB)
+Ref: MO9150 / Inicio: 2017-11-11 - 12:00:05 / Fin: 2017-11-11 - 12:00:05 / ERROR
+#### ERROR al procesar la ref.MO9151 - MO9151 (MOB)
+Ref: MO9151 / Inicio: 2017-11-11 - 12:00:05 / Fin: 2017-11-11 - 12:00:05 / ERROR
+#### ERROR al procesar la ref.MO9152 - MO9152 (MOB)
+Ref: MO9152 / Inicio: 2017-11-11 - 12:00:05 / Fin: 2017-11-11 - 12:00:06 / ERROR
+#### ERROR al procesar la ref.MO9153 - MO9153 (MOB)
+Ref: MO9153 / Inicio: 2017-11-11 - 12:00:06 / Fin: 2017-11-11 - 12:00:06 / ERROR
+#### ERROR al procesar la ref.MO9154 - MO9154 (MOB)
+Ref: MO9154 / Inicio: 2017-11-11 - 12:00:06 / Fin: 2017-11-11 - 12:00:06 / ERROR
+#### ERROR al procesar la ref.MO9155 - MO9155 (MOB)
+Ref: MO9155 / Inicio: 2017-11-11 - 12:00:06 / Fin: 2017-11-11 - 12:00:06 / ERROR
+#### ERROR al procesar la ref.MO9157 - MO9157 (MOB)
+Ref: MO9157 / Inicio: 2017-11-11 - 12:00:06 / Fin: 2017-11-11 - 12:00:06 / ERROR
+#### ERROR al procesar la ref.MO9321 - MO9321 (MOB)
+Ref: MO9321 / Inicio: 2017-11-11 - 12:00:06 / Fin: 2017-11-11 - 12:00:06 / ERROR
+#### ERROR al procesar la ref.MO9322 - MO9322 (MOB)
+Ref: MO9322 / Inicio: 2017-11-11 - 12:00:06 / Fin: 2017-11-11 - 12:00:06 / ERROR
+#### ERROR al procesar la ref.MO9323 - MO9323 (MOB)
+Ref: MO9323 / Inicio: 2017-11-11 - 12:00:06 / Fin: 2017-11-11 - 12:00:06 / ERROR
+#### ERROR al procesar la ref.MO9324 - MO9324 (MOB)
+Ref: MO9324 / Inicio: 2017-11-11 - 12:00:06 / Fin: 2017-11-11 - 12:00:06 / ERROR
+#### ERROR al procesar la ref.MO9325 - MO9325 (MOB)
+Ref: MO9325 / Inicio: 2017-11-11 - 12:00:06 / Fin: 2017-11-11 - 12:00:06 / ERROR
+#### ERROR al procesar la ref.RE193F - RE193F (MOB)
+Ref: RE193F / Inicio: 2017-11-11 - 12:00:06 / Fin: 2017-11-11 - 12:00:06 / ERROR
+#### ERROR al procesar la ref.RE193M - RE193M (MOB)
+Ref: RE193M / Inicio: 2017-11-11 - 12:00:06 / Fin: 2017-11-11 - 12:00:06 / ERROR
+#### ERROR al procesar la ref.RE194F - RE194F (MOB)
+Ref: RE194F / Inicio: 2017-11-11 - 12:00:06 / Fin: 2017-11-11 - 12:00:06 / ERROR
+#### ERROR al procesar la ref.RE194M - RE194M (MOB)
+Ref: RE194M / Inicio: 2017-11-11 - 12:00:06 / Fin: 2017-11-11 - 12:00:06 / ERROR
+#### ERROR al procesar la ref.RE208X - RE208X (MOB)
+Ref: RE208X / Inicio: 2017-11-11 - 12:00:06 / Fin: 2017-11-11 - 12:00:06 / ERROR
+#### ERROR al procesar la ref.RE231F - RE231F (MOB)
+Ref: RE231F / Inicio: 2017-11-11 - 12:00:06 / Fin: 2017-11-11 - 12:00:06 / ERROR
+#### ERROR al procesar la ref.RE231M - RE231M (MOB)
+Ref: RE231M / Inicio: 2017-11-11 - 12:00:06 / Fin: 2017-11-11 - 12:00:06 / ERROR
+#### ERROR al procesar la ref.RE232F - RE232F (MOB)
+Ref: RE232F / Inicio: 2017-11-11 - 12:00:06 / Fin: 2017-11-11 - 12:00:06 / ERROR
+#### ERROR al procesar la ref.RE232M - RE232M (MOB)
+Ref: RE232M / Inicio: 2017-11-11 - 12:00:06 / Fin: 2017-11-11 - 12:00:06 / ERROR
+#### ERROR al procesar la ref.RU140F - RU140F (MOB)
+Ref: RU140F / Inicio: 2017-11-11 - 12:00:06 / Fin: 2017-11-11 - 12:00:06 / ERROR
+#### ERROR al procesar la ref.RU140M - RU140M (MOB)
+Ref: RU140M / Inicio: 2017-11-11 - 12:00:06 / Fin: 2017-11-11 - 12:00:06 / ERROR
+
+***************************************************************************
+CONSULTA DE STOCK DE TODOS LOS ARTÍCULOS DE MOB:
+Proceso finalizado el 2017-11-11, a las 12:00:06
+
+CONSULTA DE STOCK DE TODOS LOS ARTÍCULOS DE MOB:
+Referencias de las que no se ha podido obtener stock de competidores por Errores de Proceso
+Resultados del Segundo Intento
+Proceso iniciado el 2017-11-11, a las 12:00:06
+***************************************************************************
+
+#### ERROR al procesar la ref.MO8953 - MO8953 (MOB)
+Ref: MO8953 / Inicio: 2017-11-11 - 12:00:06 / Fin: 2017-11-11 - 12:00:06 / ERROR
+#### ERROR al procesar la ref.MO8954 - MO8954 (MOB)
+Ref: MO8954 / Inicio: 2017-11-11 - 12:00:06 / Fin: 2017-11-11 - 12:00:06 / ERROR
+#### ERROR al procesar la ref.MO8957 - MO8957 (MOB)
+Ref: MO8957 / Inicio: 2017-11-11 - 12:00:06 / Fin: 2017-11-11 - 12:00:06 / ERROR
+#### ERROR al procesar la ref.MO8958 - MO8958 (MOB)
+Ref: MO8958 / Inicio: 2017-11-11 - 12:00:06 / Fin: 2017-11-11 - 12:00:06 / ERROR
+#### ERROR al procesar la ref.MO8960 - MO8960 (MOB)
+Ref: MO8960 / Inicio: 2017-11-11 - 12:00:06 / Fin: 2017-11-11 - 12:00:06 / ERROR
+#### ERROR al procesar la ref.MO8961 - MO8961 (MOB)
+Ref: MO8961 / Inicio: 2017-11-11 - 12:00:06 / Fin: 2017-11-11 - 12:00:06 / ERROR
+#### ERROR al procesar la ref.MO8962 - MO8962 (MOB)
+Ref: MO8962 / Inicio: 2017-11-11 - 12:00:06 / Fin: 2017-11-11 - 12:00:06 / ERROR
+#### ERROR al procesar la ref.MO8964 - MO8964 (MOB)
+Ref: MO8964 / Inicio: 2017-11-11 - 12:00:06 / Fin: 2017-11-11 - 12:00:06 / ERROR
+#### ERROR al procesar la ref.MO8965 - MO8965 (MOB)
+Ref: MO8965 / Inicio: 2017-11-11 - 12:00:06 / Fin: 2017-11-11 - 12:00:07 / ERROR
+#### ERROR al procesar la ref.MO8966 - MO8966 (MOB)
+Ref: MO8966 / Inicio: 2017-11-11 - 12:00:07 / Fin: 2017-11-11 - 12:00:07 / ERROR
+#### ERROR al procesar la ref.MO8967 - MO8967 (MOB)
+Ref: MO8967 / Inicio: 2017-11-11 - 12:00:07 / Fin: 2017-11-11 - 12:00:07 / ERROR
+#### ERROR al procesar la ref.MO8968 - MO8968 (MOB)
+Ref: MO8968 / Inicio: 2017-11-11 - 12:00:07 / Fin: 2017-11-11 - 12:00:07 / ERROR
+#### ERROR al procesar la ref.MO8969 - MO8969 (MOB)
+Ref: MO8969 / Inicio: 2017-11-11 - 12:00:07 / Fin: 2017-11-11 - 12:00:07 / ERROR
+#### ERROR al procesar la ref.MO8970 - MO8970 (MOB)
+Ref: MO8970 / Inicio: 2017-11-11 - 12:00:07 / Fin: 2017-11-11 - 12:00:07 / ERROR
+#### ERROR al procesar la ref.MO8972 - MO8972 (MOB)
+Ref: MO8972 / Inicio: 2017-11-11 - 12:00:07 / Fin: 2017-11-11 - 12:00:07 / ERROR
+#### ERROR al procesar la ref.MO8973 - MO8973 (MOB)
+Ref: MO8973 / Inicio: 2017-11-11 - 12:00:07 / Fin: 2017-11-11 - 12:00:07 / ERROR
+#### ERROR al procesar la ref.MO8974 - MO8974 (MOB)
+Ref: MO8974 / Inicio: 2017-11-11 - 12:00:07 / Fin: 2017-11-11 - 12:00:07 / ERROR
+#### ERROR al procesar la ref.MO8975 - MO8975 (MOB)
+Ref: MO8975 / Inicio: 2017-11-11 - 12:00:07 / Fin: 2017-11-11 - 12:00:07 / ERROR
+#### ERROR al procesar la ref.MO8977 - MO8977 (MOB)
+Ref: MO8977 / Inicio: 2017-11-11 - 12:00:07 / Fin: 2017-11-11 - 12:00:07 / ERROR
+#### ERROR al procesar la ref.MO8979 - MO8979 (MOB)
+Ref: MO8979 / Inicio: 2017-11-11 - 12:00:07 / Fin: 2017-11-11 - 12:00:07 / ERROR
+#### ERROR al procesar la ref.MO8980 - MO8980 (MOB)
+Ref: MO8980 / Inicio: 2017-11-11 - 12:00:07 / Fin: 2017-11-11 - 12:00:07 / ERROR
+#### ERROR al procesar la ref.MO8982 - MO8982 (MOB)
+Ref: MO8982 / Inicio: 2017-11-11 - 12:00:07 / Fin: 2017-11-11 - 12:00:07 / ERROR
+#### ERROR al procesar la ref.MO8984 - MO8984 (MOB)
+Ref: MO8984 / Inicio: 2017-11-11 - 12:00:07 / Fin: 2017-11-11 - 12:00:07 / ERROR
+#### ERROR al procesar la ref.MO8986 - MO8986 (MOB)
+Ref: MO8986 / Inicio: 2017-11-11 - 12:00:07 / Fin: 2017-11-11 - 12:00:07 / ERROR
+#### ERROR al procesar la ref.MO8987 - MO8987 (MOB)
+Ref: MO8987 / Inicio: 2017-11-11 - 12:00:07 / Fin: 2017-11-11 - 12:00:07 / ERROR
+#### ERROR al procesar la ref.MO8988 - MO8988 (MOB)
+Ref: MO8988 / Inicio: 2017-11-11 - 12:00:07 / Fin: 2017-11-11 - 12:00:07 / ERROR
+#### ERROR al procesar la ref.MO8991 - MO8991 (MOB)
+Ref: MO8991 / Inicio: 2017-11-11 - 12:00:07 / Fin: 2017-11-11 - 12:00:07 / ERROR
+#### ERROR al procesar la ref.MO8995 - MO8995 (MOB)
+Ref: MO8995 / Inicio: 2017-11-11 - 12:00:07 / Fin: 2017-11-11 - 12:00:07 / ERROR
+#### ERROR al procesar la ref.MO8996 - MO8996 (MOB)
+Ref: MO8996 / Inicio: 2017-11-11 - 12:00:07 / Fin: 2017-11-11 - 12:00:07 / ERROR
+#### ERROR al procesar la ref.MO9000 - MO9000 (MOB)
+Ref: MO9000 / Inicio: 2017-11-11 - 12:00:07 / Fin: 2017-11-11 - 12:00:07 / ERROR
+#### ERROR al procesar la ref.MO9002 - MO9002 (MOB)
+Ref: MO9002 / Inicio: 2017-11-11 - 12:00:07 / Fin: 2017-11-11 - 12:00:07 / ERROR
+#### ERROR al procesar la ref.MO9005 - MO9005 (MOB)
+Ref: MO9005 / Inicio: 2017-11-11 - 12:00:07 / Fin: 2017-11-11 - 12:00:07 / ERROR
+#### ERROR al procesar la ref.MO9008 - MO9008 (MOB)
+Ref: MO9008 / Inicio: 2017-11-11 - 12:00:07 / Fin: 2017-11-11 - 12:00:07 / ERROR
+#### ERROR al procesar la ref.MO9010 - MO9010 (MOB)
+Ref: MO9010 / Inicio: 2017-11-11 - 12:00:07 / Fin: 2017-11-11 - 12:00:07 / ERROR
+#### ERROR al procesar la ref.MO9011 - MO9011 (MOB)
+Ref: MO9011 / Inicio: 2017-11-11 - 12:00:07 / Fin: 2017-11-11 - 12:00:07 / ERROR
+#### ERROR al procesar la ref.MO9012 - MO9012 (MOB)
+Ref: MO9012 / Inicio: 2017-11-11 - 12:00:07 / Fin: 2017-11-11 - 12:00:07 / ERROR
+#### ERROR al procesar la ref.MO9014 - MO9014 (MOB)
+Ref: MO9014 / Inicio: 2017-11-11 - 12:00:07 / Fin: 2017-11-11 - 12:00:08 / ERROR
+#### ERROR al procesar la ref.MO9015 - MO9015 (MOB)
+Ref: MO9015 / Inicio: 2017-11-11 - 12:00:08 / Fin: 2017-11-11 - 12:00:08 / ERROR
+#### ERROR al procesar la ref.MO9017 - MO9017 (MOB)
+Ref: MO9017 / Inicio: 2017-11-11 - 12:00:08 / Fin: 2017-11-11 - 12:00:08 / ERROR
+#### ERROR al procesar la ref.MO9018 - MO9018 (MOB)
+Ref: MO9018 / Inicio: 2017-11-11 - 12:00:08 / Fin: 2017-11-11 - 12:00:08 / ERROR
+#### ERROR al procesar la ref.MO9020 - MO9020 (MOB)
+Ref: MO9020 / Inicio: 2017-11-11 - 12:00:08 / Fin: 2017-11-11 - 12:00:08 / ERROR
+#### ERROR al procesar la ref.MO9021 - MO9021 (MOB)
+Ref: MO9021 / Inicio: 2017-11-11 - 12:00:08 / Fin: 2017-11-11 - 12:00:08 / ERROR
+#### ERROR al procesar la ref.MO9023 - MO9023 (MOB)
+Ref: MO9023 / Inicio: 2017-11-11 - 12:00:08 / Fin: 2017-11-11 - 12:00:08 / ERROR
+#### ERROR al procesar la ref.MO9024 - MO9024 (MOB)
+Ref: MO9024 / Inicio: 2017-11-11 - 12:00:08 / Fin: 2017-11-11 - 12:00:08 / ERROR
+#### ERROR al procesar la ref.MO9025 - MO9025 (MOB)
+Ref: MO9025 / Inicio: 2017-11-11 - 12:00:08 / Fin: 2017-11-11 - 12:00:08 / ERROR
+#### ERROR al procesar la ref.MO9026 - MO9026 (MOB)
+Ref: MO9026 / Inicio: 2017-11-11 - 12:00:08 / Fin: 2017-11-11 - 12:00:08 / ERROR
+#### ERROR al procesar la ref.MO9027 - MO9027 (MOB)
+Ref: MO9027 / Inicio: 2017-11-11 - 12:00:08 / Fin: 2017-11-11 - 12:00:08 / ERROR
+#### ERROR al procesar la ref.MO9028 - MO9028 (MOB)
+Ref: MO9028 / Inicio: 2017-11-11 - 12:00:08 / Fin: 2017-11-11 - 12:00:08 / ERROR
+#### ERROR al procesar la ref.MO9029 - MO9029 (MOB)
+Ref: MO9029 / Inicio: 2017-11-11 - 12:00:08 / Fin: 2017-11-11 - 12:00:08 / ERROR
+#### ERROR al procesar la ref.MO9030 - MO9030 (MOB)
+Ref: MO9030 / Inicio: 2017-11-11 - 12:00:08 / Fin: 2017-11-11 - 12:00:08 / ERROR
+#### ERROR al procesar la ref.MO9031 - MO9031 (MOB)
+Ref: MO9031 / Inicio: 2017-11-11 - 12:00:08 / Fin: 2017-11-11 - 12:00:08 / ERROR
+#### ERROR al procesar la ref.MO9032 - MO9032 (MOB)
+Ref: MO9032 / Inicio: 2017-11-11 - 12:00:08 / Fin: 2017-11-11 - 12:00:08 / ERROR
+#### ERROR al procesar la ref.MO9033 - MO9033 (MOB)
+Ref: MO9033 / Inicio: 2017-11-11 - 12:00:08 / Fin: 2017-11-11 - 12:00:08 / ERROR
+#### ERROR al procesar la ref.MO9035 - MO9035 (MOB)
+Ref: MO9035 / Inicio: 2017-11-11 - 12:00:08 / Fin: 2017-11-11 - 12:00:08 / ERROR
+#### ERROR al procesar la ref.MO9037 - MO9037 (MOB)
+Ref: MO9037 / Inicio: 2017-11-11 - 12:00:08 / Fin: 2017-11-11 - 12:00:08 / ERROR
+#### ERROR al procesar la ref.MO9038 - MO9038 (MOB)
+Ref: MO9038 / Inicio: 2017-11-11 - 12:00:08 / Fin: 2017-11-11 - 12:00:08 / ERROR
+#### ERROR al procesar la ref.MO9039 - MO9039 (MOB)
+Ref: MO9039 / Inicio: 2017-11-11 - 12:00:08 / Fin: 2017-11-11 - 12:00:08 / ERROR
+#### ERROR al procesar la ref.MO9040 - MO9040 (MOB)
+Ref: MO9040 / Inicio: 2017-11-11 - 12:00:08 / Fin: 2017-11-11 - 12:00:08 / ERROR
+#### ERROR al procesar la ref.MO9041 - MO9041 (MOB)
+Ref: MO9041 / Inicio: 2017-11-11 - 12:00:08 / Fin: 2017-11-11 - 12:00:08 / ERROR
+#### ERROR al procesar la ref.MO9042 - MO9042 (MOB)
+Ref: MO9042 / Inicio: 2017-11-11 - 12:00:08 / Fin: 2017-11-11 - 12:00:08 / ERROR
+#### ERROR al procesar la ref.MO9043 - MO9043 (MOB)
+Ref: MO9043 / Inicio: 2017-11-11 - 12:00:08 / Fin: 2017-11-11 - 12:00:08 / ERROR
+#### ERROR al procesar la ref.MO9045 - MO9045 (MOB)
+Ref: MO9045 / Inicio: 2017-11-11 - 12:00:08 / Fin: 2017-11-11 - 12:00:08 / ERROR
+#### ERROR al procesar la ref.MO9046 - MO9046 (MOB)
+Ref: MO9046 / Inicio: 2017-11-11 - 12:00:08 / Fin: 2017-11-11 - 12:00:08 / ERROR
+#### ERROR al procesar la ref.MO9047 - MO9047 (MOB)
+Ref: MO9047 / Inicio: 2017-11-11 - 12:00:08 / Fin: 2017-11-11 - 12:00:08 / ERROR
+#### ERROR al procesar la ref.MO9049 - MO9049 (MOB)
+Ref: MO9049 / Inicio: 2017-11-11 - 12:00:08 / Fin: 2017-11-11 - 12:00:08 / ERROR
+#### ERROR al procesar la ref.MO9050 - MO9050 (MOB)
+Ref: MO9050 / Inicio: 2017-11-11 - 12:00:08 / Fin: 2017-11-11 - 12:00:09 / ERROR
+#### ERROR al procesar la ref.MO9051 - MO9051 (MOB)
+Ref: MO9051 / Inicio: 2017-11-11 - 12:00:09 / Fin: 2017-11-11 - 12:00:09 / ERROR
+#### ERROR al procesar la ref.MO9052 - MO9052 (MOB)
+Ref: MO9052 / Inicio: 2017-11-11 - 12:00:09 / Fin: 2017-11-11 - 12:00:09 / ERROR
+#### ERROR al procesar la ref.MO9053 - MO9053 (MOB)
+Ref: MO9053 / Inicio: 2017-11-11 - 12:00:09 / Fin: 2017-11-11 - 12:00:09 / ERROR
+#### ERROR al procesar la ref.MO9054 - MO9054 (MOB)
+Ref: MO9054 / Inicio: 2017-11-11 - 12:00:09 / Fin: 2017-11-11 - 12:00:09 / ERROR
+#### ERROR al procesar la ref.MO9055 - MO9055 (MOB)
+Ref: MO9055 / Inicio: 2017-11-11 - 12:00:09 / Fin: 2017-11-11 - 12:00:09 / ERROR
+#### ERROR al procesar la ref.MO9057 - MO9057 (MOB)
+Ref: MO9057 / Inicio: 2017-11-11 - 12:00:09 / Fin: 2017-11-11 - 12:00:09 / ERROR
+#### ERROR al procesar la ref.MO9059 - MO9059 (MOB)
+Ref: MO9059 / Inicio: 2017-11-11 - 12:00:09 / Fin: 2017-11-11 - 12:00:09 / ERROR
+#### ERROR al procesar la ref.MO9060 - MO9060 (MOB)
+Ref: MO9060 / Inicio: 2017-11-11 - 12:00:09 / Fin: 2017-11-11 - 12:00:09 / ERROR
+#### ERROR al procesar la ref.MO9061 - MO9061 (MOB)
+Ref: MO9061 / Inicio: 2017-11-11 - 12:00:09 / Fin: 2017-11-11 - 12:00:09 / ERROR
+#### ERROR al procesar la ref.MO9062 - MO9062 (MOB)
+Ref: MO9062 / Inicio: 2017-11-11 - 12:00:09 / Fin: 2017-11-11 - 12:00:09 / ERROR
+#### ERROR al procesar la ref.MO9066 - MO9066 (MOB)
+Ref: MO9066 / Inicio: 2017-11-11 - 12:00:09 / Fin: 2017-11-11 - 12:00:09 / ERROR
+#### ERROR al procesar la ref.MO9067 - MO9067 (MOB)
+Ref: MO9067 / Inicio: 2017-11-11 - 12:00:09 / Fin: 2017-11-11 - 12:00:09 / ERROR
+#### ERROR al procesar la ref.MO9068 - MO9068 (MOB)
+Ref: MO9068 / Inicio: 2017-11-11 - 12:00:09 / Fin: 2017-11-11 - 12:00:09 / ERROR
+#### ERROR al procesar la ref.MO9069 - MO9069 (MOB)
+Ref: MO9069 / Inicio: 2017-11-11 - 12:00:09 / Fin: 2017-11-11 - 12:00:09 / ERROR
+#### ERROR al procesar la ref.MO9070 - MO9070 (MOB)
+Ref: MO9070 / Inicio: 2017-11-11 - 12:00:09 / Fin: 2017-11-11 - 12:00:09 / ERROR
+#### ERROR al procesar la ref.MO9073 - MO9073 (MOB)
+Ref: MO9073 / Inicio: 2017-11-11 - 12:00:09 / Fin: 2017-11-11 - 12:00:09 / ERROR
+#### ERROR al procesar la ref.MO9074 - MO9074 (MOB)
+Ref: MO9074 / Inicio: 2017-11-11 - 12:00:09 / Fin: 2017-11-11 - 12:00:09 / ERROR
+#### ERROR al procesar la ref.MO9075 - MO9075 (MOB)
+Ref: MO9075 / Inicio: 2017-11-11 - 12:00:09 / Fin: 2017-11-11 - 12:00:09 / ERROR
+#### ERROR al procesar la ref.MO9076 - MO9076 (MOB)
+Ref: MO9076 / Inicio: 2017-11-11 - 12:00:09 / Fin: 2017-11-11 - 12:00:09 / ERROR
+#### ERROR al procesar la ref.MO9077 - MO9077 (MOB)
+Ref: MO9077 / Inicio: 2017-11-11 - 12:00:09 / Fin: 2017-11-11 - 12:00:09 / ERROR
+#### ERROR al procesar la ref.MO9078 - MO9078 (MOB)
+Ref: MO9078 / Inicio: 2017-11-11 - 12:00:09 / Fin: 2017-11-11 - 12:00:09 / ERROR
+#### ERROR al procesar la ref.MO9079 - MO9079 (MOB)
+Ref: MO9079 / Inicio: 2017-11-11 - 12:00:09 / Fin: 2017-11-11 - 12:00:09 / ERROR
+#### ERROR al procesar la ref.MO9080 - MO9080 (MOB)
+Ref: MO9080 / Inicio: 2017-11-11 - 12:00:09 / Fin: 2017-11-11 - 12:00:09 / ERROR
+#### ERROR al procesar la ref.MO9081 - MO9081 (MOB)
+Ref: MO9081 / Inicio: 2017-11-11 - 12:00:09 / Fin: 2017-11-11 - 12:00:09 / ERROR
+#### ERROR al procesar la ref.MO9082-04-L - MO9082-04-L (MOB)
+Ref: MO9082-04-L / Inicio: 2017-11-11 - 12:00:09 / Fin: 2017-11-11 - 12:00:09 / ERROR
+#### ERROR al procesar la ref.MO9082-04-M - MO9082-04-M (MOB)
+Ref: MO9082-04-M / Inicio: 2017-11-11 - 12:00:09 / Fin: 2017-11-11 - 12:00:09 / ERROR
+#### ERROR al procesar la ref.MO9083 - MO9083 (MOB)
+Ref: MO9083 / Inicio: 2017-11-11 - 12:00:09 / Fin: 2017-11-11 - 12:00:09 / ERROR
+#### ERROR al procesar la ref.MO9084 - MO9084 (MOB)
+Ref: MO9084 / Inicio: 2017-11-11 - 12:00:09 / Fin: 2017-11-11 - 12:00:09 / ERROR
+#### ERROR al procesar la ref.MO9085 - MO9085 (MOB)
+Ref: MO9085 / Inicio: 2017-11-11 - 12:00:09 / Fin: 2017-11-11 - 12:00:10 / ERROR
+#### ERROR al procesar la ref.MO9086 - MO9086 (MOB)
+Ref: MO9086 / Inicio: 2017-11-11 - 12:00:10 / Fin: 2017-11-11 - 12:00:10 / ERROR
+#### ERROR al procesar la ref.MO9087 - MO9087 (MOB)
+Ref: MO9087 / Inicio: 2017-11-11 - 12:00:10 / Fin: 2017-11-11 - 12:00:10 / ERROR
+#### ERROR al procesar la ref.MO9088 - MO9088 (MOB)
+Ref: MO9088 / Inicio: 2017-11-11 - 12:00:10 / Fin: 2017-11-11 - 12:00:10 / ERROR
+#### ERROR al procesar la ref.MO9089 - MO9089 (MOB)
+Ref: MO9089 / Inicio: 2017-11-11 - 12:00:10 / Fin: 2017-11-11 - 12:00:10 / ERROR
+#### ERROR al procesar la ref.MO9090 - MO9090 (MOB)
+Ref: MO9090 / Inicio: 2017-11-11 - 12:00:10 / Fin: 2017-11-11 - 12:00:10 / ERROR
+#### ERROR al procesar la ref.MO9091 - MO9091 (MOB)
+Ref: MO9091 / Inicio: 2017-11-11 - 12:00:10 / Fin: 2017-11-11 - 12:00:10 / ERROR
+#### ERROR al procesar la ref.MO9092 - MO9092 (MOB)
+Ref: MO9092 / Inicio: 2017-11-11 - 12:00:10 / Fin: 2017-11-11 - 12:00:10 / ERROR
+#### ERROR al procesar la ref.MO9093 - MO9093 (MOB)
+Ref: MO9093 / Inicio: 2017-11-11 - 12:00:10 / Fin: 2017-11-11 - 12:00:10 / ERROR
+#### ERROR al procesar la ref.MO9094 - MO9094 (MOB)
+Ref: MO9094 / Inicio: 2017-11-11 - 12:00:10 / Fin: 2017-11-11 - 12:00:10 / ERROR
+#### ERROR al procesar la ref.MO9095 - MO9095 (MOB)
+Ref: MO9095 / Inicio: 2017-11-11 - 12:00:10 / Fin: 2017-11-11 - 12:00:10 / ERROR
+#### ERROR al procesar la ref.MO9096 - MO9096 (MOB)
+Ref: MO9096 / Inicio: 2017-11-11 - 12:00:10 / Fin: 2017-11-11 - 12:00:10 / ERROR
+#### ERROR al procesar la ref.MO9097 - MO9097 (MOB)
+Ref: MO9097 / Inicio: 2017-11-11 - 12:00:10 / Fin: 2017-11-11 - 12:00:10 / ERROR
+#### ERROR al procesar la ref.MO9098 - MO9098 (MOB)
+Ref: MO9098 / Inicio: 2017-11-11 - 12:00:10 / Fin: 2017-11-11 - 12:00:10 / ERROR
+#### ERROR al procesar la ref.MO9099 - MO9099 (MOB)
+Ref: MO9099 / Inicio: 2017-11-11 - 12:00:10 / Fin: 2017-11-11 - 12:00:10 / ERROR
+#### ERROR al procesar la ref.MO9100 - MO9100 (MOB)
+Ref: MO9100 / Inicio: 2017-11-11 - 12:00:10 / Fin: 2017-11-11 - 12:00:10 / ERROR
+#### ERROR al procesar la ref.MO9101 - MO9101 (MOB)
+Ref: MO9101 / Inicio: 2017-11-11 - 12:00:10 / Fin: 2017-11-11 - 12:00:10 / ERROR
+#### ERROR al procesar la ref.MO9102 - MO9102 (MOB)
+Ref: MO9102 / Inicio: 2017-11-11 - 12:00:10 / Fin: 2017-11-11 - 12:00:10 / ERROR
+#### ERROR al procesar la ref.MO9103 - MO9103 (MOB)
+Ref: MO9103 / Inicio: 2017-11-11 - 12:00:10 / Fin: 2017-11-11 - 12:00:10 / ERROR
+#### ERROR al procesar la ref.MO9104 - MO9104 (MOB)
+Ref: MO9104 / Inicio: 2017-11-11 - 12:00:10 / Fin: 2017-11-11 - 12:00:10 / ERROR
+#### ERROR al procesar la ref.MO9105 - MO9105 (MOB)
+Ref: MO9105 / Inicio: 2017-11-11 - 12:00:10 / Fin: 2017-11-11 - 12:00:10 / ERROR
+#### ERROR al procesar la ref.MO9106 - MO9106 (MOB)
+Ref: MO9106 / Inicio: 2017-11-11 - 12:00:10 / Fin: 2017-11-11 - 12:00:10 / ERROR
+#### ERROR al procesar la ref.MO9107 - MO9107 (MOB)
+Ref: MO9107 / Inicio: 2017-11-11 - 12:00:10 / Fin: 2017-11-11 - 12:00:10 / ERROR
+#### ERROR al procesar la ref.MO9108 - MO9108 (MOB)
+Ref: MO9108 / Inicio: 2017-11-11 - 12:00:10 / Fin: 2017-11-11 - 12:00:10 / ERROR
+#### ERROR al procesar la ref.MO9109 - MO9109 (MOB)
+Ref: MO9109 / Inicio: 2017-11-11 - 12:00:10 / Fin: 2017-11-11 - 12:00:10 / ERROR
+#### ERROR al procesar la ref.MO9110 - MO9110 (MOB)
+Ref: MO9110 / Inicio: 2017-11-11 - 12:00:10 / Fin: 2017-11-11 - 12:00:10 / ERROR
+#### ERROR al procesar la ref.MO9111 - MO9111 (MOB)
+Ref: MO9111 / Inicio: 2017-11-11 - 12:00:10 / Fin: 2017-11-11 - 12:00:10 / ERROR
+#### ERROR al procesar la ref.MO9112 - MO9112 (MOB)
+Ref: MO9112 / Inicio: 2017-11-11 - 12:00:10 / Fin: 2017-11-11 - 12:00:10 / ERROR
+#### ERROR al procesar la ref.MO9113 - MO9113 (MOB)
+Ref: MO9113 / Inicio: 2017-11-11 - 12:00:10 / Fin: 2017-11-11 - 12:00:11 / ERROR
+#### ERROR al procesar la ref.MO9114 - MO9114 (MOB)
+Ref: MO9114 / Inicio: 2017-11-11 - 12:00:11 / Fin: 2017-11-11 - 12:00:11 / ERROR
+#### ERROR al procesar la ref.MO9116 - MO9116 (MOB)
+Ref: MO9116 / Inicio: 2017-11-11 - 12:00:11 / Fin: 2017-11-11 - 12:00:11 / ERROR
+#### ERROR al procesar la ref.MO9117 - MO9117 (MOB)
+Ref: MO9117 / Inicio: 2017-11-11 - 12:00:11 / Fin: 2017-11-11 - 12:00:11 / ERROR
+#### ERROR al procesar la ref.MO9118 - MO9118 (MOB)
+Ref: MO9118 / Inicio: 2017-11-11 - 12:00:11 / Fin: 2017-11-11 - 12:00:11 / ERROR
+#### ERROR al procesar la ref.MO9119 - MO9119 (MOB)
+Ref: MO9119 / Inicio: 2017-11-11 - 12:00:11 / Fin: 2017-11-11 - 12:00:11 / ERROR
+#### ERROR al procesar la ref.MO9120 - MO9120 (MOB)
+Ref: MO9120 / Inicio: 2017-11-11 - 12:00:11 / Fin: 2017-11-11 - 12:00:11 / ERROR
+#### ERROR al procesar la ref.MO9121 - MO9121 (MOB)
+Ref: MO9121 / Inicio: 2017-11-11 - 12:00:11 / Fin: 2017-11-11 - 12:00:11 / ERROR
+#### ERROR al procesar la ref.MO9122 - MO9122 (MOB)
+Ref: MO9122 / Inicio: 2017-11-11 - 12:00:11 / Fin: 2017-11-11 - 12:00:11 / ERROR
+#### ERROR al procesar la ref.MO9123 - MO9123 (MOB)
+Ref: MO9123 / Inicio: 2017-11-11 - 12:00:11 / Fin: 2017-11-11 - 12:00:11 / ERROR
+#### ERROR al procesar la ref.MO9124 - MO9124 (MOB)
+Ref: MO9124 / Inicio: 2017-11-11 - 12:00:11 / Fin: 2017-11-11 - 12:00:11 / ERROR
+#### ERROR al procesar la ref.MO9125 - MO9125 (MOB)
+Ref: MO9125 / Inicio: 2017-11-11 - 12:00:11 / Fin: 2017-11-11 - 12:00:11 / ERROR
+#### ERROR al procesar la ref.MO9126 - MO9126 (MOB)
+Ref: MO9126 / Inicio: 2017-11-11 - 12:00:11 / Fin: 2017-11-11 - 12:00:11 / ERROR
+#### ERROR al procesar la ref.MO9127 - MO9127 (MOB)
+Ref: MO9127 / Inicio: 2017-11-11 - 12:00:11 / Fin: 2017-11-11 - 12:00:11 / ERROR
+#### ERROR al procesar la ref.MO9128 - MO9128 (MOB)
+Ref: MO9128 / Inicio: 2017-11-11 - 12:00:11 / Fin: 2017-11-11 - 12:00:11 / ERROR
+#### ERROR al procesar la ref.MO9129 - MO9129 (MOB)
+Ref: MO9129 / Inicio: 2017-11-11 - 12:00:11 / Fin: 2017-11-11 - 12:00:11 / ERROR
+#### ERROR al procesar la ref.MO9130 - MO9130 (MOB)
+Ref: MO9130 / Inicio: 2017-11-11 - 12:00:11 / Fin: 2017-11-11 - 12:00:11 / ERROR
+#### ERROR al procesar la ref.MO9131 - MO9131 (MOB)
+Ref: MO9131 / Inicio: 2017-11-11 - 12:00:11 / Fin: 2017-11-11 - 12:00:11 / ERROR
+#### ERROR al procesar la ref.MO9132 - MO9132 (MOB)
+Ref: MO9132 / Inicio: 2017-11-11 - 12:00:11 / Fin: 2017-11-11 - 12:00:11 / ERROR
+#### ERROR al procesar la ref.MO9133 - MO9133 (MOB)
+Ref: MO9133 / Inicio: 2017-11-11 - 12:00:11 / Fin: 2017-11-11 - 12:00:11 / ERROR
+#### ERROR al procesar la ref.MO9134 - MO9134 (MOB)
+Ref: MO9134 / Inicio: 2017-11-11 - 12:00:11 / Fin: 2017-11-11 - 12:00:11 / ERROR
+#### ERROR al procesar la ref.MO9135 - MO9135 (MOB)
+Ref: MO9135 / Inicio: 2017-11-11 - 12:00:11 / Fin: 2017-11-11 - 12:00:11 / ERROR
+#### ERROR al procesar la ref.MO9137 - MO9137 (MOB)
+Ref: MO9137 / Inicio: 2017-11-11 - 12:00:11 / Fin: 2017-11-11 - 12:00:11 / ERROR
+#### ERROR al procesar la ref.MO9139 - MO9139 (MOB)
+Ref: MO9139 / Inicio: 2017-11-11 - 12:00:11 / Fin: 2017-11-11 - 12:00:11 / ERROR
+#### ERROR al procesar la ref.MO9140 - MO9140 (MOB)
+Ref: MO9140 / Inicio: 2017-11-11 - 12:00:11 / Fin: 2017-11-11 - 12:00:11 / ERROR
+#### ERROR al procesar la ref.MO9141 - MO9141 (MOB)
+Ref: MO9141 / Inicio: 2017-11-11 - 12:00:11 / Fin: 2017-11-11 - 12:00:11 / ERROR
+#### ERROR al procesar la ref.MO9142 - MO9142 (MOB)
+Ref: MO9142 / Inicio: 2017-11-11 - 12:00:11 / Fin: 2017-11-11 - 12:00:11 / ERROR
+#### ERROR al procesar la ref.MO9143 - MO9143 (MOB)
+Ref: MO9143 / Inicio: 2017-11-11 - 12:00:11 / Fin: 2017-11-11 - 12:00:11 / ERROR
+#### ERROR al procesar la ref.MO9144 - MO9144 (MOB)
+Ref: MO9144 / Inicio: 2017-11-11 - 12:00:11 / Fin: 2017-11-11 - 12:00:11 / ERROR
+#### ERROR al procesar la ref.MO9145 - MO9145 (MOB)
+Ref: MO9145 / Inicio: 2017-11-11 - 12:00:11 / Fin: 2017-11-11 - 12:00:12 / ERROR
+#### ERROR al procesar la ref.MO9146 - MO9146 (MOB)
+Ref: MO9146 / Inicio: 2017-11-11 - 12:00:12 / Fin: 2017-11-11 - 12:00:12 / ERROR
+#### ERROR al procesar la ref.MO9147 - MO9147 (MOB)
+Ref: MO9147 / Inicio: 2017-11-11 - 12:00:12 / Fin: 2017-11-11 - 12:00:12 / ERROR
+#### ERROR al procesar la ref.MO9148 - MO9148 (MOB)
+Ref: MO9148 / Inicio: 2017-11-11 - 12:00:12 / Fin: 2017-11-11 - 12:00:12 / ERROR
+#### ERROR al procesar la ref.MO9149 - MO9149 (MOB)
+Ref: MO9149 / Inicio: 2017-11-11 - 12:00:12 / Fin: 2017-11-11 - 12:00:12 / ERROR
+#### ERROR al procesar la ref.MO9150 - MO9150 (MOB)
+Ref: MO9150 / Inicio: 2017-11-11 - 12:00:12 / Fin: 2017-11-11 - 12:00:12 / ERROR
+#### ERROR al procesar la ref.MO9151 - MO9151 (MOB)
+Ref: MO9151 / Inicio: 2017-11-11 - 12:00:12 / Fin: 2017-11-11 - 12:00:12 / ERROR
+#### ERROR al procesar la ref.MO9152 - MO9152 (MOB)
+Ref: MO9152 / Inicio: 2017-11-11 - 12:00:12 / Fin: 2017-11-11 - 12:00:12 / ERROR
+#### ERROR al procesar la ref.MO9153 - MO9153 (MOB)
+Ref: MO9153 / Inicio: 2017-11-11 - 12:00:12 / Fin: 2017-11-11 - 12:00:12 / ERROR
+#### ERROR al procesar la ref.MO9154 - MO9154 (MOB)
+Ref: MO9154 / Inicio: 2017-11-11 - 12:00:12 / Fin: 2017-11-11 - 12:00:12 / ERROR
+#### ERROR al procesar la ref.MO9155 - MO9155 (MOB)
+Ref: MO9155 / Inicio: 2017-11-11 - 12:00:12 / Fin: 2017-11-11 - 12:00:12 / ERROR
+#### ERROR al procesar la ref.MO9157 - MO9157 (MOB)
+Ref: MO9157 / Inicio: 2017-11-11 - 12:00:12 / Fin: 2017-11-11 - 12:00:12 / ERROR
+#### ERROR al procesar la ref.MO9321 - MO9321 (MOB)
+Ref: MO9321 / Inicio: 2017-11-11 - 12:00:12 / Fin: 2017-11-11 - 12:00:12 / ERROR
+#### ERROR al procesar la ref.MO9322 - MO9322 (MOB)
+Ref: MO9322 / Inicio: 2017-11-11 - 12:00:12 / Fin: 2017-11-11 - 12:00:12 / ERROR
+#### ERROR al procesar la ref.MO9323 - MO9323 (MOB)
+Ref: MO9323 / Inicio: 2017-11-11 - 12:00:12 / Fin: 2017-11-11 - 12:00:12 / ERROR
+#### ERROR al procesar la ref.MO9324 - MO9324 (MOB)
+Ref: MO9324 / Inicio: 2017-11-11 - 12:00:12 / Fin: 2017-11-11 - 12:00:12 / ERROR
+#### ERROR al procesar la ref.MO9325 - MO9325 (MOB)
+Ref: MO9325 / Inicio: 2017-11-11 - 12:00:12 / Fin: 2017-11-11 - 12:00:12 / ERROR
+#### ERROR al procesar la ref.RE193F - RE193F (MOB)
+Ref: RE193F / Inicio: 2017-11-11 - 12:00:12 / Fin: 2017-11-11 - 12:00:12 / ERROR
+#### ERROR al procesar la ref.RE193M - RE193M (MOB)
+Ref: RE193M / Inicio: 2017-11-11 - 12:00:12 / Fin: 2017-11-11 - 12:00:12 / ERROR
+#### ERROR al procesar la ref.RE194F - RE194F (MOB)
+Ref: RE194F / Inicio: 2017-11-11 - 12:00:12 / Fin: 2017-11-11 - 12:00:12 / ERROR
+#### ERROR al procesar la ref.RE194M - RE194M (MOB)
+Ref: RE194M / Inicio: 2017-11-11 - 12:00:12 / Fin: 2017-11-11 - 12:00:12 / ERROR
+#### ERROR al procesar la ref.RE208X - RE208X (MOB)
+Ref: RE208X / Inicio: 2017-11-11 - 12:00:12 / Fin: 2017-11-11 - 12:00:12 / ERROR
+#### ERROR al procesar la ref.RE231F - RE231F (MOB)
+Ref: RE231F / Inicio: 2017-11-11 - 12:00:12 / Fin: 2017-11-11 - 12:00:12 / ERROR
+#### ERROR al procesar la ref.RE231M - RE231M (MOB)
+Ref: RE231M / Inicio: 2017-11-11 - 12:00:12 / Fin: 2017-11-11 - 12:00:12 / ERROR
+#### ERROR al procesar la ref.RE232F - RE232F (MOB)
+Ref: RE232F / Inicio: 2017-11-11 - 12:00:12 / Fin: 2017-11-11 - 12:00:12 / ERROR
+#### ERROR al procesar la ref.RE232M - RE232M (MOB)
+Ref: RE232M / Inicio: 2017-11-11 - 12:00:12 / Fin: 2017-11-11 - 12:00:12 / ERROR
+#### ERROR al procesar la ref.RU140F - RU140F (MOB)
+Ref: RU140F / Inicio: 2017-11-11 - 12:00:12 / Fin: 2017-11-11 - 12:00:12 / ERROR
+#### ERROR al procesar la ref.RU140M - RU140M (MOB)
+Ref: RU140M / Inicio: 2017-11-11 - 12:00:12 / Fin: 2017-11-11 - 12:00:12 / ERROR
+
+***************************************************************************
+CONSULTA DE STOCK DE TODOS LOS ARTÍCULOS DE MOB:
+Proceso finalizado el 2017-11-11, a las 12:00:12

@@ -1,0 +1,679 @@
+CONSULTA DE STOCK DE TODOS LOS ARTÍCULOS DE GIVING:
+Proceso iniciado el 2017-11-14, a las 11:36:24
+***************************************************************************
+
+#### ERROR al procesar la ref.2552 - 2552 (GIVING)
+Ref: 2552 / Inicio: 2017-11-14 - 11:36:24 / Fin: 2017-11-14 - 11:36:24 / ERROR
+#### ERROR al procesar la ref.2553 - 2553 (GIVING)
+Ref: 2553 / Inicio: 2017-11-14 - 11:36:24 / Fin: 2017-11-14 - 11:36:24 / ERROR
+#### ERROR al procesar la ref.2555 - 2555 (GIVING)
+Ref: 2555 / Inicio: 2017-11-14 - 11:36:24 / Fin: 2017-11-14 - 11:36:24 / ERROR
+#### ERROR al procesar la ref.2573 - 2573 (GIVING)
+Ref: 2573 / Inicio: 2017-11-14 - 11:36:24 / Fin: 2017-11-14 - 11:36:24 / ERROR
+#### ERROR al procesar la ref.2580 - 2580 (GIVING)
+Ref: 2580 / Inicio: 2017-11-14 - 11:36:24 / Fin: 2017-11-14 - 11:36:24 / ERROR
+#### ERROR al procesar la ref.2581 - 2581 (GIVING)
+Ref: 2581 / Inicio: 2017-11-14 - 11:36:24 / Fin: 2017-11-14 - 11:36:24 / ERROR
+#### ERROR al procesar la ref.2582 - 2582 (GIVING)
+Ref: 2582 / Inicio: 2017-11-14 - 11:36:24 / Fin: 2017-11-14 - 11:36:25 / ERROR
+#### ERROR al procesar la ref.2595 - 2595 (GIVING)
+Ref: 2595 / Inicio: 2017-11-14 - 11:36:25 / Fin: 2017-11-14 - 11:36:25 / ERROR
+#### ERROR al procesar la ref.2602 - 2602 (GIVING)
+Ref: 2602 / Inicio: 2017-11-14 - 11:36:25 / Fin: 2017-11-14 - 11:36:25 / ERROR
+#### ERROR al procesar la ref.2617 - 2617 (GIVING)
+Ref: 2617 / Inicio: 2017-11-14 - 11:36:25 / Fin: 2017-11-14 - 11:36:25 / ERROR
+#### ERROR al procesar la ref.2634 - 2634 (GIVING)
+Ref: 2634 / Inicio: 2017-11-14 - 11:36:25 / Fin: 2017-11-14 - 11:36:25 / ERROR
+#### ERROR al procesar la ref.2637 - 2637 (GIVING)
+Ref: 2637 / Inicio: 2017-11-14 - 11:36:25 / Fin: 2017-11-14 - 11:36:25 / ERROR
+#### ERROR al procesar la ref.2645 - 2645 (GIVING)
+Ref: 2645 / Inicio: 2017-11-14 - 11:36:25 / Fin: 2017-11-14 - 11:36:25 / ERROR
+#### ERROR al procesar la ref.2693 - 2693 (GIVING)
+Ref: 2693 / Inicio: 2017-11-14 - 11:36:25 / Fin: 2017-11-14 - 11:36:25 / ERROR
+#### ERROR al procesar la ref.2701 - 2701 (GIVING)
+Ref: 2701 / Inicio: 2017-11-14 - 11:36:25 / Fin: 2017-11-14 - 11:36:25 / ERROR
+#### ERROR al procesar la ref.2724 - 2724 (GIVING)
+Ref: 2724 / Inicio: 2017-11-14 - 11:36:25 / Fin: 2017-11-14 - 11:36:25 / ERROR
+#### ERROR al procesar la ref.2727 - 2727 (GIVING)
+Ref: 2727 / Inicio: 2017-11-14 - 11:36:25 / Fin: 2017-11-14 - 11:36:25 / ERROR
+#### ERROR al procesar la ref.2731 - 2731 (GIVING)
+Ref: 2731 / Inicio: 2017-11-14 - 11:36:25 / Fin: 2017-11-14 - 11:36:25 / ERROR
+#### ERROR al procesar la ref.2736 - 2736 (GIVING)
+Ref: 2736 / Inicio: 2017-11-14 - 11:36:25 / Fin: 2017-11-14 - 11:36:25 / ERROR
+#### ERROR al procesar la ref.2743 - 2743 (GIVING)
+Ref: 2743 / Inicio: 2017-11-14 - 11:36:25 / Fin: 2017-11-14 - 11:36:25 / ERROR
+#### ERROR al procesar la ref.2747 - 2747 (GIVING)
+Ref: 2747 / Inicio: 2017-11-14 - 11:36:25 / Fin: 2017-11-14 - 11:36:25 / ERROR
+#### ERROR al procesar la ref.2749 - 2749 (GIVING)
+Ref: 2749 / Inicio: 2017-11-14 - 11:36:25 / Fin: 2017-11-14 - 11:36:25 / ERROR
+#### ERROR al procesar la ref.2751 - 2751 (GIVING)
+Ref: 2751 / Inicio: 2017-11-14 - 11:36:25 / Fin: 2017-11-14 - 11:36:25 / ERROR
+#### ERROR al procesar la ref.2758 - 2758 (GIVING)
+Ref: 2758 / Inicio: 2017-11-14 - 11:36:25 / Fin: 2017-11-14 - 11:36:25 / ERROR
+#### ERROR al procesar la ref.2762 - 2762 (GIVING)
+Ref: 2762 / Inicio: 2017-11-14 - 11:36:25 / Fin: 2017-11-14 - 11:36:25 / ERROR
+#### ERROR al procesar la ref.2771 - 2771 (GIVING)
+Ref: 2771 / Inicio: 2017-11-14 - 11:36:25 / Fin: 2017-11-14 - 11:36:25 / ERROR
+#### ERROR al procesar la ref.2786 - 2786 (GIVING)
+Ref: 2786 / Inicio: 2017-11-14 - 11:36:25 / Fin: 2017-11-14 - 11:36:25 / ERROR
+#### ERROR al procesar la ref.2790 - 2790 (GIVING)
+Ref: 2790 / Inicio: 2017-11-14 - 11:36:25 / Fin: 2017-11-14 - 11:36:25 / ERROR
+#### ERROR al procesar la ref.2792 - 2792 (GIVING)
+Ref: 2792 / Inicio: 2017-11-14 - 11:36:25 / Fin: 2017-11-14 - 11:36:25 / ERROR
+#### ERROR al procesar la ref.2794 - 2794 (GIVING)
+Ref: 2794 / Inicio: 2017-11-14 - 11:36:25 / Fin: 2017-11-14 - 11:36:25 / ERROR
+#### ERROR al procesar la ref.2796 - 2796 (GIVING)
+Ref: 2796 / Inicio: 2017-11-14 - 11:36:25 / Fin: 2017-11-14 - 11:36:26 / ERROR
+#### ERROR al procesar la ref.2797 - 2797 (GIVING)
+Ref: 2797 / Inicio: 2017-11-14 - 11:36:26 / Fin: 2017-11-14 - 11:36:26 / ERROR
+#### ERROR al procesar la ref.2807 - 2807 (GIVING)
+Ref: 2807 / Inicio: 2017-11-14 - 11:36:26 / Fin: 2017-11-14 - 11:36:26 / ERROR
+#### ERROR al procesar la ref.2810 - 2810 (GIVING)
+Ref: 2810 / Inicio: 2017-11-14 - 11:36:26 / Fin: 2017-11-14 - 11:36:26 / ERROR
+#### ERROR al procesar la ref.2822 - 2822 (GIVING)
+Ref: 2822 / Inicio: 2017-11-14 - 11:36:26 / Fin: 2017-11-14 - 11:36:26 / ERROR
+#### ERROR al procesar la ref.2831 - 2831 (GIVING)
+Ref: 2831 / Inicio: 2017-11-14 - 11:36:26 / Fin: 2017-11-14 - 11:36:26 / ERROR
+#### ERROR al procesar la ref.2864 - 2864 (GIVING)
+Ref: 2864 / Inicio: 2017-11-14 - 11:36:26 / Fin: 2017-11-14 - 11:36:26 / ERROR
+#### ERROR al procesar la ref.2884 - 2884 (GIVING)
+Ref: 2884 / Inicio: 2017-11-14 - 11:36:26 / Fin: 2017-11-14 - 11:36:26 / ERROR
+#### ERROR al procesar la ref.2980 - 2980 (GIVING)
+Ref: 2980 / Inicio: 2017-11-14 - 11:36:26 / Fin: 2017-11-14 - 11:36:26 / ERROR
+#### ERROR al procesar la ref.3001 - 3001 (GIVING)
+Ref: 3001 / Inicio: 2017-11-14 - 11:36:26 / Fin: 2017-11-14 - 11:36:26 / ERROR
+#### ERROR al procesar la ref.3006 - 3006 (GIVING)
+Ref: 3006 / Inicio: 2017-11-14 - 11:36:26 / Fin: 2017-11-14 - 11:36:26 / ERROR
+#### ERROR al procesar la ref.3011 - 3011 (GIVING)
+Ref: 3011 / Inicio: 2017-11-14 - 11:36:26 / Fin: 2017-11-14 - 11:36:26 / ERROR
+#### ERROR al procesar la ref.3018 - 3018 (GIVING)
+Ref: 3018 / Inicio: 2017-11-14 - 11:36:26 / Fin: 2017-11-14 - 11:36:26 / ERROR
+#### ERROR al procesar la ref.3020 - 3020 (GIVING)
+Ref: 3020 / Inicio: 2017-11-14 - 11:36:26 / Fin: 2017-11-14 - 11:36:26 / ERROR
+#### ERROR al procesar la ref.3035 - 3035 (GIVING)
+Ref: 3035 / Inicio: 2017-11-14 - 11:36:26 / Fin: 2017-11-14 - 11:36:26 / ERROR
+#### ERROR al procesar la ref.3037 - 3037 (GIVING)
+Ref: 3037 / Inicio: 2017-11-14 - 11:36:26 / Fin: 2017-11-14 - 11:36:26 / ERROR
+#### ERROR al procesar la ref.3050 - 3050 (GIVING)
+Ref: 3050 / Inicio: 2017-11-14 - 11:36:26 / Fin: 2017-11-14 - 11:36:26 / ERROR
+#### ERROR al procesar la ref.3053 - 3053 (GIVING)
+Ref: 3053 / Inicio: 2017-11-14 - 11:36:26 / Fin: 2017-11-14 - 11:36:26 / ERROR
+#### ERROR al procesar la ref.3071 - 3071 (GIVING)
+Ref: 3071 / Inicio: 2017-11-14 - 11:36:26 / Fin: 2017-11-14 - 11:36:26 / ERROR
+#### ERROR al procesar la ref.3073 - 3073 (GIVING)
+Ref: 3073 / Inicio: 2017-11-14 - 11:36:26 / Fin: 2017-11-14 - 11:36:26 / ERROR
+#### ERROR al procesar la ref.3099 - 3099 (GIVING)
+Ref: 3099 / Inicio: 2017-11-14 - 11:36:26 / Fin: 2017-11-14 - 11:36:26 / ERROR
+#### ERROR al procesar la ref.3106 - 3106 (GIVING)
+Ref: 3106 / Inicio: 2017-11-14 - 11:36:26 / Fin: 2017-11-14 - 11:36:26 / ERROR
+#### ERROR al procesar la ref.3115 - 3115 (GIVING)
+Ref: 3115 / Inicio: 2017-11-14 - 11:36:26 / Fin: 2017-11-14 - 11:36:26 / ERROR
+#### ERROR al procesar la ref.3116 - 3116 (GIVING)
+Ref: 3116 / Inicio: 2017-11-14 - 11:36:26 / Fin: 2017-11-14 - 11:36:26 / ERROR
+#### ERROR al procesar la ref.3117 - 3117 (GIVING)
+Ref: 3117 / Inicio: 2017-11-14 - 11:36:26 / Fin: 2017-11-14 - 11:36:27 / ERROR
+#### ERROR al procesar la ref.3127 - 3127 (GIVING)
+Ref: 3127 / Inicio: 2017-11-14 - 11:36:27 / Fin: 2017-11-14 - 11:36:27 / ERROR
+#### ERROR al procesar la ref.3129 - 3129 (GIVING)
+Ref: 3129 / Inicio: 2017-11-14 - 11:36:27 / Fin: 2017-11-14 - 11:36:27 / ERROR
+#### ERROR al procesar la ref.3132 - 3132 (GIVING)
+Ref: 3132 / Inicio: 2017-11-14 - 11:36:27 / Fin: 2017-11-14 - 11:36:27 / ERROR
+#### ERROR al procesar la ref.3133 - 3133 (GIVING)
+Ref: 3133 / Inicio: 2017-11-14 - 11:36:27 / Fin: 2017-11-14 - 11:36:27 / ERROR
+#### ERROR al procesar la ref.3141 - 3141 (GIVING)
+Ref: 3141 / Inicio: 2017-11-14 - 11:36:27 / Fin: 2017-11-14 - 11:36:27 / ERROR
+#### ERROR al procesar la ref.3143 - 3143 (GIVING)
+Ref: 3143 / Inicio: 2017-11-14 - 11:36:27 / Fin: 2017-11-14 - 11:36:27 / ERROR
+#### ERROR al procesar la ref.3144 - 3144 (GIVING)
+Ref: 3144 / Inicio: 2017-11-14 - 11:36:27 / Fin: 2017-11-14 - 11:36:27 / ERROR
+#### ERROR al procesar la ref.3145 - 3145 (GIVING)
+Ref: 3145 / Inicio: 2017-11-14 - 11:36:27 / Fin: 2017-11-14 - 11:36:27 / ERROR
+#### ERROR al procesar la ref.3148 - 3148 (GIVING)
+Ref: 3148 / Inicio: 2017-11-14 - 11:36:27 / Fin: 2017-11-14 - 11:36:27 / ERROR
+#### ERROR al procesar la ref.3169 - 3169 (GIVING)
+Ref: 3169 / Inicio: 2017-11-14 - 11:36:27 / Fin: 2017-11-14 - 11:36:27 / ERROR
+#### ERROR al procesar la ref.3170 - 3170 (GIVING)
+Ref: 3170 / Inicio: 2017-11-14 - 11:36:27 / Fin: 2017-11-14 - 11:36:27 / ERROR
+#### ERROR al procesar la ref.3177 - 3177 (GIVING)
+Ref: 3177 / Inicio: 2017-11-14 - 11:36:27 / Fin: 2017-11-14 - 11:36:27 / ERROR
+#### ERROR al procesar la ref.3179 - 3179 (GIVING)
+Ref: 3179 / Inicio: 2017-11-14 - 11:36:27 / Fin: 2017-11-14 - 11:36:27 / ERROR
+#### ERROR al procesar la ref.3180 - 3180 (GIVING)
+Ref: 3180 / Inicio: 2017-11-14 - 11:36:27 / Fin: 2017-11-14 - 11:36:27 / ERROR
+#### ERROR al procesar la ref.3195 - 3195 (GIVING)
+Ref: 3195 / Inicio: 2017-11-14 - 11:36:27 / Fin: 2017-11-14 - 11:36:27 / ERROR
+#### ERROR al procesar la ref.3199 - 3199 (GIVING)
+Ref: 3199 / Inicio: 2017-11-14 - 11:36:27 / Fin: 2017-11-14 - 11:36:27 / ERROR
+#### ERROR al procesar la ref.3202 - 3202 (GIVING)
+Ref: 3202 / Inicio: 2017-11-14 - 11:36:27 / Fin: 2017-11-14 - 11:36:27 / ERROR
+#### ERROR al procesar la ref.3207 - 3207 (GIVING)
+Ref: 3207 / Inicio: 2017-11-14 - 11:36:27 / Fin: 2017-11-14 - 11:36:27 / ERROR
+#### ERROR al procesar la ref.3208 - 3208 (GIVING)
+Ref: 3208 / Inicio: 2017-11-14 - 11:36:27 / Fin: 2017-11-14 - 11:36:27 / ERROR
+#### ERROR al procesar la ref.3224 - 3224 (GIVING)
+Ref: 3224 / Inicio: 2017-11-14 - 11:36:27 / Fin: 2017-11-14 - 11:36:27 / ERROR
+#### ERROR al procesar la ref.3247 - 3247 (GIVING)
+Ref: 3247 / Inicio: 2017-11-14 - 11:36:27 / Fin: 2017-11-14 - 11:36:27 / ERROR
+#### ERROR al procesar la ref.3249 - 3249 (GIVING)
+Ref: 3249 / Inicio: 2017-11-14 - 11:36:27 / Fin: 2017-11-14 - 11:36:27 / ERROR
+#### ERROR al procesar la ref.3262 - 3262 (GIVING)
+Ref: 3262 / Inicio: 2017-11-14 - 11:36:27 / Fin: 2017-11-14 - 11:36:28 / ERROR
+#### ERROR al procesar la ref.3283 - 3283 (GIVING)
+Ref: 3283 / Inicio: 2017-11-14 - 11:36:28 / Fin: 2017-11-14 - 11:36:28 / ERROR
+#### ERROR al procesar la ref.3297 - 3297 (GIVING)
+Ref: 3297 / Inicio: 2017-11-14 - 11:36:28 / Fin: 2017-11-14 - 11:36:28 / ERROR
+#### ERROR al procesar la ref.3306 - 3306 (GIVING)
+Ref: 3306 / Inicio: 2017-11-14 - 11:36:28 / Fin: 2017-11-14 - 11:36:28 / ERROR
+#### ERROR al procesar la ref.3319 - 3319 (GIVING)
+Ref: 3319 / Inicio: 2017-11-14 - 11:36:28 / Fin: 2017-11-14 - 11:36:28 / ERROR
+#### ERROR al procesar la ref.3321 - 3321 (GIVING)
+Ref: 3321 / Inicio: 2017-11-14 - 11:36:28 / Fin: 2017-11-14 - 11:36:28 / ERROR
+#### ERROR al procesar la ref.3322 - 3322 (GIVING)
+Ref: 3322 / Inicio: 2017-11-14 - 11:36:28 / Fin: 2017-11-14 - 11:36:28 / ERROR
+#### ERROR al procesar la ref.3333 - 3333 (GIVING)
+Ref: 3333 / Inicio: 2017-11-14 - 11:36:28 / Fin: 2017-11-14 - 11:36:28 / ERROR
+#### ERROR al procesar la ref.3337 - 3337 (GIVING)
+Ref: 3337 / Inicio: 2017-11-14 - 11:36:28 / Fin: 2017-11-14 - 11:36:28 / ERROR
+#### ERROR al procesar la ref.3338 - 3338 (GIVING)
+Ref: 3338 / Inicio: 2017-11-14 - 11:36:28 / Fin: 2017-11-14 - 11:36:28 / ERROR
+#### ERROR al procesar la ref.3347 - 3347 (GIVING)
+Ref: 3347 / Inicio: 2017-11-14 - 11:36:28 / Fin: 2017-11-14 - 11:36:28 / ERROR
+#### ERROR al procesar la ref.3359 - 3359 (GIVING)
+Ref: 3359 / Inicio: 2017-11-14 - 11:36:28 / Fin: 2017-11-14 - 11:36:28 / ERROR
+#### ERROR al procesar la ref.3363 - 3363 (GIVING)
+Ref: 3363 / Inicio: 2017-11-14 - 11:36:28 / Fin: 2017-11-14 - 11:36:28 / ERROR
+#### ERROR al procesar la ref.3376 - 3376 (GIVING)
+Ref: 3376 / Inicio: 2017-11-14 - 11:36:28 / Fin: 2017-11-14 - 11:36:28 / ERROR
+#### ERROR al procesar la ref.3383 - 3383 (GIVING)
+Ref: 3383 / Inicio: 2017-11-14 - 11:36:28 / Fin: 2017-11-14 - 11:36:28 / ERROR
+#### ERROR al procesar la ref.3393 - 3393 (GIVING)
+Ref: 3393 / Inicio: 2017-11-14 - 11:36:28 / Fin: 2017-11-14 - 11:36:28 / ERROR
+#### ERROR al procesar la ref.3403 - 3403 (GIVING)
+Ref: 3403 / Inicio: 2017-11-14 - 11:36:28 / Fin: 2017-11-14 - 11:36:28 / ERROR
+#### ERROR al procesar la ref.3404 - 3404 (GIVING)
+Ref: 3404 / Inicio: 2017-11-14 - 11:36:28 / Fin: 2017-11-14 - 11:36:28 / ERROR
+#### ERROR al procesar la ref.3432 - 3432 (GIVING)
+Ref: 3432 / Inicio: 2017-11-14 - 11:36:28 / Fin: 2017-11-14 - 11:36:28 / ERROR
+#### ERROR al procesar la ref.3434 - 3434 (GIVING)
+Ref: 3434 / Inicio: 2017-11-14 - 11:36:28 / Fin: 2017-11-14 - 11:36:28 / ERROR
+#### ERROR al procesar la ref.3440 - 3440 (GIVING)
+Ref: 3440 / Inicio: 2017-11-14 - 11:36:28 / Fin: 2017-11-14 - 11:36:28 / ERROR
+#### ERROR al procesar la ref.3444 - 3444 (GIVING)
+Ref: 3444 / Inicio: 2017-11-14 - 11:36:28 / Fin: 2017-11-14 - 11:36:28 / ERROR
+#### ERROR al procesar la ref.3445 - 3445 (GIVING)
+Ref: 3445 / Inicio: 2017-11-14 - 11:36:28 / Fin: 2017-11-14 - 11:36:28 / ERROR
+#### ERROR al procesar la ref.3448 - 3448 (GIVING)
+Ref: 3448 / Inicio: 2017-11-14 - 11:36:28 / Fin: 2017-11-14 - 11:36:28 / ERROR
+#### ERROR al procesar la ref.3449 - 3449 (GIVING)
+Ref: 3449 / Inicio: 2017-11-14 - 11:36:28 / Fin: 2017-11-14 - 11:36:29 / ERROR
+#### ERROR al procesar la ref.3461 - 3461 (GIVING)
+Ref: 3461 / Inicio: 2017-11-14 - 11:36:29 / Fin: 2017-11-14 - 11:36:29 / ERROR
+#### ERROR al procesar la ref.3462 - 3462 (GIVING)
+Ref: 3462 / Inicio: 2017-11-14 - 11:36:29 / Fin: 2017-11-14 - 11:36:29 / ERROR
+#### ERROR al procesar la ref.3463 - 3463 (GIVING)
+Ref: 3463 / Inicio: 2017-11-14 - 11:36:29 / Fin: 2017-11-14 - 11:36:29 / ERROR
+#### ERROR al procesar la ref.3467 - 3467 (GIVING)
+Ref: 3467 / Inicio: 2017-11-14 - 11:36:29 / Fin: 2017-11-14 - 11:36:29 / ERROR
+#### ERROR al procesar la ref.3474 - 3474 (GIVING)
+Ref: 3474 / Inicio: 2017-11-14 - 11:36:29 / Fin: 2017-11-14 - 11:36:29 / ERROR
+#### ERROR al procesar la ref.3475 - 3475 (GIVING)
+Ref: 3475 / Inicio: 2017-11-14 - 11:36:29 / Fin: 2017-11-14 - 11:36:29 / ERROR
+#### ERROR al procesar la ref.3481 - 3481 (GIVING)
+Ref: 3481 / Inicio: 2017-11-14 - 11:36:29 / Fin: 2017-11-14 - 11:36:29 / ERROR
+#### ERROR al procesar la ref.3487 - 3487 (GIVING)
+Ref: 3487 / Inicio: 2017-11-14 - 11:36:29 / Fin: 2017-11-14 - 11:36:29 / ERROR
+#### ERROR al procesar la ref.3514 - 3514 (GIVING)
+Ref: 3514 / Inicio: 2017-11-14 - 11:36:29 / Fin: 2017-11-14 - 11:36:29 / ERROR
+#### ERROR al procesar la ref.3519 - 3519 (GIVING)
+Ref: 3519 / Inicio: 2017-11-14 - 11:36:29 / Fin: 2017-11-14 - 11:36:29 / ERROR
+#### ERROR al procesar la ref.3537 - 3537 (GIVING)
+Ref: 3537 / Inicio: 2017-11-14 - 11:36:29 / Fin: 2017-11-14 - 11:36:29 / ERROR
+#### ERROR al procesar la ref.3539 - 3539 (GIVING)
+Ref: 3539 / Inicio: 2017-11-14 - 11:36:29 / Fin: 2017-11-14 - 11:36:29 / ERROR
+#### ERROR al procesar la ref.3541 - 3541 (GIVING)
+Ref: 3541 / Inicio: 2017-11-14 - 11:36:29 / Fin: 2017-11-14 - 11:36:29 / ERROR
+#### ERROR al procesar la ref.3560 - 3560 (GIVING)
+Ref: 3560 / Inicio: 2017-11-14 - 11:36:29 / Fin: 2017-11-14 - 11:36:29 / ERROR
+#### ERROR al procesar la ref.3562 - 3562 (GIVING)
+Ref: 3562 / Inicio: 2017-11-14 - 11:36:29 / Fin: 2017-11-14 - 11:36:29 / ERROR
+#### ERROR al procesar la ref.3572 - 3572 (GIVING)
+Ref: 3572 / Inicio: 2017-11-14 - 11:36:29 / Fin: 2017-11-14 - 11:36:29 / ERROR
+#### ERROR al procesar la ref.3575 - 3575 (GIVING)
+Ref: 3575 / Inicio: 2017-11-14 - 11:36:29 / Fin: 2017-11-14 - 11:36:29 / ERROR
+#### ERROR al procesar la ref.3576 - 3576 (GIVING)
+Ref: 3576 / Inicio: 2017-11-14 - 11:36:29 / Fin: 2017-11-14 - 11:36:29 / ERROR
+#### ERROR al procesar la ref.3580 - 3580 (GIVING)
+Ref: 3580 / Inicio: 2017-11-14 - 11:36:29 / Fin: 2017-11-14 - 11:36:29 / ERROR
+#### ERROR al procesar la ref.3582 - 3582 (GIVING)
+Ref: 3582 / Inicio: 2017-11-14 - 11:36:29 / Fin: 2017-11-14 - 11:36:29 / ERROR
+#### ERROR al procesar la ref.3583 - 3583 (GIVING)
+Ref: 3583 / Inicio: 2017-11-14 - 11:36:29 / Fin: 2017-11-14 - 11:36:29 / ERROR
+#### ERROR al procesar la ref.3584 - 3584 (GIVING)
+Ref: 3584 / Inicio: 2017-11-14 - 11:36:29 / Fin: 2017-11-14 - 11:36:29 / ERROR
+#### ERROR al procesar la ref.3585 - 3585 (GIVING)
+Ref: 3585 / Inicio: 2017-11-14 - 11:36:29 / Fin: 2017-11-14 - 11:36:29 / ERROR
+#### ERROR al procesar la ref.3586 - 3586 (GIVING)
+Ref: 3586 / Inicio: 2017-11-14 - 11:36:29 / Fin: 2017-11-14 - 11:36:29 / ERROR
+#### ERROR al procesar la ref.3587 - 3587 (GIVING)
+Ref: 3587 / Inicio: 2017-11-14 - 11:36:29 / Fin: 2017-11-14 - 11:36:30 / ERROR
+#### ERROR al procesar la ref.3588 - 3588 (GIVING)
+Ref: 3588 / Inicio: 2017-11-14 - 11:36:30 / Fin: 2017-11-14 - 11:36:30 / ERROR
+#### ERROR al procesar la ref.3589 - 3589 (GIVING)
+Ref: 3589 / Inicio: 2017-11-14 - 11:36:30 / Fin: 2017-11-14 - 11:36:30 / ERROR
+#### ERROR al procesar la ref.3590 - 3590 (GIVING)
+Ref: 3590 / Inicio: 2017-11-14 - 11:36:30 / Fin: 2017-11-14 - 11:36:30 / ERROR
+#### ERROR al procesar la ref.3592 - 3592 (GIVING)
+Ref: 3592 / Inicio: 2017-11-14 - 11:36:30 / Fin: 2017-11-14 - 11:36:30 / ERROR
+#### ERROR al procesar la ref.3594 - 3594 (GIVING)
+Ref: 3594 / Inicio: 2017-11-14 - 11:36:30 / Fin: 2017-11-14 - 11:36:30 / ERROR
+#### ERROR al procesar la ref.3599 - 3599 (GIVING)
+Ref: 3599 / Inicio: 2017-11-14 - 11:36:30 / Fin: 2017-11-14 - 11:36:30 / ERROR
+#### ERROR al procesar la ref.3601 - 3601 (GIVING)
+Ref: 3601 / Inicio: 2017-11-14 - 11:36:30 / Fin: 2017-11-14 - 11:36:30 / ERROR
+#### ERROR al procesar la ref.3604 - 3604 (GIVING)
+Ref: 3604 / Inicio: 2017-11-14 - 11:36:30 / Fin: 2017-11-14 - 11:36:30 / ERROR
+#### ERROR al procesar la ref.3614 - 3614 (GIVING)
+Ref: 3614 / Inicio: 2017-11-14 - 11:36:30 / Fin: 2017-11-14 - 11:36:30 / ERROR
+#### ERROR al procesar la ref.3637 - 3637 (GIVING)
+Ref: 3637 / Inicio: 2017-11-14 - 11:36:30 / Fin: 2017-11-14 - 11:36:30 / ERROR
+#### ERROR al procesar la ref.3648 - 3648 (GIVING)
+Ref: 3648 / Inicio: 2017-11-14 - 11:36:30 / Fin: 2017-11-14 - 11:36:30 / ERROR
+#### ERROR al procesar la ref.3675 - 3675 (GIVING)
+Ref: 3675 / Inicio: 2017-11-14 - 11:36:30 / Fin: 2017-11-14 - 11:36:30 / ERROR
+#### ERROR al procesar la ref.3678 - 3678 (GIVING)
+Ref: 3678 / Inicio: 2017-11-14 - 11:36:30 / Fin: 2017-11-14 - 11:36:30 / ERROR
+#### ERROR al procesar la ref.3684 - 3684 (GIVING)
+Ref: 3684 / Inicio: 2017-11-14 - 11:36:30 / Fin: 2017-11-14 - 11:36:30 / ERROR
+#### ERROR al procesar la ref.3685 - 3685 (GIVING)
+Ref: 3685 / Inicio: 2017-11-14 - 11:36:30 / Fin: 2017-11-14 - 11:36:30 / ERROR
+#### ERROR al procesar la ref.3702 - 3702 (GIVING)
+Ref: 3702 / Inicio: 2017-11-14 - 11:36:30 / Fin: 2017-11-14 - 11:36:30 / ERROR
+#### ERROR al procesar la ref.3712 - 3712 (GIVING)
+Ref: 3712 / Inicio: 2017-11-14 - 11:36:30 / Fin: 2017-11-14 - 11:36:30 / ERROR
+#### ERROR al procesar la ref.3724 - 3724 (GIVING)
+Ref: 3724 / Inicio: 2017-11-14 - 11:36:30 / Fin: 2017-11-14 - 11:36:30 / ERROR
+#### ERROR al procesar la ref.3725 - 3725 (GIVING)
+Ref: 3725 / Inicio: 2017-11-14 - 11:36:30 / Fin: 2017-11-14 - 11:36:30 / ERROR
+#### ERROR al procesar la ref.3735 - 3735 (GIVING)
+Ref: 3735 / Inicio: 2017-11-14 - 11:36:30 / Fin: 2017-11-14 - 11:36:30 / ERROR
+#### ERROR al procesar la ref.3739 - 3739 (GIVING)
+Ref: 3739 / Inicio: 2017-11-14 - 11:36:30 / Fin: 2017-11-14 - 11:36:30 / ERROR
+#### ERROR al procesar la ref.3742 - 3742 (GIVING)
+Ref: 3742 / Inicio: 2017-11-14 - 11:36:30 / Fin: 2017-11-14 - 11:36:30 / ERROR
+#### ERROR al procesar la ref.3744 - 3744 (GIVING)
+Ref: 3744 / Inicio: 2017-11-14 - 11:36:30 / Fin: 2017-11-14 - 11:36:31 / ERROR
+#### ERROR al procesar la ref.3751 - 3751 (GIVING)
+Ref: 3751 / Inicio: 2017-11-14 - 11:36:31 / Fin: 2017-11-14 - 11:36:31 / ERROR
+#### ERROR al procesar la ref.3762 - 3762 (GIVING)
+Ref: 3762 / Inicio: 2017-11-14 - 11:36:31 / Fin: 2017-11-14 - 11:36:31 / ERROR
+#### ERROR al procesar la ref.3764 - 3764 (GIVING)
+Ref: 3764 / Inicio: 2017-11-14 - 11:36:31 / Fin: 2017-11-14 - 11:36:31 / ERROR
+#### ERROR al procesar la ref.3769 - 3769 (GIVING)
+Ref: 3769 / Inicio: 2017-11-14 - 11:36:31 / Fin: 2017-11-14 - 11:36:31 / ERROR
+#### ERROR al procesar la ref.3781 - 3781 (GIVING)
+Ref: 3781 / Inicio: 2017-11-14 - 11:36:31 / Fin: 2017-11-14 - 11:36:31 / ERROR
+#### ERROR al procesar la ref.3782 - 3782 (GIVING)
+Ref: 3782 / Inicio: 2017-11-14 - 11:36:31 / Fin: 2017-11-14 - 11:36:31 / ERROR
+#### ERROR al procesar la ref.3783 - 3783 (GIVING)
+Ref: 3783 / Inicio: 2017-11-14 - 11:36:31 / Fin: 2017-11-14 - 11:36:31 / ERROR
+#### ERROR al procesar la ref.3786 - 3786 (GIVING)
+Ref: 3786 / Inicio: 2017-11-14 - 11:36:31 / Fin: 2017-11-14 - 11:36:31 / ERROR
+#### ERROR al procesar la ref.3788 - 3788 (GIVING)
+Ref: 3788 / Inicio: 2017-11-14 - 11:36:31 / Fin: 2017-11-14 - 11:36:31 / ERROR
+#### ERROR al procesar la ref.3789 - 3789 (GIVING)
+Ref: 3789 / Inicio: 2017-11-14 - 11:36:31 / Fin: 2017-11-14 - 11:36:31 / ERROR
+#### ERROR al procesar la ref.3808 - 3808 (GIVING)
+Ref: 3808 / Inicio: 2017-11-14 - 11:36:31 / Fin: 2017-11-14 - 11:36:31 / ERROR
+#### ERROR al procesar la ref.3836 - 3836 (GIVING)
+Ref: 3836 / Inicio: 2017-11-14 - 11:36:31 / Fin: 2017-11-14 - 11:36:31 / ERROR
+#### ERROR al procesar la ref.3854 - 3854 (GIVING)
+Ref: 3854 / Inicio: 2017-11-14 - 11:36:31 / Fin: 2017-11-14 - 11:36:31 / ERROR
+#### ERROR al procesar la ref.3865 - 3865 (GIVING)
+Ref: 3865 / Inicio: 2017-11-14 - 11:36:31 / Fin: 2017-11-14 - 11:36:31 / ERROR
+#### ERROR al procesar la ref.3868 - 3868 (GIVING)
+Ref: 3868 / Inicio: 2017-11-14 - 11:36:31 / Fin: 2017-11-14 - 11:36:31 / ERROR
+
+***************************************************************************
+CONSULTA DE STOCK DE TODOS LOS ARTÍCULOS DE GIVING:
+Proceso finalizado el 2017-11-14, a las 11:36:31
+
+CONSULTA DE STOCK DE TODOS LOS ARTÍCULOS DE GIVING:
+Referencias de las que no se ha podido obtener stock de competidores por Errores de Proceso
+Resultados del Segundo Intento
+Proceso iniciado el 2017-11-14, a las 11:36:31
+***************************************************************************
+
+#### ERROR al procesar la ref.2552 - 2552 (GIVING)
+Ref: 2552 / Inicio: 2017-11-14 - 11:36:31 / Fin: 2017-11-14 - 11:36:31 / ERROR
+#### ERROR al procesar la ref.2553 - 2553 (GIVING)
+Ref: 2553 / Inicio: 2017-11-14 - 11:36:31 / Fin: 2017-11-14 - 11:36:31 / ERROR
+#### ERROR al procesar la ref.2555 - 2555 (GIVING)
+Ref: 2555 / Inicio: 2017-11-14 - 11:36:31 / Fin: 2017-11-14 - 11:36:31 / ERROR
+#### ERROR al procesar la ref.2573 - 2573 (GIVING)
+Ref: 2573 / Inicio: 2017-11-14 - 11:36:31 / Fin: 2017-11-14 - 11:36:31 / ERROR
+#### ERROR al procesar la ref.2580 - 2580 (GIVING)
+Ref: 2580 / Inicio: 2017-11-14 - 11:36:31 / Fin: 2017-11-14 - 11:36:31 / ERROR
+#### ERROR al procesar la ref.2581 - 2581 (GIVING)
+Ref: 2581 / Inicio: 2017-11-14 - 11:36:31 / Fin: 2017-11-14 - 11:36:31 / ERROR
+#### ERROR al procesar la ref.2582 - 2582 (GIVING)
+Ref: 2582 / Inicio: 2017-11-14 - 11:36:31 / Fin: 2017-11-14 - 11:36:31 / ERROR
+#### ERROR al procesar la ref.2595 - 2595 (GIVING)
+Ref: 2595 / Inicio: 2017-11-14 - 11:36:31 / Fin: 2017-11-14 - 11:36:31 / ERROR
+#### ERROR al procesar la ref.2602 - 2602 (GIVING)
+Ref: 2602 / Inicio: 2017-11-14 - 11:36:31 / Fin: 2017-11-14 - 11:36:32 / ERROR
+#### ERROR al procesar la ref.2617 - 2617 (GIVING)
+Ref: 2617 / Inicio: 2017-11-14 - 11:36:32 / Fin: 2017-11-14 - 11:36:32 / ERROR
+#### ERROR al procesar la ref.2634 - 2634 (GIVING)
+Ref: 2634 / Inicio: 2017-11-14 - 11:36:32 / Fin: 2017-11-14 - 11:36:32 / ERROR
+#### ERROR al procesar la ref.2637 - 2637 (GIVING)
+Ref: 2637 / Inicio: 2017-11-14 - 11:36:32 / Fin: 2017-11-14 - 11:36:32 / ERROR
+#### ERROR al procesar la ref.2645 - 2645 (GIVING)
+Ref: 2645 / Inicio: 2017-11-14 - 11:36:32 / Fin: 2017-11-14 - 11:36:32 / ERROR
+#### ERROR al procesar la ref.2693 - 2693 (GIVING)
+Ref: 2693 / Inicio: 2017-11-14 - 11:36:32 / Fin: 2017-11-14 - 11:36:32 / ERROR
+#### ERROR al procesar la ref.2701 - 2701 (GIVING)
+Ref: 2701 / Inicio: 2017-11-14 - 11:36:32 / Fin: 2017-11-14 - 11:36:32 / ERROR
+#### ERROR al procesar la ref.2724 - 2724 (GIVING)
+Ref: 2724 / Inicio: 2017-11-14 - 11:36:32 / Fin: 2017-11-14 - 11:36:32 / ERROR
+#### ERROR al procesar la ref.2727 - 2727 (GIVING)
+Ref: 2727 / Inicio: 2017-11-14 - 11:36:32 / Fin: 2017-11-14 - 11:36:32 / ERROR
+#### ERROR al procesar la ref.2731 - 2731 (GIVING)
+Ref: 2731 / Inicio: 2017-11-14 - 11:36:32 / Fin: 2017-11-14 - 11:36:32 / ERROR
+#### ERROR al procesar la ref.2736 - 2736 (GIVING)
+Ref: 2736 / Inicio: 2017-11-14 - 11:36:32 / Fin: 2017-11-14 - 11:36:32 / ERROR
+#### ERROR al procesar la ref.2743 - 2743 (GIVING)
+Ref: 2743 / Inicio: 2017-11-14 - 11:36:32 / Fin: 2017-11-14 - 11:36:32 / ERROR
+#### ERROR al procesar la ref.2747 - 2747 (GIVING)
+Ref: 2747 / Inicio: 2017-11-14 - 11:36:32 / Fin: 2017-11-14 - 11:36:32 / ERROR
+#### ERROR al procesar la ref.2749 - 2749 (GIVING)
+Ref: 2749 / Inicio: 2017-11-14 - 11:36:32 / Fin: 2017-11-14 - 11:36:32 / ERROR
+#### ERROR al procesar la ref.2751 - 2751 (GIVING)
+Ref: 2751 / Inicio: 2017-11-14 - 11:36:32 / Fin: 2017-11-14 - 11:36:32 / ERROR
+#### ERROR al procesar la ref.2758 - 2758 (GIVING)
+Ref: 2758 / Inicio: 2017-11-14 - 11:36:32 / Fin: 2017-11-14 - 11:36:32 / ERROR
+#### ERROR al procesar la ref.2762 - 2762 (GIVING)
+Ref: 2762 / Inicio: 2017-11-14 - 11:36:32 / Fin: 2017-11-14 - 11:36:32 / ERROR
+#### ERROR al procesar la ref.2771 - 2771 (GIVING)
+Ref: 2771 / Inicio: 2017-11-14 - 11:36:32 / Fin: 2017-11-14 - 11:36:32 / ERROR
+#### ERROR al procesar la ref.2786 - 2786 (GIVING)
+Ref: 2786 / Inicio: 2017-11-14 - 11:36:32 / Fin: 2017-11-14 - 11:36:32 / ERROR
+#### ERROR al procesar la ref.2790 - 2790 (GIVING)
+Ref: 2790 / Inicio: 2017-11-14 - 11:36:32 / Fin: 2017-11-14 - 11:36:32 / ERROR
+#### ERROR al procesar la ref.2792 - 2792 (GIVING)
+Ref: 2792 / Inicio: 2017-11-14 - 11:36:32 / Fin: 2017-11-14 - 11:36:32 / ERROR
+#### ERROR al procesar la ref.2794 - 2794 (GIVING)
+Ref: 2794 / Inicio: 2017-11-14 - 11:36:32 / Fin: 2017-11-14 - 11:36:32 / ERROR
+#### ERROR al procesar la ref.2796 - 2796 (GIVING)
+Ref: 2796 / Inicio: 2017-11-14 - 11:36:32 / Fin: 2017-11-14 - 11:36:32 / ERROR
+#### ERROR al procesar la ref.2797 - 2797 (GIVING)
+Ref: 2797 / Inicio: 2017-11-14 - 11:36:32 / Fin: 2017-11-14 - 11:36:32 / ERROR
+#### ERROR al procesar la ref.2807 - 2807 (GIVING)
+Ref: 2807 / Inicio: 2017-11-14 - 11:36:32 / Fin: 2017-11-14 - 11:36:32 / ERROR
+#### ERROR al procesar la ref.2810 - 2810 (GIVING)
+Ref: 2810 / Inicio: 2017-11-14 - 11:36:32 / Fin: 2017-11-14 - 11:36:33 / ERROR
+#### ERROR al procesar la ref.2822 - 2822 (GIVING)
+Ref: 2822 / Inicio: 2017-11-14 - 11:36:33 / Fin: 2017-11-14 - 11:36:33 / ERROR
+#### ERROR al procesar la ref.2831 - 2831 (GIVING)
+Ref: 2831 / Inicio: 2017-11-14 - 11:36:33 / Fin: 2017-11-14 - 11:36:33 / ERROR
+#### ERROR al procesar la ref.2864 - 2864 (GIVING)
+Ref: 2864 / Inicio: 2017-11-14 - 11:36:33 / Fin: 2017-11-14 - 11:36:33 / ERROR
+#### ERROR al procesar la ref.2884 - 2884 (GIVING)
+Ref: 2884 / Inicio: 2017-11-14 - 11:36:33 / Fin: 2017-11-14 - 11:36:33 / ERROR
+#### ERROR al procesar la ref.2980 - 2980 (GIVING)
+Ref: 2980 / Inicio: 2017-11-14 - 11:36:33 / Fin: 2017-11-14 - 11:36:33 / ERROR
+#### ERROR al procesar la ref.3001 - 3001 (GIVING)
+Ref: 3001 / Inicio: 2017-11-14 - 11:36:33 / Fin: 2017-11-14 - 11:36:33 / ERROR
+#### ERROR al procesar la ref.3006 - 3006 (GIVING)
+Ref: 3006 / Inicio: 2017-11-14 - 11:36:33 / Fin: 2017-11-14 - 11:36:33 / ERROR
+#### ERROR al procesar la ref.3011 - 3011 (GIVING)
+Ref: 3011 / Inicio: 2017-11-14 - 11:36:33 / Fin: 2017-11-14 - 11:36:33 / ERROR
+#### ERROR al procesar la ref.3018 - 3018 (GIVING)
+Ref: 3018 / Inicio: 2017-11-14 - 11:36:33 / Fin: 2017-11-14 - 11:36:33 / ERROR
+#### ERROR al procesar la ref.3020 - 3020 (GIVING)
+Ref: 3020 / Inicio: 2017-11-14 - 11:36:33 / Fin: 2017-11-14 - 11:36:33 / ERROR
+#### ERROR al procesar la ref.3035 - 3035 (GIVING)
+Ref: 3035 / Inicio: 2017-11-14 - 11:36:33 / Fin: 2017-11-14 - 11:36:33 / ERROR
+#### ERROR al procesar la ref.3037 - 3037 (GIVING)
+Ref: 3037 / Inicio: 2017-11-14 - 11:36:33 / Fin: 2017-11-14 - 11:36:33 / ERROR
+#### ERROR al procesar la ref.3050 - 3050 (GIVING)
+Ref: 3050 / Inicio: 2017-11-14 - 11:36:33 / Fin: 2017-11-14 - 11:36:33 / ERROR
+#### ERROR al procesar la ref.3053 - 3053 (GIVING)
+Ref: 3053 / Inicio: 2017-11-14 - 11:36:33 / Fin: 2017-11-14 - 11:36:33 / ERROR
+#### ERROR al procesar la ref.3071 - 3071 (GIVING)
+Ref: 3071 / Inicio: 2017-11-14 - 11:36:33 / Fin: 2017-11-14 - 11:36:33 / ERROR
+#### ERROR al procesar la ref.3073 - 3073 (GIVING)
+Ref: 3073 / Inicio: 2017-11-14 - 11:36:33 / Fin: 2017-11-14 - 11:36:33 / ERROR
+#### ERROR al procesar la ref.3099 - 3099 (GIVING)
+Ref: 3099 / Inicio: 2017-11-14 - 11:36:33 / Fin: 2017-11-14 - 11:36:33 / ERROR
+#### ERROR al procesar la ref.3106 - 3106 (GIVING)
+Ref: 3106 / Inicio: 2017-11-14 - 11:36:33 / Fin: 2017-11-14 - 11:36:33 / ERROR
+#### ERROR al procesar la ref.3115 - 3115 (GIVING)
+Ref: 3115 / Inicio: 2017-11-14 - 11:36:33 / Fin: 2017-11-14 - 11:36:33 / ERROR
+#### ERROR al procesar la ref.3116 - 3116 (GIVING)
+Ref: 3116 / Inicio: 2017-11-14 - 11:36:33 / Fin: 2017-11-14 - 11:36:33 / ERROR
+#### ERROR al procesar la ref.3117 - 3117 (GIVING)
+Ref: 3117 / Inicio: 2017-11-14 - 11:36:33 / Fin: 2017-11-14 - 11:36:33 / ERROR
+#### ERROR al procesar la ref.3127 - 3127 (GIVING)
+Ref: 3127 / Inicio: 2017-11-14 - 11:36:33 / Fin: 2017-11-14 - 11:36:33 / ERROR
+#### ERROR al procesar la ref.3129 - 3129 (GIVING)
+Ref: 3129 / Inicio: 2017-11-14 - 11:36:33 / Fin: 2017-11-14 - 11:36:33 / ERROR
+#### ERROR al procesar la ref.3132 - 3132 (GIVING)
+Ref: 3132 / Inicio: 2017-11-14 - 11:36:33 / Fin: 2017-11-14 - 11:36:34 / ERROR
+#### ERROR al procesar la ref.3133 - 3133 (GIVING)
+Ref: 3133 / Inicio: 2017-11-14 - 11:36:34 / Fin: 2017-11-14 - 11:36:34 / ERROR
+#### ERROR al procesar la ref.3141 - 3141 (GIVING)
+Ref: 3141 / Inicio: 2017-11-14 - 11:36:34 / Fin: 2017-11-14 - 11:36:34 / ERROR
+#### ERROR al procesar la ref.3143 - 3143 (GIVING)
+Ref: 3143 / Inicio: 2017-11-14 - 11:36:34 / Fin: 2017-11-14 - 11:36:34 / ERROR
+#### ERROR al procesar la ref.3144 - 3144 (GIVING)
+Ref: 3144 / Inicio: 2017-11-14 - 11:36:34 / Fin: 2017-11-14 - 11:36:34 / ERROR
+#### ERROR al procesar la ref.3145 - 3145 (GIVING)
+Ref: 3145 / Inicio: 2017-11-14 - 11:36:34 / Fin: 2017-11-14 - 11:36:34 / ERROR
+#### ERROR al procesar la ref.3148 - 3148 (GIVING)
+Ref: 3148 / Inicio: 2017-11-14 - 11:36:34 / Fin: 2017-11-14 - 11:36:34 / ERROR
+#### ERROR al procesar la ref.3169 - 3169 (GIVING)
+Ref: 3169 / Inicio: 2017-11-14 - 11:36:34 / Fin: 2017-11-14 - 11:36:34 / ERROR
+#### ERROR al procesar la ref.3170 - 3170 (GIVING)
+Ref: 3170 / Inicio: 2017-11-14 - 11:36:34 / Fin: 2017-11-14 - 11:36:34 / ERROR
+#### ERROR al procesar la ref.3177 - 3177 (GIVING)
+Ref: 3177 / Inicio: 2017-11-14 - 11:36:34 / Fin: 2017-11-14 - 11:36:34 / ERROR
+#### ERROR al procesar la ref.3179 - 3179 (GIVING)
+Ref: 3179 / Inicio: 2017-11-14 - 11:36:34 / Fin: 2017-11-14 - 11:36:34 / ERROR
+#### ERROR al procesar la ref.3180 - 3180 (GIVING)
+Ref: 3180 / Inicio: 2017-11-14 - 11:36:34 / Fin: 2017-11-14 - 11:36:34 / ERROR
+#### ERROR al procesar la ref.3195 - 3195 (GIVING)
+Ref: 3195 / Inicio: 2017-11-14 - 11:36:34 / Fin: 2017-11-14 - 11:36:34 / ERROR
+#### ERROR al procesar la ref.3199 - 3199 (GIVING)
+Ref: 3199 / Inicio: 2017-11-14 - 11:36:34 / Fin: 2017-11-14 - 11:36:34 / ERROR
+#### ERROR al procesar la ref.3202 - 3202 (GIVING)
+Ref: 3202 / Inicio: 2017-11-14 - 11:36:34 / Fin: 2017-11-14 - 11:36:34 / ERROR
+#### ERROR al procesar la ref.3207 - 3207 (GIVING)
+Ref: 3207 / Inicio: 2017-11-14 - 11:36:34 / Fin: 2017-11-14 - 11:36:34 / ERROR
+#### ERROR al procesar la ref.3208 - 3208 (GIVING)
+Ref: 3208 / Inicio: 2017-11-14 - 11:36:34 / Fin: 2017-11-14 - 11:36:34 / ERROR
+#### ERROR al procesar la ref.3224 - 3224 (GIVING)
+Ref: 3224 / Inicio: 2017-11-14 - 11:36:34 / Fin: 2017-11-14 - 11:36:34 / ERROR
+#### ERROR al procesar la ref.3247 - 3247 (GIVING)
+Ref: 3247 / Inicio: 2017-11-14 - 11:36:34 / Fin: 2017-11-14 - 11:36:34 / ERROR
+#### ERROR al procesar la ref.3249 - 3249 (GIVING)
+Ref: 3249 / Inicio: 2017-11-14 - 11:36:34 / Fin: 2017-11-14 - 11:36:34 / ERROR
+#### ERROR al procesar la ref.3262 - 3262 (GIVING)
+Ref: 3262 / Inicio: 2017-11-14 - 11:36:34 / Fin: 2017-11-14 - 11:36:34 / ERROR
+#### ERROR al procesar la ref.3283 - 3283 (GIVING)
+Ref: 3283 / Inicio: 2017-11-14 - 11:36:34 / Fin: 2017-11-14 - 11:36:34 / ERROR
+#### ERROR al procesar la ref.3297 - 3297 (GIVING)
+Ref: 3297 / Inicio: 2017-11-14 - 11:36:34 / Fin: 2017-11-14 - 11:36:34 / ERROR
+#### ERROR al procesar la ref.3306 - 3306 (GIVING)
+Ref: 3306 / Inicio: 2017-11-14 - 11:36:34 / Fin: 2017-11-14 - 11:36:34 / ERROR
+#### ERROR al procesar la ref.3319 - 3319 (GIVING)
+Ref: 3319 / Inicio: 2017-11-14 - 11:36:34 / Fin: 2017-11-14 - 11:36:34 / ERROR
+#### ERROR al procesar la ref.3321 - 3321 (GIVING)
+Ref: 3321 / Inicio: 2017-11-14 - 11:36:34 / Fin: 2017-11-14 - 11:36:35 / ERROR
+#### ERROR al procesar la ref.3322 - 3322 (GIVING)
+Ref: 3322 / Inicio: 2017-11-14 - 11:36:35 / Fin: 2017-11-14 - 11:36:35 / ERROR
+#### ERROR al procesar la ref.3333 - 3333 (GIVING)
+Ref: 3333 / Inicio: 2017-11-14 - 11:36:35 / Fin: 2017-11-14 - 11:36:35 / ERROR
+#### ERROR al procesar la ref.3337 - 3337 (GIVING)
+Ref: 3337 / Inicio: 2017-11-14 - 11:36:35 / Fin: 2017-11-14 - 11:36:35 / ERROR
+#### ERROR al procesar la ref.3338 - 3338 (GIVING)
+Ref: 3338 / Inicio: 2017-11-14 - 11:36:35 / Fin: 2017-11-14 - 11:36:35 / ERROR
+#### ERROR al procesar la ref.3347 - 3347 (GIVING)
+Ref: 3347 / Inicio: 2017-11-14 - 11:36:35 / Fin: 2017-11-14 - 11:36:35 / ERROR
+#### ERROR al procesar la ref.3359 - 3359 (GIVING)
+Ref: 3359 / Inicio: 2017-11-14 - 11:36:35 / Fin: 2017-11-14 - 11:36:35 / ERROR
+#### ERROR al procesar la ref.3363 - 3363 (GIVING)
+Ref: 3363 / Inicio: 2017-11-14 - 11:36:35 / Fin: 2017-11-14 - 11:36:35 / ERROR
+#### ERROR al procesar la ref.3376 - 3376 (GIVING)
+Ref: 3376 / Inicio: 2017-11-14 - 11:36:35 / Fin: 2017-11-14 - 11:36:35 / ERROR
+#### ERROR al procesar la ref.3383 - 3383 (GIVING)
+Ref: 3383 / Inicio: 2017-11-14 - 11:36:35 / Fin: 2017-11-14 - 11:36:35 / ERROR
+#### ERROR al procesar la ref.3393 - 3393 (GIVING)
+Ref: 3393 / Inicio: 2017-11-14 - 11:36:35 / Fin: 2017-11-14 - 11:36:35 / ERROR
+#### ERROR al procesar la ref.3403 - 3403 (GIVING)
+Ref: 3403 / Inicio: 2017-11-14 - 11:36:35 / Fin: 2017-11-14 - 11:36:35 / ERROR
+#### ERROR al procesar la ref.3404 - 3404 (GIVING)
+Ref: 3404 / Inicio: 2017-11-14 - 11:36:35 / Fin: 2017-11-14 - 11:36:35 / ERROR
+#### ERROR al procesar la ref.3432 - 3432 (GIVING)
+Ref: 3432 / Inicio: 2017-11-14 - 11:36:35 / Fin: 2017-11-14 - 11:36:35 / ERROR
+#### ERROR al procesar la ref.3434 - 3434 (GIVING)
+Ref: 3434 / Inicio: 2017-11-14 - 11:36:35 / Fin: 2017-11-14 - 11:36:35 / ERROR
+#### ERROR al procesar la ref.3440 - 3440 (GIVING)
+Ref: 3440 / Inicio: 2017-11-14 - 11:36:35 / Fin: 2017-11-14 - 11:36:35 / ERROR
+#### ERROR al procesar la ref.3444 - 3444 (GIVING)
+Ref: 3444 / Inicio: 2017-11-14 - 11:36:35 / Fin: 2017-11-14 - 11:36:35 / ERROR
+#### ERROR al procesar la ref.3445 - 3445 (GIVING)
+Ref: 3445 / Inicio: 2017-11-14 - 11:36:35 / Fin: 2017-11-14 - 11:36:35 / ERROR
+#### ERROR al procesar la ref.3448 - 3448 (GIVING)
+Ref: 3448 / Inicio: 2017-11-14 - 11:36:35 / Fin: 2017-11-14 - 11:36:35 / ERROR
+#### ERROR al procesar la ref.3449 - 3449 (GIVING)
+Ref: 3449 / Inicio: 2017-11-14 - 11:36:35 / Fin: 2017-11-14 - 11:36:35 / ERROR
+#### ERROR al procesar la ref.3461 - 3461 (GIVING)
+Ref: 3461 / Inicio: 2017-11-14 - 11:36:35 / Fin: 2017-11-14 - 11:36:35 / ERROR
+#### ERROR al procesar la ref.3462 - 3462 (GIVING)
+Ref: 3462 / Inicio: 2017-11-14 - 11:36:35 / Fin: 2017-11-14 - 11:36:35 / ERROR
+#### ERROR al procesar la ref.3463 - 3463 (GIVING)
+Ref: 3463 / Inicio: 2017-11-14 - 11:36:35 / Fin: 2017-11-14 - 11:36:35 / ERROR
+#### ERROR al procesar la ref.3467 - 3467 (GIVING)
+Ref: 3467 / Inicio: 2017-11-14 - 11:36:35 / Fin: 2017-11-14 - 11:36:35 / ERROR
+#### ERROR al procesar la ref.3474 - 3474 (GIVING)
+Ref: 3474 / Inicio: 2017-11-14 - 11:36:35 / Fin: 2017-11-14 - 11:36:36 / ERROR
+#### ERROR al procesar la ref.3475 - 3475 (GIVING)
+Ref: 3475 / Inicio: 2017-11-14 - 11:36:36 / Fin: 2017-11-14 - 11:36:36 / ERROR
+#### ERROR al procesar la ref.3481 - 3481 (GIVING)
+Ref: 3481 / Inicio: 2017-11-14 - 11:36:36 / Fin: 2017-11-14 - 11:36:36 / ERROR
+#### ERROR al procesar la ref.3487 - 3487 (GIVING)
+Ref: 3487 / Inicio: 2017-11-14 - 11:36:36 / Fin: 2017-11-14 - 11:36:36 / ERROR
+#### ERROR al procesar la ref.3514 - 3514 (GIVING)
+Ref: 3514 / Inicio: 2017-11-14 - 11:36:36 / Fin: 2017-11-14 - 11:36:36 / ERROR
+#### ERROR al procesar la ref.3519 - 3519 (GIVING)
+Ref: 3519 / Inicio: 2017-11-14 - 11:36:36 / Fin: 2017-11-14 - 11:36:36 / ERROR
+#### ERROR al procesar la ref.3537 - 3537 (GIVING)
+Ref: 3537 / Inicio: 2017-11-14 - 11:36:36 / Fin: 2017-11-14 - 11:36:36 / ERROR
+#### ERROR al procesar la ref.3539 - 3539 (GIVING)
+Ref: 3539 / Inicio: 2017-11-14 - 11:36:36 / Fin: 2017-11-14 - 11:36:36 / ERROR
+#### ERROR al procesar la ref.3541 - 3541 (GIVING)
+Ref: 3541 / Inicio: 2017-11-14 - 11:36:36 / Fin: 2017-11-14 - 11:36:36 / ERROR
+#### ERROR al procesar la ref.3560 - 3560 (GIVING)
+Ref: 3560 / Inicio: 2017-11-14 - 11:36:36 / Fin: 2017-11-14 - 11:36:36 / ERROR
+#### ERROR al procesar la ref.3562 - 3562 (GIVING)
+Ref: 3562 / Inicio: 2017-11-14 - 11:36:36 / Fin: 2017-11-14 - 11:36:36 / ERROR
+#### ERROR al procesar la ref.3572 - 3572 (GIVING)
+Ref: 3572 / Inicio: 2017-11-14 - 11:36:36 / Fin: 2017-11-14 - 11:36:36 / ERROR
+#### ERROR al procesar la ref.3575 - 3575 (GIVING)
+Ref: 3575 / Inicio: 2017-11-14 - 11:36:36 / Fin: 2017-11-14 - 11:36:36 / ERROR
+#### ERROR al procesar la ref.3576 - 3576 (GIVING)
+Ref: 3576 / Inicio: 2017-11-14 - 11:36:36 / Fin: 2017-11-14 - 11:36:36 / ERROR
+#### ERROR al procesar la ref.3580 - 3580 (GIVING)
+Ref: 3580 / Inicio: 2017-11-14 - 11:36:36 / Fin: 2017-11-14 - 11:36:36 / ERROR
+#### ERROR al procesar la ref.3582 - 3582 (GIVING)
+Ref: 3582 / Inicio: 2017-11-14 - 11:36:36 / Fin: 2017-11-14 - 11:36:36 / ERROR
+#### ERROR al procesar la ref.3583 - 3583 (GIVING)
+Ref: 3583 / Inicio: 2017-11-14 - 11:36:36 / Fin: 2017-11-14 - 11:36:36 / ERROR
+#### ERROR al procesar la ref.3584 - 3584 (GIVING)
+Ref: 3584 / Inicio: 2017-11-14 - 11:36:36 / Fin: 2017-11-14 - 11:36:36 / ERROR
+#### ERROR al procesar la ref.3585 - 3585 (GIVING)
+Ref: 3585 / Inicio: 2017-11-14 - 11:36:36 / Fin: 2017-11-14 - 11:36:36 / ERROR
+#### ERROR al procesar la ref.3586 - 3586 (GIVING)
+Ref: 3586 / Inicio: 2017-11-14 - 11:36:36 / Fin: 2017-11-14 - 11:36:36 / ERROR
+#### ERROR al procesar la ref.3587 - 3587 (GIVING)
+Ref: 3587 / Inicio: 2017-11-14 - 11:36:36 / Fin: 2017-11-14 - 11:36:36 / ERROR
+#### ERROR al procesar la ref.3588 - 3588 (GIVING)
+Ref: 3588 / Inicio: 2017-11-14 - 11:36:36 / Fin: 2017-11-14 - 11:36:36 / ERROR
+#### ERROR al procesar la ref.3589 - 3589 (GIVING)
+Ref: 3589 / Inicio: 2017-11-14 - 11:36:36 / Fin: 2017-11-14 - 11:36:36 / ERROR
+#### ERROR al procesar la ref.3590 - 3590 (GIVING)
+Ref: 3590 / Inicio: 2017-11-14 - 11:36:36 / Fin: 2017-11-14 - 11:36:36 / ERROR
+#### ERROR al procesar la ref.3592 - 3592 (GIVING)
+Ref: 3592 / Inicio: 2017-11-14 - 11:36:36 / Fin: 2017-11-14 - 11:36:37 / ERROR
+#### ERROR al procesar la ref.3594 - 3594 (GIVING)
+Ref: 3594 / Inicio: 2017-11-14 - 11:36:37 / Fin: 2017-11-14 - 11:36:37 / ERROR
+#### ERROR al procesar la ref.3599 - 3599 (GIVING)
+Ref: 3599 / Inicio: 2017-11-14 - 11:36:37 / Fin: 2017-11-14 - 11:36:37 / ERROR
+#### ERROR al procesar la ref.3601 - 3601 (GIVING)
+Ref: 3601 / Inicio: 2017-11-14 - 11:36:37 / Fin: 2017-11-14 - 11:36:37 / ERROR
+#### ERROR al procesar la ref.3604 - 3604 (GIVING)
+Ref: 3604 / Inicio: 2017-11-14 - 11:36:37 / Fin: 2017-11-14 - 11:36:37 / ERROR
+#### ERROR al procesar la ref.3614 - 3614 (GIVING)
+Ref: 3614 / Inicio: 2017-11-14 - 11:36:37 / Fin: 2017-11-14 - 11:36:37 / ERROR
+#### ERROR al procesar la ref.3637 - 3637 (GIVING)
+Ref: 3637 / Inicio: 2017-11-14 - 11:36:37 / Fin: 2017-11-14 - 11:36:37 / ERROR
+#### ERROR al procesar la ref.3648 - 3648 (GIVING)
+Ref: 3648 / Inicio: 2017-11-14 - 11:36:37 / Fin: 2017-11-14 - 11:36:37 / ERROR
+#### ERROR al procesar la ref.3675 - 3675 (GIVING)
+Ref: 3675 / Inicio: 2017-11-14 - 11:36:37 / Fin: 2017-11-14 - 11:36:37 / ERROR
+#### ERROR al procesar la ref.3678 - 3678 (GIVING)
+Ref: 3678 / Inicio: 2017-11-14 - 11:36:37 / Fin: 2017-11-14 - 11:36:37 / ERROR
+#### ERROR al procesar la ref.3684 - 3684 (GIVING)
+Ref: 3684 / Inicio: 2017-11-14 - 11:36:37 / Fin: 2017-11-14 - 11:36:37 / ERROR
+#### ERROR al procesar la ref.3685 - 3685 (GIVING)
+Ref: 3685 / Inicio: 2017-11-14 - 11:36:37 / Fin: 2017-11-14 - 11:36:37 / ERROR
+#### ERROR al procesar la ref.3702 - 3702 (GIVING)
+Ref: 3702 / Inicio: 2017-11-14 - 11:36:37 / Fin: 2017-11-14 - 11:36:37 / ERROR
+#### ERROR al procesar la ref.3712 - 3712 (GIVING)
+Ref: 3712 / Inicio: 2017-11-14 - 11:36:37 / Fin: 2017-11-14 - 11:36:37 / ERROR
+#### ERROR al procesar la ref.3724 - 3724 (GIVING)
+Ref: 3724 / Inicio: 2017-11-14 - 11:36:37 / Fin: 2017-11-14 - 11:36:37 / ERROR
+#### ERROR al procesar la ref.3725 - 3725 (GIVING)
+Ref: 3725 / Inicio: 2017-11-14 - 11:36:37 / Fin: 2017-11-14 - 11:36:37 / ERROR
+#### ERROR al procesar la ref.3735 - 3735 (GIVING)
+Ref: 3735 / Inicio: 2017-11-14 - 11:36:37 / Fin: 2017-11-14 - 11:36:37 / ERROR
+#### ERROR al procesar la ref.3739 - 3739 (GIVING)
+Ref: 3739 / Inicio: 2017-11-14 - 11:36:37 / Fin: 2017-11-14 - 11:36:37 / ERROR
+#### ERROR al procesar la ref.3742 - 3742 (GIVING)
+Ref: 3742 / Inicio: 2017-11-14 - 11:36:37 / Fin: 2017-11-14 - 11:36:37 / ERROR
+#### ERROR al procesar la ref.3744 - 3744 (GIVING)
+Ref: 3744 / Inicio: 2017-11-14 - 11:36:37 / Fin: 2017-11-14 - 11:36:37 / ERROR
+#### ERROR al procesar la ref.3751 - 3751 (GIVING)
+Ref: 3751 / Inicio: 2017-11-14 - 11:36:37 / Fin: 2017-11-14 - 11:36:37 / ERROR
+#### ERROR al procesar la ref.3762 - 3762 (GIVING)
+Ref: 3762 / Inicio: 2017-11-14 - 11:36:37 / Fin: 2017-11-14 - 11:36:37 / ERROR
+#### ERROR al procesar la ref.3764 - 3764 (GIVING)
+Ref: 3764 / Inicio: 2017-11-14 - 11:36:37 / Fin: 2017-11-14 - 11:36:37 / ERROR
+#### ERROR al procesar la ref.3769 - 3769 (GIVING)
+Ref: 3769 / Inicio: 2017-11-14 - 11:36:37 / Fin: 2017-11-14 - 11:36:37 / ERROR
+#### ERROR al procesar la ref.3781 - 3781 (GIVING)
+Ref: 3781 / Inicio: 2017-11-14 - 11:36:37 / Fin: 2017-11-14 - 11:36:38 / ERROR
+#### ERROR al procesar la ref.3782 - 3782 (GIVING)
+Ref: 3782 / Inicio: 2017-11-14 - 11:36:38 / Fin: 2017-11-14 - 11:36:38 / ERROR
+#### ERROR al procesar la ref.3783 - 3783 (GIVING)
+Ref: 3783 / Inicio: 2017-11-14 - 11:36:38 / Fin: 2017-11-14 - 11:36:38 / ERROR
+#### ERROR al procesar la ref.3786 - 3786 (GIVING)
+Ref: 3786 / Inicio: 2017-11-14 - 11:36:38 / Fin: 2017-11-14 - 11:36:38 / ERROR
+#### ERROR al procesar la ref.3788 - 3788 (GIVING)
+Ref: 3788 / Inicio: 2017-11-14 - 11:36:38 / Fin: 2017-11-14 - 11:36:38 / ERROR
+#### ERROR al procesar la ref.3789 - 3789 (GIVING)
+Ref: 3789 / Inicio: 2017-11-14 - 11:36:38 / Fin: 2017-11-14 - 11:36:38 / ERROR
+#### ERROR al procesar la ref.3808 - 3808 (GIVING)
+Ref: 3808 / Inicio: 2017-11-14 - 11:36:38 / Fin: 2017-11-14 - 11:36:38 / ERROR
+#### ERROR al procesar la ref.3836 - 3836 (GIVING)
+Ref: 3836 / Inicio: 2017-11-14 - 11:36:38 / Fin: 2017-11-14 - 11:36:38 / ERROR
+#### ERROR al procesar la ref.3854 - 3854 (GIVING)
+Ref: 3854 / Inicio: 2017-11-14 - 11:36:38 / Fin: 2017-11-14 - 11:36:38 / ERROR
+#### ERROR al procesar la ref.3865 - 3865 (GIVING)
+Ref: 3865 / Inicio: 2017-11-14 - 11:36:38 / Fin: 2017-11-14 - 11:36:38 / ERROR
+#### ERROR al procesar la ref.3868 - 3868 (GIVING)
+Ref: 3868 / Inicio: 2017-11-14 - 11:36:38 / Fin: 2017-11-14 - 11:36:38 / ERROR
+
+***************************************************************************
+CONSULTA DE STOCK DE TODOS LOS ARTÍCULOS DE GIVING:
+Proceso finalizado el 2017-11-14, a las 11:36:38

@@ -1,0 +1,8 @@
+CONSULTA DE STOCK DE TODOS LOS ARTÍCULOS DE GIVING:
+Proceso iniciado el 2017-11-17, a las 09:56:10
+***************************************************************************
+
+Ref: 5419 / Inicio: 2017-11-17 - 09:56:10 / Fin: 2017-11-17 - 09:56:14 / OK
+#### ERROR al procesar la ref.5429 - 5429 (GIVING)
+Ref: 5429 / Inicio: 2017-11-17 - 09:56:14 / Fin: 2017-11-17 - 09:56:37 / ERROR
+Ref: 5431 / Inicio: 2017-11-17 - 09:56:37 / Fin: 2017-11-17 - 09:57:00 / OK

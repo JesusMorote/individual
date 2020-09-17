@@ -1,0 +1,263 @@
+CONSULTA DE STOCK DE ARTÍCULOS CON FRECUENCIA SEMANAL:
+Proceso iniciado el 2017-11-09, a las 09:00:00
+***************************************************************************
+
+Ref: 4580 / Inicio: 2017-11-09 - 09:00:00 / Fin: 2017-11-09 - 09:00:11 / OK
+#### ERROR al procesar la ref.4581 - 35511 (GGOYA)
+Ref: 4581 / Inicio: 2017-11-09 - 09:00:11 / Fin: 2017-11-09 - 09:00:57 / ERROR
+Ref: 4582 / Inicio: 2017-11-09 - 09:00:57 / Fin: 2017-11-09 - 09:01:07 / OK
+Ref: 4585 / Inicio: 2017-11-09 - 09:01:07 / Fin: 2017-11-09 - 09:01:18 / OK
+Ref: 4588 / Inicio: 2017-11-09 - 09:01:18 / Fin: 2017-11-09 - 09:01:25 / OK
+Ref: 4589 / Inicio: 2017-11-09 - 09:01:25 / Fin: 2017-11-09 - 09:01:33 / OK
+Ref: 4590 / Inicio: 2017-11-09 - 09:01:33 / Fin: 2017-11-09 - 09:01:39 / OK
+#### ERROR al procesar la ref.4591 - 35671 (GGOYA)
+Ref: 4591 / Inicio: 2017-11-09 - 09:01:39 / Fin: 2017-11-09 - 09:02:29 / ERROR
+#### ERROR al procesar la ref.4596 - 35525 (GGOYA)
+Ref: 4596 / Inicio: 2017-11-09 - 09:02:29 / Fin: 2017-11-09 - 09:03:11 / ERROR
+Ref: 4597 / Inicio: 2017-11-09 - 09:03:11 / Fin: 2017-11-09 - 09:03:17 / OK
+Ref: 4598 / Inicio: 2017-11-09 - 09:03:17 / Fin: 2017-11-09 - 09:03:25 / OK
+Ref: 4600 / Inicio: 2017-11-09 - 09:03:25 / Fin: 2017-11-09 - 09:03:33 / OK
+Ref: 4605 / Inicio: 2017-11-09 - 09:03:33 / Fin: 2017-11-09 - 09:04:05 / OK
+Ref: 4606 / Inicio: 2017-11-09 - 09:04:05 / Fin: 2017-11-09 - 09:04:09 / OK
+#### ERROR al procesar la ref.4613 - 30047 (GGOYA)
+Ref: 4613 / Inicio: 2017-11-09 - 09:04:09 / Fin: 2017-11-09 - 09:04:56 / ERROR
+Ref: 4615 / Inicio: 2017-11-09 - 09:04:56 / Fin: 2017-11-09 - 09:05:15 / OK
+Ref: 4617 / Inicio: 2017-11-09 - 09:05:15 / Fin: 2017-11-09 - 09:05:17 / OK
+Ref: 4618 / Inicio: 2017-11-09 - 09:05:17 / Fin: 2017-11-09 - 09:05:21 / OK
+Ref: 4619 / Inicio: 2017-11-09 - 09:05:21 / Fin: 2017-11-09 - 09:05:25 / OK
+Ref: 4621 / Inicio: 2017-11-09 - 09:05:25 / Fin: 2017-11-09 - 09:05:47 / OK
+Ref: 4623 / Inicio: 2017-11-09 - 09:05:47 / Fin: 2017-11-09 - 09:05:51 / OK
+Ref: 4624 / Inicio: 2017-11-09 - 09:05:51 / Fin: 2017-11-09 - 09:05:54 / OK
+Ref: 4625 / Inicio: 2017-11-09 - 09:05:54 / Fin: 2017-11-09 - 09:06:03 / OK
+Ref: 4626 / Inicio: 2017-11-09 - 09:06:03 / Fin: 2017-11-09 - 09:06:29 / OK
+#### ERROR al procesar la ref.4627 - 35551 (GGOYA)
+Ref: 4627 / Inicio: 2017-11-09 - 09:06:29 / Fin: 2017-11-09 - 09:07:44 / ERROR
+Ref: 4631 / Inicio: 2017-11-09 - 09:07:44 / Fin: 2017-11-09 - 09:07:54 / OK
+Ref: 4632 / Inicio: 2017-11-09 - 09:07:54 / Fin: 2017-11-09 - 09:07:56 / OK
+Ref: 4633 / Inicio: 2017-11-09 - 09:07:56 / Fin: 2017-11-09 - 09:08:04 / OK
+Ref: 4634 / Inicio: 2017-11-09 - 09:08:04 / Fin: 2017-11-09 - 09:08:15 / OK
+Ref: 4636 / Inicio: 2017-11-09 - 09:08:15 / Fin: 2017-11-09 - 09:08:28 / OK
+Ref: 4637 / Inicio: 2017-11-09 - 09:08:28 / Fin: 2017-11-09 - 09:08:32 / OK
+Ref: 4638 / Inicio: 2017-11-09 - 09:08:32 / Fin: 2017-11-09 - 09:08:40 / OK
+Ref: 4639 / Inicio: 2017-11-09 - 09:08:40 / Fin: 2017-11-09 - 09:08:47 / OK
+Ref: 4640 / Inicio: 2017-11-09 - 09:08:47 / Fin: 2017-11-09 - 09:08:53 / OK
+Ref: 4641 / Inicio: 2017-11-09 - 09:08:53 / Fin: 2017-11-09 - 09:08:56 / OK
+#### ERROR al procesar la ref.4643 - 35615 (GGOYA)
+Ref: 4643 / Inicio: 2017-11-09 - 09:08:56 / Fin: 2017-11-09 - 09:09:57 / ERROR
+Ref: 4645 / Inicio: 2017-11-09 - 09:09:57 / Fin: 2017-11-09 - 09:10:07 / OK
+Ref: 4646 / Inicio: 2017-11-09 - 09:10:07 / Fin: 2017-11-09 - 09:10:16 / OK
+#### ERROR al procesar la ref.4647 - 35557 (GGOYA)
+Ref: 4647 / Inicio: 2017-11-09 - 09:10:16 / Fin: 2017-11-09 - 09:11:29 / ERROR
+Ref: 4648 / Inicio: 2017-11-09 - 09:11:29 / Fin: 2017-11-09 - 09:11:36 / OK
+Ref: 4649 / Inicio: 2017-11-09 - 09:11:36 / Fin: 2017-11-09 - 09:11:59 / OK
+Ref: 4652 / Inicio: 2017-11-09 - 09:11:59 / Fin: 2017-11-09 - 09:12:01 / OK
+Ref: 4653 / Inicio: 2017-11-09 - 09:12:01 / Fin: 2017-11-09 - 09:12:05 / OK
+#### ERROR al procesar la ref.4654 - 35619 (GGOYA)
+Ref: 4654 / Inicio: 2017-11-09 - 09:12:05 / Fin: 2017-11-09 - 09:12:50 / ERROR
+Ref: 4655 / Inicio: 2017-11-09 - 09:12:50 / Fin: 2017-11-09 - 09:12:56 / OK
+Ref: 4668 / Inicio: 2017-11-09 - 09:12:56 / Fin: 2017-11-09 - 09:13:01 / OK
+Ref: 4669 / Inicio: 2017-11-09 - 09:13:01 / Fin: 2017-11-09 - 09:13:08 / OK
+Ref: 4670 / Inicio: 2017-11-09 - 09:13:08 / Fin: 2017-11-09 - 09:13:10 / OK
+Ref: 4675 / Inicio: 2017-11-09 - 09:13:10 / Fin: 2017-11-09 - 09:13:18 / OK
+Ref: 4677 / Inicio: 2017-11-09 - 09:13:18 / Fin: 2017-11-09 - 09:13:45 / OK
+Ref: 4678 / Inicio: 2017-11-09 - 09:13:45 / Fin: 2017-11-09 - 09:14:02 / OK
+Ref: 4679 / Inicio: 2017-11-09 - 09:14:02 / Fin: 2017-11-09 - 09:14:15 / OK
+Ref: 4680 / Inicio: 2017-11-09 - 09:14:15 / Fin: 2017-11-09 - 09:14:20 / OK
+Ref: 4685 / Inicio: 2017-11-09 - 09:14:20 / Fin: 2017-11-09 - 09:14:24 / OK
+Ref: 4689 / Inicio: 2017-11-09 - 09:14:24 / Fin: 2017-11-09 - 09:14:30 / OK
+Ref: 4693 / Inicio: 2017-11-09 - 09:14:30 / Fin: 2017-11-09 - 09:14:34 / OK
+Ref: 4694 / Inicio: 2017-11-09 - 09:14:34 / Fin: 2017-11-09 - 09:14:37 / OK
+Ref: 4707 / Inicio: 2017-11-09 - 09:14:37 / Fin: 2017-11-09 - 09:14:45 / OK
+Ref: 4711 / Inicio: 2017-11-09 - 09:14:45 / Fin: 2017-11-09 - 09:14:49 / OK
+Ref: 4713 / Inicio: 2017-11-09 - 09:14:49 / Fin: 2017-11-09 - 09:14:59 / OK
+Ref: 4717 / Inicio: 2017-11-09 - 09:14:59 / Fin: 2017-11-09 - 09:15:25 / OK
+#### ERROR al procesar la ref.4721 - 36016 (GGOYA)
+Ref: 4721 / Inicio: 2017-11-09 - 09:15:25 / Fin: 2017-11-09 - 09:16:20 / ERROR
+Ref: 4725 / Inicio: 2017-11-09 - 09:16:20 / Fin: 2017-11-09 - 09:16:45 / OK
+Ref: 4729 / Inicio: 2017-11-09 - 09:16:45 / Fin: 2017-11-09 - 09:16:52 / OK
+Ref: 4731 / Inicio: 2017-11-09 - 09:16:52 / Fin: 2017-11-09 - 09:17:25 / OK
+Ref: 4733 / Inicio: 2017-11-09 - 09:17:25 / Fin: 2017-11-09 - 09:17:32 / OK
+Ref: 4734 / Inicio: 2017-11-09 - 09:17:32 / Fin: 2017-11-09 - 09:17:36 / OK
+Ref: 4737 / Inicio: 2017-11-09 - 09:17:36 / Fin: 2017-11-09 - 09:17:44 / OK
+Ref: 4738 / Inicio: 2017-11-09 - 09:17:44 / Fin: 2017-11-09 - 09:17:48 / OK
+Ref: 4741 / Inicio: 2017-11-09 - 09:17:48 / Fin: 2017-11-09 - 09:17:56 / OK
+Ref: 4742 / Inicio: 2017-11-09 - 09:17:56 / Fin: 2017-11-09 - 09:18:04 / OK
+Ref: 4746 / Inicio: 2017-11-09 - 09:18:04 / Fin: 2017-11-09 - 09:18:43 / OK
+Ref: 4747 / Inicio: 2017-11-09 - 09:18:43 / Fin: 2017-11-09 - 09:18:50 / OK
+#### ERROR al procesar la ref.4748 - 35510 (GGOYA)
+Ref: 4748 / Inicio: 2017-11-09 - 09:18:50 / Fin: 2017-11-09 - 09:19:47 / ERROR
+#### ERROR al procesar la ref.4754 - 35066 (GGOYA)
+Ref: 4754 / Inicio: 2017-11-09 - 09:19:47 / Fin: 2017-11-09 - 09:20:41 / ERROR
+Ref: 4774 / Inicio: 2017-11-09 - 09:20:41 / Fin: 2017-11-09 - 09:20:48 / OK
+Ref: 4775 / Inicio: 2017-11-09 - 09:20:48 / Fin: 2017-11-09 - 09:20:55 / OK
+Ref: 4777 / Inicio: 2017-11-09 - 09:20:55 / Fin: 2017-11-09 - 09:21:07 / OK
+Ref: 4781 / Inicio: 2017-11-09 - 09:21:07 / Fin: 2017-11-09 - 09:21:12 / OK
+Ref: 4782 / Inicio: 2017-11-09 - 09:21:12 / Fin: 2017-11-09 - 09:21:16 / OK
+Ref: 4784 / Inicio: 2017-11-09 - 09:21:16 / Fin: 2017-11-09 - 09:21:23 / OK
+Ref: 4786 / Inicio: 2017-11-09 - 09:21:23 / Fin: 2017-11-09 - 09:21:31 / OK
+#### ERROR al procesar la ref.4787 - 36055 (GGOYA)
+Ref: 4787 / Inicio: 2017-11-09 - 09:21:31 / Fin: 2017-11-09 - 09:22:24 / ERROR
+#### ERROR al procesar la ref.4788 - 31137 (GGOYA)
+Ref: 4788 / Inicio: 2017-11-09 - 09:22:24 / Fin: 2017-11-09 - 09:23:06 / ERROR
+Ref: 4799 / Inicio: 2017-11-09 - 09:23:06 / Fin: 2017-11-09 - 09:23:14 / OK
+Ref: 4803 / Inicio: 2017-11-09 - 09:23:14 / Fin: 2017-11-09 - 09:23:36 / OK
+Ref: 4811 / Inicio: 2017-11-09 - 09:23:36 / Fin: 2017-11-09 - 09:23:45 / OK
+Ref: 4813 / Inicio: 2017-11-09 - 09:23:45 / Fin: 2017-11-09 - 09:23:57 / OK
+#### ERROR al procesar la ref.4817 - 35363 (GGOYA)
+Ref: 4817 / Inicio: 2017-11-09 - 09:23:57 / Fin: 2017-11-09 - 09:24:45 / ERROR
+Ref: 4820 / Inicio: 2017-11-09 - 09:24:45 / Fin: 2017-11-09 - 09:24:57 / OK
+Ref: 4821 / Inicio: 2017-11-09 - 09:24:57 / Fin: 2017-11-09 - 09:25:10 / OK
+Ref: 4826 / Inicio: 2017-11-09 - 09:25:10 / Fin: 2017-11-09 - 09:25:24 / OK
+Ref: 4828 / Inicio: 2017-11-09 - 09:25:24 / Fin: 2017-11-09 - 09:25:55 / OK
+Ref: 4834 / Inicio: 2017-11-09 - 09:25:55 / Fin: 2017-11-09 - 09:26:09 / OK
+Ref: 4835 / Inicio: 2017-11-09 - 09:26:09 / Fin: 2017-11-09 - 09:26:20 / OK
+#### ERROR al procesar la ref.4836 - 35610 (GGOYA)
+Ref: 4836 / Inicio: 2017-11-09 - 09:26:20 / Fin: 2017-11-09 - 09:27:15 / ERROR
+#### ERROR al procesar la ref.4837 - 36078 (GGOYA)
+Ref: 4837 / Inicio: 2017-11-09 - 09:27:15 / Fin: 2017-11-09 - 09:28:24 / ERROR
+Ref: 4843 / Inicio: 2017-11-09 - 09:28:24 / Fin: 2017-11-09 - 09:28:33 / OK
+Ref: 4845 / Inicio: 2017-11-09 - 09:28:33 / Fin: 2017-11-09 - 09:28:43 / OK
+Ref: 4847 / Inicio: 2017-11-09 - 09:28:43 / Fin: 2017-11-09 - 09:28:55 / OK
+Ref: 4848 / Inicio: 2017-11-09 - 09:28:55 / Fin: 2017-11-09 - 09:29:12 / OK
+Ref: 4851 / Inicio: 2017-11-09 - 09:29:12 / Fin: 2017-11-09 - 09:29:16 / OK
+Ref: 4852 / Inicio: 2017-11-09 - 09:29:16 / Fin: 2017-11-09 - 09:29:35 / OK
+Ref: 4853 / Inicio: 2017-11-09 - 09:29:35 / Fin: 2017-11-09 - 09:29:39 / OK
+Ref: 4854 / Inicio: 2017-11-09 - 09:29:39 / Fin: 2017-11-09 - 09:29:42 / OK
+Ref: 4858 / Inicio: 2017-11-09 - 09:29:42 / Fin: 2017-11-09 - 09:29:48 / OK
+Ref: 4859 / Inicio: 2017-11-09 - 09:29:48 / Fin: 2017-11-09 - 09:29:55 / OK
+Ref: 4860 / Inicio: 2017-11-09 - 09:29:55 / Fin: 2017-11-09 - 09:30:05 / OK
+Ref: 4866 / Inicio: 2017-11-09 - 09:30:05 / Fin: 2017-11-09 - 09:30:09 / OK
+Ref: 4867 / Inicio: 2017-11-09 - 09:30:09 / Fin: 2017-11-09 - 09:30:17 / OK
+#### ERROR al procesar la ref.4869 - 35056 (GGOYA)
+Ref: 4869 / Inicio: 2017-11-09 - 09:30:17 / Fin: 2017-11-09 - 09:30:59 / ERROR
+Ref: 4870 / Inicio: 2017-11-09 - 09:30:59 / Fin: 2017-11-09 - 09:31:04 / OK
+Ref: 4871 / Inicio: 2017-11-09 - 09:31:04 / Fin: 2017-11-09 - 09:31:18 / OK
+Ref: 4872 / Inicio: 2017-11-09 - 09:31:18 / Fin: 2017-11-09 - 09:31:30 / OK
+Ref: 4874 / Inicio: 2017-11-09 - 09:31:30 / Fin: 2017-11-09 - 09:31:52 / OK
+Ref: 4880 / Inicio: 2017-11-09 - 09:31:52 / Fin: 2017-11-09 - 09:32:01 / OK
+Ref: 4883 / Inicio: 2017-11-09 - 09:32:01 / Fin: 2017-11-09 - 09:32:05 / OK
+#### ERROR al procesar la ref.4885 - 36082 (GGOYA)
+Ref: 4885 / Inicio: 2017-11-09 - 09:32:05 / Fin: 2017-11-09 - 09:32:48 / ERROR
+Ref: 4886 / Inicio: 2017-11-09 - 09:32:48 / Fin: 2017-11-09 - 09:32:52 / OK
+Ref: 4890 / Inicio: 2017-11-09 - 09:32:52 / Fin: 2017-11-09 - 09:32:56 / OK
+#### ERROR al procesar la ref.4892 - 35637 (GGOYA)
+Ref: 4892 / Inicio: 2017-11-09 - 09:32:56 / Fin: 2017-11-09 - 09:33:49 / ERROR
+Ref: 4894 / Inicio: 2017-11-09 - 09:33:49 / Fin: 2017-11-09 - 09:33:55 / OK
+Ref: 4896 / Inicio: 2017-11-09 - 09:33:55 / Fin: 2017-11-09 - 09:34:01 / OK
+Ref: 4901 / Inicio: 2017-11-09 - 09:34:01 / Fin: 2017-11-09 - 09:34:36 / OK
+Ref: 4903 / Inicio: 2017-11-09 - 09:34:36 / Fin: 2017-11-09 - 09:34:49 / OK
+Ref: 4915 / Inicio: 2017-11-09 - 09:34:49 / Fin: 2017-11-09 - 09:35:04 / OK
+#### ERROR al procesar la ref.4918 - 35544 (GGOYA)
+Ref: 4918 / Inicio: 2017-11-09 - 09:35:04 / Fin: 2017-11-09 - 09:35:50 / ERROR
+#### ERROR al procesar la ref.4919 - 36044 (GGOYA)
+Ref: 4919 / Inicio: 2017-11-09 - 09:35:50 / Fin: 2017-11-09 - 09:36:35 / ERROR
+Ref: 4920 / Inicio: 2017-11-09 - 09:36:35 / Fin: 2017-11-09 - 09:36:39 / OK
+#### ERROR al procesar la ref.4921 - 36041 (GGOYA)
+Ref: 4921 / Inicio: 2017-11-09 - 09:36:39 / Fin: 2017-11-09 - 09:37:21 / ERROR
+#### ERROR al procesar la ref.4922 - 36081 (GGOYA)
+Ref: 4922 / Inicio: 2017-11-09 - 09:37:21 / Fin: 2017-11-09 - 09:38:04 / ERROR
+Ref: 4924 / Inicio: 2017-11-09 - 09:38:04 / Fin: 2017-11-09 - 09:38:11 / OK
+#### ERROR al procesar la ref.4926 - 34029 (GGOYA)
+Ref: 4926 / Inicio: 2017-11-09 - 09:38:11 / Fin: 2017-11-09 - 09:39:07 / ERROR
+Ref: 4928 / Inicio: 2017-11-09 - 09:39:07 / Fin: 2017-11-09 - 09:39:12 / OK
+Ref: 4930 / Inicio: 2017-11-09 - 09:39:12 / Fin: 2017-11-09 - 09:39:20 / OK
+#### ERROR al procesar la ref.4931 - 33047 (GGOYA)
+Ref: 4931 / Inicio: 2017-11-09 - 09:39:20 / Fin: 2017-11-09 - 09:40:12 / ERROR
+Ref: 4933 / Inicio: 2017-11-09 - 09:40:12 / Fin: 2017-11-09 - 09:40:21 / OK
+#### ERROR al procesar la ref.4934 - 35621 (GGOYA)
+Ref: 4934 / Inicio: 2017-11-09 - 09:40:21 / Fin: 2017-11-09 - 09:41:03 / ERROR
+Ref: 4935 / Inicio: 2017-11-09 - 09:41:03 / Fin: 2017-11-09 - 09:41:12 / OK
+Ref: 4938 / Inicio: 2017-11-09 - 09:41:12 / Fin: 2017-11-09 - 09:41:21 / OK
+Ref: 4939 / Inicio: 2017-11-09 - 09:41:21 / Fin: 2017-11-09 - 09:41:28 / OK
+Ref: 4942 / Inicio: 2017-11-09 - 09:41:28 / Fin: 2017-11-09 - 09:41:40 / OK
+Ref: 4946 / Inicio: 2017-11-09 - 09:41:40 / Fin: 2017-11-09 - 09:42:03 / OK
+Ref: 4947 / Inicio: 2017-11-09 - 09:42:03 / Fin: 2017-11-09 - 09:42:07 / OK
+Ref: 4949 / Inicio: 2017-11-09 - 09:42:07 / Fin: 2017-11-09 - 09:42:23 / OK
+Ref: 4950 / Inicio: 2017-11-09 - 09:42:23 / Fin: 2017-11-09 - 09:42:27 / OK
+Ref: 4954 / Inicio: 2017-11-09 - 09:42:27 / Fin: 2017-11-09 - 09:42:42 / OK
+#### ERROR al procesar la ref.4955 - 33565 (GGOYA)
+Ref: 4955 / Inicio: 2017-11-09 - 09:42:42 / Fin: 2017-11-09 - 09:44:01 / ERROR
+Ref: 4956 / Inicio: 2017-11-09 - 09:44:01 / Fin: 2017-11-09 - 09:44:36 / OK
+#### ERROR al procesar la ref.4959 - 36507 (GGOYA)
+Ref: 4959 / Inicio: 2017-11-09 - 09:44:36 / Fin: 2017-11-09 - 09:45:38 / ERROR
+#### ERROR al procesar la ref.4961 - 35508 (GGOYA)
+Ref: 4961 / Inicio: 2017-11-09 - 09:45:38 / Fin: 2017-11-09 - 09:46:20 / ERROR
+Ref: 4964 / Inicio: 2017-11-09 - 09:46:20 / Fin: 2017-11-09 - 09:46:32 / OK
+#### ERROR al procesar la ref.4969 - 35607 (GGOYA)
+Ref: 4969 / Inicio: 2017-11-09 - 09:46:32 / Fin: 2017-11-09 - 09:47:23 / ERROR
+Ref: 4970 / Inicio: 2017-11-09 - 09:47:23 / Fin: 2017-11-09 - 09:47:27 / OK
+
+***************************************************************************
+CONSULTA DE STOCK DE ARTÍCULOS CON FRECUENCIA SEMANAL:
+Proceso finalizado el 2017-11-09, a las 09:47:27
+
+CONSULTA DE STOCK DE ARTÍCULOS CON FRECUENCIA SEMANAL:
+Referencias de las que no se ha podido obtener stock de competidores por Errores de Proceso
+Resultados del Segundo Intento
+Proceso iniciado el 2017-11-09, a las 09:47:27
+***************************************************************************
+
+#### ERROR al procesar la ref.4581 - 35511 (GGOYA)
+Ref: 4581 / Inicio: 2017-11-09 - 09:47:27 / Fin: 2017-11-09 - 09:48:09 / ERROR
+#### ERROR al procesar la ref.4591 - 35671 (GGOYA)
+Ref: 4591 / Inicio: 2017-11-09 - 09:48:09 / Fin: 2017-11-09 - 09:48:51 / ERROR
+#### ERROR al procesar la ref.4596 - 35525 (GGOYA)
+Ref: 4596 / Inicio: 2017-11-09 - 09:48:51 / Fin: 2017-11-09 - 09:49:34 / ERROR
+#### ERROR al procesar la ref.4613 - 30047 (GGOYA)
+Ref: 4613 / Inicio: 2017-11-09 - 09:49:34 / Fin: 2017-11-09 - 09:50:16 / ERROR
+#### ERROR al procesar la ref.4627 - 35551 (GGOYA)
+Ref: 4627 / Inicio: 2017-11-09 - 09:50:16 / Fin: 2017-11-09 - 09:50:59 / ERROR
+#### ERROR al procesar la ref.4643 - 35615 (GGOYA)
+Ref: 4643 / Inicio: 2017-11-09 - 09:50:59 / Fin: 2017-11-09 - 09:51:41 / ERROR
+#### ERROR al procesar la ref.4647 - 35557 (GGOYA)
+Ref: 4647 / Inicio: 2017-11-09 - 09:51:41 / Fin: 2017-11-09 - 09:52:23 / ERROR
+#### ERROR al procesar la ref.4654 - 35619 (GGOYA)
+Ref: 4654 / Inicio: 2017-11-09 - 09:52:23 / Fin: 2017-11-09 - 09:53:06 / ERROR
+#### ERROR al procesar la ref.4721 - 36016 (GGOYA)
+Ref: 4721 / Inicio: 2017-11-09 - 09:53:06 / Fin: 2017-11-09 - 09:53:48 / ERROR
+#### ERROR al procesar la ref.4748 - 35510 (GGOYA)
+Ref: 4748 / Inicio: 2017-11-09 - 09:53:48 / Fin: 2017-11-09 - 09:54:31 / ERROR
+#### ERROR al procesar la ref.4754 - 35066 (GGOYA)
+Ref: 4754 / Inicio: 2017-11-09 - 09:54:31 / Fin: 2017-11-09 - 09:55:13 / ERROR
+#### ERROR al procesar la ref.4787 - 36055 (GGOYA)
+Ref: 4787 / Inicio: 2017-11-09 - 09:55:13 / Fin: 2017-11-09 - 09:55:55 / ERROR
+#### ERROR al procesar la ref.4788 - 31137 (GGOYA)
+Ref: 4788 / Inicio: 2017-11-09 - 09:55:55 / Fin: 2017-11-09 - 09:56:38 / ERROR
+#### ERROR al procesar la ref.4817 - 35363 (GGOYA)
+Ref: 4817 / Inicio: 2017-11-09 - 09:56:38 / Fin: 2017-11-09 - 09:57:20 / ERROR
+#### ERROR al procesar la ref.4836 - 35610 (GGOYA)
+Ref: 4836 / Inicio: 2017-11-09 - 09:57:20 / Fin: 2017-11-09 - 09:58:03 / ERROR
+#### ERROR al procesar la ref.4837 - 36078 (GGOYA)
+Ref: 4837 / Inicio: 2017-11-09 - 09:58:03 / Fin: 2017-11-09 - 09:58:45 / ERROR
+#### ERROR al procesar la ref.4869 - 35056 (GGOYA)
+Ref: 4869 / Inicio: 2017-11-09 - 09:58:45 / Fin: 2017-11-09 - 09:59:28 / ERROR
+#### ERROR al procesar la ref.4885 - 36082 (GGOYA)
+Ref: 4885 / Inicio: 2017-11-09 - 09:59:28 / Fin: 2017-11-09 - 10:00:10 / ERROR
+#### ERROR al procesar la ref.4892 - 35637 (GGOYA)
+Ref: 4892 / Inicio: 2017-11-09 - 10:00:10 / Fin: 2017-11-09 - 10:00:52 / ERROR
+#### ERROR al procesar la ref.4918 - 35544 (GGOYA)
+Ref: 4918 / Inicio: 2017-11-09 - 10:00:52 / Fin: 2017-11-09 - 10:01:35 / ERROR
+#### ERROR al procesar la ref.4919 - 36044 (GGOYA)
+Ref: 4919 / Inicio: 2017-11-09 - 10:01:35 / Fin: 2017-11-09 - 10:02:17 / ERROR
+#### ERROR al procesar la ref.4921 - 36041 (GGOYA)
+Ref: 4921 / Inicio: 2017-11-09 - 10:02:17 / Fin: 2017-11-09 - 10:03:00 / ERROR
+#### ERROR al procesar la ref.4922 - 36081 (GGOYA)
+Ref: 4922 / Inicio: 2017-11-09 - 10:03:00 / Fin: 2017-11-09 - 10:03:42 / ERROR
+#### ERROR al procesar la ref.4926 - 34029 (GGOYA)
+Ref: 4926 / Inicio: 2017-11-09 - 10:03:42 / Fin: 2017-11-09 - 10:04:25 / ERROR
+#### ERROR al procesar la ref.4931 - 33047 (GGOYA)
+Ref: 4931 / Inicio: 2017-11-09 - 10:04:25 / Fin: 2017-11-09 - 10:05:07 / ERROR
+#### ERROR al procesar la ref.4934 - 35621 (GGOYA)
+Ref: 4934 / Inicio: 2017-11-09 - 10:05:07 / Fin: 2017-11-09 - 10:05:49 / ERROR
+#### ERROR al procesar la ref.4955 - 33565 (GGOYA)
+Ref: 4955 / Inicio: 2017-11-09 - 10:05:49 / Fin: 2017-11-09 - 10:06:32 / ERROR
+#### ERROR al procesar la ref.4959 - 36507 (GGOYA)
+Ref: 4959 / Inicio: 2017-11-09 - 10:06:32 / Fin: 2017-11-09 - 10:07:14 / ERROR
+#### ERROR al procesar la ref.4961 - 35508 (GGOYA)
+Ref: 4961 / Inicio: 2017-11-09 - 10:07:14 / Fin: 2017-11-09 - 10:07:57 / ERROR
+#### ERROR al procesar la ref.4969 - 35607 (GGOYA)
+Ref: 4969 / Inicio: 2017-11-09 - 10:07:57 / Fin: 2017-11-09 - 10:08:39 / ERROR
+
+***************************************************************************
+CONSULTA DE STOCK DE ARTÍCULOS CON FRECUENCIA SEMANAL:
+Proceso finalizado el 2017-11-09, a las 10:08:39

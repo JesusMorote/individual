@@ -1,0 +1,495 @@
+CONSULTA DE STOCK DE TODOS LOS ARTÍCULOS DE PS:
+Proceso iniciado el 2017-11-11, a las 13:30:01
+***************************************************************************
+
+#### ERROR al procesar la ref.98062 - 98062 (PS)
+Ref: 98062 / Inicio: 2017-11-11 - 13:30:01 / Fin: 2017-11-11 - 13:30:01 / ERROR
+#### ERROR al procesar la ref.98066 - 98066 (PS)
+Ref: 98066 / Inicio: 2017-11-11 - 13:30:01 / Fin: 2017-11-11 - 13:30:01 / ERROR
+#### ERROR al procesar la ref.98067 - 98067 (PS)
+Ref: 98067 / Inicio: 2017-11-11 - 13:30:01 / Fin: 2017-11-11 - 13:30:01 / ERROR
+#### ERROR al procesar la ref.98074 - 98074 (PS)
+Ref: 98074 / Inicio: 2017-11-11 - 13:30:01 / Fin: 2017-11-11 - 13:30:01 / ERROR
+#### ERROR al procesar la ref.98075 - 98075 (PS)
+Ref: 98075 / Inicio: 2017-11-11 - 13:30:01 / Fin: 2017-11-11 - 13:30:01 / ERROR
+#### ERROR al procesar la ref.98080 - 98080 (PS)
+Ref: 98080 / Inicio: 2017-11-11 - 13:30:01 / Fin: 2017-11-11 - 13:30:01 / ERROR
+#### ERROR al procesar la ref.98081 - 98081 (PS)
+Ref: 98081 / Inicio: 2017-11-11 - 13:30:01 / Fin: 2017-11-11 - 13:30:01 / ERROR
+#### ERROR al procesar la ref.98087 - 98087 (PS)
+Ref: 98087 / Inicio: 2017-11-11 - 13:30:01 / Fin: 2017-11-11 - 13:30:01 / ERROR
+#### ERROR al procesar la ref.98088 - 98088 (PS)
+Ref: 98088 / Inicio: 2017-11-11 - 13:30:01 / Fin: 2017-11-11 - 13:30:01 / ERROR
+#### ERROR al procesar la ref.98089 - 98089 (PS)
+Ref: 98089 / Inicio: 2017-11-11 - 13:30:01 / Fin: 2017-11-11 - 13:30:01 / ERROR
+#### ERROR al procesar la ref.98090 - 98090 (PS)
+Ref: 98090 / Inicio: 2017-11-11 - 13:30:01 / Fin: 2017-11-11 - 13:30:01 / ERROR
+#### ERROR al procesar la ref.98091 - 98091 (PS)
+Ref: 98091 / Inicio: 2017-11-11 - 13:30:01 / Fin: 2017-11-11 - 13:30:01 / ERROR
+#### ERROR al procesar la ref.98092 - 98092 (PS)
+Ref: 98092 / Inicio: 2017-11-11 - 13:30:01 / Fin: 2017-11-11 - 13:30:01 / ERROR
+#### ERROR al procesar la ref.98108 - 98108 (PS)
+Ref: 98108 / Inicio: 2017-11-11 - 13:30:01 / Fin: 2017-11-11 - 13:30:01 / ERROR
+#### ERROR al procesar la ref.98111 - 98111 (PS)
+Ref: 98111 / Inicio: 2017-11-11 - 13:30:01 / Fin: 2017-11-11 - 13:30:01 / ERROR
+#### ERROR al procesar la ref.98117 - 98117 (PS)
+Ref: 98117 / Inicio: 2017-11-11 - 13:30:01 / Fin: 2017-11-11 - 13:30:01 / ERROR
+#### ERROR al procesar la ref.98121 - 98121 (PS)
+Ref: 98121 / Inicio: 2017-11-11 - 13:30:01 / Fin: 2017-11-11 - 13:30:01 / ERROR
+#### ERROR al procesar la ref.98123 - 98123 (PS)
+Ref: 98123 / Inicio: 2017-11-11 - 13:30:01 / Fin: 2017-11-11 - 13:30:01 / ERROR
+#### ERROR al procesar la ref.98124 - 98124 (PS)
+Ref: 98124 / Inicio: 2017-11-11 - 13:30:01 / Fin: 2017-11-11 - 13:30:01 / ERROR
+#### ERROR al procesar la ref.98171 - 98171 (PS)
+Ref: 98171 / Inicio: 2017-11-11 - 13:30:01 / Fin: 2017-11-11 - 13:30:01 / ERROR
+#### ERROR al procesar la ref.98181 - 98181 (PS)
+Ref: 98181 / Inicio: 2017-11-11 - 13:30:01 / Fin: 2017-11-11 - 13:30:02 / ERROR
+#### ERROR al procesar la ref.98193 - 98193 (PS)
+Ref: 98193 / Inicio: 2017-11-11 - 13:30:02 / Fin: 2017-11-11 - 13:30:02 / ERROR
+#### ERROR al procesar la ref.98197 - 98197 (PS)
+Ref: 98197 / Inicio: 2017-11-11 - 13:30:02 / Fin: 2017-11-11 - 13:30:02 / ERROR
+#### ERROR al procesar la ref.98259 - 98259 (PS)
+Ref: 98259 / Inicio: 2017-11-11 - 13:30:02 / Fin: 2017-11-11 - 13:30:02 / ERROR
+#### ERROR al procesar la ref.98260 - 98260 (PS)
+Ref: 98260 / Inicio: 2017-11-11 - 13:30:02 / Fin: 2017-11-11 - 13:30:02 / ERROR
+#### ERROR al procesar la ref.98263 - 98263 (PS)
+Ref: 98263 / Inicio: 2017-11-11 - 13:30:02 / Fin: 2017-11-11 - 13:30:02 / ERROR
+#### ERROR al procesar la ref.98264 - 98264 (PS)
+Ref: 98264 / Inicio: 2017-11-11 - 13:30:02 / Fin: 2017-11-11 - 13:30:02 / ERROR
+#### ERROR al procesar la ref.98265 - 98265 (PS)
+Ref: 98265 / Inicio: 2017-11-11 - 13:30:02 / Fin: 2017-11-11 - 13:30:02 / ERROR
+#### ERROR al procesar la ref.98307 - 98307 (PS)
+Ref: 98307 / Inicio: 2017-11-11 - 13:30:02 / Fin: 2017-11-11 - 13:30:02 / ERROR
+#### ERROR al procesar la ref.98314 - 98314 (PS)
+Ref: 98314 / Inicio: 2017-11-11 - 13:30:02 / Fin: 2017-11-11 - 13:30:02 / ERROR
+#### ERROR al procesar la ref.98316 - 98316 (PS)
+Ref: 98316 / Inicio: 2017-11-11 - 13:30:02 / Fin: 2017-11-11 - 13:30:02 / ERROR
+#### ERROR al procesar la ref.98317 - 98317 (PS)
+Ref: 98317 / Inicio: 2017-11-11 - 13:30:02 / Fin: 2017-11-11 - 13:30:02 / ERROR
+#### ERROR al procesar la ref.98318 - 98318 (PS)
+Ref: 98318 / Inicio: 2017-11-11 - 13:30:02 / Fin: 2017-11-11 - 13:30:02 / ERROR
+#### ERROR al procesar la ref.98375 - 98375 (PS)
+Ref: 98375 / Inicio: 2017-11-11 - 13:30:02 / Fin: 2017-11-11 - 13:30:02 / ERROR
+#### ERROR al procesar la ref.98376 - 98376 (PS)
+Ref: 98376 / Inicio: 2017-11-11 - 13:30:02 / Fin: 2017-11-11 - 13:30:02 / ERROR
+#### ERROR al procesar la ref.98377 - 98377 (PS)
+Ref: 98377 / Inicio: 2017-11-11 - 13:30:02 / Fin: 2017-11-11 - 13:30:02 / ERROR
+#### ERROR al procesar la ref.98406 - 98406 (PS)
+Ref: 98406 / Inicio: 2017-11-11 - 13:30:02 / Fin: 2017-11-11 - 13:30:02 / ERROR
+#### ERROR al procesar la ref.98407 - 98407 (PS)
+Ref: 98407 / Inicio: 2017-11-11 - 13:30:02 / Fin: 2017-11-11 - 13:30:02 / ERROR
+#### ERROR al procesar la ref.98408 - 98408 (PS)
+Ref: 98408 / Inicio: 2017-11-11 - 13:30:02 / Fin: 2017-11-11 - 13:30:02 / ERROR
+#### ERROR al procesar la ref.98409 - 98409 (PS)
+Ref: 98409 / Inicio: 2017-11-11 - 13:30:02 / Fin: 2017-11-11 - 13:30:02 / ERROR
+#### ERROR al procesar la ref.98410 - 98410 (PS)
+Ref: 98410 / Inicio: 2017-11-11 - 13:30:02 / Fin: 2017-11-11 - 13:30:02 / ERROR
+#### ERROR al procesar la ref.98411 - 98411 (PS)
+Ref: 98411 / Inicio: 2017-11-11 - 13:30:02 / Fin: 2017-11-11 - 13:30:02 / ERROR
+#### ERROR al procesar la ref.98412 - 98412 (PS)
+Ref: 98412 / Inicio: 2017-11-11 - 13:30:02 / Fin: 2017-11-11 - 13:30:02 / ERROR
+#### ERROR al procesar la ref.98414 - 98414 (PS)
+Ref: 98414 / Inicio: 2017-11-11 - 13:30:02 / Fin: 2017-11-11 - 13:30:02 / ERROR
+#### ERROR al procesar la ref.98415 - 98415 (PS)
+Ref: 98415 / Inicio: 2017-11-11 - 13:30:02 / Fin: 2017-11-11 - 13:30:02 / ERROR
+#### ERROR al procesar la ref.98416 - 98416 (PS)
+Ref: 98416 / Inicio: 2017-11-11 - 13:30:02 / Fin: 2017-11-11 - 13:30:02 / ERROR
+#### ERROR al procesar la ref.98450 - 98450 (PS)
+Ref: 98450 / Inicio: 2017-11-11 - 13:30:02 / Fin: 2017-11-11 - 13:30:02 / ERROR
+#### ERROR al procesar la ref.98457 - 98457 (PS)
+Ref: 98457 / Inicio: 2017-11-11 - 13:30:02 / Fin: 2017-11-11 - 13:30:02 / ERROR
+#### ERROR al procesar la ref.98502 - 98502 (PS)
+Ref: 98502 / Inicio: 2017-11-11 - 13:30:02 / Fin: 2017-11-11 - 13:30:02 / ERROR
+#### ERROR al procesar la ref.98504 - 98504 (PS)
+Ref: 98504 / Inicio: 2017-11-11 - 13:30:02 / Fin: 2017-11-11 - 13:30:02 / ERROR
+#### ERROR al procesar la ref.98506 - 98506 (PS)
+Ref: 98506 / Inicio: 2017-11-11 - 13:30:02 / Fin: 2017-11-11 - 13:30:02 / ERROR
+#### ERROR al procesar la ref.98509 - 98509 (PS)
+Ref: 98509 / Inicio: 2017-11-11 - 13:30:02 / Fin: 2017-11-11 - 13:30:03 / ERROR
+#### ERROR al procesar la ref.98510 - 98510 (PS)
+Ref: 98510 / Inicio: 2017-11-11 - 13:30:03 / Fin: 2017-11-11 - 13:30:03 / ERROR
+#### ERROR al procesar la ref.98710 - 98710 (PS)
+Ref: 98710 / Inicio: 2017-11-11 - 13:30:03 / Fin: 2017-11-11 - 13:30:03 / ERROR
+#### ERROR al procesar la ref.98711 - 98711 (PS)
+Ref: 98711 / Inicio: 2017-11-11 - 13:30:03 / Fin: 2017-11-11 - 13:30:03 / ERROR
+#### ERROR al procesar la ref.98808 - 98808 (PS)
+Ref: 98808 / Inicio: 2017-11-11 - 13:30:03 / Fin: 2017-11-11 - 13:30:03 / ERROR
+#### ERROR al procesar la ref.98809 - 98809 (PS)
+Ref: 98809 / Inicio: 2017-11-11 - 13:30:03 / Fin: 2017-11-11 - 13:30:03 / ERROR
+#### ERROR al procesar la ref.98820 - 98820 (PS)
+Ref: 98820 / Inicio: 2017-11-11 - 13:30:03 / Fin: 2017-11-11 - 13:30:03 / ERROR
+#### ERROR al procesar la ref.98821 - 98821 (PS)
+Ref: 98821 / Inicio: 2017-11-11 - 13:30:03 / Fin: 2017-11-11 - 13:30:03 / ERROR
+#### ERROR al procesar la ref.99014 - 99014 (PS)
+Ref: 99014 / Inicio: 2017-11-11 - 13:30:03 / Fin: 2017-11-11 - 13:30:03 / ERROR
+#### ERROR al procesar la ref.99018 - 99018 (PS)
+Ref: 99018 / Inicio: 2017-11-11 - 13:30:03 / Fin: 2017-11-11 - 13:30:03 / ERROR
+#### ERROR al procesar la ref.99020 - 99020 (PS)
+Ref: 99020 / Inicio: 2017-11-11 - 13:30:03 / Fin: 2017-11-11 - 13:30:03 / ERROR
+#### ERROR al procesar la ref.99059 - 99059 (PS)
+Ref: 99059 / Inicio: 2017-11-11 - 13:30:03 / Fin: 2017-11-11 - 13:30:03 / ERROR
+#### ERROR al procesar la ref.99062 - 99062 (PS)
+Ref: 99062 / Inicio: 2017-11-11 - 13:30:03 / Fin: 2017-11-11 - 13:30:03 / ERROR
+#### ERROR al procesar la ref.99063 - 99063 (PS)
+Ref: 99063 / Inicio: 2017-11-11 - 13:30:03 / Fin: 2017-11-11 - 13:30:03 / ERROR
+#### ERROR al procesar la ref.99071 - 99071 (PS)
+Ref: 99071 / Inicio: 2017-11-11 - 13:30:03 / Fin: 2017-11-11 - 13:30:03 / ERROR
+#### ERROR al procesar la ref.99072 - 99072 (PS)
+Ref: 99072 / Inicio: 2017-11-11 - 13:30:03 / Fin: 2017-11-11 - 13:30:03 / ERROR
+#### ERROR al procesar la ref.99073 - 99073 (PS)
+Ref: 99073 / Inicio: 2017-11-11 - 13:30:03 / Fin: 2017-11-11 - 13:30:03 / ERROR
+#### ERROR al procesar la ref.99109 - 99109 (PS)
+Ref: 99109 / Inicio: 2017-11-11 - 13:30:03 / Fin: 2017-11-11 - 13:30:03 / ERROR
+#### ERROR al procesar la ref.99115 - 99115 (PS)
+Ref: 99115 / Inicio: 2017-11-11 - 13:30:03 / Fin: 2017-11-11 - 13:30:03 / ERROR
+#### ERROR al procesar la ref.99116 - 99116 (PS)
+Ref: 99116 / Inicio: 2017-11-11 - 13:30:03 / Fin: 2017-11-11 - 13:30:03 / ERROR
+#### ERROR al procesar la ref.99120 - 99120 (PS)
+Ref: 99120 / Inicio: 2017-11-11 - 13:30:03 / Fin: 2017-11-11 - 13:30:03 / ERROR
+#### ERROR al procesar la ref.99122 - 99122 (PS)
+Ref: 99122 / Inicio: 2017-11-11 - 13:30:03 / Fin: 2017-11-11 - 13:30:03 / ERROR
+#### ERROR al procesar la ref.99126 - 99126 (PS)
+Ref: 99126 / Inicio: 2017-11-11 - 13:30:03 / Fin: 2017-11-11 - 13:30:03 / ERROR
+#### ERROR al procesar la ref.99130 - 99130 (PS)
+Ref: 99130 / Inicio: 2017-11-11 - 13:30:03 / Fin: 2017-11-11 - 13:30:03 / ERROR
+#### ERROR al procesar la ref.99131 - 99131 (PS)
+Ref: 99131 / Inicio: 2017-11-11 - 13:30:03 / Fin: 2017-11-11 - 13:30:03 / ERROR
+#### ERROR al procesar la ref.99132 - 99132 (PS)
+Ref: 99132 / Inicio: 2017-11-11 - 13:30:03 / Fin: 2017-11-11 - 13:30:03 / ERROR
+#### ERROR al procesar la ref.99136 - 99136 (PS)
+Ref: 99136 / Inicio: 2017-11-11 - 13:30:03 / Fin: 2017-11-11 - 13:30:03 / ERROR
+#### ERROR al procesar la ref.99137 - 99137 (PS)
+Ref: 99137 / Inicio: 2017-11-11 - 13:30:03 / Fin: 2017-11-11 - 13:30:03 / ERROR
+#### ERROR al procesar la ref.99138 - 99138 (PS)
+Ref: 99138 / Inicio: 2017-11-11 - 13:30:03 / Fin: 2017-11-11 - 13:30:03 / ERROR
+#### ERROR al procesar la ref.99139 - 99139 (PS)
+Ref: 99139 / Inicio: 2017-11-11 - 13:30:03 / Fin: 2017-11-11 - 13:30:03 / ERROR
+#### ERROR al procesar la ref.99141 - 99141 (PS)
+Ref: 99141 / Inicio: 2017-11-11 - 13:30:03 / Fin: 2017-11-11 - 13:30:03 / ERROR
+#### ERROR al procesar la ref.99142 - 99142 (PS)
+Ref: 99142 / Inicio: 2017-11-11 - 13:30:03 / Fin: 2017-11-11 - 13:30:03 / ERROR
+#### ERROR al procesar la ref.99143 - 99143 (PS)
+Ref: 99143 / Inicio: 2017-11-11 - 13:30:03 / Fin: 2017-11-11 - 13:30:04 / ERROR
+#### ERROR al procesar la ref.99144 - 99144 (PS)
+Ref: 99144 / Inicio: 2017-11-11 - 13:30:04 / Fin: 2017-11-11 - 13:30:04 / ERROR
+#### ERROR al procesar la ref.99145 - 99145 (PS)
+Ref: 99145 / Inicio: 2017-11-11 - 13:30:04 / Fin: 2017-11-11 - 13:30:04 / ERROR
+#### ERROR al procesar la ref.99314 - 99314 (PS)
+Ref: 99314 / Inicio: 2017-11-11 - 13:30:04 / Fin: 2017-11-11 - 13:30:04 / ERROR
+#### ERROR al procesar la ref.99321 - 99321 (PS)
+Ref: 99321 / Inicio: 2017-11-11 - 13:30:04 / Fin: 2017-11-11 - 13:30:04 / ERROR
+#### ERROR al procesar la ref.99322 - 99322 (PS)
+Ref: 99322 / Inicio: 2017-11-11 - 13:30:04 / Fin: 2017-11-11 - 13:30:04 / ERROR
+#### ERROR al procesar la ref.99324 - 99324 (PS)
+Ref: 99324 / Inicio: 2017-11-11 - 13:30:04 / Fin: 2017-11-11 - 13:30:04 / ERROR
+#### ERROR al procesar la ref.99325 - 99325 (PS)
+Ref: 99325 / Inicio: 2017-11-11 - 13:30:04 / Fin: 2017-11-11 - 13:30:04 / ERROR
+#### ERROR al procesar la ref.99326 - 99326 (PS)
+Ref: 99326 / Inicio: 2017-11-11 - 13:30:04 / Fin: 2017-11-11 - 13:30:04 / ERROR
+#### ERROR al procesar la ref.99327 - 99327 (PS)
+Ref: 99327 / Inicio: 2017-11-11 - 13:30:04 / Fin: 2017-11-11 - 13:30:04 / ERROR
+#### ERROR al procesar la ref.99328 - 99328 (PS)
+Ref: 99328 / Inicio: 2017-11-11 - 13:30:04 / Fin: 2017-11-11 - 13:30:04 / ERROR
+#### ERROR al procesar la ref.99329 - 99329 (PS)
+Ref: 99329 / Inicio: 2017-11-11 - 13:30:04 / Fin: 2017-11-11 - 13:30:04 / ERROR
+#### ERROR al procesar la ref.99406 - 99406 (PS)
+Ref: 99406 / Inicio: 2017-11-11 - 13:30:04 / Fin: 2017-11-11 - 13:30:04 / ERROR
+#### ERROR al procesar la ref.99410 - 99410 (PS)
+Ref: 99410 / Inicio: 2017-11-11 - 13:30:04 / Fin: 2017-11-11 - 13:30:04 / ERROR
+#### ERROR al procesar la ref.99412 - 99412 (PS)
+Ref: 99412 / Inicio: 2017-11-11 - 13:30:04 / Fin: 2017-11-11 - 13:30:04 / ERROR
+#### ERROR al procesar la ref.99415 - 99415 (PS)
+Ref: 99415 / Inicio: 2017-11-11 - 13:30:04 / Fin: 2017-11-11 - 13:30:04 / ERROR
+#### ERROR al procesar la ref.99417 - 99417 (PS)
+Ref: 99417 / Inicio: 2017-11-11 - 13:30:04 / Fin: 2017-11-11 - 13:30:04 / ERROR
+#### ERROR al procesar la ref.99424 - 99424 (PS)
+Ref: 99424 / Inicio: 2017-11-11 - 13:30:04 / Fin: 2017-11-11 - 13:30:04 / ERROR
+#### ERROR al procesar la ref.99427 - 99427 (PS)
+Ref: 99427 / Inicio: 2017-11-11 - 13:30:04 / Fin: 2017-11-11 - 13:30:04 / ERROR
+#### ERROR al procesar la ref.99428 - 99428 (PS)
+Ref: 99428 / Inicio: 2017-11-11 - 13:30:04 / Fin: 2017-11-11 - 13:30:04 / ERROR
+#### ERROR al procesar la ref.99449 - 99449 (PS)
+Ref: 99449 / Inicio: 2017-11-11 - 13:30:04 / Fin: 2017-11-11 - 13:30:04 / ERROR
+#### ERROR al procesar la ref.99454 - 99454 (PS)
+Ref: 99454 / Inicio: 2017-11-11 - 13:30:04 / Fin: 2017-11-11 - 13:30:04 / ERROR
+#### ERROR al procesar la ref.99537 - 99537 (PS)
+Ref: 99537 / Inicio: 2017-11-11 - 13:30:04 / Fin: 2017-11-11 - 13:30:04 / ERROR
+#### ERROR al procesar la ref.99568 - 99568 (PS)
+Ref: 99568 / Inicio: 2017-11-11 - 13:30:04 / Fin: 2017-11-11 - 13:30:04 / ERROR
+#### ERROR al procesar la ref.99572 - 99572 (PS)
+Ref: 99572 / Inicio: 2017-11-11 - 13:30:04 / Fin: 2017-11-11 - 13:30:04 / ERROR
+#### ERROR al procesar la ref.99574 - 99574 (PS)
+Ref: 99574 / Inicio: 2017-11-11 - 13:30:04 / Fin: 2017-11-11 - 13:30:04 / ERROR
+#### ERROR al procesar la ref.99825 - 99825 (PS)
+Ref: 99825 / Inicio: 2017-11-11 - 13:30:04 / Fin: 2017-11-11 - 13:30:04 / ERROR
+#### ERROR al procesar la ref.99828 - 99828 (PS)
+Ref: 99828 / Inicio: 2017-11-11 - 13:30:04 / Fin: 2017-11-11 - 13:30:04 / ERROR
+#### ERROR al procesar la ref.99829 - 99829 (PS)
+Ref: 99829 / Inicio: 2017-11-11 - 13:30:04 / Fin: 2017-11-11 - 13:30:04 / ERROR
+#### ERROR al procesar la ref.99830 - 99830 (PS)
+Ref: 99830 / Inicio: 2017-11-11 - 13:30:04 / Fin: 2017-11-11 - 13:30:05 / ERROR
+#### ERROR al procesar la ref.99831 - 99831 (PS)
+Ref: 99831 / Inicio: 2017-11-11 - 13:30:05 / Fin: 2017-11-11 - 13:30:05 / ERROR
+#### ERROR al procesar la ref.99833 - 99833 (PS)
+Ref: 99833 / Inicio: 2017-11-11 - 13:30:05 / Fin: 2017-11-11 - 13:30:05 / ERROR
+#### ERROR al procesar la ref.99962 - 99962 (PS)
+Ref: 99962 / Inicio: 2017-11-11 - 13:30:05 / Fin: 2017-11-11 - 13:30:05 / ERROR
+#### ERROR al procesar la ref.99963 - 99963 (PS)
+Ref: 99963 / Inicio: 2017-11-11 - 13:30:05 / Fin: 2017-11-11 - 13:30:05 / ERROR
+#### ERROR al procesar la ref.99965 - 99965 (PS)
+Ref: 99965 / Inicio: 2017-11-11 - 13:30:05 / Fin: 2017-11-11 - 13:30:05 / ERROR
+#### ERROR al procesar la ref.99966 - 99966 (PS)
+Ref: 99966 / Inicio: 2017-11-11 - 13:30:05 / Fin: 2017-11-11 - 13:30:05 / ERROR
+
+***************************************************************************
+CONSULTA DE STOCK DE TODOS LOS ARTÍCULOS DE PS:
+Proceso finalizado el 2017-11-11, a las 13:30:05
+
+CONSULTA DE STOCK DE TODOS LOS ARTÍCULOS DE PS:
+Referencias de las que no se ha podido obtener stock de competidores por Errores de Proceso
+Resultados del Segundo Intento
+Proceso iniciado el 2017-11-11, a las 13:30:05
+***************************************************************************
+
+#### ERROR al procesar la ref.98062 - 98062 (PS)
+Ref: 98062 / Inicio: 2017-11-11 - 13:30:05 / Fin: 2017-11-11 - 13:30:05 / ERROR
+#### ERROR al procesar la ref.98066 - 98066 (PS)
+Ref: 98066 / Inicio: 2017-11-11 - 13:30:05 / Fin: 2017-11-11 - 13:30:05 / ERROR
+#### ERROR al procesar la ref.98067 - 98067 (PS)
+Ref: 98067 / Inicio: 2017-11-11 - 13:30:05 / Fin: 2017-11-11 - 13:30:05 / ERROR
+#### ERROR al procesar la ref.98074 - 98074 (PS)
+Ref: 98074 / Inicio: 2017-11-11 - 13:30:05 / Fin: 2017-11-11 - 13:30:05 / ERROR
+#### ERROR al procesar la ref.98075 - 98075 (PS)
+Ref: 98075 / Inicio: 2017-11-11 - 13:30:05 / Fin: 2017-11-11 - 13:30:05 / ERROR
+#### ERROR al procesar la ref.98080 - 98080 (PS)
+Ref: 98080 / Inicio: 2017-11-11 - 13:30:05 / Fin: 2017-11-11 - 13:30:05 / ERROR
+#### ERROR al procesar la ref.98081 - 98081 (PS)
+Ref: 98081 / Inicio: 2017-11-11 - 13:30:05 / Fin: 2017-11-11 - 13:30:05 / ERROR
+#### ERROR al procesar la ref.98087 - 98087 (PS)
+Ref: 98087 / Inicio: 2017-11-11 - 13:30:05 / Fin: 2017-11-11 - 13:30:05 / ERROR
+#### ERROR al procesar la ref.98088 - 98088 (PS)
+Ref: 98088 / Inicio: 2017-11-11 - 13:30:05 / Fin: 2017-11-11 - 13:30:05 / ERROR
+#### ERROR al procesar la ref.98089 - 98089 (PS)
+Ref: 98089 / Inicio: 2017-11-11 - 13:30:05 / Fin: 2017-11-11 - 13:30:05 / ERROR
+#### ERROR al procesar la ref.98090 - 98090 (PS)
+Ref: 98090 / Inicio: 2017-11-11 - 13:30:05 / Fin: 2017-11-11 - 13:30:05 / ERROR
+#### ERROR al procesar la ref.98091 - 98091 (PS)
+Ref: 98091 / Inicio: 2017-11-11 - 13:30:05 / Fin: 2017-11-11 - 13:30:05 / ERROR
+#### ERROR al procesar la ref.98092 - 98092 (PS)
+Ref: 98092 / Inicio: 2017-11-11 - 13:30:05 / Fin: 2017-11-11 - 13:30:05 / ERROR
+#### ERROR al procesar la ref.98108 - 98108 (PS)
+Ref: 98108 / Inicio: 2017-11-11 - 13:30:05 / Fin: 2017-11-11 - 13:30:05 / ERROR
+#### ERROR al procesar la ref.98111 - 98111 (PS)
+Ref: 98111 / Inicio: 2017-11-11 - 13:30:05 / Fin: 2017-11-11 - 13:30:05 / ERROR
+#### ERROR al procesar la ref.98117 - 98117 (PS)
+Ref: 98117 / Inicio: 2017-11-11 - 13:30:05 / Fin: 2017-11-11 - 13:30:05 / ERROR
+#### ERROR al procesar la ref.98121 - 98121 (PS)
+Ref: 98121 / Inicio: 2017-11-11 - 13:30:05 / Fin: 2017-11-11 - 13:30:05 / ERROR
+#### ERROR al procesar la ref.98123 - 98123 (PS)
+Ref: 98123 / Inicio: 2017-11-11 - 13:30:05 / Fin: 2017-11-11 - 13:30:05 / ERROR
+#### ERROR al procesar la ref.98124 - 98124 (PS)
+Ref: 98124 / Inicio: 2017-11-11 - 13:30:05 / Fin: 2017-11-11 - 13:30:05 / ERROR
+#### ERROR al procesar la ref.98171 - 98171 (PS)
+Ref: 98171 / Inicio: 2017-11-11 - 13:30:05 / Fin: 2017-11-11 - 13:30:05 / ERROR
+#### ERROR al procesar la ref.98181 - 98181 (PS)
+Ref: 98181 / Inicio: 2017-11-11 - 13:30:05 / Fin: 2017-11-11 - 13:30:05 / ERROR
+#### ERROR al procesar la ref.98193 - 98193 (PS)
+Ref: 98193 / Inicio: 2017-11-11 - 13:30:05 / Fin: 2017-11-11 - 13:30:06 / ERROR
+#### ERROR al procesar la ref.98197 - 98197 (PS)
+Ref: 98197 / Inicio: 2017-11-11 - 13:30:06 / Fin: 2017-11-11 - 13:30:06 / ERROR
+#### ERROR al procesar la ref.98259 - 98259 (PS)
+Ref: 98259 / Inicio: 2017-11-11 - 13:30:06 / Fin: 2017-11-11 - 13:30:06 / ERROR
+#### ERROR al procesar la ref.98260 - 98260 (PS)
+Ref: 98260 / Inicio: 2017-11-11 - 13:30:06 / Fin: 2017-11-11 - 13:30:06 / ERROR
+#### ERROR al procesar la ref.98263 - 98263 (PS)
+Ref: 98263 / Inicio: 2017-11-11 - 13:30:06 / Fin: 2017-11-11 - 13:30:06 / ERROR
+#### ERROR al procesar la ref.98264 - 98264 (PS)
+Ref: 98264 / Inicio: 2017-11-11 - 13:30:06 / Fin: 2017-11-11 - 13:30:06 / ERROR
+#### ERROR al procesar la ref.98265 - 98265 (PS)
+Ref: 98265 / Inicio: 2017-11-11 - 13:30:06 / Fin: 2017-11-11 - 13:30:06 / ERROR
+#### ERROR al procesar la ref.98307 - 98307 (PS)
+Ref: 98307 / Inicio: 2017-11-11 - 13:30:06 / Fin: 2017-11-11 - 13:30:06 / ERROR
+#### ERROR al procesar la ref.98314 - 98314 (PS)
+Ref: 98314 / Inicio: 2017-11-11 - 13:30:06 / Fin: 2017-11-11 - 13:30:06 / ERROR
+#### ERROR al procesar la ref.98316 - 98316 (PS)
+Ref: 98316 / Inicio: 2017-11-11 - 13:30:06 / Fin: 2017-11-11 - 13:30:06 / ERROR
+#### ERROR al procesar la ref.98317 - 98317 (PS)
+Ref: 98317 / Inicio: 2017-11-11 - 13:30:06 / Fin: 2017-11-11 - 13:30:06 / ERROR
+#### ERROR al procesar la ref.98318 - 98318 (PS)
+Ref: 98318 / Inicio: 2017-11-11 - 13:30:06 / Fin: 2017-11-11 - 13:30:06 / ERROR
+#### ERROR al procesar la ref.98375 - 98375 (PS)
+Ref: 98375 / Inicio: 2017-11-11 - 13:30:06 / Fin: 2017-11-11 - 13:30:06 / ERROR
+#### ERROR al procesar la ref.98376 - 98376 (PS)
+Ref: 98376 / Inicio: 2017-11-11 - 13:30:06 / Fin: 2017-11-11 - 13:30:06 / ERROR
+#### ERROR al procesar la ref.98377 - 98377 (PS)
+Ref: 98377 / Inicio: 2017-11-11 - 13:30:06 / Fin: 2017-11-11 - 13:30:06 / ERROR
+#### ERROR al procesar la ref.98406 - 98406 (PS)
+Ref: 98406 / Inicio: 2017-11-11 - 13:30:06 / Fin: 2017-11-11 - 13:30:06 / ERROR
+#### ERROR al procesar la ref.98407 - 98407 (PS)
+Ref: 98407 / Inicio: 2017-11-11 - 13:30:06 / Fin: 2017-11-11 - 13:30:06 / ERROR
+#### ERROR al procesar la ref.98408 - 98408 (PS)
+Ref: 98408 / Inicio: 2017-11-11 - 13:30:06 / Fin: 2017-11-11 - 13:30:06 / ERROR
+#### ERROR al procesar la ref.98409 - 98409 (PS)
+Ref: 98409 / Inicio: 2017-11-11 - 13:30:06 / Fin: 2017-11-11 - 13:30:06 / ERROR
+#### ERROR al procesar la ref.98410 - 98410 (PS)
+Ref: 98410 / Inicio: 2017-11-11 - 13:30:06 / Fin: 2017-11-11 - 13:30:06 / ERROR
+#### ERROR al procesar la ref.98411 - 98411 (PS)
+Ref: 98411 / Inicio: 2017-11-11 - 13:30:06 / Fin: 2017-11-11 - 13:30:06 / ERROR
+#### ERROR al procesar la ref.98412 - 98412 (PS)
+Ref: 98412 / Inicio: 2017-11-11 - 13:30:06 / Fin: 2017-11-11 - 13:30:06 / ERROR
+#### ERROR al procesar la ref.98414 - 98414 (PS)
+Ref: 98414 / Inicio: 2017-11-11 - 13:30:06 / Fin: 2017-11-11 - 13:30:06 / ERROR
+#### ERROR al procesar la ref.98415 - 98415 (PS)
+Ref: 98415 / Inicio: 2017-11-11 - 13:30:06 / Fin: 2017-11-11 - 13:30:06 / ERROR
+#### ERROR al procesar la ref.98416 - 98416 (PS)
+Ref: 98416 / Inicio: 2017-11-11 - 13:30:06 / Fin: 2017-11-11 - 13:30:06 / ERROR
+#### ERROR al procesar la ref.98450 - 98450 (PS)
+Ref: 98450 / Inicio: 2017-11-11 - 13:30:06 / Fin: 2017-11-11 - 13:30:06 / ERROR
+#### ERROR al procesar la ref.98457 - 98457 (PS)
+Ref: 98457 / Inicio: 2017-11-11 - 13:30:06 / Fin: 2017-11-11 - 13:30:06 / ERROR
+#### ERROR al procesar la ref.98502 - 98502 (PS)
+Ref: 98502 / Inicio: 2017-11-11 - 13:30:06 / Fin: 2017-11-11 - 13:30:06 / ERROR
+#### ERROR al procesar la ref.98504 - 98504 (PS)
+Ref: 98504 / Inicio: 2017-11-11 - 13:30:06 / Fin: 2017-11-11 - 13:30:06 / ERROR
+#### ERROR al procesar la ref.98506 - 98506 (PS)
+Ref: 98506 / Inicio: 2017-11-11 - 13:30:06 / Fin: 2017-11-11 - 13:30:06 / ERROR
+#### ERROR al procesar la ref.98509 - 98509 (PS)
+Ref: 98509 / Inicio: 2017-11-11 - 13:30:06 / Fin: 2017-11-11 - 13:30:07 / ERROR
+#### ERROR al procesar la ref.98510 - 98510 (PS)
+Ref: 98510 / Inicio: 2017-11-11 - 13:30:07 / Fin: 2017-11-11 - 13:30:07 / ERROR
+#### ERROR al procesar la ref.98710 - 98710 (PS)
+Ref: 98710 / Inicio: 2017-11-11 - 13:30:07 / Fin: 2017-11-11 - 13:30:07 / ERROR
+#### ERROR al procesar la ref.98711 - 98711 (PS)
+Ref: 98711 / Inicio: 2017-11-11 - 13:30:07 / Fin: 2017-11-11 - 13:30:07 / ERROR
+#### ERROR al procesar la ref.98808 - 98808 (PS)
+Ref: 98808 / Inicio: 2017-11-11 - 13:30:07 / Fin: 2017-11-11 - 13:30:07 / ERROR
+#### ERROR al procesar la ref.98809 - 98809 (PS)
+Ref: 98809 / Inicio: 2017-11-11 - 13:30:07 / Fin: 2017-11-11 - 13:30:07 / ERROR
+#### ERROR al procesar la ref.98820 - 98820 (PS)
+Ref: 98820 / Inicio: 2017-11-11 - 13:30:07 / Fin: 2017-11-11 - 13:30:07 / ERROR
+#### ERROR al procesar la ref.98821 - 98821 (PS)
+Ref: 98821 / Inicio: 2017-11-11 - 13:30:07 / Fin: 2017-11-11 - 13:30:07 / ERROR
+#### ERROR al procesar la ref.99014 - 99014 (PS)
+Ref: 99014 / Inicio: 2017-11-11 - 13:30:07 / Fin: 2017-11-11 - 13:30:07 / ERROR
+#### ERROR al procesar la ref.99018 - 99018 (PS)
+Ref: 99018 / Inicio: 2017-11-11 - 13:30:07 / Fin: 2017-11-11 - 13:30:07 / ERROR
+#### ERROR al procesar la ref.99020 - 99020 (PS)
+Ref: 99020 / Inicio: 2017-11-11 - 13:30:07 / Fin: 2017-11-11 - 13:30:07 / ERROR
+#### ERROR al procesar la ref.99059 - 99059 (PS)
+Ref: 99059 / Inicio: 2017-11-11 - 13:30:07 / Fin: 2017-11-11 - 13:30:07 / ERROR
+#### ERROR al procesar la ref.99062 - 99062 (PS)
+Ref: 99062 / Inicio: 2017-11-11 - 13:30:07 / Fin: 2017-11-11 - 13:30:07 / ERROR
+#### ERROR al procesar la ref.99063 - 99063 (PS)
+Ref: 99063 / Inicio: 2017-11-11 - 13:30:07 / Fin: 2017-11-11 - 13:30:07 / ERROR
+#### ERROR al procesar la ref.99071 - 99071 (PS)
+Ref: 99071 / Inicio: 2017-11-11 - 13:30:07 / Fin: 2017-11-11 - 13:30:07 / ERROR
+#### ERROR al procesar la ref.99072 - 99072 (PS)
+Ref: 99072 / Inicio: 2017-11-11 - 13:30:07 / Fin: 2017-11-11 - 13:30:07 / ERROR
+#### ERROR al procesar la ref.99073 - 99073 (PS)
+Ref: 99073 / Inicio: 2017-11-11 - 13:30:07 / Fin: 2017-11-11 - 13:30:07 / ERROR
+#### ERROR al procesar la ref.99109 - 99109 (PS)
+Ref: 99109 / Inicio: 2017-11-11 - 13:30:07 / Fin: 2017-11-11 - 13:30:07 / ERROR
+#### ERROR al procesar la ref.99115 - 99115 (PS)
+Ref: 99115 / Inicio: 2017-11-11 - 13:30:07 / Fin: 2017-11-11 - 13:30:07 / ERROR
+#### ERROR al procesar la ref.99116 - 99116 (PS)
+Ref: 99116 / Inicio: 2017-11-11 - 13:30:07 / Fin: 2017-11-11 - 13:30:07 / ERROR
+#### ERROR al procesar la ref.99120 - 99120 (PS)
+Ref: 99120 / Inicio: 2017-11-11 - 13:30:07 / Fin: 2017-11-11 - 13:30:07 / ERROR
+#### ERROR al procesar la ref.99122 - 99122 (PS)
+Ref: 99122 / Inicio: 2017-11-11 - 13:30:07 / Fin: 2017-11-11 - 13:30:07 / ERROR
+#### ERROR al procesar la ref.99126 - 99126 (PS)
+Ref: 99126 / Inicio: 2017-11-11 - 13:30:07 / Fin: 2017-11-11 - 13:30:07 / ERROR
+#### ERROR al procesar la ref.99130 - 99130 (PS)
+Ref: 99130 / Inicio: 2017-11-11 - 13:30:07 / Fin: 2017-11-11 - 13:30:07 / ERROR
+#### ERROR al procesar la ref.99131 - 99131 (PS)
+Ref: 99131 / Inicio: 2017-11-11 - 13:30:07 / Fin: 2017-11-11 - 13:30:07 / ERROR
+#### ERROR al procesar la ref.99132 - 99132 (PS)
+Ref: 99132 / Inicio: 2017-11-11 - 13:30:07 / Fin: 2017-11-11 - 13:30:07 / ERROR
+#### ERROR al procesar la ref.99136 - 99136 (PS)
+Ref: 99136 / Inicio: 2017-11-11 - 13:30:07 / Fin: 2017-11-11 - 13:30:07 / ERROR
+#### ERROR al procesar la ref.99137 - 99137 (PS)
+Ref: 99137 / Inicio: 2017-11-11 - 13:30:07 / Fin: 2017-11-11 - 13:30:07 / ERROR
+#### ERROR al procesar la ref.99138 - 99138 (PS)
+Ref: 99138 / Inicio: 2017-11-11 - 13:30:07 / Fin: 2017-11-11 - 13:30:07 / ERROR
+#### ERROR al procesar la ref.99139 - 99139 (PS)
+Ref: 99139 / Inicio: 2017-11-11 - 13:30:07 / Fin: 2017-11-11 - 13:30:07 / ERROR
+#### ERROR al procesar la ref.99141 - 99141 (PS)
+Ref: 99141 / Inicio: 2017-11-11 - 13:30:07 / Fin: 2017-11-11 - 13:30:08 / ERROR
+#### ERROR al procesar la ref.99142 - 99142 (PS)
+Ref: 99142 / Inicio: 2017-11-11 - 13:30:08 / Fin: 2017-11-11 - 13:30:08 / ERROR
+#### ERROR al procesar la ref.99143 - 99143 (PS)
+Ref: 99143 / Inicio: 2017-11-11 - 13:30:08 / Fin: 2017-11-11 - 13:30:08 / ERROR
+#### ERROR al procesar la ref.99144 - 99144 (PS)
+Ref: 99144 / Inicio: 2017-11-11 - 13:30:08 / Fin: 2017-11-11 - 13:30:08 / ERROR
+#### ERROR al procesar la ref.99145 - 99145 (PS)
+Ref: 99145 / Inicio: 2017-11-11 - 13:30:08 / Fin: 2017-11-11 - 13:30:08 / ERROR
+#### ERROR al procesar la ref.99314 - 99314 (PS)
+Ref: 99314 / Inicio: 2017-11-11 - 13:30:08 / Fin: 2017-11-11 - 13:30:08 / ERROR
+#### ERROR al procesar la ref.99321 - 99321 (PS)
+Ref: 99321 / Inicio: 2017-11-11 - 13:30:08 / Fin: 2017-11-11 - 13:30:08 / ERROR
+#### ERROR al procesar la ref.99322 - 99322 (PS)
+Ref: 99322 / Inicio: 2017-11-11 - 13:30:08 / Fin: 2017-11-11 - 13:30:08 / ERROR
+#### ERROR al procesar la ref.99324 - 99324 (PS)
+Ref: 99324 / Inicio: 2017-11-11 - 13:30:08 / Fin: 2017-11-11 - 13:30:08 / ERROR
+#### ERROR al procesar la ref.99325 - 99325 (PS)
+Ref: 99325 / Inicio: 2017-11-11 - 13:30:08 / Fin: 2017-11-11 - 13:30:08 / ERROR
+#### ERROR al procesar la ref.99326 - 99326 (PS)
+Ref: 99326 / Inicio: 2017-11-11 - 13:30:08 / Fin: 2017-11-11 - 13:30:08 / ERROR
+#### ERROR al procesar la ref.99327 - 99327 (PS)
+Ref: 99327 / Inicio: 2017-11-11 - 13:30:08 / Fin: 2017-11-11 - 13:30:08 / ERROR
+#### ERROR al procesar la ref.99328 - 99328 (PS)
+Ref: 99328 / Inicio: 2017-11-11 - 13:30:08 / Fin: 2017-11-11 - 13:30:08 / ERROR
+#### ERROR al procesar la ref.99329 - 99329 (PS)
+Ref: 99329 / Inicio: 2017-11-11 - 13:30:08 / Fin: 2017-11-11 - 13:30:08 / ERROR
+#### ERROR al procesar la ref.99406 - 99406 (PS)
+Ref: 99406 / Inicio: 2017-11-11 - 13:30:08 / Fin: 2017-11-11 - 13:30:08 / ERROR
+#### ERROR al procesar la ref.99410 - 99410 (PS)
+Ref: 99410 / Inicio: 2017-11-11 - 13:30:08 / Fin: 2017-11-11 - 13:30:08 / ERROR
+#### ERROR al procesar la ref.99412 - 99412 (PS)
+Ref: 99412 / Inicio: 2017-11-11 - 13:30:08 / Fin: 2017-11-11 - 13:30:08 / ERROR
+#### ERROR al procesar la ref.99415 - 99415 (PS)
+Ref: 99415 / Inicio: 2017-11-11 - 13:30:08 / Fin: 2017-11-11 - 13:30:08 / ERROR
+#### ERROR al procesar la ref.99417 - 99417 (PS)
+Ref: 99417 / Inicio: 2017-11-11 - 13:30:08 / Fin: 2017-11-11 - 13:30:08 / ERROR
+#### ERROR al procesar la ref.99424 - 99424 (PS)
+Ref: 99424 / Inicio: 2017-11-11 - 13:30:08 / Fin: 2017-11-11 - 13:30:08 / ERROR
+#### ERROR al procesar la ref.99427 - 99427 (PS)
+Ref: 99427 / Inicio: 2017-11-11 - 13:30:08 / Fin: 2017-11-11 - 13:30:08 / ERROR
+#### ERROR al procesar la ref.99428 - 99428 (PS)
+Ref: 99428 / Inicio: 2017-11-11 - 13:30:08 / Fin: 2017-11-11 - 13:30:08 / ERROR
+#### ERROR al procesar la ref.99449 - 99449 (PS)
+Ref: 99449 / Inicio: 2017-11-11 - 13:30:08 / Fin: 2017-11-11 - 13:30:08 / ERROR
+#### ERROR al procesar la ref.99454 - 99454 (PS)
+Ref: 99454 / Inicio: 2017-11-11 - 13:30:08 / Fin: 2017-11-11 - 13:30:08 / ERROR
+#### ERROR al procesar la ref.99537 - 99537 (PS)
+Ref: 99537 / Inicio: 2017-11-11 - 13:30:08 / Fin: 2017-11-11 - 13:30:08 / ERROR
+#### ERROR al procesar la ref.99568 - 99568 (PS)
+Ref: 99568 / Inicio: 2017-11-11 - 13:30:08 / Fin: 2017-11-11 - 13:30:08 / ERROR
+#### ERROR al procesar la ref.99572 - 99572 (PS)
+Ref: 99572 / Inicio: 2017-11-11 - 13:30:08 / Fin: 2017-11-11 - 13:30:08 / ERROR
+#### ERROR al procesar la ref.99574 - 99574 (PS)
+Ref: 99574 / Inicio: 2017-11-11 - 13:30:08 / Fin: 2017-11-11 - 13:30:08 / ERROR
+#### ERROR al procesar la ref.99825 - 99825 (PS)
+Ref: 99825 / Inicio: 2017-11-11 - 13:30:08 / Fin: 2017-11-11 - 13:30:08 / ERROR
+#### ERROR al procesar la ref.99828 - 99828 (PS)
+Ref: 99828 / Inicio: 2017-11-11 - 13:30:08 / Fin: 2017-11-11 - 13:30:08 / ERROR
+#### ERROR al procesar la ref.99829 - 99829 (PS)
+Ref: 99829 / Inicio: 2017-11-11 - 13:30:08 / Fin: 2017-11-11 - 13:30:09 / ERROR
+#### ERROR al procesar la ref.99830 - 99830 (PS)
+Ref: 99830 / Inicio: 2017-11-11 - 13:30:09 / Fin: 2017-11-11 - 13:30:09 / ERROR
+#### ERROR al procesar la ref.99831 - 99831 (PS)
+Ref: 99831 / Inicio: 2017-11-11 - 13:30:09 / Fin: 2017-11-11 - 13:30:09 / ERROR
+#### ERROR al procesar la ref.99833 - 99833 (PS)
+Ref: 99833 / Inicio: 2017-11-11 - 13:30:09 / Fin: 2017-11-11 - 13:30:09 / ERROR
+#### ERROR al procesar la ref.99962 - 99962 (PS)
+Ref: 99962 / Inicio: 2017-11-11 - 13:30:09 / Fin: 2017-11-11 - 13:30:09 / ERROR
+#### ERROR al procesar la ref.99963 - 99963 (PS)
+Ref: 99963 / Inicio: 2017-11-11 - 13:30:09 / Fin: 2017-11-11 - 13:30:09 / ERROR
+#### ERROR al procesar la ref.99965 - 99965 (PS)
+Ref: 99965 / Inicio: 2017-11-11 - 13:30:09 / Fin: 2017-11-11 - 13:30:09 / ERROR
+#### ERROR al procesar la ref.99966 - 99966 (PS)
+Ref: 99966 / Inicio: 2017-11-11 - 13:30:09 / Fin: 2017-11-11 - 13:30:09 / ERROR
+
+***************************************************************************
+CONSULTA DE STOCK DE TODOS LOS ARTÍCULOS DE PS:
+Proceso finalizado el 2017-11-11, a las 13:30:09

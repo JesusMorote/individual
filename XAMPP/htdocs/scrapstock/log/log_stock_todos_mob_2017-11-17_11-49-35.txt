@@ -1,0 +1,20 @@
+CONSULTA DE STOCK DE TODOS LOS ARTÍCULOS DE MOB:
+Proceso iniciado el 2017-11-17, a las 11:49:35
+***************************************************************************
+
+Ref: MO8752 / Inicio: 2017-11-17 - 11:49:35 / Fin: 2017-11-17 - 11:49:54 / OK
+
+***************************************************************************
+CONSULTA DE STOCK DE TODOS LOS ARTÍCULOS DE MOB:
+Proceso finalizado el 2017-11-17, a las 11:49:54
+
+CONSULTA DE STOCK DE TODOS LOS ARTÍCULOS DE MOB:
+Referencias de las que no se ha podido obtener stock de competidores por Errores de Proceso
+Resultados del Segundo Intento
+Proceso iniciado el 2017-11-17, a las 11:49:54
+***************************************************************************
+
+
+***************************************************************************
+CONSULTA DE STOCK DE TODOS LOS ARTÍCULOS DE MOB:
+Proceso finalizado el 2017-11-17, a las 11:49:54

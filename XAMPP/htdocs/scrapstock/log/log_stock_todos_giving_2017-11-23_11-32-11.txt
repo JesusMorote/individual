@@ -1,0 +1,45 @@
+CONSULTA DE STOCK DE TODOS LOS ARTÍCULOS DE GIVING:
+Proceso iniciado el 2017-11-23, a las 11:32:11
+***************************************************************************
+
+#### ERROR al procesar la ref.5401 - 5401 (GIVING)
+Ref: 5401 / Inicio: 2017-11-23 - 11:32:11 / Fin: 2017-11-23 - 11:32:14 / ERROR
+#### ERROR al procesar la ref.5437 - 5437 (GIVING)
+Ref: 5437 / Inicio: 2017-11-23 - 11:32:14 / Fin: 2017-11-23 - 11:32:36 / ERROR
+#### ERROR al procesar la ref.5991 - 5991 (GIVING)
+Ref: 5991 / Inicio: 2017-11-23 - 11:32:36 / Fin: 2017-11-23 - 11:33:19 / ERROR
+#### ERROR al procesar la ref.6025 - 6025 (GIVING)
+Ref: 6025 / Inicio: 2017-11-23 - 11:33:19 / Fin: 2017-11-23 - 11:33:42 / ERROR
+Ref: 6081 / Inicio: 2017-11-23 - 11:33:42 / Fin: 2017-11-23 - 11:33:47 / OK
+#### ERROR al procesar la ref.6142 - 6142 (GIVING)
+Ref: 6142 / Inicio: 2017-11-23 - 11:33:47 / Fin: 2017-11-23 - 11:34:10 / ERROR
+Ref: 6154 / Inicio: 2017-11-23 - 11:34:10 / Fin: 2017-11-23 - 11:34:18 / OK
+Ref: 6264 / Inicio: 2017-11-23 - 11:34:18 / Fin: 2017-11-23 - 11:34:23 / OK
+Ref: 6294 / Inicio: 2017-11-23 - 11:34:23 / Fin: 2017-11-23 - 11:34:27 / OK
+#### ERROR al procesar la ref.6297 - 6297 (GIVING)
+Ref: 6297 / Inicio: 2017-11-23 - 11:34:27 / Fin: 2017-11-23 - 11:34:50 / ERROR
+
+***************************************************************************
+CONSULTA DE STOCK DE TODOS LOS ARTÍCULOS DE GIVING:
+Proceso finalizado el 2017-11-23, a las 11:34:50
+
+CONSULTA DE STOCK DE TODOS LOS ARTÍCULOS DE GIVING:
+Referencias de las que no se ha podido obtener stock de competidores por Errores de Proceso
+Resultados del Segundo Intento
+Proceso iniciado el 2017-11-23, a las 11:34:50
+***************************************************************************
+
+#### ERROR al procesar la ref.5401 - 5401 (GIVING)
+Ref: 5401 / Inicio: 2017-11-23 - 11:34:50 / Fin: 2017-11-23 - 11:34:51 / ERROR
+Ref: 5437 / Inicio: 2017-11-23 - 11:34:51 / Fin: 2017-11-23 - 11:34:55 / OK
+#### ERROR al procesar la ref.5991 - 5991 (GIVING)
+Ref: 5991 / Inicio: 2017-11-23 - 11:34:55 / Fin: 2017-11-23 - 11:35:38 / ERROR
+Ref: 6025 / Inicio: 2017-11-23 - 11:35:38 / Fin: 2017-11-23 - 11:35:42 / OK
+#### ERROR al procesar la ref.6142 - 6142 (GIVING)
+Ref: 6142 / Inicio: 2017-11-23 - 11:35:42 / Fin: 2017-11-23 - 11:36:25 / ERROR
+#### ERROR al procesar la ref.6297 - 6297 (GIVING)
+Ref: 6297 / Inicio: 2017-11-23 - 11:36:25 / Fin: 2017-11-23 - 11:37:07 / ERROR
+
+***************************************************************************
+CONSULTA DE STOCK DE TODOS LOS ARTÍCULOS DE GIVING:
+Proceso finalizado el 2017-11-23, a las 11:37:07

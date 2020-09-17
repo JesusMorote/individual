@@ -1,0 +1,45 @@
+CONSULTA DE STOCK DE TODOS LOS ARTÍCULOS DE MOB:
+Proceso iniciado el 2017-11-09, a las 11:44:45
+***************************************************************************
+
+Ref: MO8635 / Inicio: 2017-11-09 - 11:44:45 / Fin: 2017-11-09 - 11:44:50 / OK
+Ref: MO8636 / Inicio: 2017-11-09 - 11:44:50 / Fin: 2017-11-09 - 11:44:56 / OK
+Ref: MO8637 / Inicio: 2017-11-09 - 11:44:56 / Fin: 2017-11-09 - 11:45:02 / OK
+Ref: MO8640 / Inicio: 2017-11-09 - 11:45:02 / Fin: 2017-11-09 - 11:45:08 / OK
+Ref: MO8642 / Inicio: 2017-11-09 - 11:45:08 / Fin: 2017-11-09 - 11:45:15 / OK
+Ref: MO8644 / Inicio: 2017-11-09 - 11:45:15 / Fin: 2017-11-09 - 11:45:22 / OK
+Ref: MO8646 / Inicio: 2017-11-09 - 11:45:22 / Fin: 2017-11-09 - 11:45:27 / OK
+Ref: MO8650 / Inicio: 2017-11-09 - 11:45:27 / Fin: 2017-11-09 - 11:45:36 / OK
+Ref: MO8653 / Inicio: 2017-11-09 - 11:45:36 / Fin: 2017-11-09 - 11:45:43 / OK
+Ref: MO8654 / Inicio: 2017-11-09 - 11:45:43 / Fin: 2017-11-09 - 11:45:46 / OK
+Ref: MO8656 / Inicio: 2017-11-09 - 11:45:46 / Fin: 2017-11-09 - 11:45:49 / OK
+Ref: MO8657 / Inicio: 2017-11-09 - 11:45:49 / Fin: 2017-11-09 - 11:45:54 / OK
+Ref: MO8659 / Inicio: 2017-11-09 - 11:45:54 / Fin: 2017-11-09 - 11:45:58 / OK
+Ref: MO8662 / Inicio: 2017-11-09 - 11:45:58 / Fin: 2017-11-09 - 11:46:01 / OK
+Ref: MO8665 / Inicio: 2017-11-09 - 11:46:01 / Fin: 2017-11-09 - 11:46:06 / OK
+Ref: MO8667 / Inicio: 2017-11-09 - 11:46:06 / Fin: 2017-11-09 - 11:46:10 / OK
+Ref: MO8668 / Inicio: 2017-11-09 - 11:46:10 / Fin: 2017-11-09 - 11:46:14 / OK
+Ref: MO8672 / Inicio: 2017-11-09 - 11:46:14 / Fin: 2017-11-09 - 11:46:18 / OK
+Ref: MO8673 / Inicio: 2017-11-09 - 11:46:18 / Fin: 2017-11-09 - 11:46:22 / OK
+Ref: MO8674 / Inicio: 2017-11-09 - 11:46:22 / Fin: 2017-11-09 - 11:46:27 / OK
+Ref: MO8678 / Inicio: 2017-11-09 - 11:46:27 / Fin: 2017-11-09 - 11:46:34 / OK
+Ref: MO8680 / Inicio: 2017-11-09 - 11:46:34 / Fin: 2017-11-09 - 11:46:40 / OK
+Ref: MO8681 / Inicio: 2017-11-09 - 11:46:40 / Fin: 2017-11-09 - 11:46:45 / OK
+Ref: MO8682 / Inicio: 2017-11-09 - 11:46:45 / Fin: 2017-11-09 - 11:46:50 / OK
+Ref: MO8683 / Inicio: 2017-11-09 - 11:46:50 / Fin: 2017-11-09 - 11:46:53 / OK
+Ref: MO8685 / Inicio: 2017-11-09 - 11:46:53 / Fin: 2017-11-09 - 11:46:57 / OK
+
+***************************************************************************
+CONSULTA DE STOCK DE TODOS LOS ARTÍCULOS DE MOB:
+Proceso finalizado el 2017-11-09, a las 11:46:57
+
+CONSULTA DE STOCK DE TODOS LOS ARTÍCULOS DE MOB:
+Referencias de las que no se ha podido obtener stock de competidores por Errores de Proceso
+Resultados del Segundo Intento
+Proceso iniciado el 2017-11-09, a las 11:46:57
+***************************************************************************
+
+
+***************************************************************************
+CONSULTA DE STOCK DE TODOS LOS ARTÍCULOS DE MOB:
+Proceso finalizado el 2017-11-09, a las 11:46:57

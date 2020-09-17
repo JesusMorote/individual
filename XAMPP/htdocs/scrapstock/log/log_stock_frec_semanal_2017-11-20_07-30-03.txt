@@ -1,0 +1,866 @@
+CONSULTA DE STOCK DE ARTÍCULOS CON FRECUENCIA SEMANAL:
+Proceso iniciado el 2017-11-20, a las 07:30:00
+***************************************************************************
+
+#### ERROR al procesar la ref.2008 - Z-990 (CIFRA)
+#### ERROR al procesar la ref.2008 - c72n (GGOYA)
+Ref: 2008 / Inicio: 2017-11-20 - 07:30:03 / Fin: 2017-11-20 - 07:30:03 / ERROR
+#### ERROR al procesar la ref.2008C - Z-990 (CIFRA)
+#### ERROR al procesar la ref.2008C - c72 (GGOYA)
+#### ERROR al procesar la ref.2008C - c72n (GGOYA)
+Ref: 2008C / Inicio: 2017-11-20 - 07:30:03 / Fin: 2017-11-20 - 07:30:03 / ERROR
+#### ERROR al procesar la ref.2095 - 1503 (GIVING)
+#### ERROR al procesar la ref.2095 - KC5720 (MOB)
+Ref: 2095 / Inicio: 2017-11-20 - 07:30:03 / Fin: 2017-11-20 - 07:30:03 / ERROR
+#### ERROR al procesar la ref.2308 - Z-572 (CIFRA)
+Ref: 2308 / Inicio: 2017-11-20 - 07:30:03 / Fin: 2017-11-20 - 07:30:03 / ERROR
+#### ERROR al procesar la ref.2309 - UM4 AAA (GGOYA)
+#### ERROR al procesar la ref.2309 - 34050 (GGOYA)
+Ref: 2309 / Inicio: 2017-11-20 - 07:30:03 / Fin: 2017-11-20 - 07:30:03 / ERROR
+#### ERROR al procesar la ref.2415 - D-032 (CIFRA)
+Ref: 2415 / Inicio: 2017-11-20 - 07:30:03 / Fin: 2017-11-20 - 07:30:03 / ERROR
+#### ERROR al procesar la ref.2416 - D-031 (CIFRA)
+Ref: 2416 / Inicio: 2017-11-20 - 07:30:03 / Fin: 2017-11-20 - 07:30:03 / ERROR
+#### ERROR al procesar la ref.2421 - D-030 (CIFRA)
+#### ERROR al procesar la ref.2421 - 8958 (GIVING)
+#### ERROR al procesar la ref.2421 - MO8791 (MOB)
+Ref: 2421 / Inicio: 2017-11-20 - 07:30:03 / Fin: 2017-11-20 - 07:30:03 / ERROR
+#### ERROR al procesar la ref.2451 - 1861 (GIVING)
+Ref: 2451 / Inicio: 2017-11-20 - 07:30:03 / Fin: 2017-11-20 - 07:30:03 / ERROR
+#### ERROR al procesar la ref.2453 - B-017 (CIFRA)
+#### ERROR al procesar la ref.2453 - 98300 (PS)
+Ref: 2453 / Inicio: 2017-11-20 - 07:30:03 / Fin: 2017-11-20 - 07:30:03 / ERROR
+#### ERROR al procesar la ref.2469 - 91216 (PS)
+Ref: 2469 / Inicio: 2017-11-20 - 07:30:03 / Fin: 2017-11-20 - 07:30:03 / ERROR
+#### ERROR al procesar la ref.2491 - MO8322 (MOB)
+Ref: 2491 / Inicio: 2017-11-20 - 07:30:03 / Fin: 2017-11-20 - 07:30:03 / ERROR
+#### ERROR al procesar la ref.2492 - B-082 (CIFRA)
+Ref: 2492 / Inicio: 2017-11-20 - 07:30:03 / Fin: 2017-11-20 - 07:30:04 / ERROR
+#### ERROR al procesar la ref.2493 - B-083 (CIFRA)
+Ref: 2493 / Inicio: 2017-11-20 - 07:30:04 / Fin: 2017-11-20 - 07:30:04 / ERROR
+#### ERROR al procesar la ref.2494 - B-084 (CIFRA)
+Ref: 2494 / Inicio: 2017-11-20 - 07:30:04 / Fin: 2017-11-20 - 07:30:04 / ERROR
+#### ERROR al procesar la ref.2500 - 2520 (GIVING)
+Ref: 2500 / Inicio: 2017-11-20 - 07:30:04 / Fin: 2017-11-20 - 07:30:04 / ERROR
+#### ERROR al procesar la ref.2501 - 93882 (PS)
+Ref: 2501 / Inicio: 2017-11-20 - 07:30:04 / Fin: 2017-11-20 - 07:30:04 / ERROR
+#### ERROR al procesar la ref.2512 - 93971 (PS)
+Ref: 2512 / Inicio: 2017-11-20 - 07:30:04 / Fin: 2017-11-20 - 07:30:04 / ERROR
+#### ERROR al procesar la ref.2515 - 10035404 (PF)
+Ref: 2515 / Inicio: 2017-11-20 - 07:30:04 / Fin: 2017-11-20 - 07:30:04 / ERROR
+#### ERROR al procesar la ref.2526 - A-207 (CIFRA)
+#### ERROR al procesar la ref.2526 - 276 (GGOYA)
+Ref: 2526 / Inicio: 2017-11-20 - 07:30:04 / Fin: 2017-11-20 - 07:30:04 / ERROR
+#### ERROR al procesar la ref.3003 - 12010902 (PF)
+Ref: 3003 / Inicio: 2017-11-20 - 07:30:04 / Fin: 2017-11-20 - 07:30:04 / ERROR
+#### ERROR al procesar la ref.3016 - E-072 (CIFRA)
+#### ERROR al procesar la ref.3016 - 6670 (GIVING)
+Ref: 3016 / Inicio: 2017-11-20 - 07:30:04 / Fin: 2017-11-20 - 07:30:04 / ERROR
+#### ERROR al procesar la ref.3020 - B-167 (CIFRA)
+#### ERROR al procesar la ref.3020 - 94221 (PS)
+#### ERROR al procesar la ref.3020 - 10403900 (PF)
+Ref: 3020 / Inicio: 2017-11-20 - 07:30:04 / Fin: 2017-11-20 - 07:30:04 / ERROR
+#### ERROR al procesar la ref.3025 - 6243 (GIVING)
+#### ERROR al procesar la ref.3025 - MO8516 (MOB)
+#### ERROR al procesar la ref.3025 - 98508 (PS)
+#### ERROR al procesar la ref.3025 - 10410000 (PF)
+Ref: 3025 / Inicio: 2017-11-20 - 07:30:04 / Fin: 2017-11-20 - 07:30:04 / ERROR
+#### ERROR al procesar la ref.3026 - 10632700 (PF)
+Ref: 3026 / Inicio: 2017-11-20 - 07:30:04 / Fin: 2017-11-20 - 07:30:04 / ERROR
+#### ERROR al procesar la ref.3030 - T-32 (CIFRA)
+Ref: 3030 / Inicio: 2017-11-20 - 07:30:04 / Fin: 2017-11-20 - 07:30:04 / ERROR
+#### ERROR al procesar la ref.3042 - E-052 (CIFRA)
+#### ERROR al procesar la ref.3042 - MO8782 (MOB)
+#### ERROR al procesar la ref.3042 - 35535 (GGOYA)
+Ref: 3042 / Inicio: 2017-11-20 - 07:30:04 / Fin: 2017-11-20 - 07:30:04 / ERROR
+#### ERROR al procesar la ref.3047 - MO7264 (MOB)
+Ref: 3047 / Inicio: 2017-11-20 - 07:30:04 / Fin: 2017-11-20 - 07:30:04 / ERROR
+#### ERROR al procesar la ref.3048 - IT3874 (MOB)
+#### ERROR al procesar la ref.3048 - 10411500 (PF)
+Ref: 3048 / Inicio: 2017-11-20 - 07:30:04 / Fin: 2017-11-20 - 07:30:04 / ERROR
+#### ERROR al procesar la ref.3050 - 8419 (GIVING)
+#### ERROR al procesar la ref.3050 - KC2966 (MOB)
+Ref: 3050 / Inicio: 2017-11-20 - 07:30:04 / Fin: 2017-11-20 - 07:30:04 / ERROR
+#### ERROR al procesar la ref.3052 - 1658 (GIVING)
+#### ERROR al procesar la ref.3052 - KC2466 (MOB)
+#### ERROR al procesar la ref.3052 - 94853 (PS)
+#### ERROR al procesar la ref.3052 - 12607600 (PF)
+Ref: 3052 / Inicio: 2017-11-20 - 07:30:04 / Fin: 2017-11-20 - 07:30:04 / ERROR
+#### ERROR al procesar la ref.3053 - 4565 (GIVING)
+Ref: 3053 / Inicio: 2017-11-20 - 07:30:04 / Fin: 2017-11-20 - 07:30:04 / ERROR
+#### ERROR al procesar la ref.3055 - C-462 (CIFRA)
+#### ERROR al procesar la ref.3055 - 1836 (GIVING)
+#### ERROR al procesar la ref.3055 - 93572 (PS)
+Ref: 3055 / Inicio: 2017-11-20 - 07:30:04 / Fin: 2017-11-20 - 07:30:05 / ERROR
+#### ERROR al procesar la ref.3057 - IT3821 (MOB)
+#### ERROR al procesar la ref.3057 - 91375 (PS)
+#### ERROR al procesar la ref.3057 - 10657100 (PF)
+Ref: 3057 / Inicio: 2017-11-20 - 07:30:05 / Fin: 2017-11-20 - 07:30:05 / ERROR
+#### ERROR al procesar la ref.3061 - E-053 (CIFRA)
+Ref: 3061 / Inicio: 2017-11-20 - 07:30:05 / Fin: 2017-11-20 - 07:30:05 / ERROR
+#### ERROR al procesar la ref.3064 - 6229 (GIVING)
+Ref: 3064 / Inicio: 2017-11-20 - 07:30:05 / Fin: 2017-11-20 - 07:30:05 / ERROR
+#### ERROR al procesar la ref.3072 - 3656 (GIVING)
+#### ERROR al procesar la ref.3072 - MO7883 (MOB)
+#### ERROR al procesar la ref.3072 - 31129 (GGOYA)
+Ref: 3072 / Inicio: 2017-11-20 - 07:30:05 / Fin: 2017-11-20 - 07:30:05 / ERROR
+#### ERROR al procesar la ref.3076 - KC6753 (MOB)
+Ref: 3076 / Inicio: 2017-11-20 - 07:30:05 / Fin: 2017-11-20 - 07:30:05 / ERROR
+#### ERROR al procesar la ref.3085 - IT3791 (MOB)
+Ref: 3085 / Inicio: 2017-11-20 - 07:30:05 / Fin: 2017-11-20 - 07:30:05 / ERROR
+#### ERROR al procesar la ref.3086 - Z-799 (CIFRA)
+#### ERROR al procesar la ref.3086 - 31120 (GGOYA)
+Ref: 3086 / Inicio: 2017-11-20 - 07:30:05 / Fin: 2017-11-20 - 07:30:05 / ERROR
+#### ERROR al procesar la ref.3095 - A-439 (CIFRA)
+#### ERROR al procesar la ref.3095 - 2799 (GIVING)
+#### ERROR al procesar la ref.3095 - 91929 (PS)
+Ref: 3095 / Inicio: 2017-11-20 - 07:30:05 / Fin: 2017-11-20 - 07:30:05 / ERROR
+#### ERROR al procesar la ref.3102 - 4343 (GIVING)
+Ref: 3102 / Inicio: 2017-11-20 - 07:30:05 / Fin: 2017-11-20 - 07:30:05 / ERROR
+#### ERROR al procesar la ref.3103 - MO8332 (MOB)
+#### ERROR al procesar la ref.3103 - 11921803 (PF)
+#### ERROR al procesar la ref.3103 - 35561 (GGOYA)
+Ref: 3103 / Inicio: 2017-11-20 - 07:30:05 / Fin: 2017-11-20 - 07:30:05 / ERROR
+#### ERROR al procesar la ref.3104 - G-032 (CIFRA)
+#### ERROR al procesar la ref.3104 - KC5069 (MOB)
+Ref: 3104 / Inicio: 2017-11-20 - 07:30:05 / Fin: 2017-11-20 - 07:30:05 / ERROR
+#### ERROR al procesar la ref.3120 - 7489 (GIVING)
+#### ERROR al procesar la ref.3120 - KC6403 (MOB)
+#### ERROR al procesar la ref.3120 - 99418 (PS)
+Ref: 3120 / Inicio: 2017-11-20 - 07:30:05 / Fin: 2017-11-20 - 07:30:05 / ERROR
+#### ERROR al procesar la ref.3126 - MO7334 (MOB)
+Ref: 3126 / Inicio: 2017-11-20 - 07:30:05 / Fin: 2017-11-20 - 07:30:05 / ERROR
+#### ERROR al procesar la ref.3131 - 8123 (GIVING)
+#### ERROR al procesar la ref.3131 - KC5116 (MOB)
+Ref: 3131 / Inicio: 2017-11-20 - 07:30:05 / Fin: 2017-11-20 - 07:30:05 / ERROR
+#### ERROR al procesar la ref.3132 - 9001 (GIVING)
+Ref: 3132 / Inicio: 2017-11-20 - 07:30:05 / Fin: 2017-11-20 - 07:30:05 / ERROR
+#### ERROR al procesar la ref.3142 - A-351 (CIFRA)
+#### ERROR al procesar la ref.3142 - 9104 (GIVING)
+#### ERROR al procesar la ref.3142 - MO9036 (MOB)
+#### ERROR al procesar la ref.3142 - 93421 (PS)
+#### ERROR al procesar la ref.3142 - 10627000 (PF)
+Ref: 3142 / Inicio: 2017-11-20 - 07:30:05 / Fin: 2017-11-20 - 07:30:05 / ERROR
+#### ERROR al procesar la ref.3143 - KC4165 (MOB)
+Ref: 3143 / Inicio: 2017-11-20 - 07:30:05 / Fin: 2017-11-20 - 07:30:05 / ERROR
+#### ERROR al procesar la ref.3147 - A-012 (CIFRA)
+Ref: 3147 / Inicio: 2017-11-20 - 07:30:05 / Fin: 2017-11-20 - 07:30:06 / ERROR
+#### ERROR al procesar la ref.3157 - C-264 (CIFRA)
+#### ERROR al procesar la ref.3157 - 34009 (GGOYA)
+Ref: 3157 / Inicio: 2017-11-20 - 07:30:06 / Fin: 2017-11-20 - 07:30:06 / ERROR
+#### ERROR al procesar la ref.3165 - T-013 (CIFRA)
+#### ERROR al procesar la ref.3165 - 30078 (GGOYA)
+Ref: 3165 / Inicio: 2017-11-20 - 07:30:06 / Fin: 2017-11-20 - 07:30:06 / ERROR
+#### ERROR al procesar la ref.3167 - IT3826 (MOB)
+#### ERROR al procesar la ref.3167 - 92850 (PS)
+Ref: 3167 / Inicio: 2017-11-20 - 07:30:06 / Fin: 2017-11-20 - 07:30:06 / ERROR
+#### ERROR al procesar la ref.3173 - MO8649 (MOB)
+Ref: 3173 / Inicio: 2017-11-20 - 07:30:06 / Fin: 2017-11-20 - 07:30:06 / ERROR
+#### ERROR al procesar la ref.3176 - D-009 (CIFRA)
+Ref: 3176 / Inicio: 2017-11-20 - 07:30:06 / Fin: 2017-11-20 - 07:30:06 / ERROR
+#### ERROR al procesar la ref.3178 - G-176 (CIFRA)
+Ref: 3178 / Inicio: 2017-11-20 - 07:30:06 / Fin: 2017-11-20 - 07:30:06 / ERROR
+#### ERROR al procesar la ref.3186 - 4092 (GIVING)
+#### ERROR al procesar la ref.3186 - 10905202 (PF)
+Ref: 3186 / Inicio: 2017-11-20 - 07:30:06 / Fin: 2017-11-20 - 07:30:06 / ERROR
+#### ERROR al procesar la ref.3189 - 1124 (GIVING)
+#### ERROR al procesar la ref.3189 - 10037902 (PF)
+Ref: 3189 / Inicio: 2017-11-20 - 07:30:06 / Fin: 2017-11-20 - 07:30:06 / ERROR
+#### ERROR al procesar la ref.3191 - 10659302 (PF)
+Ref: 3191 / Inicio: 2017-11-20 - 07:30:06 / Fin: 2017-11-20 - 07:30:06 / ERROR
+#### ERROR al procesar la ref.3192 - 1651 (GIVING)
+#### ERROR al procesar la ref.3192 - IT3054 (MOB)
+#### ERROR al procesar la ref.3192 - 94845 (PS)
+Ref: 3192 / Inicio: 2017-11-20 - 07:30:06 / Fin: 2017-11-20 - 07:30:06 / ERROR
+#### ERROR al procesar la ref.3197 - MO7435 (MOB)
+#### ERROR al procesar la ref.3197 - 12345401 (PF)
+Ref: 3197 / Inicio: 2017-11-20 - 07:30:06 / Fin: 2017-11-20 - 07:30:06 / ERROR
+#### ERROR al procesar la ref.3200 - T-093 (CIFRA)
+#### ERROR al procesar la ref.3200 - MO8963 (MOB)
+#### ERROR al procesar la ref.3200 - 92499 (PS)
+#### ERROR al procesar la ref.3200 - 12018504 (PF)
+Ref: 3200 / Inicio: 2017-11-20 - 07:30:06 / Fin: 2017-11-20 - 07:30:06 / ERROR
+#### ERROR al procesar la ref.3201 - 1052 (GIVING)
+#### ERROR al procesar la ref.3201 - MO7818 (MOB)
+#### ERROR al procesar la ref.3201 - 91615 (PS)
+#### ERROR al procesar la ref.3201 - 10679000 (PF)
+Ref: 3201 / Inicio: 2017-11-20 - 07:30:06 / Fin: 2017-11-20 - 07:30:06 / ERROR
+#### ERROR al procesar la ref.3205 - 92040 (PS)
+Ref: 3205 / Inicio: 2017-11-20 - 07:30:06 / Fin: 2017-11-20 - 07:30:06 / ERROR
+#### ERROR al procesar la ref.3208 - G-075 (CIFRA)
+Ref: 3208 / Inicio: 2017-11-20 - 07:30:06 / Fin: 2017-11-20 - 07:30:06 / ERROR
+#### ERROR al procesar la ref.3209 - 29541 (GGOYA)
+Ref: 3209 / Inicio: 2017-11-20 - 07:30:06 / Fin: 2017-11-20 - 07:30:06 / ERROR
+#### ERROR al procesar la ref.3210 - 2314 (GIVING)
+#### ERROR al procesar la ref.3210 - IT1347 (MOB)
+#### ERROR al procesar la ref.3210 - 92902 (PS)
+#### ERROR al procesar la ref.3210 - 11941113 (PF)
+#### ERROR al procesar la ref.3210 - 32546 (GGOYA)
+Ref: 3210 / Inicio: 2017-11-20 - 07:30:06 / Fin: 2017-11-20 - 07:30:06 / ERROR
+#### ERROR al procesar la ref.3211 - 99800 (PS)
+Ref: 3211 / Inicio: 2017-11-20 - 07:30:06 / Fin: 2017-11-20 - 07:30:07 / ERROR
+#### ERROR al procesar la ref.3212 - 1745 (GIVING)
+Ref: 3212 / Inicio: 2017-11-20 - 07:30:07 / Fin: 2017-11-20 - 07:30:07 / ERROR
+#### ERROR al procesar la ref.3216 - KC7146 (MOB)
+Ref: 3216 / Inicio: 2017-11-20 - 07:30:07 / Fin: 2017-11-20 - 07:30:07 / ERROR
+#### ERROR al procesar la ref.3218 - 91310 (PS)
+Ref: 3218 / Inicio: 2017-11-20 - 07:30:07 / Fin: 2017-11-20 - 07:30:07 / ERROR
+#### ERROR al procesar la ref.3222 - C-003 (CIFRA)
+#### ERROR al procesar la ref.3222 - 9137 (GIVING)
+#### ERROR al procesar la ref.3222 - MO7421 (MOB)
+#### ERROR al procesar la ref.3222 - 99214 (PS)
+#### ERROR al procesar la ref.3222 - 10301004 (PF)
+Ref: 3222 / Inicio: 2017-11-20 - 07:30:07 / Fin: 2017-11-20 - 07:30:07 / ERROR
+#### ERROR al procesar la ref.3228 - 31067 (GGOYA)
+Ref: 3228 / Inicio: 2017-11-20 - 07:30:07 / Fin: 2017-11-20 - 07:30:07 / ERROR
+#### ERROR al procesar la ref.3243 - Z-849 (CIFRA)
+Ref: 3243 / Inicio: 2017-11-20 - 07:30:07 / Fin: 2017-11-20 - 07:30:07 / ERROR
+#### ERROR al procesar la ref.3244 - 92497 (PS)
+Ref: 3244 / Inicio: 2017-11-20 - 07:30:07 / Fin: 2017-11-20 - 07:30:07 / ERROR
+#### ERROR al procesar la ref.3246 - 30501 (GGOYA)
+Ref: 3246 / Inicio: 2017-11-20 - 07:30:07 / Fin: 2017-11-20 - 07:30:07 / ERROR
+#### ERROR al procesar la ref.3247 - Z-019 (CIFRA)
+Ref: 3247 / Inicio: 2017-11-20 - 07:30:07 / Fin: 2017-11-20 - 07:30:07 / ERROR
+#### ERROR al procesar la ref.3250 - G-168 (CIFRA)
+#### ERROR al procesar la ref.3250 - 19546698 (PF)
+Ref: 3250 / Inicio: 2017-11-20 - 07:30:07 / Fin: 2017-11-20 - 07:30:07 / ERROR
+#### ERROR al procesar la ref.3254 - IT1628 (MOB)
+Ref: 3254 / Inicio: 2017-11-20 - 07:30:07 / Fin: 2017-11-20 - 07:30:07 / ERROR
+#### ERROR al procesar la ref.3255 - C-333 (CIFRA)
+#### ERROR al procesar la ref.3255 - 30547 (GGOYA)
+Ref: 3255 / Inicio: 2017-11-20 - 07:30:07 / Fin: 2017-11-20 - 07:30:07 / ERROR
+#### ERROR al procesar la ref.3261 - MO8956 (MOB)
+Ref: 3261 / Inicio: 2017-11-20 - 07:30:07 / Fin: 2017-11-20 - 07:30:07 / ERROR
+#### ERROR al procesar la ref.3262 - 4787 (GIVING)
+Ref: 3262 / Inicio: 2017-11-20 - 07:30:07 / Fin: 2017-11-20 - 07:30:07 / ERROR
+#### ERROR al procesar la ref.3263 - 31658 (GGOYA)
+Ref: 3263 / Inicio: 2017-11-20 - 07:30:07 / Fin: 2017-11-20 - 07:30:07 / ERROR
+#### ERROR al procesar la ref.3264 - Z-216 (CIFRA)
+#### ERROR al procesar la ref.3264 - 98501 (PS)
+#### ERROR al procesar la ref.3264 - 10400700 (PF)
+Ref: 3264 / Inicio: 2017-11-20 - 07:30:07 / Fin: 2017-11-20 - 07:30:07 / ERROR
+#### ERROR al procesar la ref.3272 - Z-681 (CIFRA)
+#### ERROR al procesar la ref.3272 - 2880 (GIVING)
+#### ERROR al procesar la ref.3272 - MO8658 (MOB)
+#### ERROR al procesar la ref.3272 - 11209700 (PF)
+#### ERROR al procesar la ref.3272 - 28199 (GGOYA)
+Ref: 3272 / Inicio: 2017-11-20 - 07:30:07 / Fin: 2017-11-20 - 07:30:07 / ERROR
+#### ERROR al procesar la ref.3281 - 9114 (GIVING)
+Ref: 3281 / Inicio: 2017-11-20 - 07:30:07 / Fin: 2017-11-20 - 07:30:07 / ERROR
+#### ERROR al procesar la ref.3283 - B-235 (CIFRA)
+#### ERROR al procesar la ref.3283 - 94301 (PS)
+Ref: 3283 / Inicio: 2017-11-20 - 07:30:07 / Fin: 2017-11-20 - 07:30:07 / ERROR
+#### ERROR al procesar la ref.3284 - B-239 (CIFRA)
+#### ERROR al procesar la ref.3284 - 4490 (GIVING)
+#### ERROR al procesar la ref.3284 - 94311 (PS)
+Ref: 3284 / Inicio: 2017-11-20 - 07:30:07 / Fin: 2017-11-20 - 07:30:07 / ERROR
+#### ERROR al procesar la ref.3288 - 3802 (GIVING)
+#### ERROR al procesar la ref.3288 - 98119 (PS)
+Ref: 3288 / Inicio: 2017-11-20 - 07:30:07 / Fin: 2017-11-20 - 07:30:07 / ERROR
+#### ERROR al procesar la ref.3294 - 8121 (GIVING)
+#### ERROR al procesar la ref.3294 - MO7256 (MOB)
+Ref: 3294 / Inicio: 2017-11-20 - 07:30:07 / Fin: 2017-11-20 - 07:30:08 / ERROR
+#### ERROR al procesar la ref.3299 - 5619 (GIVING)
+#### ERROR al procesar la ref.3299 - IT2547 (MOB)
+#### ERROR al procesar la ref.3299 - 92993 (PS)
+#### ERROR al procesar la ref.3299 - 24054 (GGOYA)
+Ref: 3299 / Inicio: 2017-11-20 - 07:30:08 / Fin: 2017-11-20 - 07:30:08 / ERROR
+#### ERROR al procesar la ref.3301 - E-059 (CIFRA)
+Ref: 3301 / Inicio: 2017-11-20 - 07:30:08 / Fin: 2017-11-20 - 07:30:08 / ERROR
+#### ERROR al procesar la ref.3304 - MO8716 (MOB)
+Ref: 3304 / Inicio: 2017-11-20 - 07:30:08 / Fin: 2017-11-20 - 07:30:08 / ERROR
+#### ERROR al procesar la ref.3307 - T-092 (CIFRA)
+Ref: 3307 / Inicio: 2017-11-20 - 07:30:08 / Fin: 2017-11-20 - 07:30:08 / ERROR
+#### ERROR al procesar la ref.3311 - MO7214 (MOB)
+Ref: 3311 / Inicio: 2017-11-20 - 07:30:08 / Fin: 2017-11-20 - 07:30:08 / ERROR
+#### ERROR al procesar la ref.3312 - 3801 (GIVING)
+#### ERROR al procesar la ref.3312 - 19549543 (PF)
+Ref: 3312 / Inicio: 2017-11-20 - 07:30:08 / Fin: 2017-11-20 - 07:30:08 / ERROR
+#### ERROR al procesar la ref.3315 - 92352 (PS)
+Ref: 3315 / Inicio: 2017-11-20 - 07:30:08 / Fin: 2017-11-20 - 07:30:08 / ERROR
+#### ERROR al procesar la ref.3316 - 32049 (GGOYA)
+Ref: 3316 / Inicio: 2017-11-20 - 07:30:08 / Fin: 2017-11-20 - 07:30:08 / ERROR
+#### ERROR al procesar la ref.3321 - T-469 (CIFRA)
+#### ERROR al procesar la ref.3321 - 2315 (GIVING)
+#### ERROR al procesar la ref.3321 - KC3547 (MOB)
+#### ERROR al procesar la ref.3321 - 92415 (PS)
+Ref: 3321 / Inicio: 2017-11-20 - 07:30:08 / Fin: 2017-11-20 - 07:30:08 / ERROR
+#### ERROR al procesar la ref.3323 - T-018-CR (CIFRA)
+#### ERROR al procesar la ref.3323 - MO8337 (MOB)
+#### ERROR al procesar la ref.3323 - 12011300 (PF)
+#### ERROR al procesar la ref.3323 - 36025 (GGOYA)
+Ref: 3323 / Inicio: 2017-11-20 - 07:30:08 / Fin: 2017-11-20 - 07:30:08 / ERROR
+#### ERROR al procesar la ref.3325 - 29656 (GGOYA)
+Ref: 3325 / Inicio: 2017-11-20 - 07:30:08 / Fin: 2017-11-20 - 07:30:08 / ERROR
+#### ERROR al procesar la ref.3329 - 99456 (PS)
+#### ERROR al procesar la ref.3329 - 21451 (GGOYA)
+Ref: 3329 / Inicio: 2017-11-20 - 07:30:08 / Fin: 2017-11-20 - 07:30:08 / ERROR
+#### ERROR al procesar la ref.3330 - MO8655 (MOB)
+Ref: 3330 / Inicio: 2017-11-20 - 07:30:08 / Fin: 2017-11-20 - 07:30:08 / ERROR
+#### ERROR al procesar la ref.3336 - 92032 (PS)
+Ref: 3336 / Inicio: 2017-11-20 - 07:30:08 / Fin: 2017-11-20 - 07:30:08 / ERROR
+#### ERROR al procesar la ref.3337 - 6458 (GIVING)
+#### ERROR al procesar la ref.3337 - 93621 (PS)
+Ref: 3337 / Inicio: 2017-11-20 - 07:30:08 / Fin: 2017-11-20 - 07:30:08 / ERROR
+#### ERROR al procesar la ref.3338 - 3298 (GIVING)
+#### ERROR al procesar la ref.3338 - MO7323 (MOB)
+Ref: 3338 / Inicio: 2017-11-20 - 07:30:08 / Fin: 2017-11-20 - 07:30:08 / ERROR
+#### ERROR al procesar la ref.3340 - 31596 (GGOYA)
+Ref: 3340 / Inicio: 2017-11-20 - 07:30:08 / Fin: 2017-11-20 - 07:30:08 / ERROR
+#### ERROR al procesar la ref.3341 - 30557 (GGOYA)
+Ref: 3341 / Inicio: 2017-11-20 - 07:30:08 / Fin: 2017-11-20 - 07:30:08 / ERROR
+#### ERROR al procesar la ref.3342 - 99451 (PS)
+Ref: 3342 / Inicio: 2017-11-20 - 07:30:08 / Fin: 2017-11-20 - 07:30:08 / ERROR
+#### ERROR al procesar la ref.3356 - C-021-ESP (CIFRA)
+Ref: 3356 / Inicio: 2017-11-20 - 07:30:08 / Fin: 2017-11-20 - 07:30:08 / ERROR
+#### ERROR al procesar la ref.3358 - T-119 (CIFRA)
+Ref: 3358 / Inicio: 2017-11-20 - 07:30:08 / Fin: 2017-11-20 - 07:30:08 / ERROR
+#### ERROR al procesar la ref.3365 - G-033 (CIFRA)
+#### ERROR al procesar la ref.3365 - 6284 (GIVING)
+#### ERROR al procesar la ref.3365 - MO9003 (MOB)
+#### ERROR al procesar la ref.3365 - 12011902 (PF)
+Ref: 3365 / Inicio: 2017-11-20 - 07:30:08 / Fin: 2017-11-20 - 07:30:09 / ERROR
+#### ERROR al procesar la ref.3373 - RP-067 (CIFRA)
+Ref: 3373 / Inicio: 2017-11-20 - 07:30:09 / Fin: 2017-11-20 - 07:30:09 / ERROR
+#### ERROR al procesar la ref.3374 - B-625 (CIFRA)
+#### ERROR al procesar la ref.3374 - MO9044 (MOB)
+Ref: 3374 / Inicio: 2017-11-20 - 07:30:09 / Fin: 2017-11-20 - 07:30:09 / ERROR
+#### ERROR al procesar la ref.3375 - G-055 (CIFRA)
+Ref: 3375 / Inicio: 2017-11-20 - 07:30:09 / Fin: 2017-11-20 - 07:30:09 / ERROR
+#### ERROR al procesar la ref.3378 - 1743 (GIVING)
+#### ERROR al procesar la ref.3378 - 99017 (PS)
+Ref: 3378 / Inicio: 2017-11-20 - 07:30:09 / Fin: 2017-11-20 - 07:30:09 / ERROR
+#### ERROR al procesar la ref.3380 - 31030 (GGOYA)
+Ref: 3380 / Inicio: 2017-11-20 - 07:30:09 / Fin: 2017-11-20 - 07:30:09 / ERROR
+#### ERROR al procesar la ref.3382 - 2631 (GIVING)
+#### ERROR al procesar la ref.3382 - KC6388 (MOB)
+Ref: 3382 / Inicio: 2017-11-20 - 07:30:09 / Fin: 2017-11-20 - 07:30:09 / ERROR
+#### ERROR al procesar la ref.3384 - 7552 (GIVING)
+#### ERROR al procesar la ref.3384 - 94601 (PS)
+#### ERROR al procesar la ref.3384 - 10000209 (PF)
+#### ERROR al procesar la ref.3384 - 31028 (GGOYA)
+Ref: 3384 / Inicio: 2017-11-20 - 07:30:09 / Fin: 2017-11-20 - 07:30:09 / ERROR
+#### ERROR al procesar la ref.3386 - 2545 (GIVING)
+#### ERROR al procesar la ref.3386 - 91756 (PS)
+#### ERROR al procesar la ref.3386 - 10616700 (PF)
+Ref: 3386 / Inicio: 2017-11-20 - 07:30:09 / Fin: 2017-11-20 - 07:30:09 / ERROR
+#### ERROR al procesar la ref.3389 - 10612200 (PF)
+#### ERROR al procesar la ref.3389 - 35665 (GGOYA)
+Ref: 3389 / Inicio: 2017-11-20 - 07:30:09 / Fin: 2017-11-20 - 07:30:09 / ERROR
+#### ERROR al procesar la ref.3390 - A-339 (CIFRA)
+#### ERROR al procesar la ref.3390 - 2691 (GIVING)
+#### ERROR al procesar la ref.3390 - 31068 (GGOYA)
+Ref: 3390 / Inicio: 2017-11-20 - 07:30:09 / Fin: 2017-11-20 - 07:30:09 / ERROR
+#### ERROR al procesar la ref.3403 - A-366 (CIFRA)
+#### ERROR al procesar la ref.3403 - 94115 (PS)
+#### ERROR al procesar la ref.3403 - 11260804 (PF)
+Ref: 3403 / Inicio: 2017-11-20 - 07:30:09 / Fin: 2017-11-20 - 07:30:09 / ERROR
+#### ERROR al procesar la ref.3404 - 4807 (GIVING)
+Ref: 3404 / Inicio: 2017-11-20 - 07:30:09 / Fin: 2017-11-20 - 07:30:09 / ERROR
+#### ERROR al procesar la ref.3406 - 10418201 (PF)
+Ref: 3406 / Inicio: 2017-11-20 - 07:30:09 / Fin: 2017-11-20 - 07:30:09 / ERROR
+#### ERROR al procesar la ref.3407 - 98182 (PS)
+Ref: 3407 / Inicio: 2017-11-20 - 07:30:09 / Fin: 2017-11-20 - 07:30:09 / ERROR
+#### ERROR al procesar la ref.3410 - P-125 (CIFRA)
+#### ERROR al procesar la ref.3410 - 8766 (GIVING)
+#### ERROR al procesar la ref.3410 - KC2225 (MOB)
+#### ERROR al procesar la ref.3410 - 10220100 (PF)
+#### ERROR al procesar la ref.3410 - 33034 (GGOYA)
+Ref: 3410 / Inicio: 2017-11-20 - 07:30:09 / Fin: 2017-11-20 - 07:30:10 / ERROR
+#### ERROR al procesar la ref.3415 - MO7623 (MOB)
+Ref: 3415 / Inicio: 2017-11-20 - 07:30:10 / Fin: 2017-11-20 - 07:30:10 / ERROR
+#### ERROR al procesar la ref.3418 - MO8132 (MOB)
+Ref: 3418 / Inicio: 2017-11-20 - 07:30:10 / Fin: 2017-11-20 - 07:30:10 / ERROR
+#### ERROR al procesar la ref.3421 - CX1281 (MOB)
+Ref: 3421 / Inicio: 2017-11-20 - 07:30:10 / Fin: 2017-11-20 - 07:30:10 / ERROR
+#### ERROR al procesar la ref.3423 - 5077 (GIVING)
+#### ERROR al procesar la ref.3423 - IT2660 (MOB)
+#### ERROR al procesar la ref.3423 - 94353 (PS)
+Ref: 3423 / Inicio: 2017-11-20 - 07:30:10 / Fin: 2017-11-20 - 07:30:10 / ERROR
+#### ERROR al procesar la ref.3425 - D-002 (CIFRA)
+Ref: 3425 / Inicio: 2017-11-20 - 07:30:10 / Fin: 2017-11-20 - 07:30:10 / ERROR
+#### ERROR al procesar la ref.3429 - G-341 (CIFRA)
+#### ERROR al procesar la ref.3429 - 6447 (GIVING)
+#### ERROR al procesar la ref.3429 - IT2558 (MOB)
+Ref: 3429 / Inicio: 2017-11-20 - 07:30:10 / Fin: 2017-11-20 - 07:30:10 / ERROR
+#### ERROR al procesar la ref.3450 - 7238 (GIVING)
+#### ERROR al procesar la ref.3450 - 94016 (PS)
+#### ERROR al procesar la ref.3450 - 10409900 (PF)
+Ref: 3450 / Inicio: 2017-11-20 - 07:30:10 / Fin: 2017-11-20 - 07:30:10 / ERROR
+#### ERROR al procesar la ref.3451 - 7112 (GIVING)
+#### ERROR al procesar la ref.3451 - KC2115 (MOB)
+#### ERROR al procesar la ref.3451 - 94147 (PS)
+Ref: 3451 / Inicio: 2017-11-20 - 07:30:10 / Fin: 2017-11-20 - 07:30:10 / ERROR
+#### ERROR al procesar la ref.3467 - 7624 (GIVING)
+#### ERROR al procesar la ref.3467 - KC3996 (MOB)
+Ref: 3467 / Inicio: 2017-11-20 - 07:30:10 / Fin: 2017-11-20 - 07:30:10 / ERROR
+#### ERROR al procesar la ref.3477 - 6157 (GIVING)
+#### ERROR al procesar la ref.3477 - 11970603 (PF)
+#### ERROR al procesar la ref.3477 - 30586 (GGOYA)
+Ref: 3477 / Inicio: 2017-11-20 - 07:30:10 / Fin: 2017-11-20 - 07:30:10 / ERROR
+#### ERROR al procesar la ref.3478 - 3620 (GIVING)
+#### ERROR al procesar la ref.3478 - MO8145 (MOB)
+Ref: 3478 / Inicio: 2017-11-20 - 07:30:10 / Fin: 2017-11-20 - 07:30:10 / ERROR
+#### ERROR al procesar la ref.3503 - 9504 (GIVING)
+#### ERROR al procesar la ref.3503 - IT0972 (MOB)
+#### ERROR al procesar la ref.3503 - 99213 (PS)
+#### ERROR al procesar la ref.3503 - 10042902 (PF)
+Ref: 3503 / Inicio: 2017-11-20 - 07:30:10 / Fin: 2017-11-20 - 07:30:10 / ERROR
+#### ERROR al procesar la ref.3509 - Z-796 (CIFRA)
+Ref: 3509 / Inicio: 2017-11-20 - 07:30:10 / Fin: 2017-11-20 - 07:30:10 / ERROR
+#### ERROR al procesar la ref.3519 - C-267 (CIFRA)
+Ref: 3519 / Inicio: 2017-11-20 - 07:30:10 / Fin: 2017-11-20 - 07:30:10 / ERROR
+#### ERROR al procesar la ref.3523 - 3398 (GIVING)
+#### ERROR al procesar la ref.3523 - KC6217 (MOB)
+#### ERROR al procesar la ref.3523 - 91247 (PS)
+#### ERROR al procesar la ref.3523 - 23140 (GGOYA)
+Ref: 3523 / Inicio: 2017-11-20 - 07:30:10 / Fin: 2017-11-20 - 07:30:11 / ERROR
+#### ERROR al procesar la ref.3527 - 10678101 (PF)
+Ref: 3527 / Inicio: 2017-11-20 - 07:30:11 / Fin: 2017-11-20 - 07:30:11 / ERROR
+#### ERROR al procesar la ref.3529 - 3993 (GIVING)
+#### ERROR al procesar la ref.3529 - 91378 (PS)
+Ref: 3529 / Inicio: 2017-11-20 - 07:30:11 / Fin: 2017-11-20 - 07:30:11 / ERROR
+#### ERROR al procesar la ref.3537 - MO7520 (MOB)
+Ref: 3537 / Inicio: 2017-11-20 - 07:30:11 / Fin: 2017-11-20 - 07:30:11 / ERROR
+#### ERROR al procesar la ref.3564 - IT3780 (MOB)
+Ref: 3564 / Inicio: 2017-11-20 - 07:30:11 / Fin: 2017-11-20 - 07:30:11 / ERROR
+#### ERROR al procesar la ref.3572 - E-018 (CIFRA)
+Ref: 3572 / Inicio: 2017-11-20 - 07:30:11 / Fin: 2017-11-20 - 07:30:11 / ERROR
+#### ERROR al procesar la ref.3574 - 32000 (GGOYA)
+Ref: 3574 / Inicio: 2017-11-20 - 07:30:11 / Fin: 2017-11-20 - 07:30:11 / ERROR
+
+***************************************************************************
+CONSULTA DE STOCK DE ARTÍCULOS CON FRECUENCIA SEMANAL:
+Proceso finalizado el 2017-11-20, a las 07:30:11
+
+CONSULTA DE STOCK DE ARTÍCULOS CON FRECUENCIA SEMANAL:
+Referencias de las que no se ha podido obtener stock de competidores por Errores de Proceso
+Resultados del Segundo Intento
+Proceso iniciado el 2017-11-20, a las 07:30:11
+***************************************************************************
+
+#### ERROR al procesar la ref.2008 - Z-990 (CIFRA)
+#### ERROR al procesar la ref.2008 - c72n (GGOYA)
+Ref: 2008 / Inicio: 2017-11-20 - 07:30:11 / Fin: 2017-11-20 - 07:30:11 / ERROR
+#### ERROR al procesar la ref.2008C - Z-990 (CIFRA)
+Ref: 2008C / Inicio: 2017-11-20 - 07:30:11 / Fin: 2017-11-20 - 07:30:11 / ERROR
+#### ERROR al procesar la ref.2095 - 1503 (GIVING)
+#### ERROR al procesar la ref.2095 - KC5720 (MOB)
+Ref: 2095 / Inicio: 2017-11-20 - 07:30:11 / Fin: 2017-11-20 - 07:30:11 / ERROR
+#### ERROR al procesar la ref.2308 - Z-572 (CIFRA)
+Ref: 2308 / Inicio: 2017-11-20 - 07:30:11 / Fin: 2017-11-20 - 07:30:11 / ERROR
+#### ERROR al procesar la ref.2415 - D-032 (CIFRA)
+Ref: 2415 / Inicio: 2017-11-20 - 07:30:11 / Fin: 2017-11-20 - 07:30:11 / ERROR
+#### ERROR al procesar la ref.2416 - D-031 (CIFRA)
+Ref: 2416 / Inicio: 2017-11-20 - 07:30:11 / Fin: 2017-11-20 - 07:30:11 / ERROR
+#### ERROR al procesar la ref.2421 - D-030 (CIFRA)
+#### ERROR al procesar la ref.2421 - 8958 (GIVING)
+#### ERROR al procesar la ref.2421 - MO8791 (MOB)
+Ref: 2421 / Inicio: 2017-11-20 - 07:30:11 / Fin: 2017-11-20 - 07:30:11 / ERROR
+#### ERROR al procesar la ref.2451 - 1861 (GIVING)
+Ref: 2451 / Inicio: 2017-11-20 - 07:30:11 / Fin: 2017-11-20 - 07:30:11 / ERROR
+#### ERROR al procesar la ref.2453 - B-017 (CIFRA)
+#### ERROR al procesar la ref.2453 - 98300 (PS)
+Ref: 2453 / Inicio: 2017-11-20 - 07:30:11 / Fin: 2017-11-20 - 07:30:11 / ERROR
+#### ERROR al procesar la ref.2469 - 91216 (PS)
+Ref: 2469 / Inicio: 2017-11-20 - 07:30:11 / Fin: 2017-11-20 - 07:30:11 / ERROR
+#### ERROR al procesar la ref.2491 - MO8322 (MOB)
+Ref: 2491 / Inicio: 2017-11-20 - 07:30:11 / Fin: 2017-11-20 - 07:30:11 / ERROR
+#### ERROR al procesar la ref.2492 - B-082 (CIFRA)
+Ref: 2492 / Inicio: 2017-11-20 - 07:30:11 / Fin: 2017-11-20 - 07:30:11 / ERROR
+#### ERROR al procesar la ref.2493 - B-083 (CIFRA)
+Ref: 2493 / Inicio: 2017-11-20 - 07:30:11 / Fin: 2017-11-20 - 07:30:11 / ERROR
+#### ERROR al procesar la ref.2494 - B-084 (CIFRA)
+Ref: 2494 / Inicio: 2017-11-20 - 07:30:11 / Fin: 2017-11-20 - 07:30:11 / ERROR
+#### ERROR al procesar la ref.2500 - 2520 (GIVING)
+Ref: 2500 / Inicio: 2017-11-20 - 07:30:11 / Fin: 2017-11-20 - 07:30:12 / ERROR
+#### ERROR al procesar la ref.2501 - 93882 (PS)
+Ref: 2501 / Inicio: 2017-11-20 - 07:30:12 / Fin: 2017-11-20 - 07:30:12 / ERROR
+#### ERROR al procesar la ref.2512 - 93971 (PS)
+Ref: 2512 / Inicio: 2017-11-20 - 07:30:12 / Fin: 2017-11-20 - 07:30:12 / ERROR
+#### ERROR al procesar la ref.2515 - 10035404 (PF)
+Ref: 2515 / Inicio: 2017-11-20 - 07:30:12 / Fin: 2017-11-20 - 07:30:12 / ERROR
+#### ERROR al procesar la ref.2526 - A-207 (CIFRA)
+#### ERROR al procesar la ref.2526 - 276 (GGOYA)
+Ref: 2526 / Inicio: 2017-11-20 - 07:30:12 / Fin: 2017-11-20 - 07:30:12 / ERROR
+#### ERROR al procesar la ref.3003 - 12010902 (PF)
+Ref: 3003 / Inicio: 2017-11-20 - 07:30:12 / Fin: 2017-11-20 - 07:30:12 / ERROR
+#### ERROR al procesar la ref.3016 - E-072 (CIFRA)
+#### ERROR al procesar la ref.3016 - 6670 (GIVING)
+Ref: 3016 / Inicio: 2017-11-20 - 07:30:12 / Fin: 2017-11-20 - 07:30:12 / ERROR
+#### ERROR al procesar la ref.3020 - B-167 (CIFRA)
+#### ERROR al procesar la ref.3020 - 94221 (PS)
+#### ERROR al procesar la ref.3020 - 10403900 (PF)
+Ref: 3020 / Inicio: 2017-11-20 - 07:30:12 / Fin: 2017-11-20 - 07:30:12 / ERROR
+#### ERROR al procesar la ref.3025 - 6243 (GIVING)
+#### ERROR al procesar la ref.3025 - MO8516 (MOB)
+#### ERROR al procesar la ref.3025 - 98508 (PS)
+#### ERROR al procesar la ref.3025 - 10410000 (PF)
+Ref: 3025 / Inicio: 2017-11-20 - 07:30:12 / Fin: 2017-11-20 - 07:30:12 / ERROR
+#### ERROR al procesar la ref.3026 - 10632700 (PF)
+Ref: 3026 / Inicio: 2017-11-20 - 07:30:12 / Fin: 2017-11-20 - 07:30:12 / ERROR
+#### ERROR al procesar la ref.3030 - T-32 (CIFRA)
+Ref: 3030 / Inicio: 2017-11-20 - 07:30:12 / Fin: 2017-11-20 - 07:30:12 / ERROR
+#### ERROR al procesar la ref.3042 - E-052 (CIFRA)
+#### ERROR al procesar la ref.3042 - MO8782 (MOB)
+#### ERROR al procesar la ref.3042 - 35535 (GGOYA)
+Ref: 3042 / Inicio: 2017-11-20 - 07:30:12 / Fin: 2017-11-20 - 07:30:12 / ERROR
+#### ERROR al procesar la ref.3047 - MO7264 (MOB)
+Ref: 3047 / Inicio: 2017-11-20 - 07:30:12 / Fin: 2017-11-20 - 07:30:12 / ERROR
+#### ERROR al procesar la ref.3048 - IT3874 (MOB)
+#### ERROR al procesar la ref.3048 - 10411500 (PF)
+Ref: 3048 / Inicio: 2017-11-20 - 07:30:12 / Fin: 2017-11-20 - 07:30:12 / ERROR
+#### ERROR al procesar la ref.3050 - 8419 (GIVING)
+#### ERROR al procesar la ref.3050 - KC2966 (MOB)
+Ref: 3050 / Inicio: 2017-11-20 - 07:30:12 / Fin: 2017-11-20 - 07:30:12 / ERROR
+#### ERROR al procesar la ref.3052 - 1658 (GIVING)
+#### ERROR al procesar la ref.3052 - KC2466 (MOB)
+#### ERROR al procesar la ref.3052 - 94853 (PS)
+#### ERROR al procesar la ref.3052 - 12607600 (PF)
+Ref: 3052 / Inicio: 2017-11-20 - 07:30:12 / Fin: 2017-11-20 - 07:30:12 / ERROR
+#### ERROR al procesar la ref.3053 - 4565 (GIVING)
+Ref: 3053 / Inicio: 2017-11-20 - 07:30:12 / Fin: 2017-11-20 - 07:30:12 / ERROR
+#### ERROR al procesar la ref.3055 - C-462 (CIFRA)
+#### ERROR al procesar la ref.3055 - 1836 (GIVING)
+#### ERROR al procesar la ref.3055 - 93572 (PS)
+Ref: 3055 / Inicio: 2017-11-20 - 07:30:12 / Fin: 2017-11-20 - 07:30:13 / ERROR
+#### ERROR al procesar la ref.3057 - IT3821 (MOB)
+#### ERROR al procesar la ref.3057 - 91375 (PS)
+#### ERROR al procesar la ref.3057 - 10657100 (PF)
+Ref: 3057 / Inicio: 2017-11-20 - 07:30:13 / Fin: 2017-11-20 - 07:30:13 / ERROR
+#### ERROR al procesar la ref.3061 - E-053 (CIFRA)
+Ref: 3061 / Inicio: 2017-11-20 - 07:30:13 / Fin: 2017-11-20 - 07:30:13 / ERROR
+#### ERROR al procesar la ref.3064 - 6229 (GIVING)
+Ref: 3064 / Inicio: 2017-11-20 - 07:30:13 / Fin: 2017-11-20 - 07:30:13 / ERROR
+#### ERROR al procesar la ref.3072 - 3656 (GIVING)
+#### ERROR al procesar la ref.3072 - MO7883 (MOB)
+#### ERROR al procesar la ref.3072 - 31129 (GGOYA)
+Ref: 3072 / Inicio: 2017-11-20 - 07:30:13 / Fin: 2017-11-20 - 07:30:13 / ERROR
+#### ERROR al procesar la ref.3076 - KC6753 (MOB)
+Ref: 3076 / Inicio: 2017-11-20 - 07:30:13 / Fin: 2017-11-20 - 07:30:13 / ERROR
+#### ERROR al procesar la ref.3085 - IT3791 (MOB)
+Ref: 3085 / Inicio: 2017-11-20 - 07:30:13 / Fin: 2017-11-20 - 07:30:13 / ERROR
+#### ERROR al procesar la ref.3086 - Z-799 (CIFRA)
+#### ERROR al procesar la ref.3086 - 31120 (GGOYA)
+Ref: 3086 / Inicio: 2017-11-20 - 07:30:13 / Fin: 2017-11-20 - 07:30:13 / ERROR
+#### ERROR al procesar la ref.3095 - A-439 (CIFRA)
+#### ERROR al procesar la ref.3095 - 2799 (GIVING)
+#### ERROR al procesar la ref.3095 - 91929 (PS)
+Ref: 3095 / Inicio: 2017-11-20 - 07:30:13 / Fin: 2017-11-20 - 07:30:13 / ERROR
+#### ERROR al procesar la ref.3102 - 4343 (GIVING)
+Ref: 3102 / Inicio: 2017-11-20 - 07:30:13 / Fin: 2017-11-20 - 07:30:13 / ERROR
+#### ERROR al procesar la ref.3103 - MO8332 (MOB)
+#### ERROR al procesar la ref.3103 - 11921803 (PF)
+#### ERROR al procesar la ref.3103 - 35561 (GGOYA)
+Ref: 3103 / Inicio: 2017-11-20 - 07:30:13 / Fin: 2017-11-20 - 07:30:13 / ERROR
+#### ERROR al procesar la ref.3104 - G-032 (CIFRA)
+#### ERROR al procesar la ref.3104 - KC5069 (MOB)
+Ref: 3104 / Inicio: 2017-11-20 - 07:30:13 / Fin: 2017-11-20 - 07:30:13 / ERROR
+#### ERROR al procesar la ref.3120 - 7489 (GIVING)
+#### ERROR al procesar la ref.3120 - KC6403 (MOB)
+#### ERROR al procesar la ref.3120 - 99418 (PS)
+Ref: 3120 / Inicio: 2017-11-20 - 07:30:13 / Fin: 2017-11-20 - 07:30:13 / ERROR
+#### ERROR al procesar la ref.3126 - MO7334 (MOB)
+Ref: 3126 / Inicio: 2017-11-20 - 07:30:13 / Fin: 2017-11-20 - 07:30:13 / ERROR
+#### ERROR al procesar la ref.3131 - 8123 (GIVING)
+#### ERROR al procesar la ref.3131 - KC5116 (MOB)
+Ref: 3131 / Inicio: 2017-11-20 - 07:30:13 / Fin: 2017-11-20 - 07:30:13 / ERROR
+#### ERROR al procesar la ref.3132 - 9001 (GIVING)
+Ref: 3132 / Inicio: 2017-11-20 - 07:30:13 / Fin: 2017-11-20 - 07:30:13 / ERROR
+#### ERROR al procesar la ref.3142 - A-351 (CIFRA)
+#### ERROR al procesar la ref.3142 - 9104 (GIVING)
+#### ERROR al procesar la ref.3142 - MO9036 (MOB)
+#### ERROR al procesar la ref.3142 - 93421 (PS)
+#### ERROR al procesar la ref.3142 - 10627000 (PF)
+Ref: 3142 / Inicio: 2017-11-20 - 07:30:13 / Fin: 2017-11-20 - 07:30:14 / ERROR
+#### ERROR al procesar la ref.3143 - KC4165 (MOB)
+Ref: 3143 / Inicio: 2017-11-20 - 07:30:14 / Fin: 2017-11-20 - 07:30:14 / ERROR
+#### ERROR al procesar la ref.3147 - A-012 (CIFRA)
+Ref: 3147 / Inicio: 2017-11-20 - 07:30:14 / Fin: 2017-11-20 - 07:30:14 / ERROR
+#### ERROR al procesar la ref.3157 - C-264 (CIFRA)
+#### ERROR al procesar la ref.3157 - 34009 (GGOYA)
+Ref: 3157 / Inicio: 2017-11-20 - 07:30:14 / Fin: 2017-11-20 - 07:30:14 / ERROR
+#### ERROR al procesar la ref.3165 - T-013 (CIFRA)
+#### ERROR al procesar la ref.3165 - 30078 (GGOYA)
+Ref: 3165 / Inicio: 2017-11-20 - 07:30:14 / Fin: 2017-11-20 - 07:30:14 / ERROR
+#### ERROR al procesar la ref.3167 - IT3826 (MOB)
+#### ERROR al procesar la ref.3167 - 92850 (PS)
+Ref: 3167 / Inicio: 2017-11-20 - 07:30:14 / Fin: 2017-11-20 - 07:30:14 / ERROR
+#### ERROR al procesar la ref.3173 - MO8649 (MOB)
+Ref: 3173 / Inicio: 2017-11-20 - 07:30:14 / Fin: 2017-11-20 - 07:30:14 / ERROR
+#### ERROR al procesar la ref.3176 - D-009 (CIFRA)
+Ref: 3176 / Inicio: 2017-11-20 - 07:30:14 / Fin: 2017-11-20 - 07:30:14 / ERROR
+#### ERROR al procesar la ref.3178 - G-176 (CIFRA)
+Ref: 3178 / Inicio: 2017-11-20 - 07:30:14 / Fin: 2017-11-20 - 07:30:14 / ERROR
+#### ERROR al procesar la ref.3186 - 4092 (GIVING)
+#### ERROR al procesar la ref.3186 - 10905202 (PF)
+Ref: 3186 / Inicio: 2017-11-20 - 07:30:14 / Fin: 2017-11-20 - 07:30:14 / ERROR
+#### ERROR al procesar la ref.3189 - 1124 (GIVING)
+#### ERROR al procesar la ref.3189 - 10037902 (PF)
+Ref: 3189 / Inicio: 2017-11-20 - 07:30:14 / Fin: 2017-11-20 - 07:30:14 / ERROR
+#### ERROR al procesar la ref.3191 - 10659302 (PF)
+Ref: 3191 / Inicio: 2017-11-20 - 07:30:14 / Fin: 2017-11-20 - 07:30:14 / ERROR
+#### ERROR al procesar la ref.3192 - 1651 (GIVING)
+#### ERROR al procesar la ref.3192 - IT3054 (MOB)
+#### ERROR al procesar la ref.3192 - 94845 (PS)
+Ref: 3192 / Inicio: 2017-11-20 - 07:30:14 / Fin: 2017-11-20 - 07:30:14 / ERROR
+#### ERROR al procesar la ref.3197 - MO7435 (MOB)
+#### ERROR al procesar la ref.3197 - 12345401 (PF)
+Ref: 3197 / Inicio: 2017-11-20 - 07:30:14 / Fin: 2017-11-20 - 07:30:14 / ERROR
+#### ERROR al procesar la ref.3200 - T-093 (CIFRA)
+#### ERROR al procesar la ref.3200 - MO8963 (MOB)
+#### ERROR al procesar la ref.3200 - 92499 (PS)
+#### ERROR al procesar la ref.3200 - 12018504 (PF)
+Ref: 3200 / Inicio: 2017-11-20 - 07:30:14 / Fin: 2017-11-20 - 07:30:14 / ERROR
+#### ERROR al procesar la ref.3201 - 1052 (GIVING)
+#### ERROR al procesar la ref.3201 - MO7818 (MOB)
+#### ERROR al procesar la ref.3201 - 91615 (PS)
+#### ERROR al procesar la ref.3201 - 10679000 (PF)
+Ref: 3201 / Inicio: 2017-11-20 - 07:30:14 / Fin: 2017-11-20 - 07:30:15 / ERROR
+#### ERROR al procesar la ref.3205 - 92040 (PS)
+Ref: 3205 / Inicio: 2017-11-20 - 07:30:15 / Fin: 2017-11-20 - 07:30:15 / ERROR
+#### ERROR al procesar la ref.3208 - G-075 (CIFRA)
+Ref: 3208 / Inicio: 2017-11-20 - 07:30:15 / Fin: 2017-11-20 - 07:30:15 / ERROR
+#### ERROR al procesar la ref.3209 - 29541 (GGOYA)
+Ref: 3209 / Inicio: 2017-11-20 - 07:30:15 / Fin: 2017-11-20 - 07:30:15 / ERROR
+#### ERROR al procesar la ref.3210 - 2314 (GIVING)
+#### ERROR al procesar la ref.3210 - IT1347 (MOB)
+#### ERROR al procesar la ref.3210 - 92902 (PS)
+#### ERROR al procesar la ref.3210 - 11941113 (PF)
+#### ERROR al procesar la ref.3210 - 32546 (GGOYA)
+Ref: 3210 / Inicio: 2017-11-20 - 07:30:15 / Fin: 2017-11-20 - 07:30:15 / ERROR
+#### ERROR al procesar la ref.3211 - 99800 (PS)
+Ref: 3211 / Inicio: 2017-11-20 - 07:30:15 / Fin: 2017-11-20 - 07:30:15 / ERROR
+#### ERROR al procesar la ref.3212 - 1745 (GIVING)
+Ref: 3212 / Inicio: 2017-11-20 - 07:30:15 / Fin: 2017-11-20 - 07:30:15 / ERROR
+#### ERROR al procesar la ref.3216 - KC7146 (MOB)
+Ref: 3216 / Inicio: 2017-11-20 - 07:30:15 / Fin: 2017-11-20 - 07:30:15 / ERROR
+#### ERROR al procesar la ref.3218 - 91310 (PS)
+Ref: 3218 / Inicio: 2017-11-20 - 07:30:15 / Fin: 2017-11-20 - 07:30:15 / ERROR
+#### ERROR al procesar la ref.3222 - C-003 (CIFRA)
+#### ERROR al procesar la ref.3222 - 9137 (GIVING)
+#### ERROR al procesar la ref.3222 - MO7421 (MOB)
+#### ERROR al procesar la ref.3222 - 99214 (PS)
+#### ERROR al procesar la ref.3222 - 10301004 (PF)
+Ref: 3222 / Inicio: 2017-11-20 - 07:30:15 / Fin: 2017-11-20 - 07:30:15 / ERROR
+#### ERROR al procesar la ref.3228 - 31067 (GGOYA)
+Ref: 3228 / Inicio: 2017-11-20 - 07:30:15 / Fin: 2017-11-20 - 07:30:15 / ERROR
+#### ERROR al procesar la ref.3243 - Z-849 (CIFRA)
+Ref: 3243 / Inicio: 2017-11-20 - 07:30:15 / Fin: 2017-11-20 - 07:30:15 / ERROR
+#### ERROR al procesar la ref.3244 - 92497 (PS)
+Ref: 3244 / Inicio: 2017-11-20 - 07:30:15 / Fin: 2017-11-20 - 07:30:15 / ERROR
+#### ERROR al procesar la ref.3246 - 30501 (GGOYA)
+Ref: 3246 / Inicio: 2017-11-20 - 07:30:15 / Fin: 2017-11-20 - 07:30:15 / ERROR
+#### ERROR al procesar la ref.3247 - Z-019 (CIFRA)
+Ref: 3247 / Inicio: 2017-11-20 - 07:30:15 / Fin: 2017-11-20 - 07:30:15 / ERROR
+#### ERROR al procesar la ref.3250 - G-168 (CIFRA)
+#### ERROR al procesar la ref.3250 - 19546698 (PF)
+Ref: 3250 / Inicio: 2017-11-20 - 07:30:15 / Fin: 2017-11-20 - 07:30:15 / ERROR
+#### ERROR al procesar la ref.3254 - IT1628 (MOB)
+Ref: 3254 / Inicio: 2017-11-20 - 07:30:15 / Fin: 2017-11-20 - 07:30:15 / ERROR
+#### ERROR al procesar la ref.3255 - C-333 (CIFRA)
+#### ERROR al procesar la ref.3255 - 30547 (GGOYA)
+Ref: 3255 / Inicio: 2017-11-20 - 07:30:15 / Fin: 2017-11-20 - 07:30:16 / ERROR
+#### ERROR al procesar la ref.3261 - MO8956 (MOB)
+Ref: 3261 / Inicio: 2017-11-20 - 07:30:16 / Fin: 2017-11-20 - 07:30:16 / ERROR
+#### ERROR al procesar la ref.3262 - 4787 (GIVING)
+Ref: 3262 / Inicio: 2017-11-20 - 07:30:16 / Fin: 2017-11-20 - 07:30:16 / ERROR
+#### ERROR al procesar la ref.3263 - 31658 (GGOYA)
+Ref: 3263 / Inicio: 2017-11-20 - 07:30:16 / Fin: 2017-11-20 - 07:30:16 / ERROR
+#### ERROR al procesar la ref.3264 - Z-216 (CIFRA)
+#### ERROR al procesar la ref.3264 - 98501 (PS)
+#### ERROR al procesar la ref.3264 - 10400700 (PF)
+Ref: 3264 / Inicio: 2017-11-20 - 07:30:16 / Fin: 2017-11-20 - 07:30:16 / ERROR
+#### ERROR al procesar la ref.3272 - Z-681 (CIFRA)
+#### ERROR al procesar la ref.3272 - 2880 (GIVING)
+#### ERROR al procesar la ref.3272 - MO8658 (MOB)
+#### ERROR al procesar la ref.3272 - 11209700 (PF)
+#### ERROR al procesar la ref.3272 - 28199 (GGOYA)
+Ref: 3272 / Inicio: 2017-11-20 - 07:30:16 / Fin: 2017-11-20 - 07:30:16 / ERROR
+#### ERROR al procesar la ref.3281 - 9114 (GIVING)
+Ref: 3281 / Inicio: 2017-11-20 - 07:30:16 / Fin: 2017-11-20 - 07:30:16 / ERROR
+#### ERROR al procesar la ref.3283 - B-235 (CIFRA)
+#### ERROR al procesar la ref.3283 - 94301 (PS)
+Ref: 3283 / Inicio: 2017-11-20 - 07:30:16 / Fin: 2017-11-20 - 07:30:16 / ERROR
+#### ERROR al procesar la ref.3284 - B-239 (CIFRA)
+#### ERROR al procesar la ref.3284 - 4490 (GIVING)
+#### ERROR al procesar la ref.3284 - 94311 (PS)
+Ref: 3284 / Inicio: 2017-11-20 - 07:30:16 / Fin: 2017-11-20 - 07:30:16 / ERROR
+#### ERROR al procesar la ref.3288 - 3802 (GIVING)
+#### ERROR al procesar la ref.3288 - 98119 (PS)
+Ref: 3288 / Inicio: 2017-11-20 - 07:30:16 / Fin: 2017-11-20 - 07:30:16 / ERROR
+#### ERROR al procesar la ref.3294 - 8121 (GIVING)
+#### ERROR al procesar la ref.3294 - MO7256 (MOB)
+Ref: 3294 / Inicio: 2017-11-20 - 07:30:16 / Fin: 2017-11-20 - 07:30:16 / ERROR
+#### ERROR al procesar la ref.3299 - 5619 (GIVING)
+#### ERROR al procesar la ref.3299 - IT2547 (MOB)
+#### ERROR al procesar la ref.3299 - 92993 (PS)
+#### ERROR al procesar la ref.3299 - 24054 (GGOYA)
+Ref: 3299 / Inicio: 2017-11-20 - 07:30:16 / Fin: 2017-11-20 - 07:30:16 / ERROR
+#### ERROR al procesar la ref.3301 - E-059 (CIFRA)
+Ref: 3301 / Inicio: 2017-11-20 - 07:30:16 / Fin: 2017-11-20 - 07:30:16 / ERROR
+#### ERROR al procesar la ref.3304 - MO8716 (MOB)
+Ref: 3304 / Inicio: 2017-11-20 - 07:30:16 / Fin: 2017-11-20 - 07:30:16 / ERROR
+#### ERROR al procesar la ref.3307 - T-092 (CIFRA)
+Ref: 3307 / Inicio: 2017-11-20 - 07:30:16 / Fin: 2017-11-20 - 07:30:16 / ERROR
+#### ERROR al procesar la ref.3311 - MO7214 (MOB)
+Ref: 3311 / Inicio: 2017-11-20 - 07:30:16 / Fin: 2017-11-20 - 07:30:16 / ERROR
+#### ERROR al procesar la ref.3312 - 3801 (GIVING)
+#### ERROR al procesar la ref.3312 - 19549543 (PF)
+Ref: 3312 / Inicio: 2017-11-20 - 07:30:16 / Fin: 2017-11-20 - 07:30:17 / ERROR
+#### ERROR al procesar la ref.3315 - 92352 (PS)
+Ref: 3315 / Inicio: 2017-11-20 - 07:30:17 / Fin: 2017-11-20 - 07:30:17 / ERROR
+#### ERROR al procesar la ref.3316 - 32049 (GGOYA)
+Ref: 3316 / Inicio: 2017-11-20 - 07:30:17 / Fin: 2017-11-20 - 07:30:17 / ERROR
+#### ERROR al procesar la ref.3321 - T-469 (CIFRA)
+#### ERROR al procesar la ref.3321 - 2315 (GIVING)
+#### ERROR al procesar la ref.3321 - KC3547 (MOB)
+#### ERROR al procesar la ref.3321 - 92415 (PS)
+Ref: 3321 / Inicio: 2017-11-20 - 07:30:17 / Fin: 2017-11-20 - 07:30:17 / ERROR
+#### ERROR al procesar la ref.3323 - T-018-CR (CIFRA)
+#### ERROR al procesar la ref.3323 - MO8337 (MOB)
+#### ERROR al procesar la ref.3323 - 12011300 (PF)
+#### ERROR al procesar la ref.3323 - 36025 (GGOYA)
+Ref: 3323 / Inicio: 2017-11-20 - 07:30:17 / Fin: 2017-11-20 - 07:30:17 / ERROR
+#### ERROR al procesar la ref.3325 - 29656 (GGOYA)
+Ref: 3325 / Inicio: 2017-11-20 - 07:30:17 / Fin: 2017-11-20 - 07:30:17 / ERROR
+#### ERROR al procesar la ref.3329 - 99456 (PS)
+#### ERROR al procesar la ref.3329 - 21451 (GGOYA)
+Ref: 3329 / Inicio: 2017-11-20 - 07:30:17 / Fin: 2017-11-20 - 07:30:17 / ERROR
+#### ERROR al procesar la ref.3330 - MO8655 (MOB)
+Ref: 3330 / Inicio: 2017-11-20 - 07:30:17 / Fin: 2017-11-20 - 07:30:17 / ERROR
+#### ERROR al procesar la ref.3336 - 92032 (PS)
+Ref: 3336 / Inicio: 2017-11-20 - 07:30:17 / Fin: 2017-11-20 - 07:30:17 / ERROR
+#### ERROR al procesar la ref.3337 - 6458 (GIVING)
+#### ERROR al procesar la ref.3337 - 93621 (PS)
+Ref: 3337 / Inicio: 2017-11-20 - 07:30:17 / Fin: 2017-11-20 - 07:30:17 / ERROR
+#### ERROR al procesar la ref.3338 - 3298 (GIVING)
+#### ERROR al procesar la ref.3338 - MO7323 (MOB)
+Ref: 3338 / Inicio: 2017-11-20 - 07:30:17 / Fin: 2017-11-20 - 07:30:17 / ERROR
+#### ERROR al procesar la ref.3340 - 31596 (GGOYA)
+Ref: 3340 / Inicio: 2017-11-20 - 07:30:17 / Fin: 2017-11-20 - 07:30:17 / ERROR
+#### ERROR al procesar la ref.3341 - 30557 (GGOYA)
+Ref: 3341 / Inicio: 2017-11-20 - 07:30:17 / Fin: 2017-11-20 - 07:30:17 / ERROR
+#### ERROR al procesar la ref.3342 - 99451 (PS)
+Ref: 3342 / Inicio: 2017-11-20 - 07:30:17 / Fin: 2017-11-20 - 07:30:17 / ERROR
+#### ERROR al procesar la ref.3356 - C-021-ESP (CIFRA)
+Ref: 3356 / Inicio: 2017-11-20 - 07:30:17 / Fin: 2017-11-20 - 07:30:17 / ERROR
+#### ERROR al procesar la ref.3358 - T-119 (CIFRA)
+Ref: 3358 / Inicio: 2017-11-20 - 07:30:17 / Fin: 2017-11-20 - 07:30:17 / ERROR
+#### ERROR al procesar la ref.3365 - G-033 (CIFRA)
+#### ERROR al procesar la ref.3365 - 6284 (GIVING)
+#### ERROR al procesar la ref.3365 - MO9003 (MOB)
+#### ERROR al procesar la ref.3365 - 12011902 (PF)
+Ref: 3365 / Inicio: 2017-11-20 - 07:30:17 / Fin: 2017-11-20 - 07:30:17 / ERROR
+#### ERROR al procesar la ref.3373 - RP-067 (CIFRA)
+Ref: 3373 / Inicio: 2017-11-20 - 07:30:17 / Fin: 2017-11-20 - 07:30:18 / ERROR
+#### ERROR al procesar la ref.3374 - B-625 (CIFRA)
+#### ERROR al procesar la ref.3374 - MO9044 (MOB)
+Ref: 3374 / Inicio: 2017-11-20 - 07:30:18 / Fin: 2017-11-20 - 07:30:18 / ERROR
+#### ERROR al procesar la ref.3375 - G-055 (CIFRA)
+Ref: 3375 / Inicio: 2017-11-20 - 07:30:18 / Fin: 2017-11-20 - 07:30:18 / ERROR
+#### ERROR al procesar la ref.3378 - 1743 (GIVING)
+#### ERROR al procesar la ref.3378 - 99017 (PS)
+Ref: 3378 / Inicio: 2017-11-20 - 07:30:18 / Fin: 2017-11-20 - 07:30:18 / ERROR
+#### ERROR al procesar la ref.3380 - 31030 (GGOYA)
+Ref: 3380 / Inicio: 2017-11-20 - 07:30:18 / Fin: 2017-11-20 - 07:30:18 / ERROR
+#### ERROR al procesar la ref.3382 - 2631 (GIVING)
+#### ERROR al procesar la ref.3382 - KC6388 (MOB)
+Ref: 3382 / Inicio: 2017-11-20 - 07:30:18 / Fin: 2017-11-20 - 07:30:18 / ERROR
+#### ERROR al procesar la ref.3384 - 7552 (GIVING)
+#### ERROR al procesar la ref.3384 - 94601 (PS)
+#### ERROR al procesar la ref.3384 - 10000209 (PF)
+#### ERROR al procesar la ref.3384 - 31028 (GGOYA)
+Ref: 3384 / Inicio: 2017-11-20 - 07:30:18 / Fin: 2017-11-20 - 07:30:18 / ERROR
+#### ERROR al procesar la ref.3386 - 2545 (GIVING)
+#### ERROR al procesar la ref.3386 - 91756 (PS)
+#### ERROR al procesar la ref.3386 - 10616700 (PF)
+Ref: 3386 / Inicio: 2017-11-20 - 07:30:18 / Fin: 2017-11-20 - 07:30:18 / ERROR
+#### ERROR al procesar la ref.3389 - 10612200 (PF)
+#### ERROR al procesar la ref.3389 - 35665 (GGOYA)
+Ref: 3389 / Inicio: 2017-11-20 - 07:30:18 / Fin: 2017-11-20 - 07:30:18 / ERROR
+#### ERROR al procesar la ref.3390 - A-339 (CIFRA)
+#### ERROR al procesar la ref.3390 - 2691 (GIVING)
+#### ERROR al procesar la ref.3390 - 31068 (GGOYA)
+Ref: 3390 / Inicio: 2017-11-20 - 07:30:18 / Fin: 2017-11-20 - 07:30:18 / ERROR
+#### ERROR al procesar la ref.3403 - A-366 (CIFRA)
+#### ERROR al procesar la ref.3403 - 94115 (PS)
+#### ERROR al procesar la ref.3403 - 11260804 (PF)
+Ref: 3403 / Inicio: 2017-11-20 - 07:30:18 / Fin: 2017-11-20 - 07:30:18 / ERROR
+#### ERROR al procesar la ref.3404 - 4807 (GIVING)
+Ref: 3404 / Inicio: 2017-11-20 - 07:30:18 / Fin: 2017-11-20 - 07:30:18 / ERROR
+#### ERROR al procesar la ref.3406 - 10418201 (PF)
+Ref: 3406 / Inicio: 2017-11-20 - 07:30:18 / Fin: 2017-11-20 - 07:30:18 / ERROR
+#### ERROR al procesar la ref.3407 - 98182 (PS)
+Ref: 3407 / Inicio: 2017-11-20 - 07:30:18 / Fin: 2017-11-20 - 07:30:18 / ERROR
+#### ERROR al procesar la ref.3410 - P-125 (CIFRA)
+#### ERROR al procesar la ref.3410 - 8766 (GIVING)
+#### ERROR al procesar la ref.3410 - KC2225 (MOB)
+#### ERROR al procesar la ref.3410 - 10220100 (PF)
+#### ERROR al procesar la ref.3410 - 33034 (GGOYA)
+Ref: 3410 / Inicio: 2017-11-20 - 07:30:18 / Fin: 2017-11-20 - 07:30:19 / ERROR
+#### ERROR al procesar la ref.3415 - MO7623 (MOB)
+Ref: 3415 / Inicio: 2017-11-20 - 07:30:19 / Fin: 2017-11-20 - 07:30:19 / ERROR
+#### ERROR al procesar la ref.3418 - MO8132 (MOB)
+Ref: 3418 / Inicio: 2017-11-20 - 07:30:19 / Fin: 2017-11-20 - 07:30:19 / ERROR
+#### ERROR al procesar la ref.3421 - CX1281 (MOB)
+Ref: 3421 / Inicio: 2017-11-20 - 07:30:19 / Fin: 2017-11-20 - 07:30:19 / ERROR
+#### ERROR al procesar la ref.3423 - 5077 (GIVING)
+#### ERROR al procesar la ref.3423 - IT2660 (MOB)
+#### ERROR al procesar la ref.3423 - 94353 (PS)
+Ref: 3423 / Inicio: 2017-11-20 - 07:30:19 / Fin: 2017-11-20 - 07:30:19 / ERROR
+#### ERROR al procesar la ref.3425 - D-002 (CIFRA)
+Ref: 3425 / Inicio: 2017-11-20 - 07:30:19 / Fin: 2017-11-20 - 07:30:19 / ERROR
+#### ERROR al procesar la ref.3429 - G-341 (CIFRA)
+#### ERROR al procesar la ref.3429 - 6447 (GIVING)
+#### ERROR al procesar la ref.3429 - IT2558 (MOB)
+Ref: 3429 / Inicio: 2017-11-20 - 07:30:19 / Fin: 2017-11-20 - 07:30:19 / ERROR
+#### ERROR al procesar la ref.3450 - 7238 (GIVING)
+#### ERROR al procesar la ref.3450 - 94016 (PS)
+#### ERROR al procesar la ref.3450 - 10409900 (PF)
+Ref: 3450 / Inicio: 2017-11-20 - 07:30:19 / Fin: 2017-11-20 - 07:30:19 / ERROR
+#### ERROR al procesar la ref.3451 - 7112 (GIVING)
+#### ERROR al procesar la ref.3451 - KC2115 (MOB)
+#### ERROR al procesar la ref.3451 - 94147 (PS)
+Ref: 3451 / Inicio: 2017-11-20 - 07:30:19 / Fin: 2017-11-20 - 07:30:19 / ERROR
+#### ERROR al procesar la ref.3467 - 7624 (GIVING)
+#### ERROR al procesar la ref.3467 - KC3996 (MOB)
+Ref: 3467 / Inicio: 2017-11-20 - 07:30:19 / Fin: 2017-11-20 - 07:30:19 / ERROR
+#### ERROR al procesar la ref.3477 - 6157 (GIVING)
+#### ERROR al procesar la ref.3477 - 11970603 (PF)
+#### ERROR al procesar la ref.3477 - 30586 (GGOYA)
+Ref: 3477 / Inicio: 2017-11-20 - 07:30:19 / Fin: 2017-11-20 - 07:30:19 / ERROR
+#### ERROR al procesar la ref.3478 - 3620 (GIVING)
+#### ERROR al procesar la ref.3478 - MO8145 (MOB)
+Ref: 3478 / Inicio: 2017-11-20 - 07:30:19 / Fin: 2017-11-20 - 07:30:19 / ERROR
+#### ERROR al procesar la ref.3503 - 9504 (GIVING)
+#### ERROR al procesar la ref.3503 - IT0972 (MOB)
+#### ERROR al procesar la ref.3503 - 99213 (PS)
+#### ERROR al procesar la ref.3503 - 10042902 (PF)
+Ref: 3503 / Inicio: 2017-11-20 - 07:30:19 / Fin: 2017-11-20 - 07:30:19 / ERROR
+#### ERROR al procesar la ref.3509 - Z-796 (CIFRA)
+Ref: 3509 / Inicio: 2017-11-20 - 07:30:19 / Fin: 2017-11-20 - 07:30:19 / ERROR
+#### ERROR al procesar la ref.3519 - C-267 (CIFRA)
+Ref: 3519 / Inicio: 2017-11-20 - 07:30:19 / Fin: 2017-11-20 - 07:30:20 / ERROR
+#### ERROR al procesar la ref.3523 - 3398 (GIVING)
+#### ERROR al procesar la ref.3523 - KC6217 (MOB)
+#### ERROR al procesar la ref.3523 - 91247 (PS)
+#### ERROR al procesar la ref.3523 - 23140 (GGOYA)
+Ref: 3523 / Inicio: 2017-11-20 - 07:30:20 / Fin: 2017-11-20 - 07:30:20 / ERROR
+#### ERROR al procesar la ref.3527 - 10678101 (PF)
+Ref: 3527 / Inicio: 2017-11-20 - 07:30:20 / Fin: 2017-11-20 - 07:30:20 / ERROR
+#### ERROR al procesar la ref.3529 - 3993 (GIVING)
+#### ERROR al procesar la ref.3529 - 91378 (PS)
+Ref: 3529 / Inicio: 2017-11-20 - 07:30:20 / Fin: 2017-11-20 - 07:30:20 / ERROR
+#### ERROR al procesar la ref.3537 - MO7520 (MOB)
+Ref: 3537 / Inicio: 2017-11-20 - 07:30:20 / Fin: 2017-11-20 - 07:30:20 / ERROR
+#### ERROR al procesar la ref.3564 - IT3780 (MOB)
+Ref: 3564 / Inicio: 2017-11-20 - 07:30:20 / Fin: 2017-11-20 - 07:30:20 / ERROR
+#### ERROR al procesar la ref.3572 - E-018 (CIFRA)
+Ref: 3572 / Inicio: 2017-11-20 - 07:30:20 / Fin: 2017-11-20 - 07:30:20 / ERROR
+#### ERROR al procesar la ref.3574 - 32000 (GGOYA)
+Ref: 3574 / Inicio: 2017-11-20 - 07:30:20 / Fin: 2017-11-20 - 07:30:20 / ERROR
+
+***************************************************************************
+CONSULTA DE STOCK DE ARTÍCULOS CON FRECUENCIA SEMANAL:
+Proceso finalizado el 2017-11-20, a las 07:30:20

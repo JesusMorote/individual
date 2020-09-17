@@ -1,0 +1,1 @@
+start http://localhost/scrapstock/inc/consulta_stock_frec_diaria.php

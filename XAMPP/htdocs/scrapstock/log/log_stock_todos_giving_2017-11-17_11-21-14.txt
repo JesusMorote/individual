@@ -1,0 +1,27 @@
+CONSULTA DE STOCK DE TODOS LOS ARTÍCULOS DE GIVING:
+Proceso iniciado el 2017-11-17, a las 11:21:14
+***************************************************************************
+
+#### ERROR al procesar la ref.7094 - 7094 (GIVING)
+Ref: 7094 / Inicio: 2017-11-17 - 11:21:14 / Fin: 2017-11-17 - 11:21:37 / ERROR
+Ref: 7235 / Inicio: 2017-11-17 - 11:21:37 / Fin: 2017-11-17 - 11:21:40 / OK
+#### ERROR al procesar la ref.7400 - 7400 (GIVING)
+Ref: 7400 / Inicio: 2017-11-17 - 11:21:40 / Fin: 2017-11-17 - 11:22:09 / ERROR
+Ref: 7529 / Inicio: 2017-11-17 - 11:22:09 / Fin: 2017-11-17 - 11:22:32 / OK
+
+***************************************************************************
+CONSULTA DE STOCK DE TODOS LOS ARTÍCULOS DE GIVING:
+Proceso finalizado el 2017-11-17, a las 11:22:32
+
+CONSULTA DE STOCK DE TODOS LOS ARTÍCULOS DE GIVING:
+Referencias de las que no se ha podido obtener stock de competidores por Errores de Proceso
+Resultados del Segundo Intento
+Proceso iniciado el 2017-11-17, a las 11:22:32
+***************************************************************************
+
+#### ERROR al procesar la ref.7400 - 7400 (GIVING)
+Ref: 7400 / Inicio: 2017-11-17 - 11:22:32 / Fin: 2017-11-17 - 11:22:55 / ERROR
+
+***************************************************************************
+CONSULTA DE STOCK DE TODOS LOS ARTÍCULOS DE GIVING:
+Proceso finalizado el 2017-11-17, a las 11:22:55

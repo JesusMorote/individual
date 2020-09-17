@@ -1,0 +1,6 @@
+CONSULTA DE STOCK DE TODOS LOS ARTÍCULOS DE GIVING:
+Proceso iniciado el 2017-11-23, a las 11:28:31
+***************************************************************************
+
+#### ERROR al procesar la ref.5339 - 5339 (GIVING)
+Ref: 5339 / Inicio: 2017-11-23 - 11:28:31 / Fin: 2017-11-23 - 11:28:54 / ERROR

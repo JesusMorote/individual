@@ -1,0 +1,795 @@
+CONSULTA DE STOCK DE TODOS LOS ARTÍCULOS DE CIFRA:
+Proceso iniciado el 2017-11-11, a las 10:30:00
+***************************************************************************
+
+#### ERROR al procesar la ref.PD-3 - PD-3 (CIFRA)
+Ref: PD-3 / Inicio: 2017-11-11 - 10:30:00 / Fin: 2017-11-11 - 10:30:00 / ERROR
+#### ERROR al procesar la ref.PD-40 - PD-40 (CIFRA)
+Ref: PD-40 / Inicio: 2017-11-11 - 10:30:00 / Fin: 2017-11-11 - 10:30:00 / ERROR
+#### ERROR al procesar la ref.RP-001 - RP-001 (CIFRA)
+Ref: RP-001 / Inicio: 2017-11-11 - 10:30:00 / Fin: 2017-11-11 - 10:30:00 / ERROR
+#### ERROR al procesar la ref.RP-031 - RP-031 (CIFRA)
+Ref: RP-031 / Inicio: 2017-11-11 - 10:30:00 / Fin: 2017-11-11 - 10:30:00 / ERROR
+#### ERROR al procesar la ref.RP-036 - RP-036 (CIFRA)
+Ref: RP-036 / Inicio: 2017-11-11 - 10:30:00 / Fin: 2017-11-11 - 10:30:00 / ERROR
+#### ERROR al procesar la ref.RP-038 - RP-038 (CIFRA)
+Ref: RP-038 / Inicio: 2017-11-11 - 10:30:00 / Fin: 2017-11-11 - 10:30:00 / ERROR
+#### ERROR al procesar la ref.RP-039 - RP-039 (CIFRA)
+Ref: RP-039 / Inicio: 2017-11-11 - 10:30:00 / Fin: 2017-11-11 - 10:30:00 / ERROR
+#### ERROR al procesar la ref.RP-063 - RP-063 (CIFRA)
+Ref: RP-063 / Inicio: 2017-11-11 - 10:30:00 / Fin: 2017-11-11 - 10:30:01 / ERROR
+#### ERROR al procesar la ref.RP-064 - RP-064 (CIFRA)
+Ref: RP-064 / Inicio: 2017-11-11 - 10:30:01 / Fin: 2017-11-11 - 10:30:01 / ERROR
+#### ERROR al procesar la ref.RP-066 - RP-066 (CIFRA)
+Ref: RP-066 / Inicio: 2017-11-11 - 10:30:01 / Fin: 2017-11-11 - 10:30:01 / ERROR
+#### ERROR al procesar la ref.RP-067 - RP-067 (CIFRA)
+Ref: RP-067 / Inicio: 2017-11-11 - 10:30:01 / Fin: 2017-11-11 - 10:30:01 / ERROR
+#### ERROR al procesar la ref.S-003 - S-003 (CIFRA)
+Ref: S-003 / Inicio: 2017-11-11 - 10:30:01 / Fin: 2017-11-11 - 10:30:01 / ERROR
+#### ERROR al procesar la ref.S-004 - S-004 (CIFRA)
+Ref: S-004 / Inicio: 2017-11-11 - 10:30:01 / Fin: 2017-11-11 - 10:30:01 / ERROR
+#### ERROR al procesar la ref.S-009 - S-009 (CIFRA)
+Ref: S-009 / Inicio: 2017-11-11 - 10:30:01 / Fin: 2017-11-11 - 10:30:01 / ERROR
+#### ERROR al procesar la ref.S-014 - S-014 (CIFRA)
+Ref: S-014 / Inicio: 2017-11-11 - 10:30:01 / Fin: 2017-11-11 - 10:30:01 / ERROR
+#### ERROR al procesar la ref.S-015 - S-015 (CIFRA)
+Ref: S-015 / Inicio: 2017-11-11 - 10:30:01 / Fin: 2017-11-11 - 10:30:01 / ERROR
+#### ERROR al procesar la ref.S-016 - S-016 (CIFRA)
+Ref: S-016 / Inicio: 2017-11-11 - 10:30:01 / Fin: 2017-11-11 - 10:30:01 / ERROR
+#### ERROR al procesar la ref.S-017 - S-017 (CIFRA)
+Ref: S-017 / Inicio: 2017-11-11 - 10:30:01 / Fin: 2017-11-11 - 10:30:01 / ERROR
+#### ERROR al procesar la ref.S-018 - S-018 (CIFRA)
+Ref: S-018 / Inicio: 2017-11-11 - 10:30:01 / Fin: 2017-11-11 - 10:30:01 / ERROR
+#### ERROR al procesar la ref.S-019 - S-019 (CIFRA)
+Ref: S-019 / Inicio: 2017-11-11 - 10:30:01 / Fin: 2017-11-11 - 10:30:01 / ERROR
+#### ERROR al procesar la ref.S-020 - S-020 (CIFRA)
+Ref: S-020 / Inicio: 2017-11-11 - 10:30:01 / Fin: 2017-11-11 - 10:30:01 / ERROR
+#### ERROR al procesar la ref.S-022 - S-022 (CIFRA)
+Ref: S-022 / Inicio: 2017-11-11 - 10:30:01 / Fin: 2017-11-11 - 10:30:01 / ERROR
+#### ERROR al procesar la ref.S-023 - S-023 (CIFRA)
+Ref: S-023 / Inicio: 2017-11-11 - 10:30:01 / Fin: 2017-11-11 - 10:30:01 / ERROR
+#### ERROR al procesar la ref.T-007 - T-007 (CIFRA)
+Ref: T-007 / Inicio: 2017-11-11 - 10:30:01 / Fin: 2017-11-11 - 10:30:01 / ERROR
+#### ERROR al procesar la ref.T-010 - T-010 (CIFRA)
+Ref: T-010 / Inicio: 2017-11-11 - 10:30:01 / Fin: 2017-11-11 - 10:30:01 / ERROR
+#### ERROR al procesar la ref.T-013 - T-013 (CIFRA)
+Ref: T-013 / Inicio: 2017-11-11 - 10:30:01 / Fin: 2017-11-11 - 10:30:01 / ERROR
+#### ERROR al procesar la ref.T-018 - T-018 (CIFRA)
+Ref: T-018 / Inicio: 2017-11-11 - 10:30:01 / Fin: 2017-11-11 - 10:30:01 / ERROR
+#### ERROR al procesar la ref.T-019 - T-019 (CIFRA)
+Ref: T-019 / Inicio: 2017-11-11 - 10:30:01 / Fin: 2017-11-11 - 10:30:01 / ERROR
+#### ERROR al procesar la ref.T-026 - T-026 (CIFRA)
+Ref: T-026 / Inicio: 2017-11-11 - 10:30:01 / Fin: 2017-11-11 - 10:30:01 / ERROR
+#### ERROR al procesar la ref.T-048 - T-048 (CIFRA)
+Ref: T-048 / Inicio: 2017-11-11 - 10:30:01 / Fin: 2017-11-11 - 10:30:01 / ERROR
+#### ERROR al procesar la ref.T-049 - T-049 (CIFRA)
+Ref: T-049 / Inicio: 2017-11-11 - 10:30:01 / Fin: 2017-11-11 - 10:30:01 / ERROR
+#### ERROR al procesar la ref.T-067 - T-067 (CIFRA)
+Ref: T-067 / Inicio: 2017-11-11 - 10:30:01 / Fin: 2017-11-11 - 10:30:01 / ERROR
+#### ERROR al procesar la ref.T-069 - T-069 (CIFRA)
+Ref: T-069 / Inicio: 2017-11-11 - 10:30:01 / Fin: 2017-11-11 - 10:30:01 / ERROR
+#### ERROR al procesar la ref.T-077 - T-077 (CIFRA)
+Ref: T-077 / Inicio: 2017-11-11 - 10:30:01 / Fin: 2017-11-11 - 10:30:01 / ERROR
+#### ERROR al procesar la ref.T-079 - T-079 (CIFRA)
+Ref: T-079 / Inicio: 2017-11-11 - 10:30:01 / Fin: 2017-11-11 - 10:30:01 / ERROR
+#### ERROR al procesar la ref.T-081 - T-081 (CIFRA)
+Ref: T-081 / Inicio: 2017-11-11 - 10:30:01 / Fin: 2017-11-11 - 10:30:01 / ERROR
+#### ERROR al procesar la ref.T-084 - T-084 (CIFRA)
+Ref: T-084 / Inicio: 2017-11-11 - 10:30:01 / Fin: 2017-11-11 - 10:30:01 / ERROR
+#### ERROR al procesar la ref.T-085 - T-085 (CIFRA)
+Ref: T-085 / Inicio: 2017-11-11 - 10:30:01 / Fin: 2017-11-11 - 10:30:01 / ERROR
+#### ERROR al procesar la ref.T-086 - T-086 (CIFRA)
+Ref: T-086 / Inicio: 2017-11-11 - 10:30:01 / Fin: 2017-11-11 - 10:30:01 / ERROR
+#### ERROR al procesar la ref.T-089 - T-089 (CIFRA)
+Ref: T-089 / Inicio: 2017-11-11 - 10:30:01 / Fin: 2017-11-11 - 10:30:01 / ERROR
+#### ERROR al procesar la ref.T-092 - T-092 (CIFRA)
+Ref: T-092 / Inicio: 2017-11-11 - 10:30:01 / Fin: 2017-11-11 - 10:30:01 / ERROR
+#### ERROR al procesar la ref.T-093 - T-093 (CIFRA)
+Ref: T-093 / Inicio: 2017-11-11 - 10:30:01 / Fin: 2017-11-11 - 10:30:02 / ERROR
+#### ERROR al procesar la ref.T-094 - T-094 (CIFRA)
+Ref: T-094 / Inicio: 2017-11-11 - 10:30:02 / Fin: 2017-11-11 - 10:30:02 / ERROR
+#### ERROR al procesar la ref.T-097 - T-097 (CIFRA)
+Ref: T-097 / Inicio: 2017-11-11 - 10:30:02 / Fin: 2017-11-11 - 10:30:02 / ERROR
+#### ERROR al procesar la ref.T-098 - T-098 (CIFRA)
+Ref: T-098 / Inicio: 2017-11-11 - 10:30:02 / Fin: 2017-11-11 - 10:30:02 / ERROR
+#### ERROR al procesar la ref.T-099 - T-099 (CIFRA)
+Ref: T-099 / Inicio: 2017-11-11 - 10:30:02 / Fin: 2017-11-11 - 10:30:02 / ERROR
+#### ERROR al procesar la ref.T-100 - T-100 (CIFRA)
+Ref: T-100 / Inicio: 2017-11-11 - 10:30:02 / Fin: 2017-11-11 - 10:30:02 / ERROR
+#### ERROR al procesar la ref.T-102 - T-102 (CIFRA)
+Ref: T-102 / Inicio: 2017-11-11 - 10:30:02 / Fin: 2017-11-11 - 10:30:02 / ERROR
+#### ERROR al procesar la ref.T-1020 - T-1020 (CIFRA)
+Ref: T-1020 / Inicio: 2017-11-11 - 10:30:02 / Fin: 2017-11-11 - 10:30:02 / ERROR
+#### ERROR al procesar la ref.T-103 - T-103 (CIFRA)
+Ref: T-103 / Inicio: 2017-11-11 - 10:30:02 / Fin: 2017-11-11 - 10:30:02 / ERROR
+#### ERROR al procesar la ref.T-1030 - T-1030 (CIFRA)
+Ref: T-1030 / Inicio: 2017-11-11 - 10:30:02 / Fin: 2017-11-11 - 10:30:02 / ERROR
+#### ERROR al procesar la ref.T-1040 - T-1040 (CIFRA)
+Ref: T-1040 / Inicio: 2017-11-11 - 10:30:02 / Fin: 2017-11-11 - 10:30:02 / ERROR
+#### ERROR al procesar la ref.T-1041 - T-1041 (CIFRA)
+Ref: T-1041 / Inicio: 2017-11-11 - 10:30:02 / Fin: 2017-11-11 - 10:30:02 / ERROR
+#### ERROR al procesar la ref.T-1043 - T-1043 (CIFRA)
+Ref: T-1043 / Inicio: 2017-11-11 - 10:30:02 / Fin: 2017-11-11 - 10:30:02 / ERROR
+#### ERROR al procesar la ref.T-1050 - T-1050 (CIFRA)
+Ref: T-1050 / Inicio: 2017-11-11 - 10:30:02 / Fin: 2017-11-11 - 10:30:02 / ERROR
+#### ERROR al procesar la ref.T-1060 - T-1060 (CIFRA)
+Ref: T-1060 / Inicio: 2017-11-11 - 10:30:02 / Fin: 2017-11-11 - 10:30:02 / ERROR
+#### ERROR al procesar la ref.T-1070 - T-1070 (CIFRA)
+Ref: T-1070 / Inicio: 2017-11-11 - 10:30:02 / Fin: 2017-11-11 - 10:30:02 / ERROR
+#### ERROR al procesar la ref.T-1080 - T-1080 (CIFRA)
+Ref: T-1080 / Inicio: 2017-11-11 - 10:30:02 / Fin: 2017-11-11 - 10:30:02 / ERROR
+#### ERROR al procesar la ref.T-1090 - T-1090 (CIFRA)
+Ref: T-1090 / Inicio: 2017-11-11 - 10:30:02 / Fin: 2017-11-11 - 10:30:02 / ERROR
+#### ERROR al procesar la ref.T-1094 - T-1094 (CIFRA)
+Ref: T-1094 / Inicio: 2017-11-11 - 10:30:02 / Fin: 2017-11-11 - 10:30:02 / ERROR
+#### ERROR al procesar la ref.T-1100 - T-1100 (CIFRA)
+Ref: T-1100 / Inicio: 2017-11-11 - 10:30:02 / Fin: 2017-11-11 - 10:30:02 / ERROR
+#### ERROR al procesar la ref.T-119 - T-119 (CIFRA)
+Ref: T-119 / Inicio: 2017-11-11 - 10:30:02 / Fin: 2017-11-11 - 10:30:02 / ERROR
+#### ERROR al procesar la ref.T-1201 - T-1201 (CIFRA)
+Ref: T-1201 / Inicio: 2017-11-11 - 10:30:02 / Fin: 2017-11-11 - 10:30:02 / ERROR
+#### ERROR al procesar la ref.T-1205 - T-1205 (CIFRA)
+Ref: T-1205 / Inicio: 2017-11-11 - 10:30:02 / Fin: 2017-11-11 - 10:30:02 / ERROR
+#### ERROR al procesar la ref.T-1206 - T-1206 (CIFRA)
+Ref: T-1206 / Inicio: 2017-11-11 - 10:30:02 / Fin: 2017-11-11 - 10:30:02 / ERROR
+#### ERROR al procesar la ref.T-122 - T-122 (CIFRA)
+Ref: T-122 / Inicio: 2017-11-11 - 10:30:02 / Fin: 2017-11-11 - 10:30:02 / ERROR
+#### ERROR al procesar la ref.T-131 - T-131 (CIFRA)
+Ref: T-131 / Inicio: 2017-11-11 - 10:30:02 / Fin: 2017-11-11 - 10:30:02 / ERROR
+#### ERROR al procesar la ref.T-132 - T-132 (CIFRA)
+Ref: T-132 / Inicio: 2017-11-11 - 10:30:02 / Fin: 2017-11-11 - 10:30:02 / ERROR
+#### ERROR al procesar la ref.T-145 - T-145 (CIFRA)
+Ref: T-145 / Inicio: 2017-11-11 - 10:30:02 / Fin: 2017-11-11 - 10:30:02 / ERROR
+#### ERROR al procesar la ref.T-148 - T-148 (CIFRA)
+Ref: T-148 / Inicio: 2017-11-11 - 10:30:02 / Fin: 2017-11-11 - 10:30:02 / ERROR
+#### ERROR al procesar la ref.T-149 - T-149 (CIFRA)
+Ref: T-149 / Inicio: 2017-11-11 - 10:30:02 / Fin: 2017-11-11 - 10:30:02 / ERROR
+#### ERROR al procesar la ref.T-150 - T-150 (CIFRA)
+Ref: T-150 / Inicio: 2017-11-11 - 10:30:02 / Fin: 2017-11-11 - 10:30:02 / ERROR
+#### ERROR al procesar la ref.T-151 - T-151 (CIFRA)
+Ref: T-151 / Inicio: 2017-11-11 - 10:30:02 / Fin: 2017-11-11 - 10:30:02 / ERROR
+#### ERROR al procesar la ref.T-1510 - T-1510 (CIFRA)
+Ref: T-1510 / Inicio: 2017-11-11 - 10:30:02 / Fin: 2017-11-11 - 10:30:03 / ERROR
+#### ERROR al procesar la ref.T-1520 - T-1520 (CIFRA)
+Ref: T-1520 / Inicio: 2017-11-11 - 10:30:03 / Fin: 2017-11-11 - 10:30:03 / ERROR
+#### ERROR al procesar la ref.T-1550 - T-1550 (CIFRA)
+Ref: T-1550 / Inicio: 2017-11-11 - 10:30:03 / Fin: 2017-11-11 - 10:30:03 / ERROR
+#### ERROR al procesar la ref.T-1555-L - T-1555-L (CIFRA)
+Ref: T-1555-L / Inicio: 2017-11-11 - 10:30:03 / Fin: 2017-11-11 - 10:30:03 / ERROR
+#### ERROR al procesar la ref.T-156 - T-156 (CIFRA)
+Ref: T-156 / Inicio: 2017-11-11 - 10:30:03 / Fin: 2017-11-11 - 10:30:03 / ERROR
+#### ERROR al procesar la ref.T-1570 - T-1570 (CIFRA)
+Ref: T-1570 / Inicio: 2017-11-11 - 10:30:03 / Fin: 2017-11-11 - 10:30:03 / ERROR
+#### ERROR al procesar la ref.T-158 - T-158 (CIFRA)
+Ref: T-158 / Inicio: 2017-11-11 - 10:30:03 / Fin: 2017-11-11 - 10:30:03 / ERROR
+#### ERROR al procesar la ref.T-159 - T-159 (CIFRA)
+Ref: T-159 / Inicio: 2017-11-11 - 10:30:03 / Fin: 2017-11-11 - 10:30:03 / ERROR
+#### ERROR al procesar la ref.T-160 - T-160 (CIFRA)
+Ref: T-160 / Inicio: 2017-11-11 - 10:30:03 / Fin: 2017-11-11 - 10:30:03 / ERROR
+#### ERROR al procesar la ref.T-161 - T-161 (CIFRA)
+Ref: T-161 / Inicio: 2017-11-11 - 10:30:03 / Fin: 2017-11-11 - 10:30:03 / ERROR
+#### ERROR al procesar la ref.T-162 - T-162 (CIFRA)
+Ref: T-162 / Inicio: 2017-11-11 - 10:30:03 / Fin: 2017-11-11 - 10:30:03 / ERROR
+#### ERROR al procesar la ref.T-163 - T-163 (CIFRA)
+Ref: T-163 / Inicio: 2017-11-11 - 10:30:03 / Fin: 2017-11-11 - 10:30:03 / ERROR
+#### ERROR al procesar la ref.T-164 - T-164 (CIFRA)
+Ref: T-164 / Inicio: 2017-11-11 - 10:30:03 / Fin: 2017-11-11 - 10:30:03 / ERROR
+#### ERROR al procesar la ref.T-165 - T-165 (CIFRA)
+Ref: T-165 / Inicio: 2017-11-11 - 10:30:03 / Fin: 2017-11-11 - 10:30:03 / ERROR
+#### ERROR al procesar la ref.T-166 - T-166 (CIFRA)
+Ref: T-166 / Inicio: 2017-11-11 - 10:30:03 / Fin: 2017-11-11 - 10:30:03 / ERROR
+#### ERROR al procesar la ref.T-167 - T-167 (CIFRA)
+Ref: T-167 / Inicio: 2017-11-11 - 10:30:03 / Fin: 2017-11-11 - 10:30:03 / ERROR
+#### ERROR al procesar la ref.T-168 - T-168 (CIFRA)
+Ref: T-168 / Inicio: 2017-11-11 - 10:30:03 / Fin: 2017-11-11 - 10:30:03 / ERROR
+#### ERROR al procesar la ref.T-169 - T-169 (CIFRA)
+Ref: T-169 / Inicio: 2017-11-11 - 10:30:03 / Fin: 2017-11-11 - 10:30:03 / ERROR
+#### ERROR al procesar la ref.T-171 - T-171 (CIFRA)
+Ref: T-171 / Inicio: 2017-11-11 - 10:30:03 / Fin: 2017-11-11 - 10:30:03 / ERROR
+#### ERROR al procesar la ref.T-172 - T-172 (CIFRA)
+Ref: T-172 / Inicio: 2017-11-11 - 10:30:03 / Fin: 2017-11-11 - 10:30:03 / ERROR
+#### ERROR al procesar la ref.T-173 - T-173 (CIFRA)
+Ref: T-173 / Inicio: 2017-11-11 - 10:30:03 / Fin: 2017-11-11 - 10:30:03 / ERROR
+#### ERROR al procesar la ref.T-174 - T-174 (CIFRA)
+Ref: T-174 / Inicio: 2017-11-11 - 10:30:03 / Fin: 2017-11-11 - 10:30:03 / ERROR
+#### ERROR al procesar la ref.T-175 - T-175 (CIFRA)
+Ref: T-175 / Inicio: 2017-11-11 - 10:30:03 / Fin: 2017-11-11 - 10:30:03 / ERROR
+#### ERROR al procesar la ref.T-176 - T-176 (CIFRA)
+Ref: T-176 / Inicio: 2017-11-11 - 10:30:03 / Fin: 2017-11-11 - 10:30:03 / ERROR
+#### ERROR al procesar la ref.T-177 - T-177 (CIFRA)
+Ref: T-177 / Inicio: 2017-11-11 - 10:30:03 / Fin: 2017-11-11 - 10:30:03 / ERROR
+#### ERROR al procesar la ref.T-178 - T-178 (CIFRA)
+Ref: T-178 / Inicio: 2017-11-11 - 10:30:03 / Fin: 2017-11-11 - 10:30:03 / ERROR
+#### ERROR al procesar la ref.T-179 - T-179 (CIFRA)
+Ref: T-179 / Inicio: 2017-11-11 - 10:30:03 / Fin: 2017-11-11 - 10:30:03 / ERROR
+#### ERROR al procesar la ref.T-180 - T-180 (CIFRA)
+Ref: T-180 / Inicio: 2017-11-11 - 10:30:03 / Fin: 2017-11-11 - 10:30:03 / ERROR
+#### ERROR al procesar la ref.T-181 - T-181 (CIFRA)
+Ref: T-181 / Inicio: 2017-11-11 - 10:30:03 / Fin: 2017-11-11 - 10:30:03 / ERROR
+#### ERROR al procesar la ref.T-182 - T-182 (CIFRA)
+Ref: T-182 / Inicio: 2017-11-11 - 10:30:03 / Fin: 2017-11-11 - 10:30:03 / ERROR
+#### ERROR al procesar la ref.T-187 - T-187 (CIFRA)
+Ref: T-187 / Inicio: 2017-11-11 - 10:30:03 / Fin: 2017-11-11 - 10:30:03 / ERROR
+#### ERROR al procesar la ref.T-192 - T-192 (CIFRA)
+Ref: T-192 / Inicio: 2017-11-11 - 10:30:03 / Fin: 2017-11-11 - 10:30:03 / ERROR
+#### ERROR al procesar la ref.T-193 - T-193 (CIFRA)
+Ref: T-193 / Inicio: 2017-11-11 - 10:30:04 / Fin: 2017-11-11 - 10:30:04 / ERROR
+#### ERROR al procesar la ref.T-194 - T-194 (CIFRA)
+Ref: T-194 / Inicio: 2017-11-11 - 10:30:04 / Fin: 2017-11-11 - 10:30:04 / ERROR
+#### ERROR al procesar la ref.T-195 - T-195 (CIFRA)
+Ref: T-195 / Inicio: 2017-11-11 - 10:30:04 / Fin: 2017-11-11 - 10:30:04 / ERROR
+#### ERROR al procesar la ref.T-196 - T-196 (CIFRA)
+Ref: T-196 / Inicio: 2017-11-11 - 10:30:04 / Fin: 2017-11-11 - 10:30:04 / ERROR
+#### ERROR al procesar la ref.T-197 - T-197 (CIFRA)
+Ref: T-197 / Inicio: 2017-11-11 - 10:30:04 / Fin: 2017-11-11 - 10:30:04 / ERROR
+#### ERROR al procesar la ref.T-198 - T-198 (CIFRA)
+Ref: T-198 / Inicio: 2017-11-11 - 10:30:04 / Fin: 2017-11-11 - 10:30:04 / ERROR
+#### ERROR al procesar la ref.T-199 - T-199 (CIFRA)
+Ref: T-199 / Inicio: 2017-11-11 - 10:30:04 / Fin: 2017-11-11 - 10:30:04 / ERROR
+#### ERROR al procesar la ref.T-29 - T-29 (CIFRA)
+Ref: T-29 / Inicio: 2017-11-11 - 10:30:04 / Fin: 2017-11-11 - 10:30:04 / ERROR
+#### ERROR al procesar la ref.T-30 - T-30 (CIFRA)
+Ref: T-30 / Inicio: 2017-11-11 - 10:30:04 / Fin: 2017-11-11 - 10:30:04 / ERROR
+#### ERROR al procesar la ref.T-32 - T-32 (CIFRA)
+Ref: T-32 / Inicio: 2017-11-11 - 10:30:04 / Fin: 2017-11-11 - 10:30:04 / ERROR
+#### ERROR al procesar la ref.T-33 - T-33 (CIFRA)
+Ref: T-33 / Inicio: 2017-11-11 - 10:30:04 / Fin: 2017-11-11 - 10:30:04 / ERROR
+#### ERROR al procesar la ref.T-36 - T-36 (CIFRA)
+Ref: T-36 / Inicio: 2017-11-11 - 10:30:04 / Fin: 2017-11-11 - 10:30:04 / ERROR
+#### ERROR al procesar la ref.T-37 - T-37 (CIFRA)
+Ref: T-37 / Inicio: 2017-11-11 - 10:30:04 / Fin: 2017-11-11 - 10:30:04 / ERROR
+#### ERROR al procesar la ref.T-39 - T-39 (CIFRA)
+Ref: T-39 / Inicio: 2017-11-11 - 10:30:04 / Fin: 2017-11-11 - 10:30:04 / ERROR
+#### ERROR al procesar la ref.T-399 - T-399 (CIFRA)
+Ref: T-399 / Inicio: 2017-11-11 - 10:30:04 / Fin: 2017-11-11 - 10:30:04 / ERROR
+#### ERROR al procesar la ref.T-405 - T-405 (CIFRA)
+Ref: T-405 / Inicio: 2017-11-11 - 10:30:04 / Fin: 2017-11-11 - 10:30:04 / ERROR
+#### ERROR al procesar la ref.T-409 - T-409 (CIFRA)
+Ref: T-409 / Inicio: 2017-11-11 - 10:30:04 / Fin: 2017-11-11 - 10:30:04 / ERROR
+#### ERROR al procesar la ref.T-410 - T-410 (CIFRA)
+Ref: T-410 / Inicio: 2017-11-11 - 10:30:04 / Fin: 2017-11-11 - 10:30:04 / ERROR
+#### ERROR al procesar la ref.T-412 - T-412 (CIFRA)
+Ref: T-412 / Inicio: 2017-11-11 - 10:30:04 / Fin: 2017-11-11 - 10:30:04 / ERROR
+#### ERROR al procesar la ref.T-413 - T-413 (CIFRA)
+Ref: T-413 / Inicio: 2017-11-11 - 10:30:04 / Fin: 2017-11-11 - 10:30:04 / ERROR
+#### ERROR al procesar la ref.T-415 - T-415 (CIFRA)
+Ref: T-415 / Inicio: 2017-11-11 - 10:30:04 / Fin: 2017-11-11 - 10:30:04 / ERROR
+#### ERROR al procesar la ref.T-416 - T-416 (CIFRA)
+Ref: T-416 / Inicio: 2017-11-11 - 10:30:04 / Fin: 2017-11-11 - 10:30:04 / ERROR
+#### ERROR al procesar la ref.T-417 - T-417 (CIFRA)
+Ref: T-417 / Inicio: 2017-11-11 - 10:30:04 / Fin: 2017-11-11 - 10:30:04 / ERROR
+#### ERROR al procesar la ref.T-418 - T-418 (CIFRA)
+Ref: T-418 / Inicio: 2017-11-11 - 10:30:04 / Fin: 2017-11-11 - 10:30:04 / ERROR
+#### ERROR al procesar la ref.T-42 - T-42 (CIFRA)
+Ref: T-42 / Inicio: 2017-11-11 - 10:30:04 / Fin: 2017-11-11 - 10:30:04 / ERROR
+#### ERROR al procesar la ref.T-43 - T-43 (CIFRA)
+Ref: T-43 / Inicio: 2017-11-11 - 10:30:04 / Fin: 2017-11-11 - 10:30:04 / ERROR
+#### ERROR al procesar la ref.T-431 - T-431 (CIFRA)
+Ref: T-431 / Inicio: 2017-11-11 - 10:30:04 / Fin: 2017-11-11 - 10:30:04 / ERROR
+#### ERROR al procesar la ref.T-435 - T-435 (CIFRA)
+Ref: T-435 / Inicio: 2017-11-11 - 10:30:04 / Fin: 2017-11-11 - 10:30:04 / ERROR
+#### ERROR al procesar la ref.T-436 - T-436 (CIFRA)
+Ref: T-436 / Inicio: 2017-11-11 - 10:30:04 / Fin: 2017-11-11 - 10:30:04 / ERROR
+#### ERROR al procesar la ref.T-437 - T-437 (CIFRA)
+Ref: T-437 / Inicio: 2017-11-11 - 10:30:04 / Fin: 2017-11-11 - 10:30:04 / ERROR
+#### ERROR al procesar la ref.T-438 - T-438 (CIFRA)
+Ref: T-438 / Inicio: 2017-11-11 - 10:30:04 / Fin: 2017-11-11 - 10:30:04 / ERROR
+#### ERROR al procesar la ref.T-444 - T-444 (CIFRA)
+Ref: T-444 / Inicio: 2017-11-11 - 10:30:04 / Fin: 2017-11-11 - 10:30:05 / ERROR
+#### ERROR al procesar la ref.T-450 - T-450 (CIFRA)
+Ref: T-450 / Inicio: 2017-11-11 - 10:30:05 / Fin: 2017-11-11 - 10:30:05 / ERROR
+#### ERROR al procesar la ref.T-451 - T-451 (CIFRA)
+Ref: T-451 / Inicio: 2017-11-11 - 10:30:05 / Fin: 2017-11-11 - 10:30:05 / ERROR
+#### ERROR al procesar la ref.T-452 - T-452 (CIFRA)
+Ref: T-452 / Inicio: 2017-11-11 - 10:30:05 / Fin: 2017-11-11 - 10:30:05 / ERROR
+#### ERROR al procesar la ref.T-453 - T-453 (CIFRA)
+Ref: T-453 / Inicio: 2017-11-11 - 10:30:05 / Fin: 2017-11-11 - 10:30:05 / ERROR
+#### ERROR al procesar la ref.T-454 - T-454 (CIFRA)
+Ref: T-454 / Inicio: 2017-11-11 - 10:30:05 / Fin: 2017-11-11 - 10:30:05 / ERROR
+#### ERROR al procesar la ref.T-455 - T-455 (CIFRA)
+Ref: T-455 / Inicio: 2017-11-11 - 10:30:05 / Fin: 2017-11-11 - 10:30:05 / ERROR
+#### ERROR al procesar la ref.T-460 - T-460 (CIFRA)
+Ref: T-460 / Inicio: 2017-11-11 - 10:30:05 / Fin: 2017-11-11 - 10:30:05 / ERROR
+#### ERROR al procesar la ref.T-461 - T-461 (CIFRA)
+Ref: T-461 / Inicio: 2017-11-11 - 10:30:05 / Fin: 2017-11-11 - 10:30:05 / ERROR
+#### ERROR al procesar la ref.T-462 - T-462 (CIFRA)
+Ref: T-462 / Inicio: 2017-11-11 - 10:30:05 / Fin: 2017-11-11 - 10:30:05 / ERROR
+#### ERROR al procesar la ref.T-463 - T-463 (CIFRA)
+Ref: T-463 / Inicio: 2017-11-11 - 10:30:05 / Fin: 2017-11-11 - 10:30:05 / ERROR
+#### ERROR al procesar la ref.T-464 - T-464 (CIFRA)
+Ref: T-464 / Inicio: 2017-11-11 - 10:30:05 / Fin: 2017-11-11 - 10:30:05 / ERROR
+#### ERROR al procesar la ref.T-466 - T-466 (CIFRA)
+Ref: T-466 / Inicio: 2017-11-11 - 10:30:05 / Fin: 2017-11-11 - 10:30:05 / ERROR
+#### ERROR al procesar la ref.T-469 - T-469 (CIFRA)
+Ref: T-469 / Inicio: 2017-11-11 - 10:30:05 / Fin: 2017-11-11 - 10:30:05 / ERROR
+#### ERROR al procesar la ref.T-470 - T-470 (CIFRA)
+Ref: T-470 / Inicio: 2017-11-11 - 10:30:05 / Fin: 2017-11-11 - 10:30:05 / ERROR
+#### ERROR al procesar la ref.T-473 - T-473 (CIFRA)
+Ref: T-473 / Inicio: 2017-11-11 - 10:30:05 / Fin: 2017-11-11 - 10:30:05 / ERROR
+#### ERROR al procesar la ref.T-474 - T-474 (CIFRA)
+Ref: T-474 / Inicio: 2017-11-11 - 10:30:05 / Fin: 2017-11-11 - 10:30:05 / ERROR
+#### ERROR al procesar la ref.T-490 - T-490 (CIFRA)
+Ref: T-490 / Inicio: 2017-11-11 - 10:30:05 / Fin: 2017-11-11 - 10:30:05 / ERROR
+#### ERROR al procesar la ref.T-500 - T-500 (CIFRA)
+Ref: T-500 / Inicio: 2017-11-11 - 10:30:05 / Fin: 2017-11-11 - 10:30:05 / ERROR
+#### ERROR al procesar la ref.T-501 - T-501 (CIFRA)
+Ref: T-501 / Inicio: 2017-11-11 - 10:30:05 / Fin: 2017-11-11 - 10:30:05 / ERROR
+#### ERROR al procesar la ref.T-503 - T-503 (CIFRA)
+Ref: T-503 / Inicio: 2017-11-11 - 10:30:05 / Fin: 2017-11-11 - 10:30:05 / ERROR
+#### ERROR al procesar la ref.T-504 - T-504 (CIFRA)
+Ref: T-504 / Inicio: 2017-11-11 - 10:30:05 / Fin: 2017-11-11 - 10:30:05 / ERROR
+#### ERROR al procesar la ref.T-510 - T-510 (CIFRA)
+Ref: T-510 / Inicio: 2017-11-11 - 10:30:05 / Fin: 2017-11-11 - 10:30:05 / ERROR
+#### ERROR al procesar la ref.T-525 - T-525 (CIFRA)
+Ref: T-525 / Inicio: 2017-11-11 - 10:30:05 / Fin: 2017-11-11 - 10:30:05 / ERROR
+#### ERROR al procesar la ref.T-530 - T-530 (CIFRA)
+Ref: T-530 / Inicio: 2017-11-11 - 10:30:05 / Fin: 2017-11-11 - 10:30:05 / ERROR
+#### ERROR al procesar la ref.T-540 - T-540 (CIFRA)
+Ref: T-540 / Inicio: 2017-11-11 - 10:30:05 / Fin: 2017-11-11 - 10:30:05 / ERROR
+#### ERROR al procesar la ref.T-562 - T-562 (CIFRA)
+Ref: T-562 / Inicio: 2017-11-11 - 10:30:05 / Fin: 2017-11-11 - 10:30:05 / ERROR
+#### ERROR al procesar la ref.T-572 - T-572 (CIFRA)
+Ref: T-572 / Inicio: 2017-11-11 - 10:30:05 / Fin: 2017-11-11 - 10:30:05 / ERROR
+#### ERROR al procesar la ref.T-578-L - T-578-L (CIFRA)
+Ref: T-578-L / Inicio: 2017-11-11 - 10:30:05 / Fin: 2017-11-11 - 10:30:05 / ERROR
+#### ERROR al procesar la ref.T-578-M - T-578-M (CIFRA)
+Ref: T-578-M / Inicio: 2017-11-11 - 10:30:05 / Fin: 2017-11-11 - 10:30:05 / ERROR
+#### ERROR al procesar la ref.T-578-S - T-578-S (CIFRA)
+Ref: T-578-S / Inicio: 2017-11-11 - 10:30:05 / Fin: 2017-11-11 - 10:30:05 / ERROR
+#### ERROR al procesar la ref.T-611 - T-611 (CIFRA)
+Ref: T-611 / Inicio: 2017-11-11 - 10:30:05 / Fin: 2017-11-11 - 10:30:05 / ERROR
+#### ERROR al procesar la ref.T-613 - T-613 (CIFRA)
+Ref: T-613 / Inicio: 2017-11-11 - 10:30:05 / Fin: 2017-11-11 - 10:30:06 / ERROR
+#### ERROR al procesar la ref.T-615 - T-615 (CIFRA)
+Ref: T-615 / Inicio: 2017-11-11 - 10:30:06 / Fin: 2017-11-11 - 10:30:06 / ERROR
+#### ERROR al procesar la ref.T-621 - T-621 (CIFRA)
+Ref: T-621 / Inicio: 2017-11-11 - 10:30:06 / Fin: 2017-11-11 - 10:30:06 / ERROR
+#### ERROR al procesar la ref.T-623 - T-623 (CIFRA)
+Ref: T-623 / Inicio: 2017-11-11 - 10:30:06 / Fin: 2017-11-11 - 10:30:06 / ERROR
+#### ERROR al procesar la ref.T-625 - T-625 (CIFRA)
+Ref: T-625 / Inicio: 2017-11-11 - 10:30:06 / Fin: 2017-11-11 - 10:30:06 / ERROR
+#### ERROR al procesar la ref.T-65 - T-65 (CIFRA)
+Ref: T-65 / Inicio: 2017-11-11 - 10:30:06 / Fin: 2017-11-11 - 10:30:06 / ERROR
+#### ERROR al procesar la ref.T-660 - T-660 (CIFRA)
+Ref: T-660 / Inicio: 2017-11-11 - 10:30:06 / Fin: 2017-11-11 - 10:30:06 / ERROR
+#### ERROR al procesar la ref.T-661 - T-661 (CIFRA)
+Ref: T-661 / Inicio: 2017-11-11 - 10:30:06 / Fin: 2017-11-11 - 10:30:06 / ERROR
+#### ERROR al procesar la ref.T-662 - T-662 (CIFRA)
+Ref: T-662 / Inicio: 2017-11-11 - 10:30:06 / Fin: 2017-11-11 - 10:30:06 / ERROR
+#### ERROR al procesar la ref.T-664 - T-664 (CIFRA)
+Ref: T-664 / Inicio: 2017-11-11 - 10:30:06 / Fin: 2017-11-11 - 10:30:06 / ERROR
+#### ERROR al procesar la ref.T-670 - T-670 (CIFRA)
+Ref: T-670 / Inicio: 2017-11-11 - 10:30:06 / Fin: 2017-11-11 - 10:30:06 / ERROR
+#### ERROR al procesar la ref.T-671 - T-671 (CIFRA)
+Ref: T-671 / Inicio: 2017-11-11 - 10:30:06 / Fin: 2017-11-11 - 10:30:06 / ERROR
+#### ERROR al procesar la ref.T-672 - T-672 (CIFRA)
+Ref: T-672 / Inicio: 2017-11-11 - 10:30:06 / Fin: 2017-11-11 - 10:30:06 / ERROR
+#### ERROR al procesar la ref.T-674 - T-674 (CIFRA)
+Ref: T-674 / Inicio: 2017-11-11 - 10:30:06 / Fin: 2017-11-11 - 10:30:06 / ERROR
+#### ERROR al procesar la ref.T-681 - T-681 (CIFRA)
+Ref: T-681 / Inicio: 2017-11-11 - 10:30:06 / Fin: 2017-11-11 - 10:30:06 / ERROR
+#### ERROR al procesar la ref.T-684 - T-684 (CIFRA)
+Ref: T-684 / Inicio: 2017-11-11 - 10:30:06 / Fin: 2017-11-11 - 10:30:06 / ERROR
+#### ERROR al procesar la ref.T-685 - T-685 (CIFRA)
+Ref: T-685 / Inicio: 2017-11-11 - 10:30:06 / Fin: 2017-11-11 - 10:30:06 / ERROR
+#### ERROR al procesar la ref.T-690 - T-690 (CIFRA)
+Ref: T-690 / Inicio: 2017-11-11 - 10:30:06 / Fin: 2017-11-11 - 10:30:06 / ERROR
+#### ERROR al procesar la ref.T-70 - T-70 (CIFRA)
+Ref: T-70 / Inicio: 2017-11-11 - 10:30:06 / Fin: 2017-11-11 - 10:30:06 / ERROR
+#### ERROR al procesar la ref.T-700 - T-700 (CIFRA)
+Ref: T-700 / Inicio: 2017-11-11 - 10:30:06 / Fin: 2017-11-11 - 10:30:06 / ERROR
+#### ERROR al procesar la ref.T-71 - T-71 (CIFRA)
+Ref: T-71 / Inicio: 2017-11-11 - 10:30:06 / Fin: 2017-11-11 - 10:30:06 / ERROR
+#### ERROR al procesar la ref.T-72 - T-72 (CIFRA)
+Ref: T-72 / Inicio: 2017-11-11 - 10:30:06 / Fin: 2017-11-11 - 10:30:06 / ERROR
+#### ERROR al procesar la ref.T-73 - T-73 (CIFRA)
+Ref: T-73 / Inicio: 2017-11-11 - 10:30:06 / Fin: 2017-11-11 - 10:30:06 / ERROR
+#### ERROR al procesar la ref.T-790 - T-790 (CIFRA)
+Ref: T-790 / Inicio: 2017-11-11 - 10:30:06 / Fin: 2017-11-11 - 10:30:06 / ERROR
+#### ERROR al procesar la ref.T-80 - T-80 (CIFRA)
+Ref: T-80 / Inicio: 2017-11-11 - 10:30:06 / Fin: 2017-11-11 - 10:30:06 / ERROR
+#### ERROR al procesar la ref.TFPVP - TFPVP (CIFRA)
+Ref: TFPVP / Inicio: 2017-11-11 - 10:30:06 / Fin: 2017-11-11 - 10:30:06 / ERROR
+
+***************************************************************************
+CONSULTA DE STOCK DE TODOS LOS ARTÍCULOS DE CIFRA:
+Proceso finalizado el 2017-11-11, a las 10:30:06
+
+CONSULTA DE STOCK DE TODOS LOS ARTÍCULOS DE CIFRA:
+Referencias de las que no se ha podido obtener stock de competidores por Errores de Proceso
+Resultados del Segundo Intento
+Proceso iniciado el 2017-11-11, a las 10:30:06
+***************************************************************************
+
+#### ERROR al procesar la ref.PD-3 - PD-3 (CIFRA)
+Ref: PD-3 / Inicio: 2017-11-11 - 10:30:06 / Fin: 2017-11-11 - 10:30:06 / ERROR
+#### ERROR al procesar la ref.PD-40 - PD-40 (CIFRA)
+Ref: PD-40 / Inicio: 2017-11-11 - 10:30:06 / Fin: 2017-11-11 - 10:30:06 / ERROR
+#### ERROR al procesar la ref.RP-001 - RP-001 (CIFRA)
+Ref: RP-001 / Inicio: 2017-11-11 - 10:30:06 / Fin: 2017-11-11 - 10:30:06 / ERROR
+#### ERROR al procesar la ref.RP-031 - RP-031 (CIFRA)
+Ref: RP-031 / Inicio: 2017-11-11 - 10:30:06 / Fin: 2017-11-11 - 10:30:06 / ERROR
+#### ERROR al procesar la ref.RP-036 - RP-036 (CIFRA)
+Ref: RP-036 / Inicio: 2017-11-11 - 10:30:06 / Fin: 2017-11-11 - 10:30:06 / ERROR
+#### ERROR al procesar la ref.RP-038 - RP-038 (CIFRA)
+Ref: RP-038 / Inicio: 2017-11-11 - 10:30:06 / Fin: 2017-11-11 - 10:30:06 / ERROR
+#### ERROR al procesar la ref.RP-039 - RP-039 (CIFRA)
+Ref: RP-039 / Inicio: 2017-11-11 - 10:30:06 / Fin: 2017-11-11 - 10:30:06 / ERROR
+#### ERROR al procesar la ref.RP-063 - RP-063 (CIFRA)
+Ref: RP-063 / Inicio: 2017-11-11 - 10:30:06 / Fin: 2017-11-11 - 10:30:06 / ERROR
+#### ERROR al procesar la ref.RP-064 - RP-064 (CIFRA)
+Ref: RP-064 / Inicio: 2017-11-11 - 10:30:06 / Fin: 2017-11-11 - 10:30:07 / ERROR
+#### ERROR al procesar la ref.RP-066 - RP-066 (CIFRA)
+Ref: RP-066 / Inicio: 2017-11-11 - 10:30:07 / Fin: 2017-11-11 - 10:30:07 / ERROR
+#### ERROR al procesar la ref.RP-067 - RP-067 (CIFRA)
+Ref: RP-067 / Inicio: 2017-11-11 - 10:30:07 / Fin: 2017-11-11 - 10:30:07 / ERROR
+#### ERROR al procesar la ref.S-003 - S-003 (CIFRA)
+Ref: S-003 / Inicio: 2017-11-11 - 10:30:07 / Fin: 2017-11-11 - 10:30:07 / ERROR
+#### ERROR al procesar la ref.S-004 - S-004 (CIFRA)
+Ref: S-004 / Inicio: 2017-11-11 - 10:30:07 / Fin: 2017-11-11 - 10:30:07 / ERROR
+#### ERROR al procesar la ref.S-009 - S-009 (CIFRA)
+Ref: S-009 / Inicio: 2017-11-11 - 10:30:07 / Fin: 2017-11-11 - 10:30:07 / ERROR
+#### ERROR al procesar la ref.S-014 - S-014 (CIFRA)
+Ref: S-014 / Inicio: 2017-11-11 - 10:30:07 / Fin: 2017-11-11 - 10:30:07 / ERROR
+#### ERROR al procesar la ref.S-015 - S-015 (CIFRA)
+Ref: S-015 / Inicio: 2017-11-11 - 10:30:07 / Fin: 2017-11-11 - 10:30:07 / ERROR
+#### ERROR al procesar la ref.S-016 - S-016 (CIFRA)
+Ref: S-016 / Inicio: 2017-11-11 - 10:30:07 / Fin: 2017-11-11 - 10:30:07 / ERROR
+#### ERROR al procesar la ref.S-017 - S-017 (CIFRA)
+Ref: S-017 / Inicio: 2017-11-11 - 10:30:07 / Fin: 2017-11-11 - 10:30:07 / ERROR
+#### ERROR al procesar la ref.S-018 - S-018 (CIFRA)
+Ref: S-018 / Inicio: 2017-11-11 - 10:30:07 / Fin: 2017-11-11 - 10:30:07 / ERROR
+#### ERROR al procesar la ref.S-019 - S-019 (CIFRA)
+Ref: S-019 / Inicio: 2017-11-11 - 10:30:07 / Fin: 2017-11-11 - 10:30:07 / ERROR
+#### ERROR al procesar la ref.S-020 - S-020 (CIFRA)
+Ref: S-020 / Inicio: 2017-11-11 - 10:30:07 / Fin: 2017-11-11 - 10:30:07 / ERROR
+#### ERROR al procesar la ref.S-022 - S-022 (CIFRA)
+Ref: S-022 / Inicio: 2017-11-11 - 10:30:07 / Fin: 2017-11-11 - 10:30:07 / ERROR
+#### ERROR al procesar la ref.S-023 - S-023 (CIFRA)
+Ref: S-023 / Inicio: 2017-11-11 - 10:30:07 / Fin: 2017-11-11 - 10:30:07 / ERROR
+#### ERROR al procesar la ref.T-007 - T-007 (CIFRA)
+Ref: T-007 / Inicio: 2017-11-11 - 10:30:07 / Fin: 2017-11-11 - 10:30:07 / ERROR
+#### ERROR al procesar la ref.T-010 - T-010 (CIFRA)
+Ref: T-010 / Inicio: 2017-11-11 - 10:30:07 / Fin: 2017-11-11 - 10:30:07 / ERROR
+#### ERROR al procesar la ref.T-013 - T-013 (CIFRA)
+Ref: T-013 / Inicio: 2017-11-11 - 10:30:07 / Fin: 2017-11-11 - 10:30:07 / ERROR
+#### ERROR al procesar la ref.T-018 - T-018 (CIFRA)
+Ref: T-018 / Inicio: 2017-11-11 - 10:30:07 / Fin: 2017-11-11 - 10:30:07 / ERROR
+#### ERROR al procesar la ref.T-019 - T-019 (CIFRA)
+Ref: T-019 / Inicio: 2017-11-11 - 10:30:07 / Fin: 2017-11-11 - 10:30:07 / ERROR
+#### ERROR al procesar la ref.T-026 - T-026 (CIFRA)
+Ref: T-026 / Inicio: 2017-11-11 - 10:30:07 / Fin: 2017-11-11 - 10:30:07 / ERROR
+#### ERROR al procesar la ref.T-048 - T-048 (CIFRA)
+Ref: T-048 / Inicio: 2017-11-11 - 10:30:07 / Fin: 2017-11-11 - 10:30:07 / ERROR
+#### ERROR al procesar la ref.T-049 - T-049 (CIFRA)
+Ref: T-049 / Inicio: 2017-11-11 - 10:30:07 / Fin: 2017-11-11 - 10:30:07 / ERROR
+#### ERROR al procesar la ref.T-067 - T-067 (CIFRA)
+Ref: T-067 / Inicio: 2017-11-11 - 10:30:07 / Fin: 2017-11-11 - 10:30:07 / ERROR
+#### ERROR al procesar la ref.T-069 - T-069 (CIFRA)
+Ref: T-069 / Inicio: 2017-11-11 - 10:30:07 / Fin: 2017-11-11 - 10:30:07 / ERROR
+#### ERROR al procesar la ref.T-077 - T-077 (CIFRA)
+Ref: T-077 / Inicio: 2017-11-11 - 10:30:07 / Fin: 2017-11-11 - 10:30:07 / ERROR
+#### ERROR al procesar la ref.T-079 - T-079 (CIFRA)
+Ref: T-079 / Inicio: 2017-11-11 - 10:30:07 / Fin: 2017-11-11 - 10:30:07 / ERROR
+#### ERROR al procesar la ref.T-081 - T-081 (CIFRA)
+Ref: T-081 / Inicio: 2017-11-11 - 10:30:07 / Fin: 2017-11-11 - 10:30:07 / ERROR
+#### ERROR al procesar la ref.T-084 - T-084 (CIFRA)
+Ref: T-084 / Inicio: 2017-11-11 - 10:30:07 / Fin: 2017-11-11 - 10:30:07 / ERROR
+#### ERROR al procesar la ref.T-085 - T-085 (CIFRA)
+Ref: T-085 / Inicio: 2017-11-11 - 10:30:07 / Fin: 2017-11-11 - 10:30:07 / ERROR
+#### ERROR al procesar la ref.T-086 - T-086 (CIFRA)
+Ref: T-086 / Inicio: 2017-11-11 - 10:30:07 / Fin: 2017-11-11 - 10:30:07 / ERROR
+#### ERROR al procesar la ref.T-089 - T-089 (CIFRA)
+Ref: T-089 / Inicio: 2017-11-11 - 10:30:07 / Fin: 2017-11-11 - 10:30:07 / ERROR
+#### ERROR al procesar la ref.T-092 - T-092 (CIFRA)
+Ref: T-092 / Inicio: 2017-11-11 - 10:30:07 / Fin: 2017-11-11 - 10:30:07 / ERROR
+#### ERROR al procesar la ref.T-093 - T-093 (CIFRA)
+Ref: T-093 / Inicio: 2017-11-11 - 10:30:07 / Fin: 2017-11-11 - 10:30:07 / ERROR
+#### ERROR al procesar la ref.T-094 - T-094 (CIFRA)
+Ref: T-094 / Inicio: 2017-11-11 - 10:30:07 / Fin: 2017-11-11 - 10:30:07 / ERROR
+#### ERROR al procesar la ref.T-097 - T-097 (CIFRA)
+Ref: T-097 / Inicio: 2017-11-11 - 10:30:07 / Fin: 2017-11-11 - 10:30:08 / ERROR
+#### ERROR al procesar la ref.T-098 - T-098 (CIFRA)
+Ref: T-098 / Inicio: 2017-11-11 - 10:30:08 / Fin: 2017-11-11 - 10:30:08 / ERROR
+#### ERROR al procesar la ref.T-099 - T-099 (CIFRA)
+Ref: T-099 / Inicio: 2017-11-11 - 10:30:08 / Fin: 2017-11-11 - 10:30:08 / ERROR
+#### ERROR al procesar la ref.T-100 - T-100 (CIFRA)
+Ref: T-100 / Inicio: 2017-11-11 - 10:30:08 / Fin: 2017-11-11 - 10:30:08 / ERROR
+#### ERROR al procesar la ref.T-102 - T-102 (CIFRA)
+Ref: T-102 / Inicio: 2017-11-11 - 10:30:08 / Fin: 2017-11-11 - 10:30:08 / ERROR
+#### ERROR al procesar la ref.T-1020 - T-1020 (CIFRA)
+Ref: T-1020 / Inicio: 2017-11-11 - 10:30:08 / Fin: 2017-11-11 - 10:30:08 / ERROR
+#### ERROR al procesar la ref.T-103 - T-103 (CIFRA)
+Ref: T-103 / Inicio: 2017-11-11 - 10:30:08 / Fin: 2017-11-11 - 10:30:08 / ERROR
+#### ERROR al procesar la ref.T-1030 - T-1030 (CIFRA)
+Ref: T-1030 / Inicio: 2017-11-11 - 10:30:08 / Fin: 2017-11-11 - 10:30:08 / ERROR
+#### ERROR al procesar la ref.T-1040 - T-1040 (CIFRA)
+Ref: T-1040 / Inicio: 2017-11-11 - 10:30:08 / Fin: 2017-11-11 - 10:30:08 / ERROR
+#### ERROR al procesar la ref.T-1041 - T-1041 (CIFRA)
+Ref: T-1041 / Inicio: 2017-11-11 - 10:30:08 / Fin: 2017-11-11 - 10:30:08 / ERROR
+#### ERROR al procesar la ref.T-1043 - T-1043 (CIFRA)
+Ref: T-1043 / Inicio: 2017-11-11 - 10:30:08 / Fin: 2017-11-11 - 10:30:08 / ERROR
+#### ERROR al procesar la ref.T-1050 - T-1050 (CIFRA)
+Ref: T-1050 / Inicio: 2017-11-11 - 10:30:08 / Fin: 2017-11-11 - 10:30:08 / ERROR
+#### ERROR al procesar la ref.T-1060 - T-1060 (CIFRA)
+Ref: T-1060 / Inicio: 2017-11-11 - 10:30:08 / Fin: 2017-11-11 - 10:30:08 / ERROR
+#### ERROR al procesar la ref.T-1070 - T-1070 (CIFRA)
+Ref: T-1070 / Inicio: 2017-11-11 - 10:30:08 / Fin: 2017-11-11 - 10:30:08 / ERROR
+#### ERROR al procesar la ref.T-1080 - T-1080 (CIFRA)
+Ref: T-1080 / Inicio: 2017-11-11 - 10:30:08 / Fin: 2017-11-11 - 10:30:08 / ERROR
+#### ERROR al procesar la ref.T-1090 - T-1090 (CIFRA)
+Ref: T-1090 / Inicio: 2017-11-11 - 10:30:08 / Fin: 2017-11-11 - 10:30:08 / ERROR
+#### ERROR al procesar la ref.T-1094 - T-1094 (CIFRA)
+Ref: T-1094 / Inicio: 2017-11-11 - 10:30:08 / Fin: 2017-11-11 - 10:30:08 / ERROR
+#### ERROR al procesar la ref.T-1100 - T-1100 (CIFRA)
+Ref: T-1100 / Inicio: 2017-11-11 - 10:30:08 / Fin: 2017-11-11 - 10:30:08 / ERROR
+#### ERROR al procesar la ref.T-119 - T-119 (CIFRA)
+Ref: T-119 / Inicio: 2017-11-11 - 10:30:08 / Fin: 2017-11-11 - 10:30:08 / ERROR
+#### ERROR al procesar la ref.T-1201 - T-1201 (CIFRA)
+Ref: T-1201 / Inicio: 2017-11-11 - 10:30:08 / Fin: 2017-11-11 - 10:30:08 / ERROR
+#### ERROR al procesar la ref.T-1205 - T-1205 (CIFRA)
+Ref: T-1205 / Inicio: 2017-11-11 - 10:30:08 / Fin: 2017-11-11 - 10:30:08 / ERROR
+#### ERROR al procesar la ref.T-1206 - T-1206 (CIFRA)
+Ref: T-1206 / Inicio: 2017-11-11 - 10:30:08 / Fin: 2017-11-11 - 10:30:08 / ERROR
+#### ERROR al procesar la ref.T-122 - T-122 (CIFRA)
+Ref: T-122 / Inicio: 2017-11-11 - 10:30:08 / Fin: 2017-11-11 - 10:30:08 / ERROR
+#### ERROR al procesar la ref.T-131 - T-131 (CIFRA)
+Ref: T-131 / Inicio: 2017-11-11 - 10:30:08 / Fin: 2017-11-11 - 10:30:08 / ERROR
+#### ERROR al procesar la ref.T-132 - T-132 (CIFRA)
+Ref: T-132 / Inicio: 2017-11-11 - 10:30:08 / Fin: 2017-11-11 - 10:30:08 / ERROR
+#### ERROR al procesar la ref.T-145 - T-145 (CIFRA)
+Ref: T-145 / Inicio: 2017-11-11 - 10:30:08 / Fin: 2017-11-11 - 10:30:08 / ERROR
+#### ERROR al procesar la ref.T-148 - T-148 (CIFRA)
+Ref: T-148 / Inicio: 2017-11-11 - 10:30:08 / Fin: 2017-11-11 - 10:30:08 / ERROR
+#### ERROR al procesar la ref.T-149 - T-149 (CIFRA)
+Ref: T-149 / Inicio: 2017-11-11 - 10:30:08 / Fin: 2017-11-11 - 10:30:08 / ERROR
+#### ERROR al procesar la ref.T-150 - T-150 (CIFRA)
+Ref: T-150 / Inicio: 2017-11-11 - 10:30:08 / Fin: 2017-11-11 - 10:30:08 / ERROR
+#### ERROR al procesar la ref.T-151 - T-151 (CIFRA)
+Ref: T-151 / Inicio: 2017-11-11 - 10:30:08 / Fin: 2017-11-11 - 10:30:09 / ERROR
+#### ERROR al procesar la ref.T-1510 - T-1510 (CIFRA)
+Ref: T-1510 / Inicio: 2017-11-11 - 10:30:09 / Fin: 2017-11-11 - 10:30:09 / ERROR
+#### ERROR al procesar la ref.T-1520 - T-1520 (CIFRA)
+Ref: T-1520 / Inicio: 2017-11-11 - 10:30:09 / Fin: 2017-11-11 - 10:30:09 / ERROR
+#### ERROR al procesar la ref.T-1550 - T-1550 (CIFRA)
+Ref: T-1550 / Inicio: 2017-11-11 - 10:30:09 / Fin: 2017-11-11 - 10:30:09 / ERROR
+#### ERROR al procesar la ref.T-1555-L - T-1555-L (CIFRA)
+Ref: T-1555-L / Inicio: 2017-11-11 - 10:30:09 / Fin: 2017-11-11 - 10:30:09 / ERROR
+#### ERROR al procesar la ref.T-156 - T-156 (CIFRA)
+Ref: T-156 / Inicio: 2017-11-11 - 10:30:09 / Fin: 2017-11-11 - 10:30:09 / ERROR
+#### ERROR al procesar la ref.T-1570 - T-1570 (CIFRA)
+Ref: T-1570 / Inicio: 2017-11-11 - 10:30:09 / Fin: 2017-11-11 - 10:30:09 / ERROR
+#### ERROR al procesar la ref.T-158 - T-158 (CIFRA)
+Ref: T-158 / Inicio: 2017-11-11 - 10:30:09 / Fin: 2017-11-11 - 10:30:09 / ERROR
+#### ERROR al procesar la ref.T-159 - T-159 (CIFRA)
+Ref: T-159 / Inicio: 2017-11-11 - 10:30:09 / Fin: 2017-11-11 - 10:30:09 / ERROR
+#### ERROR al procesar la ref.T-160 - T-160 (CIFRA)
+Ref: T-160 / Inicio: 2017-11-11 - 10:30:09 / Fin: 2017-11-11 - 10:30:09 / ERROR
+#### ERROR al procesar la ref.T-161 - T-161 (CIFRA)
+Ref: T-161 / Inicio: 2017-11-11 - 10:30:09 / Fin: 2017-11-11 - 10:30:09 / ERROR
+#### ERROR al procesar la ref.T-162 - T-162 (CIFRA)
+Ref: T-162 / Inicio: 2017-11-11 - 10:30:09 / Fin: 2017-11-11 - 10:30:09 / ERROR
+#### ERROR al procesar la ref.T-163 - T-163 (CIFRA)
+Ref: T-163 / Inicio: 2017-11-11 - 10:30:09 / Fin: 2017-11-11 - 10:30:09 / ERROR
+#### ERROR al procesar la ref.T-164 - T-164 (CIFRA)
+Ref: T-164 / Inicio: 2017-11-11 - 10:30:09 / Fin: 2017-11-11 - 10:30:09 / ERROR
+#### ERROR al procesar la ref.T-165 - T-165 (CIFRA)
+Ref: T-165 / Inicio: 2017-11-11 - 10:30:09 / Fin: 2017-11-11 - 10:30:09 / ERROR
+#### ERROR al procesar la ref.T-166 - T-166 (CIFRA)
+Ref: T-166 / Inicio: 2017-11-11 - 10:30:09 / Fin: 2017-11-11 - 10:30:09 / ERROR
+#### ERROR al procesar la ref.T-167 - T-167 (CIFRA)
+Ref: T-167 / Inicio: 2017-11-11 - 10:30:09 / Fin: 2017-11-11 - 10:30:09 / ERROR
+#### ERROR al procesar la ref.T-168 - T-168 (CIFRA)
+Ref: T-168 / Inicio: 2017-11-11 - 10:30:09 / Fin: 2017-11-11 - 10:30:09 / ERROR
+#### ERROR al procesar la ref.T-169 - T-169 (CIFRA)
+Ref: T-169 / Inicio: 2017-11-11 - 10:30:09 / Fin: 2017-11-11 - 10:30:09 / ERROR
+#### ERROR al procesar la ref.T-171 - T-171 (CIFRA)
+Ref: T-171 / Inicio: 2017-11-11 - 10:30:09 / Fin: 2017-11-11 - 10:30:09 / ERROR
+#### ERROR al procesar la ref.T-172 - T-172 (CIFRA)
+Ref: T-172 / Inicio: 2017-11-11 - 10:30:09 / Fin: 2017-11-11 - 10:30:09 / ERROR
+#### ERROR al procesar la ref.T-173 - T-173 (CIFRA)
+Ref: T-173 / Inicio: 2017-11-11 - 10:30:09 / Fin: 2017-11-11 - 10:30:09 / ERROR
+#### ERROR al procesar la ref.T-174 - T-174 (CIFRA)
+Ref: T-174 / Inicio: 2017-11-11 - 10:30:09 / Fin: 2017-11-11 - 10:30:09 / ERROR
+#### ERROR al procesar la ref.T-175 - T-175 (CIFRA)
+Ref: T-175 / Inicio: 2017-11-11 - 10:30:09 / Fin: 2017-11-11 - 10:30:09 / ERROR
+#### ERROR al procesar la ref.T-176 - T-176 (CIFRA)
+Ref: T-176 / Inicio: 2017-11-11 - 10:30:09 / Fin: 2017-11-11 - 10:30:09 / ERROR
+#### ERROR al procesar la ref.T-177 - T-177 (CIFRA)
+Ref: T-177 / Inicio: 2017-11-11 - 10:30:09 / Fin: 2017-11-11 - 10:30:09 / ERROR
+#### ERROR al procesar la ref.T-178 - T-178 (CIFRA)
+Ref: T-178 / Inicio: 2017-11-11 - 10:30:09 / Fin: 2017-11-11 - 10:30:09 / ERROR
+#### ERROR al procesar la ref.T-179 - T-179 (CIFRA)
+Ref: T-179 / Inicio: 2017-11-11 - 10:30:09 / Fin: 2017-11-11 - 10:30:09 / ERROR
+#### ERROR al procesar la ref.T-180 - T-180 (CIFRA)
+Ref: T-180 / Inicio: 2017-11-11 - 10:30:09 / Fin: 2017-11-11 - 10:30:09 / ERROR
+#### ERROR al procesar la ref.T-181 - T-181 (CIFRA)
+Ref: T-181 / Inicio: 2017-11-11 - 10:30:09 / Fin: 2017-11-11 - 10:30:10 / ERROR
+#### ERROR al procesar la ref.T-182 - T-182 (CIFRA)
+Ref: T-182 / Inicio: 2017-11-11 - 10:30:10 / Fin: 2017-11-11 - 10:30:10 / ERROR
+#### ERROR al procesar la ref.T-187 - T-187 (CIFRA)
+Ref: T-187 / Inicio: 2017-11-11 - 10:30:10 / Fin: 2017-11-11 - 10:30:10 / ERROR
+#### ERROR al procesar la ref.T-192 - T-192 (CIFRA)
+Ref: T-192 / Inicio: 2017-11-11 - 10:30:10 / Fin: 2017-11-11 - 10:30:10 / ERROR
+#### ERROR al procesar la ref.T-193 - T-193 (CIFRA)
+Ref: T-193 / Inicio: 2017-11-11 - 10:30:10 / Fin: 2017-11-11 - 10:30:10 / ERROR
+#### ERROR al procesar la ref.T-194 - T-194 (CIFRA)
+Ref: T-194 / Inicio: 2017-11-11 - 10:30:10 / Fin: 2017-11-11 - 10:30:10 / ERROR
+#### ERROR al procesar la ref.T-195 - T-195 (CIFRA)
+Ref: T-195 / Inicio: 2017-11-11 - 10:30:10 / Fin: 2017-11-11 - 10:30:10 / ERROR
+#### ERROR al procesar la ref.T-196 - T-196 (CIFRA)
+Ref: T-196 / Inicio: 2017-11-11 - 10:30:10 / Fin: 2017-11-11 - 10:30:10 / ERROR
+#### ERROR al procesar la ref.T-197 - T-197 (CIFRA)
+Ref: T-197 / Inicio: 2017-11-11 - 10:30:10 / Fin: 2017-11-11 - 10:30:10 / ERROR
+#### ERROR al procesar la ref.T-198 - T-198 (CIFRA)
+Ref: T-198 / Inicio: 2017-11-11 - 10:30:10 / Fin: 2017-11-11 - 10:30:10 / ERROR
+#### ERROR al procesar la ref.T-199 - T-199 (CIFRA)
+Ref: T-199 / Inicio: 2017-11-11 - 10:30:10 / Fin: 2017-11-11 - 10:30:10 / ERROR
+#### ERROR al procesar la ref.T-29 - T-29 (CIFRA)
+Ref: T-29 / Inicio: 2017-11-11 - 10:30:10 / Fin: 2017-11-11 - 10:30:10 / ERROR
+#### ERROR al procesar la ref.T-30 - T-30 (CIFRA)
+Ref: T-30 / Inicio: 2017-11-11 - 10:30:10 / Fin: 2017-11-11 - 10:30:10 / ERROR
+#### ERROR al procesar la ref.T-32 - T-32 (CIFRA)
+Ref: T-32 / Inicio: 2017-11-11 - 10:30:10 / Fin: 2017-11-11 - 10:30:10 / ERROR
+#### ERROR al procesar la ref.T-33 - T-33 (CIFRA)
+Ref: T-33 / Inicio: 2017-11-11 - 10:30:10 / Fin: 2017-11-11 - 10:30:10 / ERROR
+#### ERROR al procesar la ref.T-36 - T-36 (CIFRA)
+Ref: T-36 / Inicio: 2017-11-11 - 10:30:10 / Fin: 2017-11-11 - 10:30:10 / ERROR
+#### ERROR al procesar la ref.T-37 - T-37 (CIFRA)
+Ref: T-37 / Inicio: 2017-11-11 - 10:30:10 / Fin: 2017-11-11 - 10:30:10 / ERROR
+#### ERROR al procesar la ref.T-39 - T-39 (CIFRA)
+Ref: T-39 / Inicio: 2017-11-11 - 10:30:10 / Fin: 2017-11-11 - 10:30:10 / ERROR
+#### ERROR al procesar la ref.T-399 - T-399 (CIFRA)
+Ref: T-399 / Inicio: 2017-11-11 - 10:30:10 / Fin: 2017-11-11 - 10:30:10 / ERROR
+#### ERROR al procesar la ref.T-405 - T-405 (CIFRA)
+Ref: T-405 / Inicio: 2017-11-11 - 10:30:10 / Fin: 2017-11-11 - 10:30:10 / ERROR
+#### ERROR al procesar la ref.T-409 - T-409 (CIFRA)
+Ref: T-409 / Inicio: 2017-11-11 - 10:30:10 / Fin: 2017-11-11 - 10:30:10 / ERROR
+#### ERROR al procesar la ref.T-410 - T-410 (CIFRA)
+Ref: T-410 / Inicio: 2017-11-11 - 10:30:10 / Fin: 2017-11-11 - 10:30:10 / ERROR
+#### ERROR al procesar la ref.T-412 - T-412 (CIFRA)
+Ref: T-412 / Inicio: 2017-11-11 - 10:30:10 / Fin: 2017-11-11 - 10:30:10 / ERROR
+#### ERROR al procesar la ref.T-413 - T-413 (CIFRA)
+Ref: T-413 / Inicio: 2017-11-11 - 10:30:10 / Fin: 2017-11-11 - 10:30:10 / ERROR
+#### ERROR al procesar la ref.T-415 - T-415 (CIFRA)
+Ref: T-415 / Inicio: 2017-11-11 - 10:30:10 / Fin: 2017-11-11 - 10:30:10 / ERROR
+#### ERROR al procesar la ref.T-416 - T-416 (CIFRA)
+Ref: T-416 / Inicio: 2017-11-11 - 10:30:10 / Fin: 2017-11-11 - 10:30:10 / ERROR
+#### ERROR al procesar la ref.T-417 - T-417 (CIFRA)
+Ref: T-417 / Inicio: 2017-11-11 - 10:30:10 / Fin: 2017-11-11 - 10:30:10 / ERROR
+#### ERROR al procesar la ref.T-418 - T-418 (CIFRA)
+Ref: T-418 / Inicio: 2017-11-11 - 10:30:10 / Fin: 2017-11-11 - 10:30:10 / ERROR
+#### ERROR al procesar la ref.T-42 - T-42 (CIFRA)
+Ref: T-42 / Inicio: 2017-11-11 - 10:30:10 / Fin: 2017-11-11 - 10:30:10 / ERROR
+#### ERROR al procesar la ref.T-43 - T-43 (CIFRA)
+Ref: T-43 / Inicio: 2017-11-11 - 10:30:10 / Fin: 2017-11-11 - 10:30:11 / ERROR
+#### ERROR al procesar la ref.T-431 - T-431 (CIFRA)
+Ref: T-431 / Inicio: 2017-11-11 - 10:30:11 / Fin: 2017-11-11 - 10:30:11 / ERROR
+#### ERROR al procesar la ref.T-435 - T-435 (CIFRA)
+Ref: T-435 / Inicio: 2017-11-11 - 10:30:11 / Fin: 2017-11-11 - 10:30:11 / ERROR
+#### ERROR al procesar la ref.T-436 - T-436 (CIFRA)
+Ref: T-436 / Inicio: 2017-11-11 - 10:30:11 / Fin: 2017-11-11 - 10:30:11 / ERROR
+#### ERROR al procesar la ref.T-437 - T-437 (CIFRA)
+Ref: T-437 / Inicio: 2017-11-11 - 10:30:11 / Fin: 2017-11-11 - 10:30:11 / ERROR
+#### ERROR al procesar la ref.T-438 - T-438 (CIFRA)
+Ref: T-438 / Inicio: 2017-11-11 - 10:30:11 / Fin: 2017-11-11 - 10:30:11 / ERROR
+#### ERROR al procesar la ref.T-444 - T-444 (CIFRA)
+Ref: T-444 / Inicio: 2017-11-11 - 10:30:11 / Fin: 2017-11-11 - 10:30:11 / ERROR
+#### ERROR al procesar la ref.T-450 - T-450 (CIFRA)
+Ref: T-450 / Inicio: 2017-11-11 - 10:30:11 / Fin: 2017-11-11 - 10:30:11 / ERROR
+#### ERROR al procesar la ref.T-451 - T-451 (CIFRA)
+Ref: T-451 / Inicio: 2017-11-11 - 10:30:11 / Fin: 2017-11-11 - 10:30:11 / ERROR
+#### ERROR al procesar la ref.T-452 - T-452 (CIFRA)
+Ref: T-452 / Inicio: 2017-11-11 - 10:30:11 / Fin: 2017-11-11 - 10:30:11 / ERROR
+#### ERROR al procesar la ref.T-453 - T-453 (CIFRA)
+Ref: T-453 / Inicio: 2017-11-11 - 10:30:11 / Fin: 2017-11-11 - 10:30:11 / ERROR
+#### ERROR al procesar la ref.T-454 - T-454 (CIFRA)
+Ref: T-454 / Inicio: 2017-11-11 - 10:30:11 / Fin: 2017-11-11 - 10:30:11 / ERROR
+#### ERROR al procesar la ref.T-455 - T-455 (CIFRA)
+Ref: T-455 / Inicio: 2017-11-11 - 10:30:11 / Fin: 2017-11-11 - 10:30:11 / ERROR
+#### ERROR al procesar la ref.T-460 - T-460 (CIFRA)
+Ref: T-460 / Inicio: 2017-11-11 - 10:30:11 / Fin: 2017-11-11 - 10:30:11 / ERROR
+#### ERROR al procesar la ref.T-461 - T-461 (CIFRA)
+Ref: T-461 / Inicio: 2017-11-11 - 10:30:11 / Fin: 2017-11-11 - 10:30:11 / ERROR
+#### ERROR al procesar la ref.T-462 - T-462 (CIFRA)
+Ref: T-462 / Inicio: 2017-11-11 - 10:30:11 / Fin: 2017-11-11 - 10:30:11 / ERROR
+#### ERROR al procesar la ref.T-463 - T-463 (CIFRA)
+Ref: T-463 / Inicio: 2017-11-11 - 10:30:11 / Fin: 2017-11-11 - 10:30:11 / ERROR
+#### ERROR al procesar la ref.T-464 - T-464 (CIFRA)
+Ref: T-464 / Inicio: 2017-11-11 - 10:30:11 / Fin: 2017-11-11 - 10:30:11 / ERROR
+#### ERROR al procesar la ref.T-466 - T-466 (CIFRA)
+Ref: T-466 / Inicio: 2017-11-11 - 10:30:11 / Fin: 2017-11-11 - 10:30:11 / ERROR
+#### ERROR al procesar la ref.T-469 - T-469 (CIFRA)
+Ref: T-469 / Inicio: 2017-11-11 - 10:30:11 / Fin: 2017-11-11 - 10:30:11 / ERROR
+#### ERROR al procesar la ref.T-470 - T-470 (CIFRA)
+Ref: T-470 / Inicio: 2017-11-11 - 10:30:11 / Fin: 2017-11-11 - 10:30:11 / ERROR
+#### ERROR al procesar la ref.T-473 - T-473 (CIFRA)
+Ref: T-473 / Inicio: 2017-11-11 - 10:30:11 / Fin: 2017-11-11 - 10:30:11 / ERROR
+#### ERROR al procesar la ref.T-474 - T-474 (CIFRA)
+Ref: T-474 / Inicio: 2017-11-11 - 10:30:11 / Fin: 2017-11-11 - 10:30:11 / ERROR
+#### ERROR al procesar la ref.T-490 - T-490 (CIFRA)
+Ref: T-490 / Inicio: 2017-11-11 - 10:30:11 / Fin: 2017-11-11 - 10:30:11 / ERROR
+#### ERROR al procesar la ref.T-500 - T-500 (CIFRA)
+Ref: T-500 / Inicio: 2017-11-11 - 10:30:11 / Fin: 2017-11-11 - 10:30:11 / ERROR
+#### ERROR al procesar la ref.T-501 - T-501 (CIFRA)
+Ref: T-501 / Inicio: 2017-11-11 - 10:30:11 / Fin: 2017-11-11 - 10:30:11 / ERROR
+#### ERROR al procesar la ref.T-503 - T-503 (CIFRA)
+Ref: T-503 / Inicio: 2017-11-11 - 10:30:11 / Fin: 2017-11-11 - 10:30:11 / ERROR
+#### ERROR al procesar la ref.T-504 - T-504 (CIFRA)
+Ref: T-504 / Inicio: 2017-11-11 - 10:30:11 / Fin: 2017-11-11 - 10:30:11 / ERROR
+#### ERROR al procesar la ref.T-510 - T-510 (CIFRA)
+Ref: T-510 / Inicio: 2017-11-11 - 10:30:11 / Fin: 2017-11-11 - 10:30:11 / ERROR
+#### ERROR al procesar la ref.T-525 - T-525 (CIFRA)
+Ref: T-525 / Inicio: 2017-11-11 - 10:30:11 / Fin: 2017-11-11 - 10:30:12 / ERROR
+#### ERROR al procesar la ref.T-530 - T-530 (CIFRA)
+Ref: T-530 / Inicio: 2017-11-11 - 10:30:12 / Fin: 2017-11-11 - 10:30:12 / ERROR
+#### ERROR al procesar la ref.T-540 - T-540 (CIFRA)
+Ref: T-540 / Inicio: 2017-11-11 - 10:30:12 / Fin: 2017-11-11 - 10:30:12 / ERROR
+#### ERROR al procesar la ref.T-562 - T-562 (CIFRA)
+Ref: T-562 / Inicio: 2017-11-11 - 10:30:12 / Fin: 2017-11-11 - 10:30:12 / ERROR
+#### ERROR al procesar la ref.T-572 - T-572 (CIFRA)
+Ref: T-572 / Inicio: 2017-11-11 - 10:30:12 / Fin: 2017-11-11 - 10:30:12 / ERROR
+#### ERROR al procesar la ref.T-578-L - T-578-L (CIFRA)
+Ref: T-578-L / Inicio: 2017-11-11 - 10:30:12 / Fin: 2017-11-11 - 10:30:12 / ERROR
+#### ERROR al procesar la ref.T-578-M - T-578-M (CIFRA)
+Ref: T-578-M / Inicio: 2017-11-11 - 10:30:12 / Fin: 2017-11-11 - 10:30:12 / ERROR
+#### ERROR al procesar la ref.T-578-S - T-578-S (CIFRA)
+Ref: T-578-S / Inicio: 2017-11-11 - 10:30:12 / Fin: 2017-11-11 - 10:30:12 / ERROR
+#### ERROR al procesar la ref.T-611 - T-611 (CIFRA)
+Ref: T-611 / Inicio: 2017-11-11 - 10:30:12 / Fin: 2017-11-11 - 10:30:12 / ERROR
+#### ERROR al procesar la ref.T-613 - T-613 (CIFRA)
+Ref: T-613 / Inicio: 2017-11-11 - 10:30:12 / Fin: 2017-11-11 - 10:30:12 / ERROR
+#### ERROR al procesar la ref.T-615 - T-615 (CIFRA)
+Ref: T-615 / Inicio: 2017-11-11 - 10:30:12 / Fin: 2017-11-11 - 10:30:12 / ERROR
+#### ERROR al procesar la ref.T-621 - T-621 (CIFRA)
+Ref: T-621 / Inicio: 2017-11-11 - 10:30:12 / Fin: 2017-11-11 - 10:30:12 / ERROR
+#### ERROR al procesar la ref.T-623 - T-623 (CIFRA)
+Ref: T-623 / Inicio: 2017-11-11 - 10:30:12 / Fin: 2017-11-11 - 10:30:12 / ERROR
+#### ERROR al procesar la ref.T-625 - T-625 (CIFRA)
+Ref: T-625 / Inicio: 2017-11-11 - 10:30:12 / Fin: 2017-11-11 - 10:30:12 / ERROR
+#### ERROR al procesar la ref.T-65 - T-65 (CIFRA)
+Ref: T-65 / Inicio: 2017-11-11 - 10:30:12 / Fin: 2017-11-11 - 10:30:12 / ERROR
+#### ERROR al procesar la ref.T-660 - T-660 (CIFRA)
+Ref: T-660 / Inicio: 2017-11-11 - 10:30:12 / Fin: 2017-11-11 - 10:30:12 / ERROR
+#### ERROR al procesar la ref.T-661 - T-661 (CIFRA)
+Ref: T-661 / Inicio: 2017-11-11 - 10:30:12 / Fin: 2017-11-11 - 10:30:12 / ERROR
+#### ERROR al procesar la ref.T-662 - T-662 (CIFRA)
+Ref: T-662 / Inicio: 2017-11-11 - 10:30:12 / Fin: 2017-11-11 - 10:30:12 / ERROR
+#### ERROR al procesar la ref.T-664 - T-664 (CIFRA)
+Ref: T-664 / Inicio: 2017-11-11 - 10:30:12 / Fin: 2017-11-11 - 10:30:12 / ERROR
+#### ERROR al procesar la ref.T-670 - T-670 (CIFRA)
+Ref: T-670 / Inicio: 2017-11-11 - 10:30:12 / Fin: 2017-11-11 - 10:30:12 / ERROR
+#### ERROR al procesar la ref.T-671 - T-671 (CIFRA)
+Ref: T-671 / Inicio: 2017-11-11 - 10:30:12 / Fin: 2017-11-11 - 10:30:12 / ERROR
+#### ERROR al procesar la ref.T-672 - T-672 (CIFRA)
+Ref: T-672 / Inicio: 2017-11-11 - 10:30:12 / Fin: 2017-11-11 - 10:30:12 / ERROR
+#### ERROR al procesar la ref.T-674 - T-674 (CIFRA)
+Ref: T-674 / Inicio: 2017-11-11 - 10:30:12 / Fin: 2017-11-11 - 10:30:12 / ERROR
+#### ERROR al procesar la ref.T-681 - T-681 (CIFRA)
+Ref: T-681 / Inicio: 2017-11-11 - 10:30:12 / Fin: 2017-11-11 - 10:30:12 / ERROR
+#### ERROR al procesar la ref.T-684 - T-684 (CIFRA)
+Ref: T-684 / Inicio: 2017-11-11 - 10:30:12 / Fin: 2017-11-11 - 10:30:12 / ERROR
+#### ERROR al procesar la ref.T-685 - T-685 (CIFRA)
+Ref: T-685 / Inicio: 2017-11-11 - 10:30:12 / Fin: 2017-11-11 - 10:30:12 / ERROR
+#### ERROR al procesar la ref.T-690 - T-690 (CIFRA)
+Ref: T-690 / Inicio: 2017-11-11 - 10:30:12 / Fin: 2017-11-11 - 10:30:12 / ERROR
+#### ERROR al procesar la ref.T-70 - T-70 (CIFRA)
+Ref: T-70 / Inicio: 2017-11-11 - 10:30:12 / Fin: 2017-11-11 - 10:30:12 / ERROR
+#### ERROR al procesar la ref.T-700 - T-700 (CIFRA)
+Ref: T-700 / Inicio: 2017-11-11 - 10:30:12 / Fin: 2017-11-11 - 10:30:12 / ERROR
+#### ERROR al procesar la ref.T-71 - T-71 (CIFRA)
+Ref: T-71 / Inicio: 2017-11-11 - 10:30:12 / Fin: 2017-11-11 - 10:30:13 / ERROR
+#### ERROR al procesar la ref.T-72 - T-72 (CIFRA)
+Ref: T-72 / Inicio: 2017-11-11 - 10:30:13 / Fin: 2017-11-11 - 10:30:13 / ERROR
+#### ERROR al procesar la ref.T-73 - T-73 (CIFRA)
+Ref: T-73 / Inicio: 2017-11-11 - 10:30:13 / Fin: 2017-11-11 - 10:30:13 / ERROR
+#### ERROR al procesar la ref.T-790 - T-790 (CIFRA)
+Ref: T-790 / Inicio: 2017-11-11 - 10:30:13 / Fin: 2017-11-11 - 10:30:13 / ERROR
+#### ERROR al procesar la ref.T-80 - T-80 (CIFRA)
+Ref: T-80 / Inicio: 2017-11-11 - 10:30:13 / Fin: 2017-11-11 - 10:30:13 / ERROR
+#### ERROR al procesar la ref.TFPVP - TFPVP (CIFRA)
+Ref: TFPVP / Inicio: 2017-11-11 - 10:30:13 / Fin: 2017-11-11 - 10:30:13 / ERROR
+
+***************************************************************************
+CONSULTA DE STOCK DE TODOS LOS ARTÍCULOS DE CIFRA:
+Proceso finalizado el 2017-11-11, a las 10:30:13

@@ -1,0 +1,1135 @@
+CONSULTA DE STOCK DE TODOS LOS ARTÍCULOS DE PF:
+Proceso iniciado el 2017-11-17, a las 12:52:53
+***************************************************************************
+
+#### ERROR al procesar la ref.12611900 - 12611900 (PF)
+Ref: 12611900 / Inicio: 2017-11-17 - 12:52:53 / Fin: 2017-11-17 - 12:52:53 / ERROR
+#### ERROR al procesar la ref.12612002 - 12612002 (PF)
+Ref: 12612002 / Inicio: 2017-11-17 - 12:52:53 / Fin: 2017-11-17 - 12:52:53 / ERROR
+#### ERROR al procesar la ref.12612100 - 12612100 (PF)
+Ref: 12612100 / Inicio: 2017-11-17 - 12:52:53 / Fin: 2017-11-17 - 12:52:53 / ERROR
+#### ERROR al procesar la ref.13000100 - 13000100 (PF)
+Ref: 13000100 / Inicio: 2017-11-17 - 12:52:53 / Fin: 2017-11-17 - 12:52:53 / ERROR
+#### ERROR al procesar la ref.13000500 - 13000500 (PF)
+Ref: 13000500 / Inicio: 2017-11-17 - 12:52:53 / Fin: 2017-11-17 - 12:52:53 / ERROR
+#### ERROR al procesar la ref.13000700 - 13000700 (PF)
+Ref: 13000700 / Inicio: 2017-11-17 - 12:52:53 / Fin: 2017-11-17 - 12:52:53 / ERROR
+#### ERROR al procesar la ref.13000800 - 13000800 (PF)
+Ref: 13000800 / Inicio: 2017-11-17 - 12:52:53 / Fin: 2017-11-17 - 12:52:53 / ERROR
+#### ERROR al procesar la ref.13000900 - 13000900 (PF)
+Ref: 13000900 / Inicio: 2017-11-17 - 12:52:53 / Fin: 2017-11-17 - 12:52:53 / ERROR
+#### ERROR al procesar la ref.13001200 - 13001200 (PF)
+Ref: 13001200 / Inicio: 2017-11-17 - 12:52:53 / Fin: 2017-11-17 - 12:52:53 / ERROR
+#### ERROR al procesar la ref.13001500 - 13001500 (PF)
+Ref: 13001500 / Inicio: 2017-11-17 - 12:52:53 / Fin: 2017-11-17 - 12:52:53 / ERROR
+#### ERROR al procesar la ref.13001600 - 13001600 (PF)
+Ref: 13001600 / Inicio: 2017-11-17 - 12:52:53 / Fin: 2017-11-17 - 12:52:53 / ERROR
+#### ERROR al procesar la ref.13003000 - 13003000 (PF)
+Ref: 13003000 / Inicio: 2017-11-17 - 12:52:53 / Fin: 2017-11-17 - 12:52:53 / ERROR
+#### ERROR al procesar la ref.13003700 - 13003700 (PF)
+Ref: 13003700 / Inicio: 2017-11-17 - 12:52:53 / Fin: 2017-11-17 - 12:52:53 / ERROR
+#### ERROR al procesar la ref.13003900 - 13003900 (PF)
+Ref: 13003900 / Inicio: 2017-11-17 - 12:52:53 / Fin: 2017-11-17 - 12:52:53 / ERROR
+#### ERROR al procesar la ref.13004001 - 13004001 (PF)
+Ref: 13004001 / Inicio: 2017-11-17 - 12:52:53 / Fin: 2017-11-17 - 12:52:53 / ERROR
+#### ERROR al procesar la ref.13400101 - 13400101 (PF)
+Ref: 13400101 / Inicio: 2017-11-17 - 12:52:53 / Fin: 2017-11-17 - 12:52:53 / ERROR
+#### ERROR al procesar la ref.13400300 - 13400300 (PF)
+Ref: 13400300 / Inicio: 2017-11-17 - 12:52:53 / Fin: 2017-11-17 - 12:52:53 / ERROR
+#### ERROR al procesar la ref.13400700 - 13400700 (PF)
+Ref: 13400700 / Inicio: 2017-11-17 - 12:52:53 / Fin: 2017-11-17 - 12:52:53 / ERROR
+#### ERROR al procesar la ref.13400800 - 13400800 (PF)
+Ref: 13400800 / Inicio: 2017-11-17 - 12:52:53 / Fin: 2017-11-17 - 12:52:53 / ERROR
+#### ERROR al procesar la ref.13400900 - 13400900 (PF)
+Ref: 13400900 / Inicio: 2017-11-17 - 12:52:53 / Fin: 2017-11-17 - 12:52:53 / ERROR
+#### ERROR al procesar la ref.13401000 - 13401000 (PF)
+Ref: 13401000 / Inicio: 2017-11-17 - 12:52:53 / Fin: 2017-11-17 - 12:52:53 / ERROR
+#### ERROR al procesar la ref.13401100 - 13401100 (PF)
+Ref: 13401100 / Inicio: 2017-11-17 - 12:52:53 / Fin: 2017-11-17 - 12:52:53 / ERROR
+#### ERROR al procesar la ref.13401202 - 13401202 (PF)
+Ref: 13401202 / Inicio: 2017-11-17 - 12:52:53 / Fin: 2017-11-17 - 12:52:53 / ERROR
+#### ERROR al procesar la ref.13401300 - 13401300 (PF)
+Ref: 13401300 / Inicio: 2017-11-17 - 12:52:53 / Fin: 2017-11-17 - 12:52:53 / ERROR
+#### ERROR al procesar la ref.13401400 - 13401400 (PF)
+Ref: 13401400 / Inicio: 2017-11-17 - 12:52:53 / Fin: 2017-11-17 - 12:52:54 / ERROR
+#### ERROR al procesar la ref.13401500 - 13401500 (PF)
+Ref: 13401500 / Inicio: 2017-11-17 - 12:52:54 / Fin: 2017-11-17 - 12:52:54 / ERROR
+#### ERROR al procesar la ref.13401600 - 13401600 (PF)
+Ref: 13401600 / Inicio: 2017-11-17 - 12:52:54 / Fin: 2017-11-17 - 12:52:54 / ERROR
+#### ERROR al procesar la ref.13401700 - 13401700 (PF)
+Ref: 13401700 / Inicio: 2017-11-17 - 12:52:54 / Fin: 2017-11-17 - 12:52:54 / ERROR
+#### ERROR al procesar la ref.13401800 - 13401800 (PF)
+Ref: 13401800 / Inicio: 2017-11-17 - 12:52:54 / Fin: 2017-11-17 - 12:52:54 / ERROR
+#### ERROR al procesar la ref.13401900 - 13401900 (PF)
+Ref: 13401900 / Inicio: 2017-11-17 - 12:52:54 / Fin: 2017-11-17 - 12:52:54 / ERROR
+#### ERROR al procesar la ref.13402000 - 13402000 (PF)
+Ref: 13402000 / Inicio: 2017-11-17 - 12:52:54 / Fin: 2017-11-17 - 12:52:54 / ERROR
+#### ERROR al procesar la ref.13402100 - 13402100 (PF)
+Ref: 13402100 / Inicio: 2017-11-17 - 12:52:54 / Fin: 2017-11-17 - 12:52:54 / ERROR
+#### ERROR al procesar la ref.13402200 - 13402200 (PF)
+Ref: 13402200 / Inicio: 2017-11-17 - 12:52:54 / Fin: 2017-11-17 - 12:52:54 / ERROR
+#### ERROR al procesar la ref.13402300 - 13402300 (PF)
+Ref: 13402300 / Inicio: 2017-11-17 - 12:52:54 / Fin: 2017-11-17 - 12:52:54 / ERROR
+#### ERROR al procesar la ref.13402500 - 13402500 (PF)
+Ref: 13402500 / Inicio: 2017-11-17 - 12:52:54 / Fin: 2017-11-17 - 12:52:54 / ERROR
+#### ERROR al procesar la ref.13402600 - 13402600 (PF)
+Ref: 13402600 / Inicio: 2017-11-17 - 12:52:54 / Fin: 2017-11-17 - 12:52:54 / ERROR
+#### ERROR al procesar la ref.13402700 - 13402700 (PF)
+Ref: 13402700 / Inicio: 2017-11-17 - 12:52:54 / Fin: 2017-11-17 - 12:52:54 / ERROR
+#### ERROR al procesar la ref.13402800 - 13402800 (PF)
+Ref: 13402800 / Inicio: 2017-11-17 - 12:52:54 / Fin: 2017-11-17 - 12:52:54 / ERROR
+#### ERROR al procesar la ref.13402900 - 13402900 (PF)
+Ref: 13402900 / Inicio: 2017-11-17 - 12:52:54 / Fin: 2017-11-17 - 12:52:54 / ERROR
+#### ERROR al procesar la ref.13403000 - 13403000 (PF)
+Ref: 13403000 / Inicio: 2017-11-17 - 12:52:54 / Fin: 2017-11-17 - 12:52:54 / ERROR
+#### ERROR al procesar la ref.13403100 - 13403100 (PF)
+Ref: 13403100 / Inicio: 2017-11-17 - 12:52:54 / Fin: 2017-11-17 - 12:52:54 / ERROR
+#### ERROR al procesar la ref.13403200 - 13403200 (PF)
+Ref: 13403200 / Inicio: 2017-11-17 - 12:52:54 / Fin: 2017-11-17 - 12:52:54 / ERROR
+#### ERROR al procesar la ref.13403300 - 13403300 (PF)
+Ref: 13403300 / Inicio: 2017-11-17 - 12:52:54 / Fin: 2017-11-17 - 12:52:54 / ERROR
+#### ERROR al procesar la ref.13403506 - 13403506 (PF)
+Ref: 13403506 / Inicio: 2017-11-17 - 12:52:54 / Fin: 2017-11-17 - 12:52:54 / ERROR
+#### ERROR al procesar la ref.13403602 - 13403602 (PF)
+Ref: 13403602 / Inicio: 2017-11-17 - 12:52:54 / Fin: 2017-11-17 - 12:52:54 / ERROR
+#### ERROR al procesar la ref.13403701 - 13403701 (PF)
+Ref: 13403701 / Inicio: 2017-11-17 - 12:52:54 / Fin: 2017-11-17 - 12:52:54 / ERROR
+#### ERROR al procesar la ref.13403801 - 13403801 (PF)
+Ref: 13403801 / Inicio: 2017-11-17 - 12:52:54 / Fin: 2017-11-17 - 12:52:54 / ERROR
+#### ERROR al procesar la ref.13416500 - 13416500 (PF)
+Ref: 13416500 / Inicio: 2017-11-17 - 12:52:54 / Fin: 2017-11-17 - 12:52:54 / ERROR
+#### ERROR al procesar la ref.13416600 - 13416600 (PF)
+Ref: 13416600 / Inicio: 2017-11-17 - 12:52:54 / Fin: 2017-11-17 - 12:52:54 / ERROR
+#### ERROR al procesar la ref.13416701 - 13416701 (PF)
+Ref: 13416701 / Inicio: 2017-11-17 - 12:52:54 / Fin: 2017-11-17 - 12:52:55 / ERROR
+#### ERROR al procesar la ref.13416800 - 13416800 (PF)
+Ref: 13416800 / Inicio: 2017-11-17 - 12:52:55 / Fin: 2017-11-17 - 12:52:55 / ERROR
+#### ERROR al procesar la ref.13417000 - 13417000 (PF)
+Ref: 13417000 / Inicio: 2017-11-17 - 12:52:55 / Fin: 2017-11-17 - 12:52:55 / ERROR
+#### ERROR al procesar la ref.13417100 - 13417100 (PF)
+Ref: 13417100 / Inicio: 2017-11-17 - 12:52:55 / Fin: 2017-11-17 - 12:52:55 / ERROR
+#### ERROR al procesar la ref.13417203 - 13417203 (PF)
+Ref: 13417203 / Inicio: 2017-11-17 - 12:52:55 / Fin: 2017-11-17 - 12:52:55 / ERROR
+#### ERROR al procesar la ref.13417300 - 13417300 (PF)
+Ref: 13417300 / Inicio: 2017-11-17 - 12:52:55 / Fin: 2017-11-17 - 12:52:55 / ERROR
+#### ERROR al procesar la ref.13417501 - 13417501 (PF)
+Ref: 13417501 / Inicio: 2017-11-17 - 12:52:55 / Fin: 2017-11-17 - 12:52:55 / ERROR
+#### ERROR al procesar la ref.13417601 - 13417601 (PF)
+Ref: 13417601 / Inicio: 2017-11-17 - 12:52:55 / Fin: 2017-11-17 - 12:52:55 / ERROR
+#### ERROR al procesar la ref.13417700 - 13417700 (PF)
+Ref: 13417700 / Inicio: 2017-11-17 - 12:52:55 / Fin: 2017-11-17 - 12:52:55 / ERROR
+#### ERROR al procesar la ref.13418000 - 13418000 (PF)
+Ref: 13418000 / Inicio: 2017-11-17 - 12:52:55 / Fin: 2017-11-17 - 12:52:55 / ERROR
+#### ERROR al procesar la ref.13418100 - 13418100 (PF)
+Ref: 13418100 / Inicio: 2017-11-17 - 12:52:55 / Fin: 2017-11-17 - 12:52:55 / ERROR
+#### ERROR al procesar la ref.13418200 - 13418200 (PF)
+Ref: 13418200 / Inicio: 2017-11-17 - 12:52:55 / Fin: 2017-11-17 - 12:52:55 / ERROR
+#### ERROR al procesar la ref.13418300 - 13418300 (PF)
+Ref: 13418300 / Inicio: 2017-11-17 - 12:52:55 / Fin: 2017-11-17 - 12:52:55 / ERROR
+#### ERROR al procesar la ref.13418600 - 13418600 (PF)
+Ref: 13418600 / Inicio: 2017-11-17 - 12:52:55 / Fin: 2017-11-17 - 12:52:55 / ERROR
+#### ERROR al procesar la ref.13418800 - 13418800 (PF)
+Ref: 13418800 / Inicio: 2017-11-17 - 12:52:55 / Fin: 2017-11-17 - 12:52:55 / ERROR
+#### ERROR al procesar la ref.13418900 - 13418900 (PF)
+Ref: 13418900 / Inicio: 2017-11-17 - 12:52:55 / Fin: 2017-11-17 - 12:52:55 / ERROR
+#### ERROR al procesar la ref.13419001 - 13419001 (PF)
+Ref: 13419001 / Inicio: 2017-11-17 - 12:52:55 / Fin: 2017-11-17 - 12:52:55 / ERROR
+#### ERROR al procesar la ref.13419102 - 13419102 (PF)
+Ref: 13419102 / Inicio: 2017-11-17 - 12:52:55 / Fin: 2017-11-17 - 12:52:55 / ERROR
+#### ERROR al procesar la ref.13419200 - 13419200 (PF)
+Ref: 13419200 / Inicio: 2017-11-17 - 12:52:55 / Fin: 2017-11-17 - 12:52:55 / ERROR
+#### ERROR al procesar la ref.13419300 - 13419300 (PF)
+Ref: 13419300 / Inicio: 2017-11-17 - 12:52:55 / Fin: 2017-11-17 - 12:52:55 / ERROR
+#### ERROR al procesar la ref.13419400 - 13419400 (PF)
+Ref: 13419400 / Inicio: 2017-11-17 - 12:52:55 / Fin: 2017-11-17 - 12:52:55 / ERROR
+#### ERROR al procesar la ref.13419500 - 13419500 (PF)
+Ref: 13419500 / Inicio: 2017-11-17 - 12:52:55 / Fin: 2017-11-17 - 12:52:55 / ERROR
+#### ERROR al procesar la ref.13419701 - 13419701 (PF)
+Ref: 13419701 / Inicio: 2017-11-17 - 12:52:55 / Fin: 2017-11-17 - 12:52:55 / ERROR
+#### ERROR al procesar la ref.13419800 - 13419800 (PF)
+Ref: 13419800 / Inicio: 2017-11-17 - 12:52:55 / Fin: 2017-11-17 - 12:52:55 / ERROR
+#### ERROR al procesar la ref.13419900 - 13419900 (PF)
+Ref: 13419900 / Inicio: 2017-11-17 - 12:52:55 / Fin: 2017-11-17 - 12:52:55 / ERROR
+#### ERROR al procesar la ref.13420000 - 13420000 (PF)
+Ref: 13420000 / Inicio: 2017-11-17 - 12:52:55 / Fin: 2017-11-17 - 12:52:55 / ERROR
+#### ERROR al procesar la ref.13420100 - 13420100 (PF)
+Ref: 13420100 / Inicio: 2017-11-17 - 12:52:55 / Fin: 2017-11-17 - 12:52:56 / ERROR
+#### ERROR al procesar la ref.13420200 - 13420200 (PF)
+Ref: 13420200 / Inicio: 2017-11-17 - 12:52:56 / Fin: 2017-11-17 - 12:52:56 / ERROR
+#### ERROR al procesar la ref.13420300 - 13420300 (PF)
+Ref: 13420300 / Inicio: 2017-11-17 - 12:52:56 / Fin: 2017-11-17 - 12:52:56 / ERROR
+#### ERROR al procesar la ref.13420400 - 13420400 (PF)
+Ref: 13420400 / Inicio: 2017-11-17 - 12:52:56 / Fin: 2017-11-17 - 12:52:56 / ERROR
+#### ERROR al procesar la ref.13420500 - 13420500 (PF)
+Ref: 13420500 / Inicio: 2017-11-17 - 12:52:56 / Fin: 2017-11-17 - 12:52:56 / ERROR
+#### ERROR al procesar la ref.13420600 - 13420600 (PF)
+Ref: 13420600 / Inicio: 2017-11-17 - 12:52:56 / Fin: 2017-11-17 - 12:52:56 / ERROR
+#### ERROR al procesar la ref.13420703 - 13420703 (PF)
+Ref: 13420703 / Inicio: 2017-11-17 - 12:52:56 / Fin: 2017-11-17 - 12:52:56 / ERROR
+#### ERROR al procesar la ref.13420800 - 13420800 (PF)
+Ref: 13420800 / Inicio: 2017-11-17 - 12:52:56 / Fin: 2017-11-17 - 12:52:56 / ERROR
+#### ERROR al procesar la ref.13420900 - 13420900 (PF)
+Ref: 13420900 / Inicio: 2017-11-17 - 12:52:56 / Fin: 2017-11-17 - 12:52:56 / ERROR
+#### ERROR al procesar la ref.13421000 - 13421000 (PF)
+Ref: 13421000 / Inicio: 2017-11-17 - 12:52:56 / Fin: 2017-11-17 - 12:52:56 / ERROR
+#### ERROR al procesar la ref.13421100 - 13421100 (PF)
+Ref: 13421100 / Inicio: 2017-11-17 - 12:52:56 / Fin: 2017-11-17 - 12:52:56 / ERROR
+#### ERROR al procesar la ref.13421300 - 13421300 (PF)
+Ref: 13421300 / Inicio: 2017-11-17 - 12:52:56 / Fin: 2017-11-17 - 12:52:56 / ERROR
+#### ERROR al procesar la ref.13421400 - 13421400 (PF)
+Ref: 13421400 / Inicio: 2017-11-17 - 12:52:56 / Fin: 2017-11-17 - 12:52:56 / ERROR
+#### ERROR al procesar la ref.13421800 - 13421800 (PF)
+Ref: 13421800 / Inicio: 2017-11-17 - 12:52:56 / Fin: 2017-11-17 - 12:52:56 / ERROR
+#### ERROR al procesar la ref.13421900 - 13421900 (PF)
+Ref: 13421900 / Inicio: 2017-11-17 - 12:52:56 / Fin: 2017-11-17 - 12:52:56 / ERROR
+#### ERROR al procesar la ref.13422000 - 13422000 (PF)
+Ref: 13422000 / Inicio: 2017-11-17 - 12:52:56 / Fin: 2017-11-17 - 12:52:56 / ERROR
+#### ERROR al procesar la ref.13422200 - 13422200 (PF)
+Ref: 13422200 / Inicio: 2017-11-17 - 12:52:56 / Fin: 2017-11-17 - 12:52:56 / ERROR
+#### ERROR al procesar la ref.13422603 - 13422603 (PF)
+Ref: 13422603 / Inicio: 2017-11-17 - 12:52:56 / Fin: 2017-11-17 - 12:52:56 / ERROR
+#### ERROR al procesar la ref.13422700 - 13422700 (PF)
+Ref: 13422700 / Inicio: 2017-11-17 - 12:52:56 / Fin: 2017-11-17 - 12:52:56 / ERROR
+#### ERROR al procesar la ref.13422800 - 13422800 (PF)
+Ref: 13422800 / Inicio: 2017-11-17 - 12:52:56 / Fin: 2017-11-17 - 12:52:56 / ERROR
+#### ERROR al procesar la ref.13422900 - 13422900 (PF)
+Ref: 13422900 / Inicio: 2017-11-17 - 12:52:56 / Fin: 2017-11-17 - 12:52:56 / ERROR
+#### ERROR al procesar la ref.13423001 - 13423001 (PF)
+Ref: 13423001 / Inicio: 2017-11-17 - 12:52:56 / Fin: 2017-11-17 - 12:52:56 / ERROR
+#### ERROR al procesar la ref.13423100 - 13423100 (PF)
+Ref: 13423100 / Inicio: 2017-11-17 - 12:52:56 / Fin: 2017-11-17 - 12:52:56 / ERROR
+#### ERROR al procesar la ref.13423300 - 13423300 (PF)
+Ref: 13423300 / Inicio: 2017-11-17 - 12:52:56 / Fin: 2017-11-17 - 12:52:56 / ERROR
+#### ERROR al procesar la ref.13423400 - 13423400 (PF)
+Ref: 13423400 / Inicio: 2017-11-17 - 12:52:56 / Fin: 2017-11-17 - 12:52:56 / ERROR
+#### ERROR al procesar la ref.13423700 - 13423700 (PF)
+Ref: 13423700 / Inicio: 2017-11-17 - 12:52:56 / Fin: 2017-11-17 - 12:52:57 / ERROR
+#### ERROR al procesar la ref.13423800 - 13423800 (PF)
+Ref: 13423800 / Inicio: 2017-11-17 - 12:52:57 / Fin: 2017-11-17 - 12:52:57 / ERROR
+#### ERROR al procesar la ref.13423900 - 13423900 (PF)
+Ref: 13423900 / Inicio: 2017-11-17 - 12:52:57 / Fin: 2017-11-17 - 12:52:57 / ERROR
+#### ERROR al procesar la ref.13424000 - 13424000 (PF)
+Ref: 13424000 / Inicio: 2017-11-17 - 12:52:57 / Fin: 2017-11-17 - 12:52:57 / ERROR
+#### ERROR al procesar la ref.13424200 - 13424200 (PF)
+Ref: 13424200 / Inicio: 2017-11-17 - 12:52:57 / Fin: 2017-11-17 - 12:52:57 / ERROR
+#### ERROR al procesar la ref.13424500 - 13424500 (PF)
+Ref: 13424500 / Inicio: 2017-11-17 - 12:52:57 / Fin: 2017-11-17 - 12:52:57 / ERROR
+#### ERROR al procesar la ref.13424600 - 13424600 (PF)
+Ref: 13424600 / Inicio: 2017-11-17 - 12:52:57 / Fin: 2017-11-17 - 12:52:57 / ERROR
+#### ERROR al procesar la ref.13424700 - 13424700 (PF)
+Ref: 13424700 / Inicio: 2017-11-17 - 12:52:57 / Fin: 2017-11-17 - 12:52:57 / ERROR
+#### ERROR al procesar la ref.13424900 - 13424900 (PF)
+Ref: 13424900 / Inicio: 2017-11-17 - 12:52:57 / Fin: 2017-11-17 - 12:52:57 / ERROR
+#### ERROR al procesar la ref.13425000 - 13425000 (PF)
+Ref: 13425000 / Inicio: 2017-11-17 - 12:52:57 / Fin: 2017-11-17 - 12:52:57 / ERROR
+#### ERROR al procesar la ref.13425200 - 13425200 (PF)
+Ref: 13425200 / Inicio: 2017-11-17 - 12:52:57 / Fin: 2017-11-17 - 12:52:57 / ERROR
+#### ERROR al procesar la ref.13425300 - 13425300 (PF)
+Ref: 13425300 / Inicio: 2017-11-17 - 12:52:57 / Fin: 2017-11-17 - 12:52:57 / ERROR
+#### ERROR al procesar la ref.13425400 - 13425400 (PF)
+Ref: 13425400 / Inicio: 2017-11-17 - 12:52:57 / Fin: 2017-11-17 - 12:52:57 / ERROR
+#### ERROR al procesar la ref.13425500 - 13425500 (PF)
+Ref: 13425500 / Inicio: 2017-11-17 - 12:52:57 / Fin: 2017-11-17 - 12:52:57 / ERROR
+#### ERROR al procesar la ref.13425600 - 13425600 (PF)
+Ref: 13425600 / Inicio: 2017-11-17 - 12:52:57 / Fin: 2017-11-17 - 12:52:57 / ERROR
+#### ERROR al procesar la ref.13425701 - 13425701 (PF)
+Ref: 13425701 / Inicio: 2017-11-17 - 12:52:57 / Fin: 2017-11-17 - 12:52:57 / ERROR
+#### ERROR al procesar la ref.13425900 - 13425900 (PF)
+Ref: 13425900 / Inicio: 2017-11-17 - 12:52:57 / Fin: 2017-11-17 - 12:52:57 / ERROR
+#### ERROR al procesar la ref.13426000 - 13426000 (PF)
+Ref: 13426000 / Inicio: 2017-11-17 - 12:52:57 / Fin: 2017-11-17 - 12:52:57 / ERROR
+#### ERROR al procesar la ref.13426200 - 13426200 (PF)
+Ref: 13426200 / Inicio: 2017-11-17 - 12:52:57 / Fin: 2017-11-17 - 12:52:57 / ERROR
+#### ERROR al procesar la ref.13426300 - 13426300 (PF)
+Ref: 13426300 / Inicio: 2017-11-17 - 12:52:57 / Fin: 2017-11-17 - 12:52:57 / ERROR
+#### ERROR al procesar la ref.18972000 - 18972000 (PF)
+Ref: 18972000 / Inicio: 2017-11-17 - 12:52:57 / Fin: 2017-11-17 - 12:52:57 / ERROR
+#### ERROR al procesar la ref.18973000 - 18973000 (PF)
+Ref: 18973000 / Inicio: 2017-11-17 - 12:52:57 / Fin: 2017-11-17 - 12:52:57 / ERROR
+#### ERROR al procesar la ref.18974000 - 18974000 (PF)
+Ref: 18974000 / Inicio: 2017-11-17 - 12:52:57 / Fin: 2017-11-17 - 12:52:57 / ERROR
+#### ERROR al procesar la ref.18975000 - 18975000 (PF)
+Ref: 18975000 / Inicio: 2017-11-17 - 12:52:57 / Fin: 2017-11-17 - 12:52:57 / ERROR
+#### ERROR al procesar la ref.18976000 - 18976000 (PF)
+Ref: 18976000 / Inicio: 2017-11-17 - 12:52:57 / Fin: 2017-11-17 - 12:52:58 / ERROR
+#### ERROR al procesar la ref.18977000 - 18977000 (PF)
+Ref: 18977000 / Inicio: 2017-11-17 - 12:52:58 / Fin: 2017-11-17 - 12:52:58 / ERROR
+#### ERROR al procesar la ref.18979200 - 18979200 (PF)
+Ref: 18979200 / Inicio: 2017-11-17 - 12:52:58 / Fin: 2017-11-17 - 12:52:58 / ERROR
+#### ERROR al procesar la ref.18979300 - 18979300 (PF)
+Ref: 18979300 / Inicio: 2017-11-17 - 12:52:58 / Fin: 2017-11-17 - 12:52:58 / ERROR
+#### ERROR al procesar la ref.19538001 - 19538001 (PF)
+Ref: 19538001 / Inicio: 2017-11-17 - 12:52:58 / Fin: 2017-11-17 - 12:52:58 / ERROR
+#### ERROR al procesar la ref.19538050 - 19538050 (PF)
+Ref: 19538050 / Inicio: 2017-11-17 - 12:52:58 / Fin: 2017-11-17 - 12:52:58 / ERROR
+#### ERROR al procesar la ref.19538051 - 19538051 (PF)
+Ref: 19538051 / Inicio: 2017-11-17 - 12:52:58 / Fin: 2017-11-17 - 12:52:58 / ERROR
+#### ERROR al procesar la ref.19538305 - 19538305 (PF)
+Ref: 19538305 / Inicio: 2017-11-17 - 12:52:58 / Fin: 2017-11-17 - 12:52:58 / ERROR
+#### ERROR al procesar la ref.19538442 - 19538442 (PF)
+Ref: 19538442 / Inicio: 2017-11-17 - 12:52:58 / Fin: 2017-11-17 - 12:52:58 / ERROR
+#### ERROR al procesar la ref.19538479 - 19538479 (PF)
+Ref: 19538479 / Inicio: 2017-11-17 - 12:52:58 / Fin: 2017-11-17 - 12:52:58 / ERROR
+#### ERROR al procesar la ref.19538507 - 19538507 (PF)
+Ref: 19538507 / Inicio: 2017-11-17 - 12:52:58 / Fin: 2017-11-17 - 12:52:58 / ERROR
+#### ERROR al procesar la ref.19538537 - 19538537 (PF)
+Ref: 19538537 / Inicio: 2017-11-17 - 12:52:58 / Fin: 2017-11-17 - 12:52:58 / ERROR
+#### ERROR al procesar la ref.19538568 - 19538568 (PF)
+Ref: 19538568 / Inicio: 2017-11-17 - 12:52:58 / Fin: 2017-11-17 - 12:52:58 / ERROR
+#### ERROR al procesar la ref.19538569 - 19538569 (PF)
+Ref: 19538569 / Inicio: 2017-11-17 - 12:52:58 / Fin: 2017-11-17 - 12:52:58 / ERROR
+#### ERROR al procesar la ref.19538615 - 19538615 (PF)
+Ref: 19538615 / Inicio: 2017-11-17 - 12:52:58 / Fin: 2017-11-17 - 12:52:58 / ERROR
+#### ERROR al procesar la ref.19538620 - 19538620 (PF)
+Ref: 19538620 / Inicio: 2017-11-17 - 12:52:58 / Fin: 2017-11-17 - 12:52:58 / ERROR
+#### ERROR al procesar la ref.19538670 - 19538670 (PF)
+Ref: 19538670 / Inicio: 2017-11-17 - 12:52:58 / Fin: 2017-11-17 - 12:52:58 / ERROR
+#### ERROR al procesar la ref.19538702 - 19538702 (PF)
+Ref: 19538702 / Inicio: 2017-11-17 - 12:52:58 / Fin: 2017-11-17 - 12:52:58 / ERROR
+#### ERROR al procesar la ref.19538712 - 19538712 (PF)
+Ref: 19538712 / Inicio: 2017-11-17 - 12:52:58 / Fin: 2017-11-17 - 12:52:58 / ERROR
+#### ERROR al procesar la ref.19538731 - 19538731 (PF)
+Ref: 19538731 / Inicio: 2017-11-17 - 12:52:58 / Fin: 2017-11-17 - 12:52:58 / ERROR
+#### ERROR al procesar la ref.19538735 - 19538735 (PF)
+Ref: 19538735 / Inicio: 2017-11-17 - 12:52:58 / Fin: 2017-11-17 - 12:52:58 / ERROR
+#### ERROR al procesar la ref.19538770 - 19538770 (PF)
+Ref: 19538770 / Inicio: 2017-11-17 - 12:52:58 / Fin: 2017-11-17 - 12:52:58 / ERROR
+#### ERROR al procesar la ref.19538804 - 19538804 (PF)
+Ref: 19538804 / Inicio: 2017-11-17 - 12:52:58 / Fin: 2017-11-17 - 12:52:58 / ERROR
+#### ERROR al procesar la ref.19539803 - 19539803 (PF)
+Ref: 19539803 / Inicio: 2017-11-17 - 12:52:58 / Fin: 2017-11-17 - 12:52:58 / ERROR
+#### ERROR al procesar la ref.19539815 - 19539815 (PF)
+Ref: 19539815 / Inicio: 2017-11-17 - 12:52:58 / Fin: 2017-11-17 - 12:52:58 / ERROR
+#### ERROR al procesar la ref.19539819 - 19539819 (PF)
+Ref: 19539819 / Inicio: 2017-11-17 - 12:52:58 / Fin: 2017-11-17 - 12:52:59 / ERROR
+#### ERROR al procesar la ref.19542949 - 19542949 (PF)
+Ref: 19542949 / Inicio: 2017-11-17 - 12:52:59 / Fin: 2017-11-17 - 12:52:59 / ERROR
+#### ERROR al procesar la ref.19542998 - 19542998 (PF)
+Ref: 19542998 / Inicio: 2017-11-17 - 12:52:59 / Fin: 2017-11-17 - 12:52:59 / ERROR
+#### ERROR al procesar la ref.19543102 - 19543102 (PF)
+Ref: 19543102 / Inicio: 2017-11-17 - 12:52:59 / Fin: 2017-11-17 - 12:52:59 / ERROR
+#### ERROR al procesar la ref.19543103 - 19543103 (PF)
+Ref: 19543103 / Inicio: 2017-11-17 - 12:52:59 / Fin: 2017-11-17 - 12:52:59 / ERROR
+#### ERROR al procesar la ref.19543853 - 19543853 (PF)
+Ref: 19543853 / Inicio: 2017-11-17 - 12:52:59 / Fin: 2017-11-17 - 12:52:59 / ERROR
+#### ERROR al procesar la ref.19544167 - 19544167 (PF)
+Ref: 19544167 / Inicio: 2017-11-17 - 12:52:59 / Fin: 2017-11-17 - 12:52:59 / ERROR
+#### ERROR al procesar la ref.19544193 - 19544193 (PF)
+Ref: 19544193 / Inicio: 2017-11-17 - 12:52:59 / Fin: 2017-11-17 - 12:52:59 / ERROR
+#### ERROR al procesar la ref.19544221 - 19544221 (PF)
+Ref: 19544221 / Inicio: 2017-11-17 - 12:52:59 / Fin: 2017-11-17 - 12:52:59 / ERROR
+#### ERROR al procesar la ref.19544299 - 19544299 (PF)
+Ref: 19544299 / Inicio: 2017-11-17 - 12:52:59 / Fin: 2017-11-17 - 12:52:59 / ERROR
+#### ERROR al procesar la ref.19544305 - 19544305 (PF)
+Ref: 19544305 / Inicio: 2017-11-17 - 12:52:59 / Fin: 2017-11-17 - 12:52:59 / ERROR
+#### ERROR al procesar la ref.19544334 - 19544334 (PF)
+Ref: 19544334 / Inicio: 2017-11-17 - 12:52:59 / Fin: 2017-11-17 - 12:52:59 / ERROR
+#### ERROR al procesar la ref.19544405 - 19544405 (PF)
+Ref: 19544405 / Inicio: 2017-11-17 - 12:52:59 / Fin: 2017-11-17 - 12:52:59 / ERROR
+#### ERROR al procesar la ref.19544598 - 19544598 (PF)
+Ref: 19544598 / Inicio: 2017-11-17 - 12:52:59 / Fin: 2017-11-17 - 12:52:59 / ERROR
+#### ERROR al procesar la ref.19544610 - 19544610 (PF)
+Ref: 19544610 / Inicio: 2017-11-17 - 12:52:59 / Fin: 2017-11-17 - 12:52:59 / ERROR
+#### ERROR al procesar la ref.19544617 - 19544617 (PF)
+Ref: 19544617 / Inicio: 2017-11-17 - 12:52:59 / Fin: 2017-11-17 - 12:52:59 / ERROR
+#### ERROR al procesar la ref.19544634 - 19544634 (PF)
+Ref: 19544634 / Inicio: 2017-11-17 - 12:52:59 / Fin: 2017-11-17 - 12:52:59 / ERROR
+#### ERROR al procesar la ref.19544706 - 19544706 (PF)
+Ref: 19544706 / Inicio: 2017-11-17 - 12:52:59 / Fin: 2017-11-17 - 12:52:59 / ERROR
+#### ERROR al procesar la ref.19544790 - 19544790 (PF)
+Ref: 19544790 / Inicio: 2017-11-17 - 12:52:59 / Fin: 2017-11-17 - 12:52:59 / ERROR
+#### ERROR al procesar la ref.19544791 - 19544791 (PF)
+Ref: 19544791 / Inicio: 2017-11-17 - 12:52:59 / Fin: 2017-11-17 - 12:52:59 / ERROR
+#### ERROR al procesar la ref.19544907 - 19544907 (PF)
+Ref: 19544907 / Inicio: 2017-11-17 - 12:52:59 / Fin: 2017-11-17 - 12:52:59 / ERROR
+#### ERROR al procesar la ref.19544922 - 19544922 (PF)
+Ref: 19544922 / Inicio: 2017-11-17 - 12:52:59 / Fin: 2017-11-17 - 12:52:59 / ERROR
+#### ERROR al procesar la ref.19545006 - 19545006 (PF)
+Ref: 19545006 / Inicio: 2017-11-17 - 12:52:59 / Fin: 2017-11-17 - 12:52:59 / ERROR
+#### ERROR al procesar la ref.19545007 - 19545007 (PF)
+Ref: 19545007 / Inicio: 2017-11-17 - 12:52:59 / Fin: 2017-11-17 - 12:52:59 / ERROR
+#### ERROR al procesar la ref.19546409 - 19546409 (PF)
+Ref: 19546409 / Inicio: 2017-11-17 - 12:52:59 / Fin: 2017-11-17 - 12:52:59 / ERROR
+#### ERROR al procesar la ref.19546619 - 19546619 (PF)
+Ref: 19546619 / Inicio: 2017-11-17 - 12:52:59 / Fin: 2017-11-17 - 12:53:00 / ERROR
+#### ERROR al procesar la ref.19547280 - 19547280 (PF)
+Ref: 19547280 / Inicio: 2017-11-17 - 12:53:00 / Fin: 2017-11-17 - 12:53:00 / ERROR
+#### ERROR al procesar la ref.19547451 - 19547451 (PF)
+Ref: 19547451 / Inicio: 2017-11-17 - 12:53:00 / Fin: 2017-11-17 - 12:53:00 / ERROR
+#### ERROR al procesar la ref.19547772 - 19547772 (PF)
+Ref: 19547772 / Inicio: 2017-11-17 - 12:53:00 / Fin: 2017-11-17 - 12:53:00 / ERROR
+#### ERROR al procesar la ref.19547779 - 19547779 (PF)
+Ref: 19547779 / Inicio: 2017-11-17 - 12:53:00 / Fin: 2017-11-17 - 12:53:00 / ERROR
+#### ERROR al procesar la ref.19547887 - 19547887 (PF)
+Ref: 19547887 / Inicio: 2017-11-17 - 12:53:00 / Fin: 2017-11-17 - 12:53:00 / ERROR
+#### ERROR al procesar la ref.19547952 - 19547952 (PF)
+Ref: 19547952 / Inicio: 2017-11-17 - 12:53:00 / Fin: 2017-11-17 - 12:53:00 / ERROR
+#### ERROR al procesar la ref.19548701 - 19548701 (PF)
+Ref: 19548701 / Inicio: 2017-11-17 - 12:53:00 / Fin: 2017-11-17 - 12:53:00 / ERROR
+#### ERROR al procesar la ref.19548851 - 19548851 (PF)
+Ref: 19548851 / Inicio: 2017-11-17 - 12:53:00 / Fin: 2017-11-17 - 12:53:00 / ERROR
+#### ERROR al procesar la ref.19548857 - 19548857 (PF)
+Ref: 19548857 / Inicio: 2017-11-17 - 12:53:00 / Fin: 2017-11-17 - 12:53:00 / ERROR
+#### ERROR al procesar la ref.19549017 - 19549017 (PF)
+Ref: 19549017 / Inicio: 2017-11-17 - 12:53:00 / Fin: 2017-11-17 - 12:53:00 / ERROR
+#### ERROR al procesar la ref.19549035 - 19549035 (PF)
+Ref: 19549035 / Inicio: 2017-11-17 - 12:53:00 / Fin: 2017-11-17 - 12:53:00 / ERROR
+#### ERROR al procesar la ref.19549172 - 19549172 (PF)
+Ref: 19549172 / Inicio: 2017-11-17 - 12:53:00 / Fin: 2017-11-17 - 12:53:00 / ERROR
+#### ERROR al procesar la ref.19549177 - 19549177 (PF)
+Ref: 19549177 / Inicio: 2017-11-17 - 12:53:00 / Fin: 2017-11-17 - 12:53:00 / ERROR
+#### ERROR al procesar la ref.19549302 - 19549302 (PF)
+Ref: 19549302 / Inicio: 2017-11-17 - 12:53:00 / Fin: 2017-11-17 - 12:53:00 / ERROR
+#### ERROR al procesar la ref.19549317 - 19549317 (PF)
+Ref: 19549317 / Inicio: 2017-11-17 - 12:53:00 / Fin: 2017-11-17 - 12:53:00 / ERROR
+#### ERROR al procesar la ref.19549318 - 19549318 (PF)
+Ref: 19549318 / Inicio: 2017-11-17 - 12:53:00 / Fin: 2017-11-17 - 12:53:00 / ERROR
+#### ERROR al procesar la ref.19549345 - 19549345 (PF)
+Ref: 19549345 / Inicio: 2017-11-17 - 12:53:00 / Fin: 2017-11-17 - 12:53:00 / ERROR
+#### ERROR al procesar la ref.19549360 - 19549360 (PF)
+Ref: 19549360 / Inicio: 2017-11-17 - 12:53:00 / Fin: 2017-11-17 - 12:53:00 / ERROR
+#### ERROR al procesar la ref.19549391 - 19549391 (PF)
+Ref: 19549391 / Inicio: 2017-11-17 - 12:53:00 / Fin: 2017-11-17 - 12:53:00 / ERROR
+#### ERROR al procesar la ref.19549403 - 19549403 (PF)
+Ref: 19549403 / Inicio: 2017-11-17 - 12:53:00 / Fin: 2017-11-17 - 12:53:00 / ERROR
+#### ERROR al procesar la ref.19549540 - 19549540 (PF)
+Ref: 19549540 / Inicio: 2017-11-17 - 12:53:00 / Fin: 2017-11-17 - 12:53:00 / ERROR
+#### ERROR al procesar la ref.19549655 - 19549655 (PF)
+Ref: 19549655 / Inicio: 2017-11-17 - 12:53:00 / Fin: 2017-11-17 - 12:53:00 / ERROR
+#### ERROR al procesar la ref.19549669 - 19549669 (PF)
+Ref: 19549669 / Inicio: 2017-11-17 - 12:53:00 / Fin: 2017-11-17 - 12:53:00 / ERROR
+#### ERROR al procesar la ref.19549923 - 19549923 (PF)
+Ref: 19549923 / Inicio: 2017-11-17 - 12:53:00 / Fin: 2017-11-17 - 12:53:00 / ERROR
+#### ERROR al procesar la ref.19549987 - 19549987 (PF)
+Ref: 19549987 / Inicio: 2017-11-17 - 12:53:00 / Fin: 2017-11-17 - 12:53:01 / ERROR
+#### ERROR al procesar la ref.19662070 - 19662070 (PF)
+Ref: 19662070 / Inicio: 2017-11-17 - 12:53:01 / Fin: 2017-11-17 - 12:53:01 / ERROR
+#### ERROR al procesar la ref.19665096 - 19665096 (PF)
+Ref: 19665096 / Inicio: 2017-11-17 - 12:53:01 / Fin: 2017-11-17 - 12:53:01 / ERROR
+#### ERROR al procesar la ref.19665162 - 19665162 (PF)
+Ref: 19665162 / Inicio: 2017-11-17 - 12:53:01 / Fin: 2017-11-17 - 12:53:01 / ERROR
+#### ERROR al procesar la ref.19665289 - 19665289 (PF)
+Ref: 19665289 / Inicio: 2017-11-17 - 12:53:01 / Fin: 2017-11-17 - 12:53:01 / ERROR
+#### ERROR al procesar la ref.19665589 - 19665589 (PF)
+Ref: 19665589 / Inicio: 2017-11-17 - 12:53:01 / Fin: 2017-11-17 - 12:53:01 / ERROR
+#### ERROR al procesar la ref.19668669 - 19668669 (PF)
+Ref: 19668669 / Inicio: 2017-11-17 - 12:53:01 / Fin: 2017-11-17 - 12:53:01 / ERROR
+#### ERROR al procesar la ref.19686510 - 19686510 (PF)
+Ref: 19686510 / Inicio: 2017-11-17 - 12:53:01 / Fin: 2017-11-17 - 12:53:01 / ERROR
+#### ERROR al procesar la ref.19686569 - 19686569 (PF)
+Ref: 19686569 / Inicio: 2017-11-17 - 12:53:01 / Fin: 2017-11-17 - 12:53:01 / ERROR
+#### ERROR al procesar la ref.19689076 - 19689076 (PF)
+Ref: 19689076 / Inicio: 2017-11-17 - 12:53:01 / Fin: 2017-11-17 - 12:53:01 / ERROR
+#### ERROR al procesar la ref.19702379 - 19702379 (PF)
+Ref: 19702379 / Inicio: 2017-11-17 - 12:53:01 / Fin: 2017-11-17 - 12:53:01 / ERROR
+#### ERROR al procesar la ref.19733618 - 19733618 (PF)
+Ref: 19733618 / Inicio: 2017-11-17 - 12:53:01 / Fin: 2017-11-17 - 12:53:01 / ERROR
+#### ERROR al procesar la ref.19733690 - 19733690 (PF)
+Ref: 19733690 / Inicio: 2017-11-17 - 12:53:01 / Fin: 2017-11-17 - 12:53:01 / ERROR
+#### ERROR al procesar la ref.19980202 - 19980202 (PF)
+Ref: 19980202 / Inicio: 2017-11-17 - 12:53:01 / Fin: 2017-11-17 - 12:53:01 / ERROR
+#### ERROR al procesar la ref.19982120 - 19982120 (PF)
+Ref: 19982120 / Inicio: 2017-11-17 - 12:53:01 / Fin: 2017-11-17 - 12:53:01 / ERROR
+#### ERROR al procesar la ref.19982122 - 19982122 (PF)
+Ref: 19982122 / Inicio: 2017-11-17 - 12:53:01 / Fin: 2017-11-17 - 12:53:01 / ERROR
+#### ERROR al procesar la ref.19982124 - 19982124 (PF)
+Ref: 19982124 / Inicio: 2017-11-17 - 12:53:01 / Fin: 2017-11-17 - 12:53:01 / ERROR
+#### ERROR al procesar la ref.19982150 - 19982150 (PF)
+Ref: 19982150 / Inicio: 2017-11-17 - 12:53:01 / Fin: 2017-11-17 - 12:53:01 / ERROR
+#### ERROR al procesar la ref.19982156 - 19982156 (PF)
+Ref: 19982156 / Inicio: 2017-11-17 - 12:53:01 / Fin: 2017-11-17 - 12:53:01 / ERROR
+#### ERROR al procesar la ref.19984980 - 19984980 (PF)
+Ref: 19984980 / Inicio: 2017-11-17 - 12:53:01 / Fin: 2017-11-17 - 12:53:01 / ERROR
+#### ERROR al procesar la ref.19984992 - 19984992 (PF)
+Ref: 19984992 / Inicio: 2017-11-17 - 12:53:01 / Fin: 2017-11-17 - 12:53:01 / ERROR
+#### ERROR al procesar la ref.19985246 - 19985246 (PF)
+Ref: 19985246 / Inicio: 2017-11-17 - 12:53:01 / Fin: 2017-11-17 - 12:53:01 / ERROR
+#### ERROR al procesar la ref.1PA00100 - 1PA00100 (PF)
+Ref: 1PA00100 / Inicio: 2017-11-17 - 12:53:01 / Fin: 2017-11-17 - 12:53:01 / ERROR
+#### ERROR al procesar la ref.1PA00300 - 1PA00300 (PF)
+Ref: 1PA00300 / Inicio: 2017-11-17 - 12:53:01 / Fin: 2017-11-17 - 12:53:01 / ERROR
+#### ERROR al procesar la ref.1PA00400 - 1PA00400 (PF)
+Ref: 1PA00400 / Inicio: 2017-11-17 - 12:53:01 / Fin: 2017-11-17 - 12:53:01 / ERROR
+#### ERROR al procesar la ref.1PA00500 - 1PA00500 (PF)
+Ref: 1PA00500 / Inicio: 2017-11-17 - 12:53:01 / Fin: 2017-11-17 - 12:53:02 / ERROR
+#### ERROR al procesar la ref.1PA00600 - 1PA00600 (PF)
+Ref: 1PA00600 / Inicio: 2017-11-17 - 12:53:02 / Fin: 2017-11-17 - 12:53:02 / ERROR
+#### ERROR al procesar la ref.1PA00700 - 1PA00700 (PF)
+Ref: 1PA00700 / Inicio: 2017-11-17 - 12:53:02 / Fin: 2017-11-17 - 12:53:02 / ERROR
+#### ERROR al procesar la ref.1PA00800 - 1PA00800 (PF)
+Ref: 1PA00800 / Inicio: 2017-11-17 - 12:53:02 / Fin: 2017-11-17 - 12:53:02 / ERROR
+#### ERROR al procesar la ref.1PA00900 - 1PA00900 (PF)
+Ref: 1PA00900 / Inicio: 2017-11-17 - 12:53:02 / Fin: 2017-11-17 - 12:53:02 / ERROR
+#### ERROR al procesar la ref.1PA01000 - 1PA01000 (PF)
+Ref: 1PA01000 / Inicio: 2017-11-17 - 12:53:02 / Fin: 2017-11-17 - 12:53:02 / ERROR
+#### ERROR al procesar la ref.1PA01100 - 1PA01100 (PF)
+Ref: 1PA01100 / Inicio: 2017-11-17 - 12:53:02 / Fin: 2017-11-17 - 12:53:02 / ERROR
+#### ERROR al procesar la ref.1PA10100 - 1PA10100 (PF)
+Ref: 1PA10100 / Inicio: 2017-11-17 - 12:53:02 / Fin: 2017-11-17 - 12:53:02 / ERROR
+#### ERROR al procesar la ref.1PA10200 - 1PA10200 (PF)
+Ref: 1PA10200 / Inicio: 2017-11-17 - 12:53:02 / Fin: 2017-11-17 - 12:53:02 / ERROR
+#### ERROR al procesar la ref.1PA10300 - 1PA10300 (PF)
+Ref: 1PA10300 / Inicio: 2017-11-17 - 12:53:02 / Fin: 2017-11-17 - 12:53:02 / ERROR
+#### ERROR al procesar la ref.1PA20100 - 1PA20100 (PF)
+Ref: 1PA20100 / Inicio: 2017-11-17 - 12:53:02 / Fin: 2017-11-17 - 12:53:02 / ERROR
+#### ERROR al procesar la ref.1PA20200 - 1PA20200 (PF)
+Ref: 1PA20200 / Inicio: 2017-11-17 - 12:53:02 / Fin: 2017-11-17 - 12:53:02 / ERROR
+#### ERROR al procesar la ref.1PA20300 - 1PA20300 (PF)
+Ref: 1PA20300 / Inicio: 2017-11-17 - 12:53:02 / Fin: 2017-11-17 - 12:53:02 / ERROR
+#### ERROR al procesar la ref.1PA20400 - 1PA20400 (PF)
+Ref: 1PA20400 / Inicio: 2017-11-17 - 12:53:02 / Fin: 2017-11-17 - 12:53:02 / ERROR
+#### ERROR al procesar la ref.1PA20500 - 1PA20500 (PF)
+Ref: 1PA20500 / Inicio: 2017-11-17 - 12:53:02 / Fin: 2017-11-17 - 12:53:02 / ERROR
+#### ERROR al procesar la ref.1PA30100 - 1PA30100 (PF)
+Ref: 1PA30100 / Inicio: 2017-11-17 - 12:53:02 / Fin: 2017-11-17 - 12:53:02 / ERROR
+#### ERROR al procesar la ref.1PA30200 - 1PA30200 (PF)
+Ref: 1PA30200 / Inicio: 2017-11-17 - 12:53:02 / Fin: 2017-11-17 - 12:53:02 / ERROR
+#### ERROR al procesar la ref.1PA40100 - 1PA40100 (PF)
+Ref: 1PA40100 / Inicio: 2017-11-17 - 12:53:02 / Fin: 2017-11-17 - 12:53:02 / ERROR
+#### ERROR al procesar la ref.1PA40200 - 1PA40200 (PF)
+Ref: 1PA40200 / Inicio: 2017-11-17 - 12:53:02 / Fin: 2017-11-17 - 12:53:02 / ERROR
+#### ERROR al procesar la ref.1PA90100 - 1PA90100 (PF)
+Ref: 1PA90100 / Inicio: 2017-11-17 - 12:53:02 / Fin: 2017-11-17 - 12:53:02 / ERROR
+#### ERROR al procesar la ref.1PC00101 - 1PC00101 (PF)
+Ref: 1PC00101 / Inicio: 2017-11-17 - 12:53:02 / Fin: 2017-11-17 - 12:53:02 / ERROR
+#### ERROR al procesar la ref.1PC00201 - 1PC00201 (PF)
+Ref: 1PC00201 / Inicio: 2017-11-17 - 12:53:02 / Fin: 2017-11-17 - 12:53:02 / ERROR
+#### ERROR al procesar la ref.1PC00301 - 1PC00301 (PF)
+Ref: 1PC00301 / Inicio: 2017-11-17 - 12:53:02 / Fin: 2017-11-17 - 12:53:02 / ERROR
+#### ERROR al procesar la ref.1PC00401 - 1PC00401 (PF)
+Ref: 1PC00401 / Inicio: 2017-11-17 - 12:53:02 / Fin: 2017-11-17 - 12:53:02 / ERROR
+#### ERROR al procesar la ref.1PC00501 - 1PC00501 (PF)
+Ref: 1PC00501 / Inicio: 2017-11-17 - 12:53:02 / Fin: 2017-11-17 - 12:53:03 / ERROR
+#### ERROR al procesar la ref.1PC00601 - 1PC00601 (PF)
+Ref: 1PC00601 / Inicio: 2017-11-17 - 12:53:03 / Fin: 2017-11-17 - 12:53:03 / ERROR
+#### ERROR al procesar la ref.1PC00701 - 1PC00701 (PF)
+Ref: 1PC00701 / Inicio: 2017-11-17 - 12:53:03 / Fin: 2017-11-17 - 12:53:03 / ERROR
+#### ERROR al procesar la ref.1PC00801 - 1PC00801 (PF)
+Ref: 1PC00801 / Inicio: 2017-11-17 - 12:53:03 / Fin: 2017-11-17 - 12:53:03 / ERROR
+#### ERROR al procesar la ref.1PC00901 - 1PC00901 (PF)
+Ref: 1PC00901 / Inicio: 2017-11-17 - 12:53:03 / Fin: 2017-11-17 - 12:53:03 / ERROR
+#### ERROR al procesar la ref.1PC01001 - 1PC01001 (PF)
+Ref: 1PC01001 / Inicio: 2017-11-17 - 12:53:03 / Fin: 2017-11-17 - 12:53:03 / ERROR
+#### ERROR al procesar la ref.1PC01101 - 1PC01101 (PF)
+Ref: 1PC01101 / Inicio: 2017-11-17 - 12:53:03 / Fin: 2017-11-17 - 12:53:03 / ERROR
+#### ERROR al procesar la ref.1PC01201 - 1PC01201 (PF)
+Ref: 1PC01201 / Inicio: 2017-11-17 - 12:53:03 / Fin: 2017-11-17 - 12:53:03 / ERROR
+#### ERROR al procesar la ref.1PC01301 - 1PC01301 (PF)
+Ref: 1PC01301 / Inicio: 2017-11-17 - 12:53:03 / Fin: 2017-11-17 - 12:53:03 / ERROR
+#### ERROR al procesar la ref.1PC01401 - 1PC01401 (PF)
+Ref: 1PC01401 / Inicio: 2017-11-17 - 12:53:03 / Fin: 2017-11-17 - 12:53:03 / ERROR
+#### ERROR al procesar la ref.1PC01501 - 1PC01501 (PF)
+Ref: 1PC01501 / Inicio: 2017-11-17 - 12:53:03 / Fin: 2017-11-17 - 12:53:03 / ERROR
+#### ERROR al procesar la ref.1PC01601 - 1PC01601 (PF)
+Ref: 1PC01601 / Inicio: 2017-11-17 - 12:53:03 / Fin: 2017-11-17 - 12:53:03 / ERROR
+#### ERROR al procesar la ref.1PC01701 - 1PC01701 (PF)
+Ref: 1PC01701 / Inicio: 2017-11-17 - 12:53:03 / Fin: 2017-11-17 - 12:53:03 / ERROR
+#### ERROR al procesar la ref.1PC01801 - 1PC01801 (PF)
+Ref: 1PC01801 / Inicio: 2017-11-17 - 12:53:03 / Fin: 2017-11-17 - 12:53:03 / ERROR
+#### ERROR al procesar la ref.1PC01901 - 1PC01901 (PF)
+Ref: 1PC01901 / Inicio: 2017-11-17 - 12:53:03 / Fin: 2017-11-17 - 12:53:03 / ERROR
+#### ERROR al procesar la ref.1PC02001 - 1PC02001 (PF)
+Ref: 1PC02001 / Inicio: 2017-11-17 - 12:53:03 / Fin: 2017-11-17 - 12:53:03 / ERROR
+#### ERROR al procesar la ref.1PC02101 - 1PC02101 (PF)
+Ref: 1PC02101 / Inicio: 2017-11-17 - 12:53:03 / Fin: 2017-11-17 - 12:53:03 / ERROR
+#### ERROR al procesar la ref.1PC02201 - 1PC02201 (PF)
+Ref: 1PC02201 / Inicio: 2017-11-17 - 12:53:03 / Fin: 2017-11-17 - 12:53:03 / ERROR
+#### ERROR al procesar la ref.1PC02301 - 1PC02301 (PF)
+Ref: 1PC02301 / Inicio: 2017-11-17 - 12:53:03 / Fin: 2017-11-17 - 12:53:03 / ERROR
+#### ERROR al procesar la ref.1PC02401 - 1PC02401 (PF)
+Ref: 1PC02401 / Inicio: 2017-11-17 - 12:53:03 / Fin: 2017-11-17 - 12:53:03 / ERROR
+#### ERROR al procesar la ref.1PC02501 - 1PC02501 (PF)
+Ref: 1PC02501 / Inicio: 2017-11-17 - 12:53:03 / Fin: 2017-11-17 - 12:53:03 / ERROR
+#### ERROR al procesar la ref.1PC02601 - 1PC02601 (PF)
+Ref: 1PC02601 / Inicio: 2017-11-17 - 12:53:03 / Fin: 2017-11-17 - 12:53:03 / ERROR
+#### ERROR al procesar la ref.1PC02701 - 1PC02701 (PF)
+Ref: 1PC02701 / Inicio: 2017-11-17 - 12:53:03 / Fin: 2017-11-17 - 12:53:03 / ERROR
+#### ERROR al procesar la ref.1PC02801 - 1PC02801 (PF)
+Ref: 1PC02801 / Inicio: 2017-11-17 - 12:53:03 / Fin: 2017-11-17 - 12:53:03 / ERROR
+#### ERROR al procesar la ref.1PC02901 - 1PC02901 (PF)
+Ref: 1PC02901 / Inicio: 2017-11-17 - 12:53:03 / Fin: 2017-11-17 - 12:53:03 / ERROR
+#### ERROR al procesar la ref.1PC03001 - 1PC03001 (PF)
+Ref: 1PC03001 / Inicio: 2017-11-17 - 12:53:03 / Fin: 2017-11-17 - 12:53:03 / ERROR
+#### ERROR al procesar la ref.1PC03101 - 1PC03101 (PF)
+Ref: 1PC03101 / Inicio: 2017-11-17 - 12:53:03 / Fin: 2017-11-17 - 12:53:04 / ERROR
+#### ERROR al procesar la ref.1PC03201 - 1PC03201 (PF)
+Ref: 1PC03201 / Inicio: 2017-11-17 - 12:53:04 / Fin: 2017-11-17 - 12:53:04 / ERROR
+#### ERROR al procesar la ref.1PC03301 - 1PC03301 (PF)
+Ref: 1PC03301 / Inicio: 2017-11-17 - 12:53:04 / Fin: 2017-11-17 - 12:53:04 / ERROR
+#### ERROR al procesar la ref.1PC03401 - 1PC03401 (PF)
+Ref: 1PC03401 / Inicio: 2017-11-17 - 12:53:04 / Fin: 2017-11-17 - 12:53:04 / ERROR
+#### ERROR al procesar la ref.1PC03501 - 1PC03501 (PF)
+Ref: 1PC03501 / Inicio: 2017-11-17 - 12:53:04 / Fin: 2017-11-17 - 12:53:04 / ERROR
+
+***************************************************************************
+CONSULTA DE STOCK DE TODOS LOS ARTÍCULOS DE PF:
+Proceso finalizado el 2017-11-17, a las 12:53:04
+
+CONSULTA DE STOCK DE TODOS LOS ARTÍCULOS DE PF:
+Referencias de las que no se ha podido obtener stock de competidores por Errores de Proceso
+Resultados del Segundo Intento
+Proceso iniciado el 2017-11-17, a las 12:53:04
+***************************************************************************
+
+#### ERROR al procesar la ref.12611900 - 12611900 (PF)
+Ref: 12611900 / Inicio: 2017-11-17 - 12:53:04 / Fin: 2017-11-17 - 12:53:04 / ERROR
+#### ERROR al procesar la ref.12612002 - 12612002 (PF)
+Ref: 12612002 / Inicio: 2017-11-17 - 12:53:04 / Fin: 2017-11-17 - 12:53:04 / ERROR
+#### ERROR al procesar la ref.12612100 - 12612100 (PF)
+Ref: 12612100 / Inicio: 2017-11-17 - 12:53:04 / Fin: 2017-11-17 - 12:53:04 / ERROR
+#### ERROR al procesar la ref.13000100 - 13000100 (PF)
+Ref: 13000100 / Inicio: 2017-11-17 - 12:53:04 / Fin: 2017-11-17 - 12:53:04 / ERROR
+#### ERROR al procesar la ref.13000500 - 13000500 (PF)
+Ref: 13000500 / Inicio: 2017-11-17 - 12:53:04 / Fin: 2017-11-17 - 12:53:04 / ERROR
+#### ERROR al procesar la ref.13000700 - 13000700 (PF)
+Ref: 13000700 / Inicio: 2017-11-17 - 12:53:04 / Fin: 2017-11-17 - 12:53:04 / ERROR
+#### ERROR al procesar la ref.13000800 - 13000800 (PF)
+Ref: 13000800 / Inicio: 2017-11-17 - 12:53:04 / Fin: 2017-11-17 - 12:53:04 / ERROR
+#### ERROR al procesar la ref.13000900 - 13000900 (PF)
+Ref: 13000900 / Inicio: 2017-11-17 - 12:53:04 / Fin: 2017-11-17 - 12:53:04 / ERROR
+#### ERROR al procesar la ref.13001200 - 13001200 (PF)
+Ref: 13001200 / Inicio: 2017-11-17 - 12:53:04 / Fin: 2017-11-17 - 12:53:04 / ERROR
+#### ERROR al procesar la ref.13001500 - 13001500 (PF)
+Ref: 13001500 / Inicio: 2017-11-17 - 12:53:04 / Fin: 2017-11-17 - 12:53:04 / ERROR
+#### ERROR al procesar la ref.13001600 - 13001600 (PF)
+Ref: 13001600 / Inicio: 2017-11-17 - 12:53:04 / Fin: 2017-11-17 - 12:53:04 / ERROR
+#### ERROR al procesar la ref.13003000 - 13003000 (PF)
+Ref: 13003000 / Inicio: 2017-11-17 - 12:53:04 / Fin: 2017-11-17 - 12:53:04 / ERROR
+#### ERROR al procesar la ref.13003700 - 13003700 (PF)
+Ref: 13003700 / Inicio: 2017-11-17 - 12:53:04 / Fin: 2017-11-17 - 12:53:04 / ERROR
+#### ERROR al procesar la ref.13003900 - 13003900 (PF)
+Ref: 13003900 / Inicio: 2017-11-17 - 12:53:04 / Fin: 2017-11-17 - 12:53:04 / ERROR
+#### ERROR al procesar la ref.13004001 - 13004001 (PF)
+Ref: 13004001 / Inicio: 2017-11-17 - 12:53:04 / Fin: 2017-11-17 - 12:53:04 / ERROR
+#### ERROR al procesar la ref.13400101 - 13400101 (PF)
+Ref: 13400101 / Inicio: 2017-11-17 - 12:53:04 / Fin: 2017-11-17 - 12:53:04 / ERROR
+#### ERROR al procesar la ref.13400300 - 13400300 (PF)
+Ref: 13400300 / Inicio: 2017-11-17 - 12:53:04 / Fin: 2017-11-17 - 12:53:04 / ERROR
+#### ERROR al procesar la ref.13400700 - 13400700 (PF)
+Ref: 13400700 / Inicio: 2017-11-17 - 12:53:04 / Fin: 2017-11-17 - 12:53:04 / ERROR
+#### ERROR al procesar la ref.13400800 - 13400800 (PF)
+Ref: 13400800 / Inicio: 2017-11-17 - 12:53:04 / Fin: 2017-11-17 - 12:53:04 / ERROR
+#### ERROR al procesar la ref.13400900 - 13400900 (PF)
+Ref: 13400900 / Inicio: 2017-11-17 - 12:53:04 / Fin: 2017-11-17 - 12:53:04 / ERROR
+#### ERROR al procesar la ref.13401000 - 13401000 (PF)
+Ref: 13401000 / Inicio: 2017-11-17 - 12:53:04 / Fin: 2017-11-17 - 12:53:05 / ERROR
+#### ERROR al procesar la ref.13401100 - 13401100 (PF)
+Ref: 13401100 / Inicio: 2017-11-17 - 12:53:05 / Fin: 2017-11-17 - 12:53:05 / ERROR
+#### ERROR al procesar la ref.13401202 - 13401202 (PF)
+Ref: 13401202 / Inicio: 2017-11-17 - 12:53:05 / Fin: 2017-11-17 - 12:53:05 / ERROR
+#### ERROR al procesar la ref.13401300 - 13401300 (PF)
+Ref: 13401300 / Inicio: 2017-11-17 - 12:53:05 / Fin: 2017-11-17 - 12:53:05 / ERROR
+#### ERROR al procesar la ref.13401400 - 13401400 (PF)
+Ref: 13401400 / Inicio: 2017-11-17 - 12:53:05 / Fin: 2017-11-17 - 12:53:05 / ERROR
+#### ERROR al procesar la ref.13401500 - 13401500 (PF)
+Ref: 13401500 / Inicio: 2017-11-17 - 12:53:05 / Fin: 2017-11-17 - 12:53:05 / ERROR
+#### ERROR al procesar la ref.13401600 - 13401600 (PF)
+Ref: 13401600 / Inicio: 2017-11-17 - 12:53:05 / Fin: 2017-11-17 - 12:53:05 / ERROR
+#### ERROR al procesar la ref.13401700 - 13401700 (PF)
+Ref: 13401700 / Inicio: 2017-11-17 - 12:53:05 / Fin: 2017-11-17 - 12:53:05 / ERROR
+#### ERROR al procesar la ref.13401800 - 13401800 (PF)
+Ref: 13401800 / Inicio: 2017-11-17 - 12:53:05 / Fin: 2017-11-17 - 12:53:05 / ERROR
+#### ERROR al procesar la ref.13401900 - 13401900 (PF)
+Ref: 13401900 / Inicio: 2017-11-17 - 12:53:05 / Fin: 2017-11-17 - 12:53:05 / ERROR
+#### ERROR al procesar la ref.13402000 - 13402000 (PF)
+Ref: 13402000 / Inicio: 2017-11-17 - 12:53:05 / Fin: 2017-11-17 - 12:53:05 / ERROR
+#### ERROR al procesar la ref.13402100 - 13402100 (PF)
+Ref: 13402100 / Inicio: 2017-11-17 - 12:53:05 / Fin: 2017-11-17 - 12:53:05 / ERROR
+#### ERROR al procesar la ref.13402200 - 13402200 (PF)
+Ref: 13402200 / Inicio: 2017-11-17 - 12:53:05 / Fin: 2017-11-17 - 12:53:05 / ERROR
+#### ERROR al procesar la ref.13402300 - 13402300 (PF)
+Ref: 13402300 / Inicio: 2017-11-17 - 12:53:05 / Fin: 2017-11-17 - 12:53:05 / ERROR
+#### ERROR al procesar la ref.13402500 - 13402500 (PF)
+Ref: 13402500 / Inicio: 2017-11-17 - 12:53:05 / Fin: 2017-11-17 - 12:53:05 / ERROR
+#### ERROR al procesar la ref.13402600 - 13402600 (PF)
+Ref: 13402600 / Inicio: 2017-11-17 - 12:53:05 / Fin: 2017-11-17 - 12:53:05 / ERROR
+#### ERROR al procesar la ref.13402700 - 13402700 (PF)
+Ref: 13402700 / Inicio: 2017-11-17 - 12:53:05 / Fin: 2017-11-17 - 12:53:05 / ERROR
+#### ERROR al procesar la ref.13402800 - 13402800 (PF)
+Ref: 13402800 / Inicio: 2017-11-17 - 12:53:05 / Fin: 2017-11-17 - 12:53:05 / ERROR
+#### ERROR al procesar la ref.13402900 - 13402900 (PF)
+Ref: 13402900 / Inicio: 2017-11-17 - 12:53:05 / Fin: 2017-11-17 - 12:53:05 / ERROR
+#### ERROR al procesar la ref.13403000 - 13403000 (PF)
+Ref: 13403000 / Inicio: 2017-11-17 - 12:53:05 / Fin: 2017-11-17 - 12:53:05 / ERROR
+#### ERROR al procesar la ref.13403100 - 13403100 (PF)
+Ref: 13403100 / Inicio: 2017-11-17 - 12:53:05 / Fin: 2017-11-17 - 12:53:05 / ERROR
+#### ERROR al procesar la ref.13403200 - 13403200 (PF)
+Ref: 13403200 / Inicio: 2017-11-17 - 12:53:05 / Fin: 2017-11-17 - 12:53:05 / ERROR
+#### ERROR al procesar la ref.13403300 - 13403300 (PF)
+Ref: 13403300 / Inicio: 2017-11-17 - 12:53:05 / Fin: 2017-11-17 - 12:53:05 / ERROR
+#### ERROR al procesar la ref.13403506 - 13403506 (PF)
+Ref: 13403506 / Inicio: 2017-11-17 - 12:53:05 / Fin: 2017-11-17 - 12:53:05 / ERROR
+#### ERROR al procesar la ref.13403602 - 13403602 (PF)
+Ref: 13403602 / Inicio: 2017-11-17 - 12:53:05 / Fin: 2017-11-17 - 12:53:05 / ERROR
+#### ERROR al procesar la ref.13403701 - 13403701 (PF)
+Ref: 13403701 / Inicio: 2017-11-17 - 12:53:05 / Fin: 2017-11-17 - 12:53:06 / ERROR
+#### ERROR al procesar la ref.13403801 - 13403801 (PF)
+Ref: 13403801 / Inicio: 2017-11-17 - 12:53:06 / Fin: 2017-11-17 - 12:53:06 / ERROR
+#### ERROR al procesar la ref.13416500 - 13416500 (PF)
+Ref: 13416500 / Inicio: 2017-11-17 - 12:53:06 / Fin: 2017-11-17 - 12:53:06 / ERROR
+#### ERROR al procesar la ref.13416600 - 13416600 (PF)
+Ref: 13416600 / Inicio: 2017-11-17 - 12:53:06 / Fin: 2017-11-17 - 12:53:06 / ERROR
+#### ERROR al procesar la ref.13416701 - 13416701 (PF)
+Ref: 13416701 / Inicio: 2017-11-17 - 12:53:06 / Fin: 2017-11-17 - 12:53:06 / ERROR
+#### ERROR al procesar la ref.13416800 - 13416800 (PF)
+Ref: 13416800 / Inicio: 2017-11-17 - 12:53:06 / Fin: 2017-11-17 - 12:53:06 / ERROR
+#### ERROR al procesar la ref.13417000 - 13417000 (PF)
+Ref: 13417000 / Inicio: 2017-11-17 - 12:53:06 / Fin: 2017-11-17 - 12:53:06 / ERROR
+#### ERROR al procesar la ref.13417100 - 13417100 (PF)
+Ref: 13417100 / Inicio: 2017-11-17 - 12:53:06 / Fin: 2017-11-17 - 12:53:06 / ERROR
+#### ERROR al procesar la ref.13417203 - 13417203 (PF)
+Ref: 13417203 / Inicio: 2017-11-17 - 12:53:06 / Fin: 2017-11-17 - 12:53:06 / ERROR
+#### ERROR al procesar la ref.13417300 - 13417300 (PF)
+Ref: 13417300 / Inicio: 2017-11-17 - 12:53:06 / Fin: 2017-11-17 - 12:53:06 / ERROR
+#### ERROR al procesar la ref.13417501 - 13417501 (PF)
+Ref: 13417501 / Inicio: 2017-11-17 - 12:53:06 / Fin: 2017-11-17 - 12:53:06 / ERROR
+#### ERROR al procesar la ref.13417601 - 13417601 (PF)
+Ref: 13417601 / Inicio: 2017-11-17 - 12:53:06 / Fin: 2017-11-17 - 12:53:06 / ERROR
+#### ERROR al procesar la ref.13417700 - 13417700 (PF)
+Ref: 13417700 / Inicio: 2017-11-17 - 12:53:06 / Fin: 2017-11-17 - 12:53:06 / ERROR
+#### ERROR al procesar la ref.13418000 - 13418000 (PF)
+Ref: 13418000 / Inicio: 2017-11-17 - 12:53:06 / Fin: 2017-11-17 - 12:53:06 / ERROR
+#### ERROR al procesar la ref.13418100 - 13418100 (PF)
+Ref: 13418100 / Inicio: 2017-11-17 - 12:53:06 / Fin: 2017-11-17 - 12:53:06 / ERROR
+#### ERROR al procesar la ref.13418200 - 13418200 (PF)
+Ref: 13418200 / Inicio: 2017-11-17 - 12:53:06 / Fin: 2017-11-17 - 12:53:06 / ERROR
+#### ERROR al procesar la ref.13418300 - 13418300 (PF)
+Ref: 13418300 / Inicio: 2017-11-17 - 12:53:06 / Fin: 2017-11-17 - 12:53:06 / ERROR
+#### ERROR al procesar la ref.13418600 - 13418600 (PF)
+Ref: 13418600 / Inicio: 2017-11-17 - 12:53:06 / Fin: 2017-11-17 - 12:53:06 / ERROR
+#### ERROR al procesar la ref.13418800 - 13418800 (PF)
+Ref: 13418800 / Inicio: 2017-11-17 - 12:53:06 / Fin: 2017-11-17 - 12:53:06 / ERROR
+#### ERROR al procesar la ref.13418900 - 13418900 (PF)
+Ref: 13418900 / Inicio: 2017-11-17 - 12:53:06 / Fin: 2017-11-17 - 12:53:06 / ERROR
+#### ERROR al procesar la ref.13419001 - 13419001 (PF)
+Ref: 13419001 / Inicio: 2017-11-17 - 12:53:06 / Fin: 2017-11-17 - 12:53:06 / ERROR
+#### ERROR al procesar la ref.13419102 - 13419102 (PF)
+Ref: 13419102 / Inicio: 2017-11-17 - 12:53:06 / Fin: 2017-11-17 - 12:53:06 / ERROR
+#### ERROR al procesar la ref.13419200 - 13419200 (PF)
+Ref: 13419200 / Inicio: 2017-11-17 - 12:53:06 / Fin: 2017-11-17 - 12:53:06 / ERROR
+#### ERROR al procesar la ref.13419300 - 13419300 (PF)
+Ref: 13419300 / Inicio: 2017-11-17 - 12:53:06 / Fin: 2017-11-17 - 12:53:06 / ERROR
+#### ERROR al procesar la ref.13419400 - 13419400 (PF)
+Ref: 13419400 / Inicio: 2017-11-17 - 12:53:06 / Fin: 2017-11-17 - 12:53:06 / ERROR
+#### ERROR al procesar la ref.13419500 - 13419500 (PF)
+Ref: 13419500 / Inicio: 2017-11-17 - 12:53:06 / Fin: 2017-11-17 - 12:53:07 / ERROR
+#### ERROR al procesar la ref.13419701 - 13419701 (PF)
+Ref: 13419701 / Inicio: 2017-11-17 - 12:53:07 / Fin: 2017-11-17 - 12:53:07 / ERROR
+#### ERROR al procesar la ref.13419800 - 13419800 (PF)
+Ref: 13419800 / Inicio: 2017-11-17 - 12:53:07 / Fin: 2017-11-17 - 12:53:07 / ERROR
+#### ERROR al procesar la ref.13419900 - 13419900 (PF)
+Ref: 13419900 / Inicio: 2017-11-17 - 12:53:07 / Fin: 2017-11-17 - 12:53:07 / ERROR
+#### ERROR al procesar la ref.13420000 - 13420000 (PF)
+Ref: 13420000 / Inicio: 2017-11-17 - 12:53:07 / Fin: 2017-11-17 - 12:53:07 / ERROR
+#### ERROR al procesar la ref.13420100 - 13420100 (PF)
+Ref: 13420100 / Inicio: 2017-11-17 - 12:53:07 / Fin: 2017-11-17 - 12:53:07 / ERROR
+#### ERROR al procesar la ref.13420200 - 13420200 (PF)
+Ref: 13420200 / Inicio: 2017-11-17 - 12:53:07 / Fin: 2017-11-17 - 12:53:07 / ERROR
+#### ERROR al procesar la ref.13420300 - 13420300 (PF)
+Ref: 13420300 / Inicio: 2017-11-17 - 12:53:07 / Fin: 2017-11-17 - 12:53:07 / ERROR
+#### ERROR al procesar la ref.13420400 - 13420400 (PF)
+Ref: 13420400 / Inicio: 2017-11-17 - 12:53:07 / Fin: 2017-11-17 - 12:53:07 / ERROR
+#### ERROR al procesar la ref.13420500 - 13420500 (PF)
+Ref: 13420500 / Inicio: 2017-11-17 - 12:53:07 / Fin: 2017-11-17 - 12:53:07 / ERROR
+#### ERROR al procesar la ref.13420600 - 13420600 (PF)
+Ref: 13420600 / Inicio: 2017-11-17 - 12:53:07 / Fin: 2017-11-17 - 12:53:07 / ERROR
+#### ERROR al procesar la ref.13420703 - 13420703 (PF)
+Ref: 13420703 / Inicio: 2017-11-17 - 12:53:07 / Fin: 2017-11-17 - 12:53:07 / ERROR
+#### ERROR al procesar la ref.13420800 - 13420800 (PF)
+Ref: 13420800 / Inicio: 2017-11-17 - 12:53:07 / Fin: 2017-11-17 - 12:53:07 / ERROR
+#### ERROR al procesar la ref.13420900 - 13420900 (PF)
+Ref: 13420900 / Inicio: 2017-11-17 - 12:53:07 / Fin: 2017-11-17 - 12:53:07 / ERROR
+#### ERROR al procesar la ref.13421000 - 13421000 (PF)
+Ref: 13421000 / Inicio: 2017-11-17 - 12:53:07 / Fin: 2017-11-17 - 12:53:07 / ERROR
+#### ERROR al procesar la ref.13421100 - 13421100 (PF)
+Ref: 13421100 / Inicio: 2017-11-17 - 12:53:07 / Fin: 2017-11-17 - 12:53:07 / ERROR
+#### ERROR al procesar la ref.13421300 - 13421300 (PF)
+Ref: 13421300 / Inicio: 2017-11-17 - 12:53:07 / Fin: 2017-11-17 - 12:53:07 / ERROR
+#### ERROR al procesar la ref.13421400 - 13421400 (PF)
+Ref: 13421400 / Inicio: 2017-11-17 - 12:53:07 / Fin: 2017-11-17 - 12:53:07 / ERROR
+#### ERROR al procesar la ref.13421800 - 13421800 (PF)
+Ref: 13421800 / Inicio: 2017-11-17 - 12:53:07 / Fin: 2017-11-17 - 12:53:07 / ERROR
+#### ERROR al procesar la ref.13421900 - 13421900 (PF)
+Ref: 13421900 / Inicio: 2017-11-17 - 12:53:07 / Fin: 2017-11-17 - 12:53:07 / ERROR
+#### ERROR al procesar la ref.13422000 - 13422000 (PF)
+Ref: 13422000 / Inicio: 2017-11-17 - 12:53:07 / Fin: 2017-11-17 - 12:53:07 / ERROR
+#### ERROR al procesar la ref.13422200 - 13422200 (PF)
+Ref: 13422200 / Inicio: 2017-11-17 - 12:53:07 / Fin: 2017-11-17 - 12:53:07 / ERROR
+#### ERROR al procesar la ref.13422603 - 13422603 (PF)
+Ref: 13422603 / Inicio: 2017-11-17 - 12:53:07 / Fin: 2017-11-17 - 12:53:07 / ERROR
+#### ERROR al procesar la ref.13422700 - 13422700 (PF)
+Ref: 13422700 / Inicio: 2017-11-17 - 12:53:07 / Fin: 2017-11-17 - 12:53:07 / ERROR
+#### ERROR al procesar la ref.13422800 - 13422800 (PF)
+Ref: 13422800 / Inicio: 2017-11-17 - 12:53:07 / Fin: 2017-11-17 - 12:53:07 / ERROR
+#### ERROR al procesar la ref.13422900 - 13422900 (PF)
+Ref: 13422900 / Inicio: 2017-11-17 - 12:53:07 / Fin: 2017-11-17 - 12:53:08 / ERROR
+#### ERROR al procesar la ref.13423001 - 13423001 (PF)
+Ref: 13423001 / Inicio: 2017-11-17 - 12:53:08 / Fin: 2017-11-17 - 12:53:08 / ERROR
+#### ERROR al procesar la ref.13423100 - 13423100 (PF)
+Ref: 13423100 / Inicio: 2017-11-17 - 12:53:08 / Fin: 2017-11-17 - 12:53:08 / ERROR
+#### ERROR al procesar la ref.13423300 - 13423300 (PF)
+Ref: 13423300 / Inicio: 2017-11-17 - 12:53:08 / Fin: 2017-11-17 - 12:53:08 / ERROR
+#### ERROR al procesar la ref.13423400 - 13423400 (PF)
+Ref: 13423400 / Inicio: 2017-11-17 - 12:53:08 / Fin: 2017-11-17 - 12:53:08 / ERROR
+#### ERROR al procesar la ref.13423700 - 13423700 (PF)
+Ref: 13423700 / Inicio: 2017-11-17 - 12:53:08 / Fin: 2017-11-17 - 12:53:08 / ERROR
+#### ERROR al procesar la ref.13423800 - 13423800 (PF)
+Ref: 13423800 / Inicio: 2017-11-17 - 12:53:08 / Fin: 2017-11-17 - 12:53:08 / ERROR
+#### ERROR al procesar la ref.13423900 - 13423900 (PF)
+Ref: 13423900 / Inicio: 2017-11-17 - 12:53:08 / Fin: 2017-11-17 - 12:53:08 / ERROR
+#### ERROR al procesar la ref.13424000 - 13424000 (PF)
+Ref: 13424000 / Inicio: 2017-11-17 - 12:53:08 / Fin: 2017-11-17 - 12:53:08 / ERROR
+#### ERROR al procesar la ref.13424200 - 13424200 (PF)
+Ref: 13424200 / Inicio: 2017-11-17 - 12:53:08 / Fin: 2017-11-17 - 12:53:08 / ERROR
+#### ERROR al procesar la ref.13424500 - 13424500 (PF)
+Ref: 13424500 / Inicio: 2017-11-17 - 12:53:08 / Fin: 2017-11-17 - 12:53:08 / ERROR
+#### ERROR al procesar la ref.13424600 - 13424600 (PF)
+Ref: 13424600 / Inicio: 2017-11-17 - 12:53:08 / Fin: 2017-11-17 - 12:53:08 / ERROR
+#### ERROR al procesar la ref.13424700 - 13424700 (PF)
+Ref: 13424700 / Inicio: 2017-11-17 - 12:53:08 / Fin: 2017-11-17 - 12:53:08 / ERROR
+#### ERROR al procesar la ref.13424900 - 13424900 (PF)
+Ref: 13424900 / Inicio: 2017-11-17 - 12:53:08 / Fin: 2017-11-17 - 12:53:08 / ERROR
+#### ERROR al procesar la ref.13425000 - 13425000 (PF)
+Ref: 13425000 / Inicio: 2017-11-17 - 12:53:08 / Fin: 2017-11-17 - 12:53:08 / ERROR
+#### ERROR al procesar la ref.13425200 - 13425200 (PF)
+Ref: 13425200 / Inicio: 2017-11-17 - 12:53:08 / Fin: 2017-11-17 - 12:53:08 / ERROR
+#### ERROR al procesar la ref.13425300 - 13425300 (PF)
+Ref: 13425300 / Inicio: 2017-11-17 - 12:53:08 / Fin: 2017-11-17 - 12:53:08 / ERROR
+#### ERROR al procesar la ref.13425400 - 13425400 (PF)
+Ref: 13425400 / Inicio: 2017-11-17 - 12:53:08 / Fin: 2017-11-17 - 12:53:08 / ERROR
+#### ERROR al procesar la ref.13425500 - 13425500 (PF)
+Ref: 13425500 / Inicio: 2017-11-17 - 12:53:08 / Fin: 2017-11-17 - 12:53:08 / ERROR
+#### ERROR al procesar la ref.13425600 - 13425600 (PF)
+Ref: 13425600 / Inicio: 2017-11-17 - 12:53:08 / Fin: 2017-11-17 - 12:53:08 / ERROR
+#### ERROR al procesar la ref.13425701 - 13425701 (PF)
+Ref: 13425701 / Inicio: 2017-11-17 - 12:53:08 / Fin: 2017-11-17 - 12:53:08 / ERROR
+#### ERROR al procesar la ref.13425900 - 13425900 (PF)
+Ref: 13425900 / Inicio: 2017-11-17 - 12:53:08 / Fin: 2017-11-17 - 12:53:08 / ERROR
+#### ERROR al procesar la ref.13426000 - 13426000 (PF)
+Ref: 13426000 / Inicio: 2017-11-17 - 12:53:08 / Fin: 2017-11-17 - 12:53:08 / ERROR
+#### ERROR al procesar la ref.13426200 - 13426200 (PF)
+Ref: 13426200 / Inicio: 2017-11-17 - 12:53:08 / Fin: 2017-11-17 - 12:53:08 / ERROR
+#### ERROR al procesar la ref.13426300 - 13426300 (PF)
+Ref: 13426300 / Inicio: 2017-11-17 - 12:53:08 / Fin: 2017-11-17 - 12:53:08 / ERROR
+#### ERROR al procesar la ref.18972000 - 18972000 (PF)
+Ref: 18972000 / Inicio: 2017-11-17 - 12:53:08 / Fin: 2017-11-17 - 12:53:09 / ERROR
+#### ERROR al procesar la ref.18973000 - 18973000 (PF)
+Ref: 18973000 / Inicio: 2017-11-17 - 12:53:09 / Fin: 2017-11-17 - 12:53:09 / ERROR
+#### ERROR al procesar la ref.18974000 - 18974000 (PF)
+Ref: 18974000 / Inicio: 2017-11-17 - 12:53:09 / Fin: 2017-11-17 - 12:53:09 / ERROR
+#### ERROR al procesar la ref.18975000 - 18975000 (PF)
+Ref: 18975000 / Inicio: 2017-11-17 - 12:53:09 / Fin: 2017-11-17 - 12:53:09 / ERROR
+#### ERROR al procesar la ref.18976000 - 18976000 (PF)
+Ref: 18976000 / Inicio: 2017-11-17 - 12:53:09 / Fin: 2017-11-17 - 12:53:09 / ERROR
+#### ERROR al procesar la ref.18977000 - 18977000 (PF)
+Ref: 18977000 / Inicio: 2017-11-17 - 12:53:09 / Fin: 2017-11-17 - 12:53:09 / ERROR
+#### ERROR al procesar la ref.18979200 - 18979200 (PF)
+Ref: 18979200 / Inicio: 2017-11-17 - 12:53:09 / Fin: 2017-11-17 - 12:53:09 / ERROR
+#### ERROR al procesar la ref.18979300 - 18979300 (PF)
+Ref: 18979300 / Inicio: 2017-11-17 - 12:53:09 / Fin: 2017-11-17 - 12:53:09 / ERROR
+#### ERROR al procesar la ref.19538001 - 19538001 (PF)
+Ref: 19538001 / Inicio: 2017-11-17 - 12:53:09 / Fin: 2017-11-17 - 12:53:09 / ERROR
+#### ERROR al procesar la ref.19538050 - 19538050 (PF)
+Ref: 19538050 / Inicio: 2017-11-17 - 12:53:09 / Fin: 2017-11-17 - 12:53:09 / ERROR
+#### ERROR al procesar la ref.19538051 - 19538051 (PF)
+Ref: 19538051 / Inicio: 2017-11-17 - 12:53:09 / Fin: 2017-11-17 - 12:53:09 / ERROR
+#### ERROR al procesar la ref.19538305 - 19538305 (PF)
+Ref: 19538305 / Inicio: 2017-11-17 - 12:53:09 / Fin: 2017-11-17 - 12:53:09 / ERROR
+#### ERROR al procesar la ref.19538442 - 19538442 (PF)
+Ref: 19538442 / Inicio: 2017-11-17 - 12:53:09 / Fin: 2017-11-17 - 12:53:09 / ERROR
+#### ERROR al procesar la ref.19538479 - 19538479 (PF)
+Ref: 19538479 / Inicio: 2017-11-17 - 12:53:09 / Fin: 2017-11-17 - 12:53:09 / ERROR
+#### ERROR al procesar la ref.19538507 - 19538507 (PF)
+Ref: 19538507 / Inicio: 2017-11-17 - 12:53:09 / Fin: 2017-11-17 - 12:53:09 / ERROR
+#### ERROR al procesar la ref.19538537 - 19538537 (PF)
+Ref: 19538537 / Inicio: 2017-11-17 - 12:53:09 / Fin: 2017-11-17 - 12:53:09 / ERROR
+#### ERROR al procesar la ref.19538568 - 19538568 (PF)
+Ref: 19538568 / Inicio: 2017-11-17 - 12:53:09 / Fin: 2017-11-17 - 12:53:09 / ERROR
+#### ERROR al procesar la ref.19538569 - 19538569 (PF)
+Ref: 19538569 / Inicio: 2017-11-17 - 12:53:09 / Fin: 2017-11-17 - 12:53:09 / ERROR
+#### ERROR al procesar la ref.19538615 - 19538615 (PF)
+Ref: 19538615 / Inicio: 2017-11-17 - 12:53:09 / Fin: 2017-11-17 - 12:53:09 / ERROR
+#### ERROR al procesar la ref.19538620 - 19538620 (PF)
+Ref: 19538620 / Inicio: 2017-11-17 - 12:53:09 / Fin: 2017-11-17 - 12:53:09 / ERROR
+#### ERROR al procesar la ref.19538670 - 19538670 (PF)
+Ref: 19538670 / Inicio: 2017-11-17 - 12:53:09 / Fin: 2017-11-17 - 12:53:09 / ERROR
+#### ERROR al procesar la ref.19538702 - 19538702 (PF)
+Ref: 19538702 / Inicio: 2017-11-17 - 12:53:09 / Fin: 2017-11-17 - 12:53:09 / ERROR
+#### ERROR al procesar la ref.19538712 - 19538712 (PF)
+Ref: 19538712 / Inicio: 2017-11-17 - 12:53:09 / Fin: 2017-11-17 - 12:53:09 / ERROR
+#### ERROR al procesar la ref.19538731 - 19538731 (PF)
+Ref: 19538731 / Inicio: 2017-11-17 - 12:53:09 / Fin: 2017-11-17 - 12:53:09 / ERROR
+#### ERROR al procesar la ref.19538735 - 19538735 (PF)
+Ref: 19538735 / Inicio: 2017-11-17 - 12:53:09 / Fin: 2017-11-17 - 12:53:09 / ERROR
+#### ERROR al procesar la ref.19538770 - 19538770 (PF)
+Ref: 19538770 / Inicio: 2017-11-17 - 12:53:09 / Fin: 2017-11-17 - 12:53:10 / ERROR
+#### ERROR al procesar la ref.19538804 - 19538804 (PF)
+Ref: 19538804 / Inicio: 2017-11-17 - 12:53:10 / Fin: 2017-11-17 - 12:53:10 / ERROR
+#### ERROR al procesar la ref.19539803 - 19539803 (PF)
+Ref: 19539803 / Inicio: 2017-11-17 - 12:53:10 / Fin: 2017-11-17 - 12:53:10 / ERROR
+#### ERROR al procesar la ref.19539815 - 19539815 (PF)
+Ref: 19539815 / Inicio: 2017-11-17 - 12:53:10 / Fin: 2017-11-17 - 12:53:10 / ERROR
+#### ERROR al procesar la ref.19539819 - 19539819 (PF)
+Ref: 19539819 / Inicio: 2017-11-17 - 12:53:10 / Fin: 2017-11-17 - 12:53:10 / ERROR
+#### ERROR al procesar la ref.19542949 - 19542949 (PF)
+Ref: 19542949 / Inicio: 2017-11-17 - 12:53:10 / Fin: 2017-11-17 - 12:53:10 / ERROR
+#### ERROR al procesar la ref.19542998 - 19542998 (PF)
+Ref: 19542998 / Inicio: 2017-11-17 - 12:53:10 / Fin: 2017-11-17 - 12:53:10 / ERROR
+#### ERROR al procesar la ref.19543102 - 19543102 (PF)
+Ref: 19543102 / Inicio: 2017-11-17 - 12:53:10 / Fin: 2017-11-17 - 12:53:10 / ERROR
+#### ERROR al procesar la ref.19543103 - 19543103 (PF)
+Ref: 19543103 / Inicio: 2017-11-17 - 12:53:10 / Fin: 2017-11-17 - 12:53:10 / ERROR
+#### ERROR al procesar la ref.19543853 - 19543853 (PF)
+Ref: 19543853 / Inicio: 2017-11-17 - 12:53:10 / Fin: 2017-11-17 - 12:53:10 / ERROR
+#### ERROR al procesar la ref.19544167 - 19544167 (PF)
+Ref: 19544167 / Inicio: 2017-11-17 - 12:53:10 / Fin: 2017-11-17 - 12:53:10 / ERROR
+#### ERROR al procesar la ref.19544193 - 19544193 (PF)
+Ref: 19544193 / Inicio: 2017-11-17 - 12:53:10 / Fin: 2017-11-17 - 12:53:10 / ERROR
+#### ERROR al procesar la ref.19544221 - 19544221 (PF)
+Ref: 19544221 / Inicio: 2017-11-17 - 12:53:10 / Fin: 2017-11-17 - 12:53:10 / ERROR
+#### ERROR al procesar la ref.19544299 - 19544299 (PF)
+Ref: 19544299 / Inicio: 2017-11-17 - 12:53:10 / Fin: 2017-11-17 - 12:53:10 / ERROR
+#### ERROR al procesar la ref.19544305 - 19544305 (PF)
+Ref: 19544305 / Inicio: 2017-11-17 - 12:53:10 / Fin: 2017-11-17 - 12:53:10 / ERROR
+#### ERROR al procesar la ref.19544334 - 19544334 (PF)
+Ref: 19544334 / Inicio: 2017-11-17 - 12:53:10 / Fin: 2017-11-17 - 12:53:10 / ERROR
+#### ERROR al procesar la ref.19544405 - 19544405 (PF)
+Ref: 19544405 / Inicio: 2017-11-17 - 12:53:10 / Fin: 2017-11-17 - 12:53:10 / ERROR
+#### ERROR al procesar la ref.19544598 - 19544598 (PF)
+Ref: 19544598 / Inicio: 2017-11-17 - 12:53:10 / Fin: 2017-11-17 - 12:53:10 / ERROR
+#### ERROR al procesar la ref.19544610 - 19544610 (PF)
+Ref: 19544610 / Inicio: 2017-11-17 - 12:53:10 / Fin: 2017-11-17 - 12:53:10 / ERROR
+#### ERROR al procesar la ref.19544617 - 19544617 (PF)
+Ref: 19544617 / Inicio: 2017-11-17 - 12:53:10 / Fin: 2017-11-17 - 12:53:10 / ERROR
+#### ERROR al procesar la ref.19544634 - 19544634 (PF)
+Ref: 19544634 / Inicio: 2017-11-17 - 12:53:10 / Fin: 2017-11-17 - 12:53:10 / ERROR
+#### ERROR al procesar la ref.19544706 - 19544706 (PF)
+Ref: 19544706 / Inicio: 2017-11-17 - 12:53:10 / Fin: 2017-11-17 - 12:53:10 / ERROR
+#### ERROR al procesar la ref.19544790 - 19544790 (PF)
+Ref: 19544790 / Inicio: 2017-11-17 - 12:53:10 / Fin: 2017-11-17 - 12:53:10 / ERROR
+#### ERROR al procesar la ref.19544791 - 19544791 (PF)
+Ref: 19544791 / Inicio: 2017-11-17 - 12:53:10 / Fin: 2017-11-17 - 12:53:10 / ERROR
+#### ERROR al procesar la ref.19544907 - 19544907 (PF)
+Ref: 19544907 / Inicio: 2017-11-17 - 12:53:10 / Fin: 2017-11-17 - 12:53:10 / ERROR
+#### ERROR al procesar la ref.19544922 - 19544922 (PF)
+Ref: 19544922 / Inicio: 2017-11-17 - 12:53:10 / Fin: 2017-11-17 - 12:53:11 / ERROR
+#### ERROR al procesar la ref.19545006 - 19545006 (PF)
+Ref: 19545006 / Inicio: 2017-11-17 - 12:53:11 / Fin: 2017-11-17 - 12:53:11 / ERROR
+#### ERROR al procesar la ref.19545007 - 19545007 (PF)
+Ref: 19545007 / Inicio: 2017-11-17 - 12:53:11 / Fin: 2017-11-17 - 12:53:11 / ERROR
+#### ERROR al procesar la ref.19546409 - 19546409 (PF)
+Ref: 19546409 / Inicio: 2017-11-17 - 12:53:11 / Fin: 2017-11-17 - 12:53:11 / ERROR
+#### ERROR al procesar la ref.19546619 - 19546619 (PF)
+Ref: 19546619 / Inicio: 2017-11-17 - 12:53:11 / Fin: 2017-11-17 - 12:53:11 / ERROR
+#### ERROR al procesar la ref.19547280 - 19547280 (PF)
+Ref: 19547280 / Inicio: 2017-11-17 - 12:53:11 / Fin: 2017-11-17 - 12:53:11 / ERROR
+#### ERROR al procesar la ref.19547451 - 19547451 (PF)
+Ref: 19547451 / Inicio: 2017-11-17 - 12:53:11 / Fin: 2017-11-17 - 12:53:11 / ERROR
+#### ERROR al procesar la ref.19547772 - 19547772 (PF)
+Ref: 19547772 / Inicio: 2017-11-17 - 12:53:11 / Fin: 2017-11-17 - 12:53:11 / ERROR
+#### ERROR al procesar la ref.19547779 - 19547779 (PF)
+Ref: 19547779 / Inicio: 2017-11-17 - 12:53:11 / Fin: 2017-11-17 - 12:53:11 / ERROR
+#### ERROR al procesar la ref.19547887 - 19547887 (PF)
+Ref: 19547887 / Inicio: 2017-11-17 - 12:53:11 / Fin: 2017-11-17 - 12:53:11 / ERROR
+#### ERROR al procesar la ref.19547952 - 19547952 (PF)
+Ref: 19547952 / Inicio: 2017-11-17 - 12:53:11 / Fin: 2017-11-17 - 12:53:11 / ERROR
+#### ERROR al procesar la ref.19548701 - 19548701 (PF)
+Ref: 19548701 / Inicio: 2017-11-17 - 12:53:11 / Fin: 2017-11-17 - 12:53:11 / ERROR
+#### ERROR al procesar la ref.19548851 - 19548851 (PF)
+Ref: 19548851 / Inicio: 2017-11-17 - 12:53:11 / Fin: 2017-11-17 - 12:53:11 / ERROR
+#### ERROR al procesar la ref.19548857 - 19548857 (PF)
+Ref: 19548857 / Inicio: 2017-11-17 - 12:53:11 / Fin: 2017-11-17 - 12:53:11 / ERROR
+#### ERROR al procesar la ref.19549017 - 19549017 (PF)
+Ref: 19549017 / Inicio: 2017-11-17 - 12:53:11 / Fin: 2017-11-17 - 12:53:11 / ERROR
+#### ERROR al procesar la ref.19549035 - 19549035 (PF)
+Ref: 19549035 / Inicio: 2017-11-17 - 12:53:11 / Fin: 2017-11-17 - 12:53:11 / ERROR
+#### ERROR al procesar la ref.19549172 - 19549172 (PF)
+Ref: 19549172 / Inicio: 2017-11-17 - 12:53:11 / Fin: 2017-11-17 - 12:53:11 / ERROR
+#### ERROR al procesar la ref.19549177 - 19549177 (PF)
+Ref: 19549177 / Inicio: 2017-11-17 - 12:53:11 / Fin: 2017-11-17 - 12:53:11 / ERROR
+#### ERROR al procesar la ref.19549302 - 19549302 (PF)
+Ref: 19549302 / Inicio: 2017-11-17 - 12:53:11 / Fin: 2017-11-17 - 12:53:11 / ERROR
+#### ERROR al procesar la ref.19549317 - 19549317 (PF)
+Ref: 19549317 / Inicio: 2017-11-17 - 12:53:11 / Fin: 2017-11-17 - 12:53:11 / ERROR
+#### ERROR al procesar la ref.19549318 - 19549318 (PF)
+Ref: 19549318 / Inicio: 2017-11-17 - 12:53:11 / Fin: 2017-11-17 - 12:53:11 / ERROR
+#### ERROR al procesar la ref.19549345 - 19549345 (PF)
+Ref: 19549345 / Inicio: 2017-11-17 - 12:53:11 / Fin: 2017-11-17 - 12:53:11 / ERROR
+#### ERROR al procesar la ref.19549360 - 19549360 (PF)
+Ref: 19549360 / Inicio: 2017-11-17 - 12:53:11 / Fin: 2017-11-17 - 12:53:11 / ERROR
+#### ERROR al procesar la ref.19549391 - 19549391 (PF)
+Ref: 19549391 / Inicio: 2017-11-17 - 12:53:11 / Fin: 2017-11-17 - 12:53:11 / ERROR
+#### ERROR al procesar la ref.19549403 - 19549403 (PF)
+Ref: 19549403 / Inicio: 2017-11-17 - 12:53:11 / Fin: 2017-11-17 - 12:53:11 / ERROR
+#### ERROR al procesar la ref.19549540 - 19549540 (PF)
+Ref: 19549540 / Inicio: 2017-11-17 - 12:53:11 / Fin: 2017-11-17 - 12:53:11 / ERROR
+#### ERROR al procesar la ref.19549655 - 19549655 (PF)
+Ref: 19549655 / Inicio: 2017-11-17 - 12:53:11 / Fin: 2017-11-17 - 12:53:12 / ERROR
+#### ERROR al procesar la ref.19549669 - 19549669 (PF)
+Ref: 19549669 / Inicio: 2017-11-17 - 12:53:12 / Fin: 2017-11-17 - 12:53:12 / ERROR
+#### ERROR al procesar la ref.19549923 - 19549923 (PF)
+Ref: 19549923 / Inicio: 2017-11-17 - 12:53:12 / Fin: 2017-11-17 - 12:53:12 / ERROR
+#### ERROR al procesar la ref.19549987 - 19549987 (PF)
+Ref: 19549987 / Inicio: 2017-11-17 - 12:53:12 / Fin: 2017-11-17 - 12:53:12 / ERROR
+#### ERROR al procesar la ref.19662070 - 19662070 (PF)
+Ref: 19662070 / Inicio: 2017-11-17 - 12:53:12 / Fin: 2017-11-17 - 12:53:12 / ERROR
+#### ERROR al procesar la ref.19665096 - 19665096 (PF)
+Ref: 19665096 / Inicio: 2017-11-17 - 12:53:12 / Fin: 2017-11-17 - 12:53:12 / ERROR
+#### ERROR al procesar la ref.19665162 - 19665162 (PF)
+Ref: 19665162 / Inicio: 2017-11-17 - 12:53:12 / Fin: 2017-11-17 - 12:53:12 / ERROR
+#### ERROR al procesar la ref.19665289 - 19665289 (PF)
+Ref: 19665289 / Inicio: 2017-11-17 - 12:53:12 / Fin: 2017-11-17 - 12:53:12 / ERROR
+#### ERROR al procesar la ref.19665589 - 19665589 (PF)
+Ref: 19665589 / Inicio: 2017-11-17 - 12:53:12 / Fin: 2017-11-17 - 12:53:12 / ERROR
+#### ERROR al procesar la ref.19668669 - 19668669 (PF)
+Ref: 19668669 / Inicio: 2017-11-17 - 12:53:12 / Fin: 2017-11-17 - 12:53:12 / ERROR
+#### ERROR al procesar la ref.19686510 - 19686510 (PF)
+Ref: 19686510 / Inicio: 2017-11-17 - 12:53:12 / Fin: 2017-11-17 - 12:53:12 / ERROR
+#### ERROR al procesar la ref.19686569 - 19686569 (PF)
+Ref: 19686569 / Inicio: 2017-11-17 - 12:53:12 / Fin: 2017-11-17 - 12:53:12 / ERROR
+#### ERROR al procesar la ref.19689076 - 19689076 (PF)
+Ref: 19689076 / Inicio: 2017-11-17 - 12:53:12 / Fin: 2017-11-17 - 12:53:12 / ERROR
+#### ERROR al procesar la ref.19702379 - 19702379 (PF)
+Ref: 19702379 / Inicio: 2017-11-17 - 12:53:12 / Fin: 2017-11-17 - 12:53:12 / ERROR
+#### ERROR al procesar la ref.19733618 - 19733618 (PF)
+Ref: 19733618 / Inicio: 2017-11-17 - 12:53:12 / Fin: 2017-11-17 - 12:53:12 / ERROR
+#### ERROR al procesar la ref.19733690 - 19733690 (PF)
+Ref: 19733690 / Inicio: 2017-11-17 - 12:53:12 / Fin: 2017-11-17 - 12:53:12 / ERROR
+#### ERROR al procesar la ref.19980202 - 19980202 (PF)
+Ref: 19980202 / Inicio: 2017-11-17 - 12:53:12 / Fin: 2017-11-17 - 12:53:12 / ERROR
+#### ERROR al procesar la ref.19982120 - 19982120 (PF)
+Ref: 19982120 / Inicio: 2017-11-17 - 12:53:12 / Fin: 2017-11-17 - 12:53:12 / ERROR
+#### ERROR al procesar la ref.19982122 - 19982122 (PF)
+Ref: 19982122 / Inicio: 2017-11-17 - 12:53:12 / Fin: 2017-11-17 - 12:53:12 / ERROR
+#### ERROR al procesar la ref.19982124 - 19982124 (PF)
+Ref: 19982124 / Inicio: 2017-11-17 - 12:53:12 / Fin: 2017-11-17 - 12:53:12 / ERROR
+#### ERROR al procesar la ref.19982150 - 19982150 (PF)
+Ref: 19982150 / Inicio: 2017-11-17 - 12:53:12 / Fin: 2017-11-17 - 12:53:12 / ERROR
+#### ERROR al procesar la ref.19982156 - 19982156 (PF)
+Ref: 19982156 / Inicio: 2017-11-17 - 12:53:12 / Fin: 2017-11-17 - 12:53:12 / ERROR
+#### ERROR al procesar la ref.19984980 - 19984980 (PF)
+Ref: 19984980 / Inicio: 2017-11-17 - 12:53:12 / Fin: 2017-11-17 - 12:53:12 / ERROR
+#### ERROR al procesar la ref.19984992 - 19984992 (PF)
+Ref: 19984992 / Inicio: 2017-11-17 - 12:53:12 / Fin: 2017-11-17 - 12:53:12 / ERROR
+#### ERROR al procesar la ref.19985246 - 19985246 (PF)
+Ref: 19985246 / Inicio: 2017-11-17 - 12:53:12 / Fin: 2017-11-17 - 12:53:12 / ERROR
+#### ERROR al procesar la ref.1PA00100 - 1PA00100 (PF)
+Ref: 1PA00100 / Inicio: 2017-11-17 - 12:53:12 / Fin: 2017-11-17 - 12:53:13 / ERROR
+#### ERROR al procesar la ref.1PA00300 - 1PA00300 (PF)
+Ref: 1PA00300 / Inicio: 2017-11-17 - 12:53:13 / Fin: 2017-11-17 - 12:53:13 / ERROR
+#### ERROR al procesar la ref.1PA00400 - 1PA00400 (PF)
+Ref: 1PA00400 / Inicio: 2017-11-17 - 12:53:13 / Fin: 2017-11-17 - 12:53:13 / ERROR
+#### ERROR al procesar la ref.1PA00500 - 1PA00500 (PF)
+Ref: 1PA00500 / Inicio: 2017-11-17 - 12:53:13 / Fin: 2017-11-17 - 12:53:13 / ERROR
+#### ERROR al procesar la ref.1PA00600 - 1PA00600 (PF)
+Ref: 1PA00600 / Inicio: 2017-11-17 - 12:53:13 / Fin: 2017-11-17 - 12:53:13 / ERROR
+#### ERROR al procesar la ref.1PA00700 - 1PA00700 (PF)
+Ref: 1PA00700 / Inicio: 2017-11-17 - 12:53:13 / Fin: 2017-11-17 - 12:53:13 / ERROR
+#### ERROR al procesar la ref.1PA00800 - 1PA00800 (PF)
+Ref: 1PA00800 / Inicio: 2017-11-17 - 12:53:13 / Fin: 2017-11-17 - 12:53:13 / ERROR
+#### ERROR al procesar la ref.1PA00900 - 1PA00900 (PF)
+Ref: 1PA00900 / Inicio: 2017-11-17 - 12:53:13 / Fin: 2017-11-17 - 12:53:13 / ERROR
+#### ERROR al procesar la ref.1PA01000 - 1PA01000 (PF)
+Ref: 1PA01000 / Inicio: 2017-11-17 - 12:53:13 / Fin: 2017-11-17 - 12:53:13 / ERROR
+#### ERROR al procesar la ref.1PA01100 - 1PA01100 (PF)
+Ref: 1PA01100 / Inicio: 2017-11-17 - 12:53:13 / Fin: 2017-11-17 - 12:53:13 / ERROR
+#### ERROR al procesar la ref.1PA10100 - 1PA10100 (PF)
+Ref: 1PA10100 / Inicio: 2017-11-17 - 12:53:13 / Fin: 2017-11-17 - 12:53:13 / ERROR
+#### ERROR al procesar la ref.1PA10200 - 1PA10200 (PF)
+Ref: 1PA10200 / Inicio: 2017-11-17 - 12:53:13 / Fin: 2017-11-17 - 12:53:13 / ERROR
+#### ERROR al procesar la ref.1PA10300 - 1PA10300 (PF)
+Ref: 1PA10300 / Inicio: 2017-11-17 - 12:53:13 / Fin: 2017-11-17 - 12:53:13 / ERROR
+#### ERROR al procesar la ref.1PA20100 - 1PA20100 (PF)
+Ref: 1PA20100 / Inicio: 2017-11-17 - 12:53:13 / Fin: 2017-11-17 - 12:53:13 / ERROR
+#### ERROR al procesar la ref.1PA20200 - 1PA20200 (PF)
+Ref: 1PA20200 / Inicio: 2017-11-17 - 12:53:13 / Fin: 2017-11-17 - 12:53:13 / ERROR
+#### ERROR al procesar la ref.1PA20300 - 1PA20300 (PF)
+Ref: 1PA20300 / Inicio: 2017-11-17 - 12:53:13 / Fin: 2017-11-17 - 12:53:13 / ERROR
+#### ERROR al procesar la ref.1PA20400 - 1PA20400 (PF)
+Ref: 1PA20400 / Inicio: 2017-11-17 - 12:53:13 / Fin: 2017-11-17 - 12:53:13 / ERROR
+#### ERROR al procesar la ref.1PA20500 - 1PA20500 (PF)
+Ref: 1PA20500 / Inicio: 2017-11-17 - 12:53:13 / Fin: 2017-11-17 - 12:53:13 / ERROR
+#### ERROR al procesar la ref.1PA30100 - 1PA30100 (PF)
+Ref: 1PA30100 / Inicio: 2017-11-17 - 12:53:13 / Fin: 2017-11-17 - 12:53:13 / ERROR
+#### ERROR al procesar la ref.1PA30200 - 1PA30200 (PF)
+Ref: 1PA30200 / Inicio: 2017-11-17 - 12:53:13 / Fin: 2017-11-17 - 12:53:13 / ERROR
+#### ERROR al procesar la ref.1PA40100 - 1PA40100 (PF)
+Ref: 1PA40100 / Inicio: 2017-11-17 - 12:53:13 / Fin: 2017-11-17 - 12:53:13 / ERROR
+#### ERROR al procesar la ref.1PA40200 - 1PA40200 (PF)
+Ref: 1PA40200 / Inicio: 2017-11-17 - 12:53:13 / Fin: 2017-11-17 - 12:53:13 / ERROR
+#### ERROR al procesar la ref.1PA90100 - 1PA90100 (PF)
+Ref: 1PA90100 / Inicio: 2017-11-17 - 12:53:13 / Fin: 2017-11-17 - 12:53:13 / ERROR
+#### ERROR al procesar la ref.1PC00101 - 1PC00101 (PF)
+Ref: 1PC00101 / Inicio: 2017-11-17 - 12:53:13 / Fin: 2017-11-17 - 12:53:13 / ERROR
+#### ERROR al procesar la ref.1PC00201 - 1PC00201 (PF)
+Ref: 1PC00201 / Inicio: 2017-11-17 - 12:53:13 / Fin: 2017-11-17 - 12:53:13 / ERROR
+#### ERROR al procesar la ref.1PC00301 - 1PC00301 (PF)
+Ref: 1PC00301 / Inicio: 2017-11-17 - 12:53:13 / Fin: 2017-11-17 - 12:53:14 / ERROR
+#### ERROR al procesar la ref.1PC00401 - 1PC00401 (PF)
+Ref: 1PC00401 / Inicio: 2017-11-17 - 12:53:14 / Fin: 2017-11-17 - 12:53:14 / ERROR
+#### ERROR al procesar la ref.1PC00501 - 1PC00501 (PF)
+Ref: 1PC00501 / Inicio: 2017-11-17 - 12:53:14 / Fin: 2017-11-17 - 12:53:14 / ERROR
+#### ERROR al procesar la ref.1PC00601 - 1PC00601 (PF)
+Ref: 1PC00601 / Inicio: 2017-11-17 - 12:53:14 / Fin: 2017-11-17 - 12:53:14 / ERROR
+#### ERROR al procesar la ref.1PC00701 - 1PC00701 (PF)
+Ref: 1PC00701 / Inicio: 2017-11-17 - 12:53:14 / Fin: 2017-11-17 - 12:53:14 / ERROR
+#### ERROR al procesar la ref.1PC00801 - 1PC00801 (PF)
+Ref: 1PC00801 / Inicio: 2017-11-17 - 12:53:14 / Fin: 2017-11-17 - 12:53:14 / ERROR
+#### ERROR al procesar la ref.1PC00901 - 1PC00901 (PF)
+Ref: 1PC00901 / Inicio: 2017-11-17 - 12:53:14 / Fin: 2017-11-17 - 12:53:14 / ERROR
+#### ERROR al procesar la ref.1PC01001 - 1PC01001 (PF)
+Ref: 1PC01001 / Inicio: 2017-11-17 - 12:53:14 / Fin: 2017-11-17 - 12:53:14 / ERROR
+#### ERROR al procesar la ref.1PC01101 - 1PC01101 (PF)
+Ref: 1PC01101 / Inicio: 2017-11-17 - 12:53:14 / Fin: 2017-11-17 - 12:53:14 / ERROR
+#### ERROR al procesar la ref.1PC01201 - 1PC01201 (PF)
+Ref: 1PC01201 / Inicio: 2017-11-17 - 12:53:14 / Fin: 2017-11-17 - 12:53:14 / ERROR
+#### ERROR al procesar la ref.1PC01301 - 1PC01301 (PF)
+Ref: 1PC01301 / Inicio: 2017-11-17 - 12:53:14 / Fin: 2017-11-17 - 12:53:14 / ERROR
+#### ERROR al procesar la ref.1PC01401 - 1PC01401 (PF)
+Ref: 1PC01401 / Inicio: 2017-11-17 - 12:53:14 / Fin: 2017-11-17 - 12:53:14 / ERROR
+#### ERROR al procesar la ref.1PC01501 - 1PC01501 (PF)
+Ref: 1PC01501 / Inicio: 2017-11-17 - 12:53:14 / Fin: 2017-11-17 - 12:53:14 / ERROR
+#### ERROR al procesar la ref.1PC01601 - 1PC01601 (PF)
+Ref: 1PC01601 / Inicio: 2017-11-17 - 12:53:14 / Fin: 2017-11-17 - 12:53:14 / ERROR
+#### ERROR al procesar la ref.1PC01701 - 1PC01701 (PF)
+Ref: 1PC01701 / Inicio: 2017-11-17 - 12:53:14 / Fin: 2017-11-17 - 12:53:14 / ERROR
+#### ERROR al procesar la ref.1PC01801 - 1PC01801 (PF)
+Ref: 1PC01801 / Inicio: 2017-11-17 - 12:53:14 / Fin: 2017-11-17 - 12:53:14 / ERROR
+#### ERROR al procesar la ref.1PC01901 - 1PC01901 (PF)
+Ref: 1PC01901 / Inicio: 2017-11-17 - 12:53:14 / Fin: 2017-11-17 - 12:53:14 / ERROR
+#### ERROR al procesar la ref.1PC02001 - 1PC02001 (PF)
+Ref: 1PC02001 / Inicio: 2017-11-17 - 12:53:14 / Fin: 2017-11-17 - 12:53:14 / ERROR
+#### ERROR al procesar la ref.1PC02101 - 1PC02101 (PF)
+Ref: 1PC02101 / Inicio: 2017-11-17 - 12:53:14 / Fin: 2017-11-17 - 12:53:14 / ERROR
+#### ERROR al procesar la ref.1PC02201 - 1PC02201 (PF)
+Ref: 1PC02201 / Inicio: 2017-11-17 - 12:53:14 / Fin: 2017-11-17 - 12:53:14 / ERROR
+#### ERROR al procesar la ref.1PC02301 - 1PC02301 (PF)
+Ref: 1PC02301 / Inicio: 2017-11-17 - 12:53:14 / Fin: 2017-11-17 - 12:53:14 / ERROR
+#### ERROR al procesar la ref.1PC02401 - 1PC02401 (PF)
+Ref: 1PC02401 / Inicio: 2017-11-17 - 12:53:14 / Fin: 2017-11-17 - 12:53:14 / ERROR
+#### ERROR al procesar la ref.1PC02501 - 1PC02501 (PF)
+Ref: 1PC02501 / Inicio: 2017-11-17 - 12:53:14 / Fin: 2017-11-17 - 12:53:14 / ERROR
+#### ERROR al procesar la ref.1PC02601 - 1PC02601 (PF)
+Ref: 1PC02601 / Inicio: 2017-11-17 - 12:53:14 / Fin: 2017-11-17 - 12:53:14 / ERROR
+#### ERROR al procesar la ref.1PC02701 - 1PC02701 (PF)
+Ref: 1PC02701 / Inicio: 2017-11-17 - 12:53:14 / Fin: 2017-11-17 - 12:53:14 / ERROR
+#### ERROR al procesar la ref.1PC02801 - 1PC02801 (PF)
+Ref: 1PC02801 / Inicio: 2017-11-17 - 12:53:14 / Fin: 2017-11-17 - 12:53:15 / ERROR
+#### ERROR al procesar la ref.1PC02901 - 1PC02901 (PF)
+Ref: 1PC02901 / Inicio: 2017-11-17 - 12:53:15 / Fin: 2017-11-17 - 12:53:15 / ERROR
+#### ERROR al procesar la ref.1PC03001 - 1PC03001 (PF)
+Ref: 1PC03001 / Inicio: 2017-11-17 - 12:53:15 / Fin: 2017-11-17 - 12:53:15 / ERROR
+#### ERROR al procesar la ref.1PC03101 - 1PC03101 (PF)
+Ref: 1PC03101 / Inicio: 2017-11-17 - 12:53:15 / Fin: 2017-11-17 - 12:53:15 / ERROR
+#### ERROR al procesar la ref.1PC03201 - 1PC03201 (PF)
+Ref: 1PC03201 / Inicio: 2017-11-17 - 12:53:15 / Fin: 2017-11-17 - 12:53:15 / ERROR
+#### ERROR al procesar la ref.1PC03301 - 1PC03301 (PF)
+Ref: 1PC03301 / Inicio: 2017-11-17 - 12:53:15 / Fin: 2017-11-17 - 12:53:15 / ERROR
+#### ERROR al procesar la ref.1PC03401 - 1PC03401 (PF)
+Ref: 1PC03401 / Inicio: 2017-11-17 - 12:53:15 / Fin: 2017-11-17 - 12:53:15 / ERROR
+#### ERROR al procesar la ref.1PC03501 - 1PC03501 (PF)
+Ref: 1PC03501 / Inicio: 2017-11-17 - 12:53:15 / Fin: 2017-11-17 - 12:53:15 / ERROR
+
+***************************************************************************
+CONSULTA DE STOCK DE TODOS LOS ARTÍCULOS DE PF:
+Proceso finalizado el 2017-11-17, a las 12:53:15

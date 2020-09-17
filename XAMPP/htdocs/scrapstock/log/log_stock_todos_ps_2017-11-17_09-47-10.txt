@@ -1,0 +1,25 @@
+CONSULTA DE STOCK DE TODOS LOS ARTÍCULOS DE PS:
+Proceso iniciado el 2017-11-17, a las 09:47:10
+***************************************************************************
+
+Ref: 98006 / Inicio: 2017-11-17 - 09:47:10 / Fin: 2017-11-17 - 09:47:15 / OK
+Ref: 98012 / Inicio: 2017-11-17 - 09:47:15 / Fin: 2017-11-17 - 09:47:18 / OK
+Ref: 98023 / Inicio: 2017-11-17 - 09:47:18 / Fin: 2017-11-17 - 09:47:22 / OK
+Ref: 98031 / Inicio: 2017-11-17 - 09:47:22 / Fin: 2017-11-17 - 09:47:26 / OK
+Ref: 98050 / Inicio: 2017-11-17 - 09:47:26 / Fin: 2017-11-17 - 09:47:30 / OK
+Ref: 98057 / Inicio: 2017-11-17 - 09:47:30 / Fin: 2017-11-17 - 09:47:33 / OK
+
+***************************************************************************
+CONSULTA DE STOCK DE TODOS LOS ARTÍCULOS DE PS:
+Proceso finalizado el 2017-11-17, a las 09:47:33
+
+CONSULTA DE STOCK DE TODOS LOS ARTÍCULOS DE PS:
+Referencias de las que no se ha podido obtener stock de competidores por Errores de Proceso
+Resultados del Segundo Intento
+Proceso iniciado el 2017-11-17, a las 09:47:33
+***************************************************************************
+
+
+***************************************************************************
+CONSULTA DE STOCK DE TODOS LOS ARTÍCULOS DE PS:
+Proceso finalizado el 2017-11-17, a las 09:47:33
